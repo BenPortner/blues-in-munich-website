@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T21:38:05+00:00",
+  "generated_at": "2026-10-16T22:30:40+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -1500,8 +1500,8 @@
     {
       "title": "Inninger Bluestage 2026",
       "type": "concert",
-      "start": "2026-10-16T19:30",
-      "end": "2026-10-16T00:00",
+      "start": "2026-10-17T19:30",
+      "end": "2026-10-17T00:00",
       "url": "https://www.in-muenchen.de/events/inninger-bluestage-2026.html",
       "venue": "Groundlift Ammersee Live Studios",
       "address": "Landsberger Straße 57, 82266 Stegen/Inning am Ammersee",
@@ -1515,7 +1515,7 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "id": "d7a2f3b761a9"
+      "id": "3c8ff57fe429"
     },
     {
       "title": "Inninger Bluestage 2026: Chris Kramer & Beat Box’n‘ Blues + Al Jones Band",
@@ -3059,7 +3059,7 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 61,
+      "found": 60,
       "kept": 1
     },
     {
@@ -3077,7 +3077,7 @@
       "url": "https://www.swinginmunich.de/en",
       "kind": "aggregator",
       "status": "ok",
-      "found": 43,
+      "found": 42,
       "kept": 2
     },
     {
@@ -3094,8 +3094,8 @@
       "name": "Ticketmaster (genre Blues)",
       "url": "https://www.ticketmaster.de/",
       "kind": "aggregator",
-      "status": "ok",
-      "found": 0,
+      "status": "skipped",
+      "error": "no API key set",
       "kept": 0
     },
     {

@@ -1,4 +1,4 @@
-# Blues in München
+# Blues in Munich
 
 A static site listing **blues events in Munich**: blues dance classes, workshops and socials, plus live blues concerts and sessions. A GitHub Actions job scrapes the sources every morning, commits `data/events.json` and redeploys the site to GitHub Pages.
 

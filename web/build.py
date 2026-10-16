@@ -179,9 +179,9 @@ def _ical_dt(iso: str):
 
 def build_ics(data: dict) -> bytes:
     cal = Calendar()
-    cal.add("prodid", "-//Blues in München//events//EN")
+    cal.add("prodid", "-//Blues in Munich//events//EN")
     cal.add("version", "2.0")
-    cal.add("x-wr-calname", "Blues in München")
+    cal.add("x-wr-calname", "Blues in Munich")
     cal.add("x-wr-timezone", "Europe/Berlin")
     for raw in data["events"]:
         e = Event.from_dict(raw)

@@ -1,4 +1,4 @@
-# Scrape targets for Blues in München.
+# Scrape targets for Blues in Munich.
 #
 # To add a source, append an entry. Fields:
 #   id            unique slug (used in event ids and logs)

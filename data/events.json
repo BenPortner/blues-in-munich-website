@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T22:58:37+00:00",
+  "generated_at": "2026-10-16T23:42:32+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -1590,7 +1590,7 @@
       "id": "3c8ff57fe429"
     },
     {
-      "title": "Inninger Bluestage 2026: Chris Kramer & Beat Box’n‘ Blues + Al Jones Band",
+      "title": "Inninger Bluestage 2026: Chris Kramer & Beat Box'n' Blues + Al Jones Band",
       "type": "concert",
       "start": "2026-10-17T19:30",
       "end": "2026-10-17T23:00",
@@ -1649,7 +1649,7 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": "Henrik Freischlader",
+      "known_artist": null,
       "id": "d3f28b38d0c8"
     },
     {
@@ -2124,7 +2124,7 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": "The Temperance Movement",
+      "known_artist": null,
       "id": "714b17e73942"
     },
     {
@@ -2145,7 +2145,7 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": "Eric Bibb",
+      "known_artist": null,
       "id": "9bd3abe604be"
     },
     {
@@ -2277,7 +2277,7 @@
       "id": "bfec1062fced"
     },
     {
-      "title": "Bin I Kini?! – Der Prinzregenten-Blues",
+      "title": "Bin I Kini?! - Der Prinzregenten-Blues",
       "type": "concert",
       "start": "2026-11-17T20:00",
       "end": null,
@@ -2529,7 +2529,7 @@
       "id": "127efe9843d6"
     },
     {
-      "title": "Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich",
+      "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
       "type": "concert",
       "start": "2026-12-01T20:00",
       "end": null,
@@ -2962,7 +2962,7 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": "Graveyard",
+      "known_artist": null,
       "id": "8b0fe5e4c983"
     },
     {
@@ -2983,7 +2983,7 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": "Bernard Allison",
+      "known_artist": null,
       "id": "c780e652c65f"
     },
     {
@@ -3004,7 +3004,7 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": "Ash Grunwald",
+      "known_artist": null,
       "id": "09c6aca9c076"
     },
     {
@@ -3088,7 +3088,7 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": "Joe Bonamassa",
+      "known_artist": null,
       "id": "3ede1066ee72"
     },
     {

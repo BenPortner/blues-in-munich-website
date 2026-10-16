@@ -48,6 +48,10 @@ To add a one-off event (a festival or an exchange), add it to `manual_events.yam
 
 Each source runs in isolation. If a site is down, or its page suddenly yields no events at all (a layout change), the scraper keeps that source's events from the previous run and marks the source "update failed" in the site footer. Search APIs (Ticketmaster) are the exception: zero results there just means nothing is on, so the source still counts as ok. A source whose API key is missing is skipped.
 
+### Highlights
+
+Concerts and festivals in big venues get a ★ Highlight badge and their own filter chip. Venue sizes live in [`venues.yaml`](venues.yaml): rough capacities and the cutoff (`highlight_min_capacity`, currently 400). Venues that aren't listed never count as highlights. `python -m web.build` prints the concert venues it couldn't find, so you can add them to the list.
+
 ## Local development
 
 Targets Python 3.15 (the version CI uses).

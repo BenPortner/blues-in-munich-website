@@ -1,0 +1,85 @@
+# Rough venue capacities, used to mark big concerts as highlights.
+#
+# A concert or festival is a highlight when its venue holds at least
+# `highlight_min_capacity` people. Venues not listed here never count as highlights;
+# `python -m web.build` prints the concert venues it couldn't find, so you can add them.
+#
+# Matching ignores case, accents and punctuation, and looks for `name` (or any `match`
+# alias) as whole words inside the event's venue. The longest match wins, so
+# "Schlachthof – Ox" picks the Ox entry over plain "Schlachthof".
+#
+# Numbers are approximate. They only need to land on the right side of the threshold.
+
+highlight_min_capacity: 400
+
+venues:
+  # --- big halls and arenas -------------------------------------------------
+  - name: Tollwood Sommerfestival      # listings name the festival, concerts are in the Musik-Arena tent
+    match: [Musik-Arena]
+    capacity: 5000
+  - name: Circus Krone
+    capacity: 3000
+  - name: Backstage Werk
+    capacity: 1500
+  - name: Muffathalle
+    capacity: 1400
+  - name: Prinzregententheater
+    capacity: 1000
+  - name: Backstage Halle
+    capacity: 600
+  - name: Stadtsaal Fürstenfeld
+    match: [Fürstenfeld Stadtsaal]
+    capacity: 650
+  - name: Strom
+    capacity: 500
+  - name: Schlachthof                  # main hall; sources say 350–600 depending on seating
+    match: [Schlachthof Saal]
+    capacity: 500
+  - name: Ampere                       # Muffatwerk's small hall
+    capacity: 400
+
+  # --- clubs, bars and small stages ---------------------------------------
+  - name: Backstage Club
+    capacity: 350
+  - name: Veranstaltungsforum Fürstenfeld   # without a hall: assume the Kleiner Saal
+    capacity: 270
+  - name: Jazzclub Unterfahrt
+    match: [Unterfahrt]
+    capacity: 250
+  - name: Import Export
+    capacity: 250
+  - name: Milla
+    capacity: 250
+  - name: Bayerischer Hof Night Club
+    capacity: 200
+  - name: Drehleier
+    capacity: 150
+  - name: Kulturzentrum Giesinger Bahnhof
+    match: [Giesinger Bahnhof]
+    capacity: 150
+  - name: Iberl Bühne
+    capacity: 150
+  - name: Glockenbachwerkstatt
+    capacity: 100
+  - name: Vereinsheim
+    capacity: 100
+  - name: Theater Leo17
+    capacity: 100
+  - name: Wirtshaus Tannengarten
+    capacity: 100
+  - name: Fraunhofer Theater
+    capacity: 100
+  - name: Galli Theater
+    capacity: 80
+  - name: Hofspielhaus
+    capacity: 80
+  - name: Pasinger Fabrik Kleine Bühne
+    capacity: 80
+  - name: Rheinpfalz Schwabing
+    capacity: 60
+  - name: Barschwein
+    capacity: 50
+  - name: Schlachthof Ox
+    capacity: 50
+  - name: ars musica
+    capacity: 50

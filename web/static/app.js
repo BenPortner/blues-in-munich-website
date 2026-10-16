@@ -1,5 +1,6 @@
 // Type filter chips and the List / Calendar switch. The page works without JS as a plain list.
-// URL hash keeps the state: "#concert", "#calendar", "#calendar/concert".
+// URL hash keeps the state: "#concert", "#calendar", "#calendar/concert". "highlight" is a filter too:
+// concerts in big venues.
 (function () {
   var chips = document.querySelectorAll(".chip[data-filter]");
   if (!chips.length) return;
@@ -28,9 +29,14 @@
     history.replaceState(null, "", parts.length ? "#" + parts.join("/") : location.pathname);
   }
 
+  function shown(type, highlight) {
+    if (state.type === "highlight") return highlight;
+    return state.type === "all" || type === state.type;
+  }
+
   function applyList() {
     document.querySelectorAll(".card").forEach(function (card) {
-      card.hidden = state.type !== "all" && card.dataset.type !== state.type;
+      card.hidden = !shown(card.dataset.type, "highlight" in card.dataset);
     });
     // Hide days and months that have nothing left to show
     document.querySelectorAll(".day").forEach(function (day) {
@@ -136,7 +142,7 @@
       navLinkDayClick: function (date) { calendar.changeView(weekView, date); },
       events: function (info, success) {
         success(all.filter(function (e) {
-          return state.type === "all" || e.extendedProps.type === state.type;
+          return shown(e.extendedProps.type, !!e.extendedProps.highlight);
         }).map(function (e) {
           var color = typeColor(e.extendedProps.type);
           return Object.assign({}, e, { backgroundColor: color, borderColor: color });

@@ -27,6 +27,7 @@
     {% if total %}
     <nav class="filters" aria-label="Filter by type">
       <button type="button" class="chip" data-filter="all" aria-pressed="true">All <span>{{ total }}</span></button>
+      {% if highlights %}<button type="button" class="chip" data-filter="highlight" aria-pressed="false">★ Highlights <span>{{ highlights }}</span></button>{% endif %}
       {% for type, label, count in filters %}
       <button type="button" class="chip" data-filter="{{ type }}" aria-pressed="false">{{ label }} <span>{{ count }}</span></button>
       {% endfor %}
@@ -45,9 +46,10 @@
         <h3 class="day-label"><time datetime="{{ day.day.isoformat() }}">{{ day.label }}</time>{% if day.is_today %} <em>today</em>{% endif %}</h3>
         <div class="cards">
           {% for c in day.cards %}{% set e = c.e %}
-          <article class="card type-{{ e.type }}" data-type="{{ e.type }}">
+          <article class="card type-{{ e.type }}{% if c.highlight %} highlight{% endif %}" data-type="{{ e.type }}"{% if c.highlight %} data-highlight{% endif %}>
             <p class="meta">
               <span class="badge">{{ c.label }}</span>
+              {% if c.highlight %}<span class="star" title="Big venue: about {{ c.capacity }} people">★ Highlight</span>{% endif %}
               {% if c.span %}<span>{{ c.span }}</span>{% endif %}
               {% if c.time %}<span>{{ c.time }}</span>{% endif %}
             </p>

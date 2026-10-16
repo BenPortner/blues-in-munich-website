@@ -242,6 +242,8 @@ h1 {
   letter-spacing: .08em;
   text-transform: uppercase;
 }
+.star { color: color-mix(in srgb, var(--brass) 80%, var(--ink)); font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
+.card.highlight { border-color: color-mix(in srgb, var(--brass) 45%, var(--line)); border-left-color: var(--type); }
 .card h4 { margin: 0 0 4px; font-size: 18px; line-height: 1.3; overflow-wrap: anywhere; }
 .card h4 a { color: var(--ink); text-decoration: none; }
 .card h4 a:hover { color: var(--accent); text-decoration: underline; }

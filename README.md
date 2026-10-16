@@ -91,7 +91,7 @@ To include Ticketmaster or Last.fm locally, copy `.env.example` to `.env` and fi
 
 The site is served from the `gh-pages` branch, which holds only the built `dist/`.
 
-**Remote (automatic).** The workflow runs the tests, scrapes, commits `data/events.json` (so the git history doubles as an event archive), builds `dist/` and force-pushes it to `gh-pages`.
+**Remote (automatic).** The daily run tests, scrapes, commits `data/events.json` (so the git history doubles as an event archive), builds `dist/` and force-pushes it to `gh-pages`. A push to `main` skips the scrape: it tests, rebuilds from the committed `data/events.json` and deploys, so code changes go live without touching the data. **Actions → Scrape & deploy → Run workflow** scrapes by default; untick *Scrape sources* to only rebuild.
 
 **Local (manual).** Run `python -m web.build` and push the contents of `dist/` to `gh-pages` yourself. The newest push wins, so the next daily run overwrites a local deploy unless you also push your changes to `main`.
 

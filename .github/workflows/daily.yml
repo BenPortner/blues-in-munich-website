@@ -1,9 +1,17 @@
 name: Scrape & deploy
 
+# The daily run scrapes, commits the new events and deploys. A push to main only tests,
+# rebuilds from the committed data/events.json and deploys. Manual runs scrape unless the
+# "Scrape sources" box is unticked.
 on:
   schedule:
     - cron: "0 4 * * *"   # daily, ~05:00/06:00 Munich time
   workflow_dispatch:
+    inputs:
+      scrape:
+        description: Scrape sources (untick to only rebuild and deploy)
+        type: boolean
+        default: true
   push:
     branches: [main]
 
@@ -17,6 +25,8 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      SCRAPE: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.scrape) }}
     steps:
       - uses: actions/checkout@v4
 
@@ -33,6 +43,7 @@ jobs:
       # Last.fm lookups are cached between runs but never committed (API terms).
       # A new key per run saves the updated cache; restore-keys picks up the latest one.
       - name: Restore artist cache
+        if: env.SCRAPE == 'true'
         uses: actions/cache@v4
         with:
           path: data/artists.json
@@ -40,12 +51,14 @@ jobs:
           restore-keys: lastfm-artists-
 
       - name: Scrape sources
+        if: env.SCRAPE == 'true'
         env:
           TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
         run: python -m scraper
 
       - name: Commit updated events
+        if: env.SCRAPE == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

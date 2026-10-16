@@ -30,6 +30,8 @@ class Event:
     source_name: str = ""
     school_name: str | None = None
     school_url: str | None = None
+    # Concerts: a well-known artist on the bill (Last.fm, see scraper/artists.py)
+    known_artist: str | None = None
     id: str = ""
 
     def finalize(self, source: dict) -> "Event":

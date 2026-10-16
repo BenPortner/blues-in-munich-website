@@ -167,3 +167,27 @@ def test_no_spotlight_without_upcoming_highlights(tmp_path):
     build(data_path, tmp_path / "dist", TODAY, highlights(tmp_path))
     page = BeautifulSoup((tmp_path / "dist" / "index.html").read_text(encoding="utf-8"), "lxml")
     assert page.select_one("#spotlight") is None
+
+
+def test_reason_known_artist(tmp_path):
+    h = highlights(tmp_path)
+    assert h.reason(ev(venue="Some Bar", known_artist="Eric Bibb")) == "Well-known artist: Eric Bibb"
+    assert h.reason(ev(type="workshop", known_artist="Eric Bibb")) is None
+
+
+def test_lastfm_credit_only_with_artist_data(tmp_path):
+    def page_for(events):
+        data = {"generated_at": "2026-10-16T04:00:00+00:00", "sources": [], "events": events}
+        data_path = tmp_path / "events.json"
+        data_path.write_text(json.dumps(data))
+        build(data_path, tmp_path / "dist", TODAY, highlights(tmp_path))
+        return BeautifulSoup((tmp_path / "dist" / "index.html").read_text(encoding="utf-8"), "lxml")
+
+    plain = page_for([ev("Bar Gig", start="2026-10-22T20:00", venue="Some Bar", id="bar").to_dict()])
+    assert plain.select_one(".lastfm") is None
+    famous = page_for([ev("Eric Bibb", start="2026-10-22T20:00", venue="Some Bar", known_artist="Eric Bibb",
+                          id="bibb").to_dict()])
+    credit = famous.select_one(".lastfm a")
+    assert credit.text == "powered by AudioScrobbler" and credit["href"] == "https://www.last.fm/"
+    assert famous.select_one(".card")["data-highlight"] == ""
+    assert "Eric Bibb" in famous.select_one("#spotlight").text

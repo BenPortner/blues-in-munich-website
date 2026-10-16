@@ -57,6 +57,7 @@ Each source runs in isolation. If a site is down, or its page suddenly yields no
 Some events get a ★ Highlight badge and their own filter chip. [`highlights.yaml`](highlights.yaml) decides which:
 
 - `always`: event types from a given source, e.g. every Boogie-Bären workshop.
+- concerts with a well-known artist: the scraper picks artist names out of concert titles and looks them up on Last.fm. An artist counts at `artists.min_listeners` (50k) listeners or more; `artists.ignore` and `artists.aliases` fix wrong or missed matches. Needs a `LASTFM_API_KEY`; without one this rule is off. Only the artist's name ends up in `data/events.json`; the lookup cache (`data/artists.json`, with listener counts) is git-ignored and kept in the GitHub Actions cache. When the rule is in use, the footer credits Last.fm ("powered by AudioScrobbler"), as its API terms require. **Those terms also require Last.fm's written approval before the public site uses its data**, so don't add the key to the repository secrets until you have it.
 - concerts and festivals in big venues: rough capacities and a cutoff (`min_capacity`, currently 400). Venues that aren't listed never count. `python -m web.build` prints the concert venues it couldn't find, so you can add them.
 
 Above the list, an *Upcoming highlights* box sums up this month's and next month's highlights (shown with the *All* filter only).
@@ -83,7 +84,7 @@ pip install -r requirements.txt
 python -m pytest -q
 ```
 
-To include Ticketmaster locally, copy `.env.example` to `.env` and put your key after `TICKETMASTER_API_KEY=`. The scraper reads `.env` on start; `.env` is git-ignored.
+To include Ticketmaster or Last.fm locally, copy `.env.example` to `.env` and fill in `TICKETMASTER_API_KEY=` / `LASTFM_API_KEY=`. The scraper reads `.env` on start; `.env` is git-ignored.
 
 ## Deploying to GitHub Pages
 
@@ -97,6 +98,7 @@ One-time setup:
 
 1. Push this repo to GitHub (branch `main`).
 2. Optional: add a `TICKETMASTER_API_KEY` repository secret. Get a free key at <https://developer.ticketmaster.com>.
+   Likewise `LASTFM_API_KEY` for well-known-artist highlights (free key at <https://www.last.fm/api/account/create>), once Last.fm has approved the site.
 3. **Actions → Scrape & deploy → Run workflow** (or push `dist/` yourself) to create the `gh-pages` branch.
 4. **Settings → Pages → Build and deployment → Source: Deploy from a branch → `gh-pages` / `(root)`.**
 

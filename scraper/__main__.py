@@ -11,6 +11,7 @@ from pathlib import Path
 
 import yaml
 
+from .artists import enrich
 from .filters import keep
 from .http import Http
 from .models import EVENT_TYPES, Event, slug
@@ -162,6 +163,8 @@ def main(argv: list[str] | None = None) -> int:
             key=lambda s: order[s["id"]],
         )
 
+    enrich(result["events"], ctx.http, os.environ.get("LASTFM_API_KEY"), args.out.parent / "artists.json",
+           args.sources.parent / "highlights.yaml", ctx.today)
     args.out.parent.mkdir(parents=True, exist_ok=True)
     args.out.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     log.info("wrote %d events to %s", len(result["events"]), args.out)

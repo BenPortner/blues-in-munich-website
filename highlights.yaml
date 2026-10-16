@@ -1,7 +1,8 @@
 # What counts as a highlight on the site: a ★ badge and the "Highlights" filter chip.
 #
 # 1. `always`: events of these types from these sources (ids from sources.yaml).
-# 2. Concerts and festivals in a venue that holds at least `min_capacity` people.
+# 2. Concerts with a well-known artist: see `artists` below.
+# 3. Concerts and festivals in a venue that holds at least `min_capacity` people.
 #    Venues not listed below never count; `python -m web.build` prints the concert
 #    venues it couldn't find, so you can add them.
 #
@@ -14,6 +15,18 @@
 always:
   - source: boogie-baeren
     types: [workshop]
+
+# Well-known artists, from Last.fm listener counts. The daily scrape finds artist names in
+# concert titles and looks them up (needs LASTFM_API_KEY; without it this rule is off).
+# For scale: Eric Bibb ~126k, Ana Popovic ~79k, Henrik Freischlader ~56k,
+# Danny Bryant ~15k, Sari Schorr ~5k, Kai Strauss ~3k listeners (October 2026).
+artists:
+  min_listeners: 50000
+  # Names Last.fm matches to the wrong artist (e.g. a common name shared with someone famous)
+  ignore: []
+  # Acts billed differently from their Last.fm name: "name in the title": "Last.fm name"
+  aliases:
+    Devon Allman Blues Summit: Devon Allman
 
 min_capacity: 400
 

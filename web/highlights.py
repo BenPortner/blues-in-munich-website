@@ -1,4 +1,5 @@
-"""Which events are highlights, from highlights.yaml: chosen sources and types, or big venues."""
+"""Which events are highlights, from highlights.yaml: chosen sources and types, well-known artists
+(found by the scraper, see scraper/artists.py) or big venues."""
 from __future__ import annotations
 
 from dataclasses import dataclass
@@ -39,6 +40,8 @@ class Highlights:
         """Why this event is a highlight (for the badge tooltip), or None if it isn't."""
         if event.type in self.always.get(event.source_id, ()):
             return f"{event.type.title()} by {event.source_name}"
+        if event.known_artist and event.type in VENUE_TYPES:
+            return f"Well-known artist: {event.known_artist}"
         if event.type in VENUE_TYPES:
             capacity = self.capacity(event.venue)
             if capacity and capacity >= self.min_capacity:

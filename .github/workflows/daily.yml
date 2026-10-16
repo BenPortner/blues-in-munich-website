@@ -30,9 +30,19 @@ jobs:
       - name: Test
         run: python -m pytest -q
 
+      # Last.fm lookups are cached between runs but never committed (API terms).
+      # A new key per run saves the updated cache; restore-keys picks up the latest one.
+      - name: Restore artist cache
+        uses: actions/cache@v4
+        with:
+          path: data/artists.json
+          key: lastfm-artists-${{ github.run_id }}
+          restore-keys: lastfm-artists-
+
       - name: Scrape sources
         env:
           TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
         run: python -m scraper
 
       - name: Commit updated events

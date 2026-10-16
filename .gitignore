@@ -4,3 +4,5 @@ __pycache__/
 .pytest_cache/
 dist/
 .env
+# Last.fm lookup cache: not published (API terms); CI keeps it in the Actions cache
+data/artists.json

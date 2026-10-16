@@ -86,14 +86,57 @@ def run_source(source: dict, ctx: Context, previous: list[dict]) -> tuple[list[E
     return events, status
 
 
+# Words that say what kind of event it is rather than which one: ignored when comparing titles
+_FILLER = {
+    "session", "jam", "live", "konzert", "concert", "gig", "blues", "band", "night", "abend", "special",
+    "open", "offene", "mit", "with", "und", "and", "feat", "the", "der", "die", "das", "im", "in", "am",
+    "presents", "prasentiert", "zu", "gast", "guest", "guests", "friends",
+}
+
+
+def _title_words(title: str) -> set[str]:
+    return {w for w in slug(title).split("-") if len(w) > 1 and w not in _FILLER}
+
+
+def same_event(a: Event, b: Event) -> bool:
+    """The same event listed by two sources under different titles, e.g. "Bernd Bauer Blues Band:
+    Stormy Wednesday" and "Session Stormy Wednesday": same day, same place (or, without a venue on
+    either side, the same start time), and the shorter title's telling words all in the longer one."""
+    if a.start[:10] != b.start[:10]:
+        return False
+    va, vb = slug(a.venue or ""), slug(b.venue or "")
+    if va and vb:
+        if va not in vb and vb not in va:
+            return False
+    elif "T" not in a.start or a.start != b.start:
+        return False
+    small, big = sorted((_title_words(a.title), _title_words(b.title)), key=len)
+    return bool(small) and small <= big
+
+
+def _fill_gaps(kept: Event, dup: Event) -> None:
+    """The first source's listing wins; empty fields are taken from the duplicate."""
+    for name in ("end", "venue", "address", "description"):
+        if not getattr(kept, name) and getattr(dup, name):
+            setattr(kept, name, getattr(dup, name))
+
+
 def dedupe(events: list[Event]) -> list[Event]:
-    """Drop repeats of the same event (same title, same day) across sources; first source wins."""
+    """Drop repeats of the same event across sources; first source wins. Catches identical titles on
+    the same day, and differently worded ones that `same_event` recognises."""
     seen, result = set(), []
+    by_day: dict[str, list[Event]] = {}
     for event in events:
         key = (slug(event.title), event.start[:10])
         if event.id in seen or key in seen:
             continue
+        twin = next((e for e in by_day.get(event.start[:10], []) if same_event(e, event)), None)
+        if twin:
+            _fill_gaps(twin, event)
+            seen.update({event.id, key})
+            continue
         seen.update({event.id, key})
+        by_day.setdefault(event.start[:10], []).append(event)
         result.append(event)
     return result
 

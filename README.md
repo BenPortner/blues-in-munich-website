@@ -87,11 +87,17 @@ To include Ticketmaster locally, copy `.env.example` to `.env` and put your key 
 
 ## Deploying to GitHub Pages
 
-1. Push this repo to GitHub (branch `main`).
-2. **Settings → Pages → Build and deployment → Source: GitHub Actions.**
-3. Optional: add a `TICKETMASTER_API_KEY` repository secret. Get a free key at <https://developer.ticketmaster.com>.
-4. **Actions → Scrape & deploy → Run workflow** for the first run. After that it runs daily at 04:00 UTC and on every push to `main`.
+The site is served from the `gh-pages` branch, which holds only the built `dist/`.
 
-The workflow runs the tests, scrapes, commits `data/events.json` (so the git history doubles as an event archive), builds `dist/` and deploys it.
+**Remote (automatic).** The workflow runs the tests, scrapes, commits `data/events.json` (so the git history doubles as an event archive), builds `dist/` and force-pushes it to `gh-pages`.
+
+**Local (manual).** Run `python -m web.build` and push the contents of `dist/` to `gh-pages` yourself. The newest push wins, so the next daily run overwrites a local deploy unless you also push your changes to `main`.
+
+One-time setup:
+
+1. Push this repo to GitHub (branch `main`).
+2. Optional: add a `TICKETMASTER_API_KEY` repository secret. Get a free key at <https://developer.ticketmaster.com>.
+3. **Actions → Scrape & deploy → Run workflow** (or push `dist/` yourself) to create the `gh-pages` branch.
+4. **Settings → Pages → Build and deployment → Source: Deploy from a branch → `gh-pages` / `(root)`.**
 
 To host on S3 instead, run the same steps and replace the two Pages actions with `aws s3 sync dist/ s3://<bucket> --delete`.

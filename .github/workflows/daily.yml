@@ -8,9 +8,7 @@ on:
     branches: [main]
 
 permissions:
-  contents: write   # commit data/events.json
-  pages: write
-  id-token: write
+  contents: write   # commit data/events.json, push gh-pages
 
 concurrency:
   group: pages
@@ -56,17 +54,14 @@ jobs:
       - name: Build site
         run: python -m web.build
 
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: dist
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Publish to gh-pages
+        run: |
+          cd dist
+          touch .nojekyll
+          echo "www.bluesinmunich.de" > CNAME   # keeps the custom domain across force-pushes
+          git init -q -b gh-pages
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Deploy site $(date -u +%F)"
+          git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" gh-pages:gh-pages

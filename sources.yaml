@@ -1,0 +1,157 @@
+# Scrape targets for Blues in München.
+#
+# To add a source, append an entry. Fields:
+#   id            unique slug (used in event ids and logs)
+#   name          display name (shown on the site; for schools also the school link text)
+#   kind          school | venue | band | aggregator | manual
+#                 events from a `school` get a link to the school (url below)
+#   url           homepage — the school/venue link on the site
+#   adapter       how to read it: one of the modules in scraper/adapters/
+#                 generic: jsonld (schema.org JSON-LD pages), ical (.ics feed),
+#                          mfgigcal (WordPress gig calendar plugin), manual
+#                 site-specific: vintage_club, boogie_baeren, unterfahrt,
+#                          glockenbachwerkstatt, misterbs, swinginmunich, ticketmaster,
+#                          inmuenchen,
+#                          oksanapavlova
+#   enabled       false to keep an entry without scraping it
+#   default_type  class | workshop | social | concert | festival (when not inferable)
+#   filter        blues        keep events mentioning blues (title/description/tags)
+#                 blues_title  only title/tags count (venues that mention blues in passing)
+#                 none         keep everything (all-blues sources)
+#   exclude       optional list of regexes; matching events are dropped
+#   params        adapter-specific options (see the adapter's docstring)
+
+sources:
+  # --- Dance schools -------------------------------------------------------
+  - id: vintage-club
+    name: Vintage Club
+    kind: school
+    url: https://www.vintage-club.de/
+    adapter: vintage_club
+    enabled: true
+    default_type: class
+    filter: blues
+
+  - id: boogie-baeren
+    name: Boogie-Bären München
+    kind: school
+    url: https://www.boogie-baeren.de/
+    adapter: boogie_baeren
+    enabled: true
+    default_type: social
+    filter: blues
+    params:
+      max_pages: 6         # /kalender listing pages
+      training_url: https://www.boogie-baeren.de/training   # weekly class timetable (blues classes)
+
+  - id: oksana-pavlova
+    name: Oksana Pavlova
+    kind: school
+    url: https://oksanapavlova.de/
+    adapter: oksanapavlova   # workshops are announced as news posts (calendar empty, Kursplan is an image)
+    enabled: true
+    default_type: workshop
+    filter: blues          # mostly Lindy Hop; monthly-ish blues workshops at Arnulfstr. 195
+
+  # --- Venues & bands (concerts, sessions) ----------------------------------
+  - id: glockenbachwerkstatt
+    name: Glockenbachwerkstatt – Fish'n Blues
+    kind: venue
+    url: https://www.glockenbachwerkstatt.de/
+    adapter: glockenbachwerkstatt
+    enabled: true
+    default_type: concert
+    filter: none           # the category below is the weekly blues series
+    params:
+      categories: [fishnblues]
+
+  - id: bernd-bauer-blues-band
+    name: Bernd Bauer Blues Band
+    kind: band
+    url: https://berndbauerbluesband.de/
+    adapter: mfgigcal
+    enabled: true
+    default_type: concert
+    filter: none           # a blues band (hosts the "Stormy Wednesday" open blues session)
+    params:
+      listing_url: https://berndbauerbluesband.de/termine/
+      only_city: "München|Munich|\\b8[01]\\d{3}\\b"
+
+  - id: unterfahrt
+    name: Jazzclub Unterfahrt
+    kind: venue
+    url: https://www.unterfahrt.de/
+    adapter: unterfahrt
+    enabled: true
+    default_type: concert
+    filter: blues_title    # jazz club: only gigs billed as blues (title or "Blues" series)
+    params:
+      months: 4
+
+  - id: misterbs
+    name: Mister B's
+    kind: venue
+    url: https://mister-bs.bar/
+    adapter: misterbs
+    enabled: true
+    default_type: concert
+    filter: blues_title    # small jazz/live bar: artist bios mention blues in passing
+
+  # --- Aggregators ---------------------------------------------------------
+  - id: swinginmunich
+    name: SwinginMunich.de
+    kind: aggregator
+    url: https://www.swinginmunich.de/en
+    adapter: swinginmunich
+    enabled: true
+    default_type: social
+    filter: blues          # swing calendar: keep only events mentioning blues
+    params:
+      max_pages: 6         # listing pages (~15 dates each); stops at the first empty page
+
+  - id: inmuenchen
+    name: IN München
+    kind: aggregator
+    url: https://www.in-muenchen.de/
+    adapter: inmuenchen
+    enabled: true
+    default_type: concert
+    filter: blues_title    # API search matches any mention; keep blues in title or genre
+    params:
+      max_pages: 3         # 100 listings each; ~170 match "blues"
+
+  - id: ticketmaster
+    name: Ticketmaster (genre Blues)
+    kind: aggregator
+    url: https://www.ticketmaster.de/
+    adapter: ticketmaster
+    enabled: true          # skipped automatically unless TICKETMASTER_API_KEY is set
+    default_type: concert
+    filter: none
+    params:
+      classification: Blues
+      latlon: [48.1372, 11.5755]
+      radius_km: 30
+
+  # --- Hand-curated --------------------------------------------------------
+  - id: manual
+    name: Curated
+    kind: manual
+    url: https://github.com/
+    adapter: manual
+    enabled: true
+    default_type: concert
+    filter: none
+    params:
+      file: manual_events.yaml
+
+# Candidates checked but not scraped yet (no machine-readable listing, blocked,
+# or no longer the venue's site). Move one up once an adapter exists.
+#
+#  - Kongressbar (swing/jazz/blues live bands Fri/Sat) — https://kongressbar.de/events-live-bands-djs/
+#      events are rendered by a plugin without a plain list; needs a custom adapter.
+#  - Kulturzentrum Giesinger Bahnhof — http://www.giesinger-bahnhof.de (hosts Stormy Wednesday)
+#  - Eventim / rausgegangen / regioactive Jazz & Blues listings — block scrapers (403/timeouts)
+#  - Bandsintown — https://www.bandsintown.com — API only looks up one artist at a time (no city or
+#      genre search), keys are only issued to artists or their teams, and the site's city pages
+#      are rendered by JavaScript. Usable only per band, with that band's own API key.

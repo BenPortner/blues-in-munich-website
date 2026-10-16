@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Blues in München</title>
+  <meta name="description" content="Blues dance classes, workshops, socials and blues concerts in Munich — collected daily from schools, venues and bands.">
+  <meta name="color-scheme" content="light dark">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%231f3a8a'/%3E%3Cpath d='M12 23a3 3 0 1 1-2-2.83V8l11-2v13a3 3 0 1 1-2-2.83V10.4l-7 1.3Z' fill='%23f2c46d'/%3E%3C/svg%3E">
+  <link rel="alternate" type="text/calendar" title="Blues in München (iCal)" href="events.ics">
+  <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="wrap">
+      <p class="eyebrow">Munich · updated daily</p>
+      <h1>Blues in München</h1>
+      <p class="lede">Blues dance classes, workshops and socials, plus live blues — gathered from Munich's dance schools, venues and bands.</p>
+      <p class="actions">
+        <a class="button" href="events.ics">Subscribe to calendar</a>
+        <a class="button ghost" href="#sources">Sources</a>
+      </p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    {% if total %}
+    <nav class="filters" aria-label="Filter by type">
+      <button type="button" class="chip" data-filter="all" aria-pressed="true">All <span>{{ total }}</span></button>
+      {% for type, label, count in filters %}
+      <button type="button" class="chip" data-filter="{{ type }}" aria-pressed="false">{{ label }} <span>{{ count }}</span></button>
+      {% endfor %}
+      <span class="views" role="group" aria-label="View" hidden>
+        <button type="button" class="chip" data-view="list" aria-pressed="true">List</button>
+        <button type="button" class="chip" data-view="calendar" aria-pressed="false">Calendar</button>
+      </span>
+    </nav>
+
+    <div id="list-view">
+    {% for month in months %}
+    <section class="month" aria-labelledby="m{{ loop.index }}">
+      <h2 id="m{{ loop.index }}">{{ month.label }}</h2>
+      {% for day in month.days %}
+      <div class="day{% if day.is_today %} today{% endif %}">
+        <h3 class="day-label"><time datetime="{{ day.day.isoformat() }}">{{ day.label }}</time>{% if day.is_today %} <em>today</em>{% endif %}</h3>
+        <div class="cards">
+          {% for c in day.cards %}{% set e = c.e %}
+          <article class="card type-{{ e.type }}" data-type="{{ e.type }}">
+            <p class="meta">
+              <span class="badge">{{ c.label }}</span>
+              {% if c.span %}<span>{{ c.span }}</span>{% endif %}
+              {% if c.time %}<span>{{ c.time }}</span>{% endif %}
+            </p>
+            <h4><a href="{{ e.url }}" rel="noopener">{{ e.title }}</a></h4>
+            {% if e.venue or e.address %}
+            <p class="where">{{ e.venue or "" }}{% if e.venue and e.address %} · {% endif %}<span class="address">{{ e.address or "" }}</span></p>
+            {% endif %}
+            {% if e.recurrence %}
+            <p class="recurrence">{{ e.recurrence }}{% if c.session_count %} · {{ c.session_count }}-week course block{% endif %}{% if c.sessions %}<br><span>Upcoming sessions: {{ c.sessions }}</span>{% endif %}</p>
+            {% endif %}
+            {% if e.description %}<p class="desc">{{ e.description }}</p>{% endif %}
+            <p class="links">
+              <a href="{{ e.url }}" rel="noopener">Event details ↗</a>
+              {% if e.school_url %}<a class="school" href="{{ e.school_url }}" rel="noopener">School: {{ e.school_name }} ↗</a>{% endif %}
+              {% if e.source_name != e.school_name %}<span class="via">via {{ e.source_name }}</span>{% endif %}
+            </p>
+          </article>
+          {% endfor %}
+        </div>
+      </div>
+      {% endfor %}
+    </section>
+    {% endfor %}
+    </div>
+    <p class="empty" hidden>No events of this type right now.</p>
+    <section id="calendar-view" class="calendar" aria-label="Calendar" hidden></section>
+    <script type="application/json" id="calendar-data">{{ calendar_json | safe }}</script>
+    {% else %}
+    <p class="empty">No upcoming blues events found right now — check back tomorrow.</p>
+    {% endif %}
+  </main>
+
+  <footer id="sources" class="wrap footer">
+    <h2>Sources</h2>
+    <p>Collected automatically every morning from these pages. Always check the organiser's page before you go.</p>
+    <ul class="sources">
+      {% for s in sources if s.kind != "manual" or s.kept %}
+      <li>
+        <a href="{{ s.url }}" rel="noopener">{{ s.name }}</a>
+        <span class="status status-{{ s.status }}">{% if s.status == "ok" %}{{ s.kept }} event{{ "" if s.kept == 1 else "s" }}{% elif s.status == "skipped" %}not active{% else %}update failed — showing last known{% endif %}</span>
+      </li>
+      {% endfor %}
+    </ul>
+    <p class="small">
+      Last updated {{ generated }} (Munich time) ·
+      <a href="events.ics">iCal feed</a> · <a href="events.json">JSON</a>
+      {% if repo_url %} · <a href="{{ repo_url }}/issues/new?title=New%20source%3A%20">Suggest a source</a>{% endif %}
+    </p>
+  </footer>
+  <script src="static/app.js" defer></script>
+</body>
+</html>

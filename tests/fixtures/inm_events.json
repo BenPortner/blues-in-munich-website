@@ -1,0 +1,165 @@
+[
+ {
+  "id": 984122,
+  "link": "https://www.in-muenchen.de/events/peter-karp-band-ana-popovic.html",
+  "title": {
+   "rendered": "Inninger Bluestage 2026: Peter Karp Band + Ana Popovic"
+  },
+  "content": {
+   "rendered": "\n<div style=\"display: flex; gap: 6px; line-height: 2;\">\n    <strong>Freitag, 16.10.2026<br>19:30 Uhr &#8211; 23:00 Uhr</strong>\n    <div style=\"display: flex; flex-direction: column; justify-content: flex-end;\">\n        \n         <a type=\"internal\" data-id=\"#tickets\" href=\"#tickets\" style=\"font-weight: 350; color: grey\">Tickets</a>\n    </div>\n</div>\n\n\n\n<p><strong>Alte Brauerei Stegen</strong>, Landsberger Straße 57, 82266\nInning am Ammersee<br><a href=\"/konzerte\">Konzerte</a></p>"
+  },
+  "excerpt": {
+   "rendered": "<p>Bei der Inninger Bluestage treffen zwei herausragende Blues-Acts aufeinander: Die Peter Karp Band mit ihrem soul-beeinflussten Americana-Blues-Rock und Ana Popovic, die mit funkigem Electric-Sound und kraftvollen Vocals begeistert. Ein Abend voller authentischer Blues-Musik mit international gefeierten Künstlern.</p>\n",
+   "protected": false
+  },
+  "_embedded": {
+   "wp:term": [
+    [
+     {
+      "taxonomy": "event_category",
+      "name": "Konzerte"
+     }
+    ],
+    [],
+    [
+     {
+      "taxonomy": "event_genre",
+      "name": "Blues"
+     }
+    ]
+   ]
+  }
+ },
+ {
+  "id": 1016517,
+  "link": "https://www.in-muenchen.de/events/neuhauser-musiknacht.html",
+  "title": {
+   "rendered": "Neuhauser Musiknacht"
+  },
+  "content": {
+   "rendered": "\n<div style=\"display: flex; gap: 6px; line-height: 2;\">\n    <strong>Samstag, 24.10.2026 20:00 Uhr bis Sonntag, 25.10.2026 02:00 Uhr</strong>\n    <div style=\"display: flex; flex-direction: column; justify-content: flex-end;\">\n        \n         <a type=\"internal\" data-id=\"#tickets\" href=\"#tickets\" style=\"font-weight: 350; color: grey\">Tickets</a>\n    </div>\n</div>\n\n\n\n<p><strong>Rotkreuzplatz</strong>, , 80634\nMünchen<br><a href=\"/konzerte\">Konzerte</a> / <a href=\"/themes/konzerte-festivals\">Festivals</a></p>"
+  },
+  "excerpt": {
+   "rendered": "<p>In Neuhausen verwandelt sich die Nacht in ein musikalisches Fest. 50 Bands an 43 Orten laden zum Entdecken ein. Von Jazz und Swing bis Punk und Latin ist alles dabei. Lokale Talente und Nachwuchsbands sorgen für Abwechslung. Besucher können zwischen den Auftritten leicht zu den nächsten Bands wechseln.</p>\n",
+   "protected": false
+  },
+  "_embedded": {
+   "wp:term": [
+    [
+     {
+      "taxonomy": "event_category",
+      "name": "Festivals"
+     },
+     {
+      "taxonomy": "event_category",
+      "name": "Konzerte"
+     }
+    ],
+    [],
+    [
+     {
+      "taxonomy": "event_genre",
+      "name": "Festival"
+     }
+    ]
+   ]
+  }
+ },
+ {
+  "id": 995081,
+  "link": "https://www.in-muenchen.de/events/uferlos-festival.html",
+  "title": {
+   "rendered": "Uferlos Festival"
+  },
+  "content": {
+   "rendered": "\n<div style=\"display: flex; gap: 6px; line-height: 2;\">\n    <strong>Aktuell keine Termine</strong>\n    <div style=\"display: flex; flex-direction: column; justify-content: flex-end;\">\n        \n         <span style=\"font-weight: 350; color: grey\">Eintritt frei</span>\n    </div>\n</div>\n\n\n\n<p><strong>LUITPOLDANLAGE FREISING</strong>, Luitpoldstraße 1, 85356\nFreising<br><a href=\"/konzerte\">Konzerte</a> / <a href=\"/themes/konzerte-festivals\">Festivals</a></p>"
+  },
+  "excerpt": {
+   "rendered": "<p>Vom 08. bis 17. Mai 2026 verwandelt sich die Luitpoldanlage zur Festival-Zeltstadt. Das Uferlos Festival bietet Musik, Kultur und Kulinarik. Eintritt frei.</p>\n",
+   "protected": false
+  },
+  "_embedded": {
+   "wp:term": [
+    [
+     {
+      "taxonomy": "event_category",
+      "name": "Festivals"
+     },
+     {
+      "taxonomy": "event_category",
+      "name": "Konzerte"
+     }
+    ],
+    [],
+    [
+     {
+      "taxonomy": "event_genre",
+      "name": "Open-Air Festival"
+     }
+    ]
+   ]
+  }
+ },
+ {
+  "id": 1097333,
+  "link": "https://www.in-muenchen.de/events/montack-the-ultimate-silverbeet.html",
+  "title": {
+   "rendered": "Montack &#038; The Ultimate Silverbeet"
+  },
+  "content": {
+   "rendered": "\n<div style=\"display: flex; gap: 6px; line-height: 2;\">\n    <strong>Donnerstag, 05.11.2026<br>19:30 Uhr</strong>\n    <div style=\"display: flex; flex-direction: column; justify-content: flex-end;\">\n        \n        \n    </div>\n</div>\n\n\n\n<p><a href=\"/locations/drehleier.html\"><strong>Drehleier</strong></a> / <strong>Drehleier &#8211; Szenerie</strong>, Rosenheimer Str. 123, 81667\nMünchen<br><a href=\"/konzerte\">Konzerte</a></p>"
+  },
+  "excerpt": {
+   "rendered": "<p>Ein spannungsgeladener Abend, an dem Blues, Rock und Funk auf alternativen Heavy Rock treffen. Zwischen den Klängen entsteht eine einzigartige Atmosphäre, die das Publikum mitreißt. Die Kombination der Stile verspricht einen abwechslungsreichen und energiegeladenen Konzertabend.</p>\n",
+   "protected": false
+  },
+  "_embedded": {
+   "wp:term": [
+    [
+     {
+      "taxonomy": "event_category",
+      "name": "Konzerte"
+     }
+    ],
+    [],
+    [
+     {
+      "taxonomy": "event_genre",
+      "name": "Blues, Rock, Funk, Alternative"
+     }
+    ]
+   ]
+  }
+ },
+ {
+  "id": 1097442,
+  "link": "https://www.in-muenchen.de/events/hollie-rogers-alma-naidu.html",
+  "title": {
+   "rendered": "Hollie Rogers + Alma Naidu"
+  },
+  "content": {
+   "rendered": "\n<div style=\"display: flex; gap: 6px; line-height: 2;\">\n    <strong>Freitag, 19.03.2027<br>20:00 Uhr</strong>\n    <div style=\"display: flex; flex-direction: column; justify-content: flex-end;\">\n        \n         <a type=\"internal\" data-id=\"#tickets\" href=\"#tickets\" style=\"font-weight: 350; color: grey\">Tickets</a>\n    </div>\n</div>\n\n\n\n<p><strong>Wolf-Ferrari-Haus Ottobrunn</strong>, Rathausplatz 2, 85521\nOttobrunn<br><a href=\"/konzerte\">Konzerte</a></p>"
+  },
+  "excerpt": {
+   "rendered": "<p>Zwei herausragende Stimmen des modernen Folk-Pop vereinen sich auf der Bühne. Hollie Rogers, bekannt für ihr einfühlsames Gitarrenspiel und humorvolle Anekdoten, präsentiert neue Hits. Begleitet wird sie von Alma Naidu. Ein Abend voller Emotion und musikalischer Ehrlichkeit.</p>\n",
+   "protected": false
+  },
+  "_embedded": {
+   "wp:term": [
+    [
+     {
+      "taxonomy": "event_category",
+      "name": "Konzerte"
+     }
+    ],
+    [],
+    [
+     {
+      "taxonomy": "event_genre",
+      "name": "Folk-Pop"
+     }
+    ]
+   ]
+  }
+ }
+]

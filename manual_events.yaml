@@ -1,0 +1,14 @@
+# Hand-curated events: festivals, one-offs, or anything no scraper picks up.
+# Times are Munich local time. Past events are dropped automatically.
+#
+# - title: Blues Weekend München
+#   type: festival              # class | workshop | social | concert | festival
+#   start: 2027-03-12T19:00     # or a plain date: 2027-03-12
+#   end: 2027-03-14
+#   url: https://example.org/blues-weekend
+#   venue: Some Venue
+#   address: Straße 1, 80331 München
+#   description: Three days of blues dance workshops and parties.
+#   school_name: Some School      # optional: links the school on the card
+#   school_url: https://example.org
+[]

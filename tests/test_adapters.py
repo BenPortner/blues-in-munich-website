@@ -140,7 +140,7 @@ def test_swinginmunich_scrape_keeps_only_blues(make_ctx):
     ]
     jam = kept[0]
     assert (jam.type, jam.venue, jam.address) == ("social", "Kongress Bar", "Theresienhöhe 15, 80339 München")
-    assert jam.url == "https://www.facebook.com/groups/198726746905962"
+    assert jam.url == "https://kongressbar.de/events-live-bands-djs/"
     assert "Bluestanzen" in jam.description
     # The weekly Record Hop lists "Rhythm'n'Blues" in its description; that is not blues dancing
     record_hops = [e for e in events if e.title == "Fifties Record Hop"]

@@ -78,6 +78,14 @@ def parse_detail(html) -> dict | None:
     }
 
 
+KONGRESSBAR_EVENTS = "https://kongressbar.de/events-live-bands-djs/"
+
+
+def _url_override(title):
+    # The calendar links Bluesverschwörung to a Facebook group; the venue's own page is better.
+    return KONGRESSBAR_EVENTS if title.lower().startswith("bluesverschwörung") else None
+
+
 def _event(detail, node_url, day, default_type) -> Event:
     # The date comes from the node url (one per occurrence); the time from the detail page.
     t_start, t_end = find_time_range(detail["when"])
@@ -87,7 +95,7 @@ def _event(detail, node_url, day, default_type) -> Event:
         type=guess_type(" ".join([detail["title"], *tags]), default_type),
         start=combine(day, t_start),
         end=combine(day, t_end) if t_end else None,
-        url=detail["link"] or node_url,
+        url=_url_override(detail["title"]) or detail["link"] or node_url,
         venue=detail["venue"],
         address=detail["address"],
         description=detail["body"],

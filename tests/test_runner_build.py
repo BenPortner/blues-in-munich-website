@@ -3,8 +3,8 @@ from datetime import date
 
 from bs4 import BeautifulSoup
 
-from scraper.__main__ import collect, load_sources, ROOT
-from scraper.models import Event
+from scraper.__main__ import collect, load_archive, load_sources, ROOT
+from scraper.models import Event, slug
 from scraper.registry import ADAPTERS, SkipSource, adapter
 from web.build import build, calendar_events
 
@@ -108,6 +108,52 @@ def test_class_with_upcoming_sessions_is_kept(make_ctx):
     assert len(result["events"]) == 1
 
 
+ARCHIVE = {"since": "2026-01-01", "types": ["class", "workshop"]}
+
+
+def test_load_archive(tmp_path):
+    path = tmp_path / "sources.yaml"
+    path.write_text("archive:\n  since: 2026-01-01\nsources: []\n")
+    assert load_archive(path) == {"since": "2026-01-01",
+                                  "types": ["class", "workshop", "social", "concert", "festival"]}
+    path.write_text("archive:\n  since: 2026-01-01\n  types: [class, workshop]\nsources: []\n")
+    assert load_archive(path) == ARCHIVE
+    path.write_text("sources: []\n")
+    assert load_archive(path) is None
+
+
+def test_archive_keeps_past_classes_and_workshops(make_ctx):
+    source = src("s", "_test_static", params={"events": [
+        ev("Blues course", "2026-09-23T18:45", type="class", dates=["2026-09-23", "2026-09-30"]),
+        ev("Blues Workshop", "2026-07-11T12:00", type="workshop"),
+        ev("Blues Gig", "2026-07-11T20:00"),                          # past concert
+        ev("Old Blues Workshop", "2025-12-06T12:00", type="workshop"),  # before `since`
+        ev("Blues Night", "2026-10-20T20:00"),
+    ]})
+    result = collect([source], make_ctx(), {"events": []}, ARCHIVE)
+    assert [e["title"] for e in result["events"]] == ["Blues Workshop", "Blues course", "Blues Night"]
+    assert result["sources"][0]["kept"] == 3
+    without = collect([source], make_ctx(), {"events": []})
+    assert [e["title"] for e in without["events"]] == ["Blues Night"]
+
+
+def test_archive_carries_over_past_events_from_last_run(make_ctx):
+    def old(title, start, source_id="s", **kw):
+        return Event(title=title, type=kw.pop("type", "workshop"), start=start, source_id=source_id,
+                     source_name=source_id, id=title, **kw).to_dict()
+    previous = {"events": [
+        old("Blues Workshop März", "2026-03-07T16:00"),                 # gone from the site
+        old("Blues Workshop", "2026-07-11T12:00"),                      # still on the site
+        old("Blues Gig", "2026-07-11T20:00", type="concert"),           # past concert
+        old("Other Workshop", "2026-05-16T16:00", source_id="other"),   # source didn't run
+    ]}
+    source = src("s", "_test_static", params={"events": [
+        ev("Blues Workshop", "2026-07-11T12:00", type="workshop"), ev("Blues Night", "2026-10-20T20:00")]})
+    result = collect([source], make_ctx(), previous, ARCHIVE)
+    assert [e["title"] for e in result["events"]] == ["Blues Workshop März", "Blues Workshop", "Blues Night"]
+    assert result["events"][1]["id"] != "Blues Workshop"  # the fresh copy wins over last run's
+
+
 def test_build_site(tmp_path):
     data = {
         "generated_at": "2026-10-16T04:00:00+00:00",
@@ -143,6 +189,39 @@ def test_build_site(tmp_path):
     assert [(c["title"], c["start"]) for c in cal] == [
         ("Blues · alle Level", "2026-10-21T18:45"), ("Blues · alle Level", "2026-10-28T18:45"),
         ("Louis Ville", "2026-10-21T20:30")]
+
+
+def test_build_site_past_section(tmp_path):
+    def school_event(title, start, type_, **kw):
+        return Event(title=title, type=type_, start=start, url="https://s.example/", source_id="s",
+                     source_name="School", school_name="School", school_url="https://s.example/",
+                     id=slug(title), **kw).to_dict()
+    data = {
+        "generated_at": "2026-10-16T04:00:00+00:00",
+        "sources": [],
+        "events": [
+            school_event("Blues course", "2026-09-23T18:45", "class", end="2026-09-23T19:45",
+                         recurrence="Wednesdays 18:45–19:45", dates=["2026-09-23", "2026-09-30"]),
+            school_event("Blues Workshop März", "2026-03-07T16:00", "workshop"),
+            school_event("Blues Social", "2026-10-21T20:00", "social"),
+        ],
+    }
+    data_path = tmp_path / "events.json"
+    data_path.write_text(json.dumps(data))
+    build(data_path, tmp_path / "dist", TODAY)
+
+    page = BeautifulSoup((tmp_path / "dist" / "index.html").read_text(encoding="utf-8"), "lxml")
+    assert [c.h4.get_text() for c in page.select("#upcoming .card")] == ["Blues Social"]
+    assert [c.h4.get_text() for c in page.select("#past .card")] == ["Blues course", "Blues Workshop März"]
+    assert [h.get_text() for h in page.select("#past .month h2")] == ["September 2026", "March 2026"]
+    assert "Sessions: 23 Sep, 30 Sep" in page.select_one("#past .card").get_text()
+    assert page.select_one("#past summary span").get_text() == "2"
+    # chips count upcoming events, but past-only types still get one
+    chips = {b["data-filter"]: b.span.get_text() for b in page.select(".chip[data-filter]")}
+    assert chips == {"all": "1", "class": "0", "workshop": "0", "social": "1"}
+    cal = json.loads(page.select_one("#calendar-data").string)
+    assert [c["start"] for c in cal] == ["2026-03-07T16:00", "2026-09-23T18:45", "2026-09-30T18:45",
+                                         "2026-10-21T20:00"]
 
 
 def test_calendar_events():

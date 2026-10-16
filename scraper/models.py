@@ -54,7 +54,9 @@ class Event:
         return max(candidates)
 
     def next_date(self, today: date) -> str:
-        """The next day (on or after today) this event happens on, for sorting."""
+        """The next day (on or after today) this event happens on, for sorting; its last day once over."""
+        if self.last_date < today.isoformat():
+            return self.last_date
         if self.dates:
             upcoming = [d for d in sorted(self.dates) if d >= today.isoformat()]
             if upcoming:

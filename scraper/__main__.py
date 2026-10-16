@@ -13,7 +13,7 @@ import yaml
 
 from .filters import keep
 from .http import Http
-from .models import Event, slug
+from .models import EVENT_TYPES, Event, slug
 from .registry import Context, SkipSource, get_adapter
 
 log = logging.getLogger("scraper")
@@ -26,6 +26,21 @@ def load_sources(path: Path) -> list[dict]:
     if len(ids) != len(set(ids)):
         raise ValueError("duplicate source ids in sources.yaml")
     return sources
+
+
+def load_archive(path: Path) -> dict | None:
+    """The `archive` block of sources.yaml: which past events stay listed."""
+    archive = yaml.safe_load(path.read_text(encoding="utf-8")).get("archive")
+    if not archive:
+        return None
+    return {"since": str(archive["since"]), "types": list(archive.get("types", EVENT_TYPES))}
+
+
+def is_listed(event: Event, today: str, archive: dict | None) -> bool:
+    """Upcoming events, plus past ones the archive keeps."""
+    if event.last_date >= today:
+        return True
+    return bool(archive) and event.type in archive["types"] and event.last_date >= archive["since"]
 
 
 def load_env_file(path: Path) -> None:
@@ -82,7 +97,7 @@ def dedupe(events: list[Event]) -> list[Event]:
     return result
 
 
-def collect(sources: list[dict], ctx: Context, previous: dict) -> dict:
+def collect(sources: list[dict], ctx: Context, previous: dict, archive: dict | None = None) -> dict:
     events, statuses = [], []
     for source in sources:
         if not source.get("enabled", True):
@@ -92,9 +107,13 @@ def collect(sources: list[dict], ctx: Context, previous: dict) -> dict:
         statuses.append(status)
 
     today = ctx.today.isoformat()
-    events = [e for e in dedupe(events) if e.last_date >= today]
+    # Sites drop courses once they're over: keep archived ones from the last run (fresh copies win in dedupe)
+    ran = {s["id"] for s in statuses}
+    events.extend(e for e in map(Event.from_dict, previous.get("events", []))
+                  if e.source_id in ran and e.last_date < today)
+    events = [e for e in dedupe(events) if is_listed(e, today, archive)]
     events.sort(key=lambda e: (e.next_date(ctx.today), e.start, e.title))
-    for status in statuses:  # count what is actually listed (upcoming, deduplicated)
+    for status in statuses:  # count what is actually listed (upcoming + archived, deduplicated)
         status["kept"] = sum(1 for e in events if e.source_id == status["id"])
     return {
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
@@ -124,7 +143,7 @@ def main(argv: list[str] | None = None) -> int:
 
     ctx = Context(http=Http(), today=args.today or date.today(), root=args.sources.parent)
     previous = load_previous(args.out)
-    result = collect(sources, ctx, previous)
+    result = collect(sources, ctx, previous, load_archive(args.sources))
 
     if args.dry_run:
         for e in result["events"]:

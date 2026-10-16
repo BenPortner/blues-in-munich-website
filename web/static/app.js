@@ -4,6 +4,7 @@
   var chips = document.querySelectorAll(".chip[data-filter]");
   if (!chips.length) return;
   var empty = document.querySelector("main .empty");
+  var past = document.getElementById("past");
   var listView = document.getElementById("list-view");
   var calView = document.getElementById("calendar-view");
   var viewButtons = document.querySelectorAll(".chip[data-view]");
@@ -36,12 +37,12 @@
     document.querySelectorAll(".day").forEach(function (day) {
       day.hidden = !day.querySelector(".card:not([hidden])");
     });
-    var anyVisible = false;
     document.querySelectorAll(".month").forEach(function (month) {
       month.hidden = !month.querySelector(".day:not([hidden])");
-      anyVisible = anyVisible || !month.hidden;
     });
-    return anyVisible;
+    if (past) past.hidden = !past.querySelector(".month:not([hidden])");
+    // Whether any upcoming event is left; the past section doesn't count
+    return !!document.querySelector("#upcoming .month:not([hidden])");
   }
 
   function apply() {

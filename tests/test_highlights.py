@@ -10,6 +10,10 @@ from web.highlights import Highlights
 from .conftest import TODAY
 
 HIGHLIGHTS_YAML = """
+events:
+  - Sari Schorr
+  - title: Stormy Wednesday
+    date: 2026-11-18
 always:
   - source: bb
     types: [workshop]
@@ -191,3 +195,22 @@ def test_lastfm_credit_only_with_artist_data(tmp_path):
     assert credit.text == "powered by AudioScrobbler" and credit["href"] == "https://www.last.fm/"
     assert famous.select_one(".card")["data-highlight"] == ""
     assert "Eric Bibb" in famous.select_one("#spotlight").text
+
+
+def test_reason_picked_by_hand(tmp_path):
+    h = highlights(tmp_path)
+    assert h.reason(ev("Sari Schorr", venue="Backstage Club")) == "Picked by hand"
+    assert h.reason(ev("SARI SCHORR & Band – live", type="social")) == "Picked by hand"  # any type, case-blind
+    assert h.reason(ev("Sari Schorring")) is None                                       # whole words only
+    stormy = "Bernd Bauer Blues Band: Stormy Wednesday"
+    assert h.reason(ev(stormy, start="2026-11-18T20:00")) == "Picked by hand"
+    assert h.reason(ev(stormy, start="2026-11-25T20:00")) is None                       # other night
+    course = ev("Stormy Wednesday course", type="class", start="2026-11-04T19:00",
+                dates=["2026-11-04", "2026-11-11", "2026-11-18"])
+    assert h.reason(course) == "Picked by hand"                                         # one of its sessions
+    weekend = ev("Stormy Wednesday Weekend", type="festival", start="2026-11-17", end="2026-11-19")
+    assert h.reason(weekend) == "Picked by hand"                                        # date inside the span
+
+
+def test_repo_highlights_yaml_events_list_loads():
+    assert isinstance(Highlights.load(ROOT / "highlights.yaml").picks, list)

@@ -56,6 +56,7 @@ Each source runs in isolation. If a site is down, or its page suddenly yields no
 
 Some events get a ★ Highlight badge and their own filter chip. [`highlights.yaml`](highlights.yaml) decides which:
 
+- `events`: events you pick by hand, by title (optionally with a date, for one night of a recurring event).
 - `always`: event types from a given source, e.g. every Boogie-Bären workshop.
 - concerts with a well-known artist: the scraper picks artist names out of concert titles and looks them up on Last.fm. An artist counts at `artists.min_listeners` (50k) listeners or more; `artists.ignore` and `artists.aliases` fix wrong or missed matches. Needs a `LASTFM_API_KEY`; without one this rule is off. Only the artist's name ends up in `data/events.json`; the lookup cache (`data/artists.json`, with listener counts) is git-ignored and kept in the GitHub Actions cache. When the rule is in use, the footer credits Last.fm ("powered by AudioScrobbler"), as its API terms require. **Those terms also require Last.fm's written approval before the public site uses its data**, so don't add the key to the repository secrets until you have it.
 - concerts and festivals in big venues: rough capacities and a cutoff (`min_capacity`, currently 400). Venues that aren't listed never count. `python -m web.build` prints the concert venues it couldn't find, so you can add them.

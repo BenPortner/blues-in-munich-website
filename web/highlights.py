@@ -1,5 +1,5 @@
-"""Which events are highlights, from highlights.yaml: chosen sources and types, well-known artists
-(found by the scraper, see scraper/artists.py) or big venues."""
+"""Which events are highlights, from highlights.yaml: events picked by hand, chosen sources and types,
+well-known artists (found by the scraper, see scraper/artists.py) or big venues."""
 from __future__ import annotations
 
 from dataclasses import dataclass
@@ -13,7 +13,30 @@ VENUE_TYPES = ("concert", "festival")
 
 
 @dataclass
+class Pick:
+    """An event picked by hand: its title contains `title` (as whole words), on `date` if given."""
+    title: str  # slugged
+    date: str | None = None
+
+    def matches(self, event: Event) -> bool:
+        if f"-{self.title}-" not in f"-{slug(event.title)}-":
+            return False
+        if not self.date:
+            return True
+        start = event.start[:10]
+        end = (event.end or event.start)[:10]
+        return self.date in event.dates or start <= self.date <= max(start, end)
+
+
+def _pick(entry) -> Pick:
+    if isinstance(entry, str):
+        return Pick(slug(entry))
+    return Pick(slug(entry["title"]), str(entry["date"]) if entry.get("date") else None)
+
+
+@dataclass
 class Highlights:
+    picks: list[Pick]
     always: dict[str, set[str]]  # source id -> event types that are always highlights
     capacities: dict[str, int]  # slugged venue name or alias -> capacity
     min_capacity: int
@@ -26,7 +49,8 @@ class Highlights:
         for venue in raw.get("venues") or []:
             for name in [venue["name"], *venue.get("match", [])]:
                 capacities[slug(name)] = venue["capacity"]
-        return cls(always, capacities, raw.get("min_capacity", 400))
+        picks = [_pick(entry) for entry in raw.get("events") or []]
+        return cls(picks, always, capacities, raw.get("min_capacity", 400))
 
     def capacity(self, venue: str | None) -> int | None:
         """Capacity of the longest known name found as whole words in `venue`."""
@@ -37,7 +61,9 @@ class Highlights:
         return self.capacities[max(matches, key=len)] if matches else None
 
     def reason(self, event: Event) -> str | None:
-        """Why this event is a highlight (for the badge tooltip), or None if it isn't."""
+        """Why this event is a highlight, or None if it isn't."""
+        if any(pick.matches(event) for pick in self.picks):
+            return "Picked by hand"
         if event.type in self.always.get(event.source_id, ()):
             return f"{event.type.title()} by {event.source_name}"
         if event.known_artist and event.type in VENUE_TYPES:

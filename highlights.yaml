@@ -1,8 +1,9 @@
 # What counts as a highlight on the site: a ★ badge and the "Highlights" filter chip.
 #
-# 1. `always`: events of these types from these sources (ids from sources.yaml).
-# 2. Concerts with a well-known artist: see `artists` below.
-# 3. Concerts and festivals in a venue that holds at least `min_capacity` people.
+# 1. `events`: events picked by hand, by title.
+# 2. `always`: events of these types from these sources (ids from sources.yaml).
+# 3. Concerts with a well-known artist: see `artists` below.
+# 4. Concerts and festivals in a venue that holds at least `min_capacity` people.
 #    Venues not listed below never count; `python -m web.build` prints the concert
 #    venues it couldn't find, so you can add them.
 #
@@ -11,6 +12,17 @@
 # "Schlachthof – Ox" picks the Ox entry over plain "Schlachthof".
 #
 # Capacities are approximate. They only need to land on the right side of the cutoff.
+
+# Events picked by hand. An event matches when its title contains the text as whole words
+# (case, accents and punctuation ignored): "Stormy Wednesday" matches "Bernd Bauer Blues
+# Band: Stormy Wednesday". Add a date to pick only that day of a recurring event.
+# Works for any event: scraped ones and those in manual_events.yaml.
+#
+# events:
+#   - Eric Bibb
+#   - title: Stormy Wednesday
+#     date: 2026-11-18
+events: []
 
 always:
   - source: boogie-baeren

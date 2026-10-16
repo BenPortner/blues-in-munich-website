@@ -21,6 +21,12 @@
 #   exclude       optional list of regexes; matching events are dropped
 #   params        adapter-specific options (see the adapter's docstring)
 
+# Past events stay listed (under "Past events") if they ended on or after `since`;
+# optional `types: [class, workshop]` limits that to some event types. Sites take past
+# events off their pages, so the runner carries them over from the last run.
+archive:
+  since: 2026-01-01
+
 sources:
   # --- Dance schools -------------------------------------------------------
   - id: vintage-club

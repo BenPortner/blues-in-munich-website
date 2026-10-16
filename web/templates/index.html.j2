@@ -24,23 +24,10 @@
   </header>
 
   <main class="wrap">
-    {% if total %}
-    <nav class="filters" aria-label="Filter by type">
-      <button type="button" class="chip" data-filter="all" aria-pressed="true">All <span>{{ total }}</span></button>
-      {% if highlights %}<button type="button" class="chip" data-filter="highlight" aria-pressed="false">★ Highlights <span>{{ highlights }}</span></button>{% endif %}
-      {% for type, label, count in filters %}
-      <button type="button" class="chip" data-filter="{{ type }}" aria-pressed="false">{{ label }} <span>{{ count }}</span></button>
-      {% endfor %}
-      <span class="views" role="group" aria-label="View" hidden>
-        <button type="button" class="chip" data-view="list" aria-pressed="true">List</button>
-        <button type="button" class="chip" data-view="calendar" aria-pressed="false">Calendar</button>
-      </span>
-    </nav>
-
-    <div id="list-view">
+    {% macro month_sections(months, prefix) %}
     {% for month in months %}
-    <section class="month" aria-labelledby="m{{ loop.index }}">
-      <h2 id="m{{ loop.index }}">{{ month.label }}</h2>
+    <section class="month" aria-labelledby="{{ prefix }}{{ loop.index }}">
+      <h2 id="{{ prefix }}{{ loop.index }}">{{ month.label }}</h2>
       {% for day in month.days %}
       <div class="day{% if day.is_today %} today{% endif %}">
         <h3 class="day-label"><time datetime="{{ day.day.isoformat() }}">{{ day.label }}</time>{% if day.is_today %} <em>today</em>{% endif %}</h3>
@@ -58,7 +45,7 @@
             <p class="where">{{ e.venue or "" }}{% if e.venue and e.address %} · {% endif %}<span class="address">{{ e.address or "" }}</span></p>
             {% endif %}
             {% if e.recurrence %}
-            <p class="recurrence">{{ e.recurrence }}{% if c.session_count %} · {{ c.session_count }}-week course block{% endif %}{% if c.sessions %}<br><span>Upcoming sessions: {{ c.sessions }}</span>{% endif %}</p>
+            <p class="recurrence">{{ e.recurrence }}{% if c.session_count %} · {{ c.session_count }}-week course block{% endif %}{% if c.sessions %}<br><span>{{ c.sessions_label }}: {{ c.sessions }}</span>{% endif %}</p>
             {% endif %}
             {% if e.description %}<p class="desc">{{ e.description }}</p>{% endif %}
             <p class="links">
@@ -73,8 +60,31 @@
       {% endfor %}
     </section>
     {% endfor %}
+    {% endmacro %}
+
+    {% if total or past_total %}
+    <nav class="filters" aria-label="Filter by type">
+      <button type="button" class="chip" data-filter="all" aria-pressed="true">All <span>{{ total }}</span></button>
+      {% if highlight_chip %}<button type="button" class="chip" data-filter="highlight" aria-pressed="false">★ Highlights <span>{{ highlights }}</span></button>{% endif %}
+      {% for type, label, count in filters %}
+      <button type="button" class="chip" data-filter="{{ type }}" aria-pressed="false">{{ label }} <span>{{ count }}</span></button>
+      {% endfor %}
+      <span class="views" role="group" aria-label="View" hidden>
+        <button type="button" class="chip" data-view="list" aria-pressed="true">List</button>
+        <button type="button" class="chip" data-view="calendar" aria-pressed="false">Calendar</button>
+      </span>
+    </nav>
+
+    <div id="list-view">
+      <div id="upcoming">{{ month_sections(months, "m") }}</div>
+      <p class="empty"{% if total %} hidden{% endif %}>{% if total %}No upcoming events of this type right now.{% else %}No upcoming blues events found right now — check back tomorrow.{% endif %}</p>
+      {% if past_total %}
+      <details class="past" id="past">
+        <summary>Past events <span>{{ past_total }}</span></summary>
+        {{ month_sections(past_months, "p") }}
+      </details>
+      {% endif %}
     </div>
-    <p class="empty" hidden>No events of this type right now.</p>
     <section id="calendar-view" class="calendar" aria-label="Calendar" hidden></section>
     <script type="application/json" id="calendar-data">{{ calendar_json | safe }}</script>
     {% else %}

@@ -115,3 +115,16 @@ def test_no_highlight_chip_without_highlights(tmp_path):
     page = BeautifulSoup((tmp_path / "dist" / "index.html").read_text(encoding="utf-8"), "lxml")
     assert page.select_one('.chip[data-filter="highlight"]') is None
     assert "highlight" not in calendar_events([Event.from_dict(data["events"][0])])[0]["extendedProps"]
+
+
+def test_past_highlight_keeps_chip(tmp_path):
+    # Only an archived Boogie-Bären workshop: the chip stays (counting 0 upcoming), the card keeps its badge
+    data = {"generated_at": "2026-10-16T04:00:00+00:00", "sources": [], "events": [
+        ev("Blues Intensive", type="workshop", start="2026-10-10", source_id="bb", source_name="Boogie-Bären",
+           id="ws").to_dict()]}
+    data_path = tmp_path / "events.json"
+    data_path.write_text(json.dumps(data))
+    build(data_path, tmp_path / "dist", TODAY, highlights(tmp_path))
+    page = BeautifulSoup((tmp_path / "dist" / "index.html").read_text(encoding="utf-8"), "lxml")
+    assert page.select_one('.chip[data-filter="highlight"] span').text == "0"
+    assert page.select_one("#past .card")["data-highlight"] == ""

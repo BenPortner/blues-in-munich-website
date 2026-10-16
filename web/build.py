@@ -55,41 +55,58 @@ def fmt_span(event: Event) -> str:
     return ""
 
 
-def view_model(data: dict, today: date, highlights: Highlights) -> dict:
-    events = [Event.from_dict(e) for e in data["events"]]
-    events = [e for e in events if e.last_date >= today.isoformat()]
-    events.sort(key=lambda e: (e.next_date(today), e.start, e.title))
+def card(e: Event, today: date, highlights: Highlights) -> dict:
+    past = e.last_date < today.isoformat()
+    # Past events sit on their first day; their course sessions are all listed
+    sessions = [_day(d) for d in e.dates if past or d >= today.isoformat()]
+    return {
+        "e": e,
+        "day": _day(e.start if past else e.next_date(today)),
+        "label": TYPE_LABELS.get(e.type, e.type.title()),
+        "time": fmt_time(e),
+        "span": fmt_span(e),
+        "sessions": ", ".join(fmt_day(d, False) for d in sessions),
+        "sessions_label": "Sessions" if past else "Upcoming sessions",
+        "session_count": len(e.dates),
+        "highlight": highlights.reason(e),
+    }
 
-    cards = []
-    for e in events:
-        upcoming = [_day(d) for d in e.dates if d >= today.isoformat()]
-        cards.append({
-            "e": e,
-            "day": _day(e.next_date(today)),
-            "label": TYPE_LABELS.get(e.type, e.type.title()),
-            "time": fmt_time(e),
-            "span": fmt_span(e),
-            "sessions": ", ".join(fmt_day(d, False) for d in upcoming),
-            "session_count": len(e.dates),
-            "highlight": highlights.reason(e),
-        })
 
+def group_months(cards: list[dict], today: date) -> list[dict]:
     months = []
     for (year, month), month_cards in groupby(cards, key=lambda c: (c["day"].year, c["day"].month)):
-        month_cards = list(month_cards)
         days = [{"day": d, "label": fmt_day(d), "is_today": d == today, "cards": list(cs)}
                 for d, cs in groupby(month_cards, key=lambda c: c["day"])]
         months.append({"label": date(year, month, 1).strftime("%B %Y"), "days": days})
+    return months
+
+
+def view_model(data: dict, today: date, highlights: Highlights) -> dict:
+    events = [Event.from_dict(e) for e in data["events"]]
+    upcoming = sorted((e for e in events if e.last_date >= today.isoformat()),
+                      key=lambda e: (e.next_date(today), e.start, e.title))
+    # Archived past events (the runner decides what's kept), newest first
+    past = sorted((e for e in events if e.last_date < today.isoformat()),
+                  key=lambda e: (e.start, e.title), reverse=True)
+
+    cards = [card(e, today, highlights) for e in upcoming]
+    past_cards = [card(e, today, highlights) for e in past]
 
     generated = datetime.fromisoformat(data["generated_at"]).astimezone(MUNICH)
-    calendar_json = json.dumps(calendar_events(events, highlights), ensure_ascii=False).replace("</", "<\\/")
+    calendar_json = json.dumps(calendar_events(past[::-1] + upcoming, highlights),
+                               ensure_ascii=False).replace("</", "<\\/")
     counts = {t: sum(1 for c in cards if c["e"].type == t) for t, _ in FILTERS}
     return {
-        "months": months,
+        "months": group_months(cards, today),
+        "past_months": group_months(past_cards, today),
+        "past_total": len(past_cards),
         "calendar_json": calendar_json,
         "total": len(cards),
+        # Chips count upcoming events; a type with only past ones still gets a chip
+        "filters": [(t, label, counts[t]) for t, label in FILTERS
+                    if counts[t] or any(c["e"].type == t for c in past_cards)],
         "highlights": sum(1 for c in cards if c["highlight"]),
-        "filters": [(t, label, counts[t]) for t, label in FILTERS if counts[t]],
+        "highlight_chip": any(c["highlight"] for c in cards + past_cards),
         "sources": data.get("sources", []),
         "generated": f"{generated.day} {generated.strftime('%b %Y, %H:%M')}",
         "repo_url": os.environ.get("REPO_URL") or (

@@ -266,6 +266,19 @@ h1 {
 
 .empty { padding: 32px 0; color: var(--muted); text-align: center; }
 
+/* Past events: collapsed below the upcoming list, a little quieter */
+.past { margin-top: 40px; padding-top: 20px; border-top: 1px solid var(--line); }
+.past summary {
+  width: fit-content;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 22px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.past summary span { color: var(--muted); font-family: system-ui, sans-serif; font-size: 15px; font-weight: 400; }
+.past .month h2 { font-size: 22px; color: var(--muted); }
+.past .card { opacity: .85; }
+
 /* --- footer ------------------------------------------------------------ */
 .footer { margin-top: 40px; padding-top: 24px; padding-bottom: 48px; border-top: 1px solid var(--line); color: var(--muted); }
 .footer h2 { margin: 0 0 6px; color: var(--ink); font-size: 18px; }

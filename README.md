@@ -44,6 +44,10 @@ Then try it with `python -m scraper --dry-run --source <id>`.
 
 To add a one-off event (a festival or an exchange), add it to `manual_events.yaml`.
 
+### Past events
+
+Events that ended on or after `archive.since` in `sources.yaml` (currently 1 Jan 2026) stay listed after they're over, under a collapsed "Past events" section and in the calendar. Add `archive.types` to keep only some event types. Sites take past events off their pages, so each run carries archived events over from the previous `data/events.json`. If a source's page still lists the event, the freshly scraped copy replaces the archived one. Archived events of a source that's disabled or removed drop out.
+
 ### Robustness
 
 Each source runs in isolation. If a site is down, or its page suddenly yields no events at all (a layout change), the scraper keeps that source's events from the previous run and marks the source "update failed" in the site footer. Search APIs (Ticketmaster) are the exception: zero results there just means nothing is on, so the source still counts as ok. A source whose API key is missing is skipped.

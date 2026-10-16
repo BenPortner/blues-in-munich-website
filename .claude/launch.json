@@ -6,6 +6,12 @@
       "runtimeExecutable": ".venv/Scripts/python.exe",
       "runtimeArgs": ["-m", "http.server", "-d", "dist", "8000"],
       "port": 8000
+    },
+    {
+      "name": "site-alt",
+      "runtimeExecutable": ".venv/Scripts/python.exe",
+      "runtimeArgs": ["-m", "http.server", "-d", "dist", "8001"],
+      "port": 8001
     }
   ]
 }

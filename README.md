@@ -59,7 +59,7 @@ Some events get a ★ Highlight badge and their own filter chip. [`highlights.ya
 - `always`: event types from a given source, e.g. every Boogie-Bären workshop.
 - concerts and festivals in big venues: rough capacities and a cutoff (`min_capacity`, currently 400). Venues that aren't listed never count. `python -m web.build` prints the concert venues it couldn't find, so you can add them.
 
-The badge's tooltip says why an event is a highlight.
+Above the list, an *Upcoming highlights* box sums up this month's and next month's highlights (shown with the *All* filter only).
 
 ## Local development
 

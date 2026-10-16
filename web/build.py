@@ -72,6 +72,12 @@ def card(e: Event, today: date, highlights: Highlights) -> dict:
     }
 
 
+def spotlight_months(today: date) -> tuple[date, date]:
+    """First days of this month and the next: the "Upcoming highlights" box covers both."""
+    this = today.replace(day=1)
+    return this, (this + timedelta(days=32)).replace(day=1)
+
+
 def group_months(cards: list[dict], today: date) -> list[dict]:
     months = []
     for (year, month), month_cards in groupby(cards, key=lambda c: (c["day"].year, c["day"].month)):
@@ -96,7 +102,12 @@ def view_model(data: dict, today: date, highlights: Highlights) -> dict:
     calendar_json = json.dumps(calendar_events(past[::-1] + upcoming, highlights),
                                ensure_ascii=False).replace("</", "<\\/")
     counts = {t: sum(1 for c in cards if c["e"].type == t) for t, _ in FILTERS}
+    this_month, next_month = spotlight_months(today)
+    after = (next_month + timedelta(days=32)).replace(day=1)
+    spotlight = [{**c, "day_label": fmt_day(c["day"])} for c in cards if c["highlight"] and c["day"] < after]
     return {
+        "spotlight": spotlight,
+        "spotlight_label": f"{this_month:%B} & {next_month:%B}",
         "months": group_months(cards, today),
         "past_months": group_months(past_cards, today),
         "past_total": len(past_cards),

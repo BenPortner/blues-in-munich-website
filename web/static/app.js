@@ -6,6 +6,7 @@
   if (!chips.length) return;
   var empty = document.querySelector("main .empty");
   var past = document.getElementById("past");
+  var spotlight = document.getElementById("spotlight");
   var listView = document.getElementById("list-view");
   var calView = document.getElementById("calendar-view");
   var viewButtons = document.querySelectorAll(".chip[data-view]");
@@ -47,6 +48,8 @@
       month.hidden = !month.querySelector(".day:not([hidden])");
     });
     if (past) past.hidden = !past.querySelector(".month:not([hidden])");
+    // The highlights box is an overview: only above the full list
+    if (spotlight) spotlight.hidden = state.type !== "all";
     // Whether any upcoming event is left; the past section doesn't count
     return !!document.querySelector("#upcoming .month:not([hidden])");
   }

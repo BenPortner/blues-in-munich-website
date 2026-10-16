@@ -36,7 +36,7 @@
           <article class="card type-{{ e.type }}{% if c.highlight %} highlight{% endif %}" data-type="{{ e.type }}"{% if c.highlight %} data-highlight{% endif %}>
             <p class="meta">
               <span class="badge">{{ c.label }}</span>
-              {% if c.highlight %}<span class="star" title="{{ c.highlight }}">★ Highlight</span>{% endif %}
+              {% if c.highlight %}<span class="star">★ Highlight</span>{% endif %}
               {% if c.span %}<span>{{ c.span }}</span>{% endif %}
               {% if c.time %}<span>{{ c.time }}</span>{% endif %}
             </p>
@@ -76,6 +76,20 @@
     </nav>
 
     <div id="list-view">
+      {% if spotlight %}
+      <section class="spotlight" id="spotlight" aria-labelledby="spotlight-h">
+        <h2 id="spotlight-h">★ Upcoming highlights <span>{{ spotlight_label }}</span></h2>
+        <ul>
+          {% for c in spotlight %}{% set e = c.e %}
+          <li class="type-{{ e.type }}">
+            <time datetime="{{ c.day.isoformat() }}">{{ c.day_label }}{% if c.time %} · {{ c.time.split('–')[0] }}{% endif %}</time>
+            <a href="{{ e.url }}" rel="noopener">{{ e.title }}</a>
+            {% if e.venue %}<span class="where">{{ e.venue }}</span>{% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+      </section>
+      {% endif %}
       <div id="upcoming">{{ month_sections(months, "m") }}</div>
       <p class="empty"{% if total %} hidden{% endif %}>{% if total %}No upcoming events of this type right now.{% else %}No upcoming blues events found right now — check back tomorrow.{% endif %}</p>
       {% if past_total %}

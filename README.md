@@ -50,7 +50,12 @@ Each source runs in isolation. If a site is down, or its page suddenly yields no
 
 ### Highlights
 
-Concerts and festivals in big venues get a ★ Highlight badge and their own filter chip. Venue sizes live in [`venues.yaml`](venues.yaml): rough capacities and the cutoff (`highlight_min_capacity`, currently 400). Venues that aren't listed never count as highlights. `python -m web.build` prints the concert venues it couldn't find, so you can add them to the list.
+Some events get a ★ Highlight badge and their own filter chip. [`highlights.yaml`](highlights.yaml) decides which:
+
+- `always`: event types from a given source, e.g. every Boogie-Bären workshop.
+- concerts and festivals in big venues: rough capacities and a cutoff (`min_capacity`, currently 400). Venues that aren't listed never count. `python -m web.build` prints the concert venues it couldn't find, so you can add them.
+
+The badge's tooltip says why an event is a highlight.
 
 ## Local development
 

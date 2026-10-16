@@ -15,7 +15,7 @@ from icalendar import Event as ICalEvent
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from scraper.models import Event
-from web.venues import Venues
+from web.highlights import Highlights
 
 ROOT = Path(__file__).resolve().parent.parent
 HERE = Path(__file__).resolve().parent
@@ -55,7 +55,7 @@ def fmt_span(event: Event) -> str:
     return ""
 
 
-def view_model(data: dict, today: date, venues: Venues) -> dict:
+def view_model(data: dict, today: date, highlights: Highlights) -> dict:
     events = [Event.from_dict(e) for e in data["events"]]
     events = [e for e in events if e.last_date >= today.isoformat()]
     events.sort(key=lambda e: (e.next_date(today), e.start, e.title))
@@ -63,7 +63,6 @@ def view_model(data: dict, today: date, venues: Venues) -> dict:
     cards = []
     for e in events:
         upcoming = [_day(d) for d in e.dates if d >= today.isoformat()]
-        capacity = venues.capacity(e.venue)
         cards.append({
             "e": e,
             "day": _day(e.next_date(today)),
@@ -72,8 +71,7 @@ def view_model(data: dict, today: date, venues: Venues) -> dict:
             "span": fmt_span(e),
             "sessions": ", ".join(fmt_day(d, False) for d in upcoming),
             "session_count": len(e.dates),
-            "highlight": venues.is_highlight(e),
-            "capacity": f"{capacity:,}" if capacity else None,
+            "highlight": highlights.reason(e),
         })
 
     months = []
@@ -84,7 +82,7 @@ def view_model(data: dict, today: date, venues: Venues) -> dict:
         months.append({"label": date(year, month, 1).strftime("%B %Y"), "days": days})
 
     generated = datetime.fromisoformat(data["generated_at"]).astimezone(MUNICH)
-    calendar_json = json.dumps(calendar_events(events, venues), ensure_ascii=False).replace("</", "<\\/")
+    calendar_json = json.dumps(calendar_events(events, highlights), ensure_ascii=False).replace("</", "<\\/")
     counts = {t: sum(1 for c in cards if c["e"].type == t) for t, _ in FILTERS}
     return {
         "months": months,
@@ -113,12 +111,12 @@ def _next_day(iso: str) -> str:
     return (_day(iso) + timedelta(days=1)).isoformat()
 
 
-def calendar_events(events: list[Event], venues: Venues | None = None) -> list[dict]:
+def calendar_events(events: list[Event], highlights: Highlights | None = None) -> list[dict]:
     """Entries for the FullCalendar view. Times stay naive Munich wall-clock; the page renders in UTC
     so they show exactly as written. FullCalendar's `end` is exclusive, like iCal's all-day DTEND."""
     items = []
     for e in events:
-        highlight = bool(venues and venues.is_highlight(e))
+        highlight = bool(highlights and highlights.reason(e))
         for n, (start, end) in enumerate(occurrences(e)):
             all_day = "T" not in start
             if end and all_day != ("T" not in end):  # mixed date/time: stretch to the end of that day
@@ -176,12 +174,12 @@ def build_ics(data: dict) -> bytes:
     return cal.to_ical()
 
 
-def build(data_path: Path, out: Path, today: date, venues_path: Path = ROOT / "venues.yaml") -> list[str]:
-    """Render the site; returns the concert venues missing from venues.yaml."""
+def build(data_path: Path, out: Path, today: date, highlights: Highlights | None = None) -> list[str]:
+    """Render the site; returns the concert venues missing from highlights.yaml."""
     data = json.loads(data_path.read_text(encoding="utf-8"))
-    venues = Venues.load(venues_path)
+    highlights = highlights or Highlights.load(ROOT / "highlights.yaml")
     env = Environment(loader=FileSystemLoader(HERE / "templates"), autoescape=select_autoescape(["html", "j2"]))
-    html = env.get_template("index.html.j2").render(**view_model(data, today, venues))
+    html = env.get_template("index.html.j2").render(**view_model(data, today, highlights))
 
     if out.exists():
         shutil.rmtree(out)
@@ -190,7 +188,7 @@ def build(data_path: Path, out: Path, today: date, venues_path: Path = ROOT / "v
     (out / "events.json").write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
     (out / "events.ics").write_bytes(build_ics(data))
     (out / ".nojekyll").write_text("")
-    return venues.unknown([Event.from_dict(e) for e in data["events"]])
+    return highlights.unknown_venues([Event.from_dict(e) for e in data["events"]])
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -202,7 +200,7 @@ def main(argv: list[str] | None = None) -> int:
     unknown = build(args.data, args.out, args.today or datetime.now(MUNICH).date())
     print(f"built {args.out / 'index.html'}")
     if unknown:
-        print(f"{len(unknown)} concert venues have no capacity in venues.yaml (never highlighted):")
+        print(f"{len(unknown)} concert venues have no capacity in highlights.yaml (never highlighted):")
         for venue in unknown:
             print(f"  {venue}")
     return 0

@@ -1,6 +1,6 @@
 // Type filter chips and the List / Calendar switch. The page works without JS as a plain list.
-// URL hash keeps the state: "#concert", "#calendar", "#calendar/concert". "highlight" is a filter too:
-// concerts in big venues.
+// URL hash keeps the state: "#concert", "#calendar", "#calendar/concert". "highlight" is a filter too
+// (see highlights.yaml).
 (function () {
   var chips = document.querySelectorAll(".chip[data-filter]");
   if (!chips.length) return;

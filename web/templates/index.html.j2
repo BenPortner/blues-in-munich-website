@@ -49,7 +49,7 @@
           <article class="card type-{{ e.type }}{% if c.highlight %} highlight{% endif %}" data-type="{{ e.type }}"{% if c.highlight %} data-highlight{% endif %}>
             <p class="meta">
               <span class="badge">{{ c.label }}</span>
-              {% if c.highlight %}<span class="star" title="Big venue: about {{ c.capacity }} people">★ Highlight</span>{% endif %}
+              {% if c.highlight %}<span class="star" title="{{ c.highlight }}">★ Highlight</span>{% endif %}
               {% if c.span %}<span>{{ c.span }}</span>{% endif %}
               {% if c.time %}<span>{{ c.time }}</span>{% endif %}
             </p>

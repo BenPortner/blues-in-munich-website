@@ -1,16 +1,21 @@
-# Rough venue capacities, used to mark big concerts as highlights.
+# What counts as a highlight on the site: a ★ badge and the "Highlights" filter chip.
 #
-# A concert or festival is a highlight when its venue holds at least
-# `highlight_min_capacity` people. Venues not listed here never count as highlights;
-# `python -m web.build` prints the concert venues it couldn't find, so you can add them.
+# 1. `always`: events of these types from these sources (ids from sources.yaml).
+# 2. Concerts and festivals in a venue that holds at least `min_capacity` people.
+#    Venues not listed below never count; `python -m web.build` prints the concert
+#    venues it couldn't find, so you can add them.
 #
-# Matching ignores case, accents and punctuation, and looks for `name` (or any `match`
-# alias) as whole words inside the event's venue. The longest match wins, so
+# Venue matching ignores case, accents and punctuation, and looks for `name` (or any
+# `match` alias) as whole words inside the event's venue. The longest match wins, so
 # "Schlachthof – Ox" picks the Ox entry over plain "Schlachthof".
 #
-# Numbers are approximate. They only need to land on the right side of the threshold.
+# Capacities are approximate. They only need to land on the right side of the cutoff.
 
-highlight_min_capacity: 400
+always:
+  - source: boogie-baeren
+    types: [workshop]
+
+min_capacity: 400
 
 venues:
   # --- big halls and arenas -------------------------------------------------

@@ -41,6 +41,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git stash push -- data/events.json
+          git pull --ff-only origin main
+          git stash pop
           git add data/events.json
           if git diff --cached --quiet; then
             echo "No changes"

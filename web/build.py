@@ -20,6 +20,7 @@ from web.highlights import Highlights
 ROOT = Path(__file__).resolve().parent.parent
 HERE = Path(__file__).resolve().parent
 MUNICH = ZoneInfo("Europe/Berlin")
+SITE_HOST = "www.bluesinmunich.de"  # must match the CNAME written by .github/workflows/daily.yml
 
 # Operator details for the legal pages, stored reversed so they don't sit in the source as plain text
 LEGAL = {"name": "rentroP .W nimajneB"[::-1], "email": "ed.rentrop-nimajneb@retsambew"[::-1]}
@@ -115,6 +116,8 @@ def view_model(data: dict, today: date, highlights: Highlights) -> dict:
         "past_months": group_months(past_cards, today),
         "past_total": len(past_cards),
         "calendar_json": calendar_json,
+        # webcal:// makes calendar apps subscribe (and keep polling) instead of importing a one-off copy
+        "webcal_url": f"webcal://{SITE_HOST}/events.ics",
         "total": len(cards),
         # Chips count upcoming events; a type with only past ones still gets a chip
         "filters": [(t, label, counts[t]) for t, label in FILTERS

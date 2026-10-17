@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T23:42:32+00:00",
+  "generated_at": "2026-10-17T00:06:47+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -975,7 +975,7 @@
       "url": "https://berndbauerbluesband.de/termine/",
       "venue": "Glockenbachwerkstatt",
       "address": "Blumenstraße 7, 80331 München",
-      "description": "",
+      "description": "Fisch: 19:00 Uhr · kostenlos",
       "recurrence": null,
       "dates": [],
       "tags": [],
@@ -985,28 +985,6 @@
       "school_url": null,
       "known_artist": null,
       "id": "46cc8e7fe474"
-    },
-    {
-      "title": "Bernd Bauer Blues Band",
-      "type": "concert",
-      "start": "2026-06-03T20:30",
-      "end": null,
-      "url": "https://www.glockenbachwerkstatt.de/events/fishnblues-berd-bauer22-07-26/",
-      "venue": "Glockenbachwerkstatt",
-      "address": "Blumenstraße 7, 80331 München",
-      "description": "Fisch: 19:00 Uhr · kostenlos",
-      "recurrence": null,
-      "dates": [],
-      "tags": [
-        "Fish'n Blues",
-        "Konzert"
-      ],
-      "source_id": "glockenbachwerkstatt",
-      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
-      "school_name": null,
-      "school_url": null,
-      "known_artist": null,
-      "id": "04d49ca83eca"
     },
     {
       "title": "Blues & Boogie Clubabend",
@@ -1590,7 +1568,7 @@
       "id": "3c8ff57fe429"
     },
     {
-      "title": "Inninger Bluestage 2026: Chris Kramer & Beat Box'n' Blues + Al Jones Band",
+      "title": "Inninger Bluestage 2026: Chris Kramer & Beat Box’n‘ Blues + Al Jones Band",
       "type": "concert",
       "start": "2026-10-17T19:30",
       "end": "2026-10-17T23:00",
@@ -1649,7 +1627,7 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "known_artist": "Henrik Freischlader",
       "id": "d3f28b38d0c8"
     },
     {
@@ -1774,7 +1752,7 @@
       "title": "Bernd Bauer Blues Band: Stormy Wednesday",
       "type": "concert",
       "start": "2026-10-21T20:00",
-      "end": null,
+      "end": "2026-10-21T22:30",
       "url": "https://berndbauerbluesband.de/termine/",
       "venue": "Kulturzentrum Giesinger Bahnhof",
       "address": "Giesinger Bahnhofplatz 1, 81539  München",
@@ -1788,27 +1766,6 @@
       "school_url": null,
       "known_artist": null,
       "id": "b0270a701912"
-    },
-    {
-      "title": "Session Stormy Wednesday",
-      "type": "concert",
-      "start": "2026-10-21T20:00",
-      "end": "2026-10-21T22:30",
-      "url": "https://www.in-muenchen.de/events/session-stormy-wednesday.html",
-      "venue": "Kulturzentrum Giesinger Bahnhof",
-      "address": "Giesinger Bahnhofplatz 1, 81539 München",
-      "description": "Im Giesinger Bahnhof entfaltet sich eine akustische Blues Session voller Spontanität und Spielfreude. Unbekannte musikalische Gäste bringen ihre Instrumente und Stimmen mit, um das Bühnengeschehen zu bereichern. Gastgeber ist die Bernd Bauer Blues Band, die den Abend mit einem Set eröffnet.",
-      "recurrence": null,
-      "dates": [],
-      "tags": [
-        "Blues"
-      ],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
-      "school_name": null,
-      "school_url": null,
-      "known_artist": null,
-      "id": "0a3e78e7c2a1"
     },
     {
       "title": "Louis Ville",
@@ -2124,7 +2081,7 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "known_artist": "The Temperance Movement",
       "id": "714b17e73942"
     },
     {
@@ -2145,7 +2102,7 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "known_artist": "Eric Bibb",
       "id": "9bd3abe604be"
     },
     {
@@ -2277,7 +2234,7 @@
       "id": "bfec1062fced"
     },
     {
-      "title": "Bin I Kini?! - Der Prinzregenten-Blues",
+      "title": "Bin I Kini?! – Der Prinzregenten-Blues",
       "type": "concert",
       "start": "2026-11-17T20:00",
       "end": null,
@@ -2529,7 +2486,7 @@
       "id": "127efe9843d6"
     },
     {
-      "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
+      "title": "Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich",
       "type": "concert",
       "start": "2026-12-01T20:00",
       "end": null,
@@ -2962,7 +2919,7 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "known_artist": "Graveyard",
       "id": "8b0fe5e4c983"
     },
     {
@@ -2983,7 +2940,7 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "known_artist": "Bernard Allison",
       "id": "c780e652c65f"
     },
     {
@@ -3004,7 +2961,7 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "known_artist": "Ash Grunwald",
       "id": "09c6aca9c076"
     },
     {
@@ -3088,7 +3045,7 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "known_artist": "Joe Bonamassa",
       "id": "3ede1066ee72"
     },
     {
@@ -3188,7 +3145,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 8,
-      "kept": 44
+      "kept": 43
     },
     {
       "id": "bernd-bauer-blues-band",
@@ -3233,15 +3190,15 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 164,
-      "kept": 57
+      "kept": 56
     },
     {
       "id": "ticketmaster",
       "name": "Ticketmaster (genre Blues)",
       "url": "https://www.ticketmaster.de/",
       "kind": "aggregator",
-      "status": "skipped",
-      "error": "no API key set",
+      "status": "ok",
+      "found": 0,
       "kept": 0
     },
     {

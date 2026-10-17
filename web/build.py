@@ -21,6 +21,9 @@ ROOT = Path(__file__).resolve().parent.parent
 HERE = Path(__file__).resolve().parent
 MUNICH = ZoneInfo("Europe/Berlin")
 
+# Operator details for the legal pages, stored reversed so they don't sit in the source as plain text
+LEGAL = {"name": "rentroP .W nimajneB"[::-1], "email": "ed.rentrop-nimajneb@retsambew"[::-1]}
+
 TYPE_LABELS = {
     "class": "Class", "workshop": "Workshop", "social": "Social",
     "concert": "Concert",
@@ -204,17 +207,27 @@ def build_ics(data: dict) -> bytes:
     return cal.to_ical()
 
 
+def obfuscate_email(addr: str) -> str:
+    """Spell the address as "name [at] domain [dot] tld" so it can't be scraped as an email."""
+    user, domain = addr.split("@")
+    return f"{user} [at] {domain.replace('.', ' [dot] ')}"
+
+
 def build(data_path: Path, out: Path, today: date, highlights: Highlights | None = None) -> list[str]:
     """Render the site; returns the concert venues missing from highlights.yaml."""
     data = json.loads(data_path.read_text(encoding="utf-8"))
     highlights = highlights or Highlights.load(ROOT / "highlights.yaml")
     env = Environment(loader=FileSystemLoader(HERE / "templates"), autoescape=select_autoescape(["html", "j2"]))
+    env.filters["obfuscate"] = obfuscate_email
     html = env.get_template("index.html.j2").render(**view_model(data, today, highlights))
 
     if out.exists():
         shutil.rmtree(out)
     shutil.copytree(HERE / "static", out / "static")
     (out / "index.html").write_text(html, encoding="utf-8")
+    for page, title in (("impressum", "Impressum"), ("datenschutz", "Datenschutzerklärung")):
+        (out / f"{page}.html").write_text(
+            env.get_template("legal.html.j2").render(page=page, title_de=title, legal=LEGAL), encoding="utf-8")
     (out / "events.json").write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
     (out / "events.ics").write_bytes(build_ics(data))
     (out / ".nojekyll").write_text("")

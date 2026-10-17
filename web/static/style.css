@@ -335,3 +335,9 @@ h1 {
   .calendar .fc-toolbar-chunk { display: flex; justify-content: center; }
   .calendar .fc-toolbar-title { font-size: 19px; }
 }
+
+/* --- Impressum / Datenschutz ------------------------------------------- */
+.legal { padding-top: 32px; padding-bottom: 48px; max-width: 760px; }
+.legal h1 { font-family: Georgia, "Times New Roman", serif; }
+.legal h2 { margin: 24px 0 6px; font-size: 18px; }
+.legal hr { margin: 32px 0 0; border: 0; border-top: 1px solid var(--line); }

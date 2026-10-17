@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T15:24:16+00:00",
+  "generated_at": "2026-10-17T15:49:26+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -1755,6 +1755,33 @@
       ],
       "known_artists": [],
       "id": "45262f822c94"
+    },
+    {
+      "title": "Adrenalines",
+      "type": "concert",
+      "start": "2026-10-17T14:00",
+      "end": "2026-10-17T16:00",
+      "url": "https://www.gansamwasser.de/kulturprogramm/herbstfest/",
+      "venue": "Café Gans am Wasser",
+      "address": "Mollsee im Westpark, 81373 München",
+      "description": "Die ADRENALINES sind seit 2020 in ganz Süddeutschland unterwegs, haben eine Vielzahl von umjubelten Gigs in Clubs, Kneipen und auf Stadtfesten gespielt und konnten sich dadurch eine solide Fanbase erarbeiten. Mit neuem Repertoire aus Blues-Rock-Soul und dabei vielen tanzbaren Songs, sorgen die ADRENALINES richtig für Partystimmung! Alle Songs werden mit viel Emotion und Leidenschaft zelebriert, dabei immer präsent sind Spielfreude, der ansteckende Groove, das brillante Wechselspiel zwischen Gitarre und Keyboards sowie der unverwechselbare Sound der Band. Die ausdrucksstarken Lead-Vocals und de",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Livemusik"
+      ],
+      "source_id": "gans-am-wasser",
+      "source_name": "Café Gans am Wasser",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Adrenalines",
+          "url": "https://www.last.fm/music/Adrenalines"
+        }
+      ],
+      "known_artists": [],
+      "id": "bb00070c6ab9"
     },
     {
       "title": "Inninger Bluestage 2026: Chris Kramer & Beat Box’n‘ Blues + Al Jones Band",
@@ -3881,6 +3908,15 @@
       "status": "ok",
       "found": 11,
       "kept": 0
+    },
+    {
+      "id": "gans-am-wasser",
+      "name": "Café Gans am Wasser",
+      "url": "https://www.gansamwasser.de/",
+      "kind": "venue",
+      "status": "ok",
+      "found": 15,
+      "kept": 1
     },
     {
       "id": "swinginmunich",

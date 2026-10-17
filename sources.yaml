@@ -12,7 +12,7 @@
 #                 site-specific: vintage_club, boogie_baeren, unterfahrt,
 #                          glockenbachwerkstatt, misterbs, swinginmunich, ticketmaster,
 #                          inmuenchen,
-#                          oksanapavlova, rheinpfalz_schwabing
+#                          oksanapavlova, rheinpfalz_schwabing, gansamwasser
 #   enabled       false to keep an entry without scraping it
 #   default_type  class | workshop | social | concert (when not inferable)
 #   filter        blues        keep events mentioning blues (title/description/tags)
@@ -111,6 +111,15 @@ sources:
     enabled: true
     default_type: concert
     filter: blues_title    # small jazz/live bar: artist bios mention blues in passing
+
+  - id: gans-am-wasser
+    name: Café Gans am Wasser
+    kind: venue
+    url: https://www.gansamwasser.de/
+    adapter: gansamwasser
+    enabled: true
+    default_type: concert
+    filter: blues          # beer garden in Westpark: free live music (pop/folk/rock), plus kids' and culture events
 
   # --- Aggregators ---------------------------------------------------------
   - id: swinginmunich

@@ -107,21 +107,31 @@ def find_artists(title: str, lookup: Callable[[str], Artist | None], ignore: set
 
 
 class LastFm:
-    """Cached `artist.getInfo` lookups. Returns None for names Last.fm doesn't know."""
+    """Cached `artist.getInfo` lookups. Returns None for names Last.fm doesn't know, unless
+    `links` (name: url, from highlights.yaml) has the name: that url replaces the Last.fm one."""
 
     def __init__(self, http, api_key: str | None, cache: dict, today: date,
-                 aliases: dict[str, str] | None = None, max_lookups: int = MAX_LOOKUPS):
+                 aliases: dict[str, str] | None = None, max_lookups: int = MAX_LOOKUPS,
+                 links: dict[str, str] | None = None):
         self.http = http
         self.api_key = api_key
         self.cache = cache
         self.today = today
         self.aliases = {slug(k): v for k, v in (aliases or {}).items()}
+        self.links = {slug(k): (k, v) for k, v in (links or {}).items()}
         self.budget = max_lookups
         self.used: set[str] = set()
         self.lookups = 0
 
     def __call__(self, name: str) -> Artist | None:
         name = self.aliases.get(slug(name), name)
+        hit = self._lookup(name)
+        link = self.links.get(slug(name)) or (hit and self.links.get(slug(hit.name)))
+        if link:
+            return Artist(hit.name if hit else link[0], hit.listeners if hit else 0, link[1])
+        return hit
+
+    def _lookup(self, name: str) -> Artist | None:
         key = slug(name)
         self.used.add(key)
         entry = self.cache.get(key)
@@ -176,7 +186,8 @@ def load_settings(path: Path) -> dict:
     raw = raw.get("artists") or {}
     return {"min_listeners": raw.get("min_listeners", 50000),
             "ignore": {slug(n) for n in raw.get("ignore") or []},
-            "aliases": raw.get("aliases") or {}}
+            "aliases": raw.get("aliases") or {},
+            "links": raw.get("links") or {}}
 
 
 def enrich(events: list[dict], http, api_key: str | None, cache_path: Path, settings_path: Path,
@@ -184,7 +195,7 @@ def enrich(events: list[dict], http, api_key: str | None, cache_path: Path, sett
     """Set `artists` and `known_artists` on concert events (dicts, as written to events.json)."""
     settings = load_settings(settings_path)
     cache = json.loads(cache_path.read_text(encoding="utf-8")) if cache_path.exists() else {}
-    lastfm = LastFm(http, api_key, cache, today, settings["aliases"])
+    lastfm = LastFm(http, api_key, cache, today, settings["aliases"], links=settings["links"])
     if not api_key:
         log.info("no LASTFM_API_KEY set: using cached artist data only")
     for event in events:

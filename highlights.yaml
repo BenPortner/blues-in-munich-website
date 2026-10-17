@@ -39,6 +39,9 @@ artists:
   # Acts billed differently from their Last.fm name: "name in the title": "Last.fm name"
   aliases:
     Devon Allman Blues Summit: Devon Allman
+  # Links for the event cards, replacing the Last.fm profile: "name": url. Also links acts that
+  # Last.fm doesn't know (they never count as well-known).
+  links: {}
 
 min_capacity: 400
 

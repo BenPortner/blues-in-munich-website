@@ -105,6 +105,16 @@ def test_lastfm_aliases():
     assert find_artists(title, lastfm) == [Artist("Devon Allman", 60000)]
 
 
+def test_lastfm_links():
+    links = {"Ana Popovic": "https://anapopovic.com/", "Louis Ville": "https://www.last.fm/music/Louis+Ville+(DE)"}
+    lastfm = LastFm(FakeLastFm(), "key", {}, TODAY, links=links)
+    ana = lastfm("ana popovic")
+    assert (ana.name, ana.listeners, ana.url) == ("Ana Popovic", 79400, "https://anapopovic.com/")
+    louis = lastfm("Louis Ville")  # unknown to Last.fm, linked anyway
+    assert (louis.name, louis.listeners, louis.url) == ("Louis Ville", 0, links["Louis Ville"])
+    assert lastfm("Joe Bonamassa").url == "https://www.last.fm/music/Joe+Bonamassa"
+
+
 def test_enrich(tmp_path):
     settings = tmp_path / "highlights.yaml"
     settings.write_text("artists:\n  min_listeners: 50000\n  ignore: [Peter Karp]\n", encoding="utf-8")

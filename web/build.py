@@ -73,6 +73,9 @@ def card(e: Event, today: date, highlights: Highlights) -> dict:
         "sessions_label": "Sessions" if past else "Upcoming sessions",
         "session_count": len(e.dates),
         "highlight": highlights.reason(e),
+        # artists.links in highlights.yaml may point elsewhere than Last.fm
+        "artists_label": "On Last.fm" if all(a["url"].startswith("https://www.last.fm/") for a in e.artists)
+                         else "Artists",
     }
 
 

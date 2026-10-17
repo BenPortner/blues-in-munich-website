@@ -204,6 +204,10 @@ def test_lastfm_credit_only_with_artist_data(tmp_path):
     link = local.select_one(".card .artists a")
     assert link.text == "Louis Ville" and link["href"] == url
     assert local.select_one(".lastfm a") and not local.select_one(".card").has_attr("data-highlight")
+    assert local.select_one(".card .artists").text.startswith("On Last.fm:")
+    own = page_for([ev("Louis Ville", start="2026-10-22T20:00", venue="Some Bar", id="lv",
+                       artists=[{"name": "Louis Ville", "url": "https://louisville.example/"}]).to_dict()])
+    assert own.select_one(".card .artists").text.startswith("Artists:")
 
 
 def test_reason_picked_by_hand(tmp_path):

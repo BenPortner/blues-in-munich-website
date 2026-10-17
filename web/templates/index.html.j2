@@ -45,7 +45,7 @@
             <p class="where">{{ e.venue or "" }}{% if e.venue and e.address %} · {% endif %}<span class="address">{{ e.address or "" }}</span></p>
             {% endif %}
             {% if e.artists %}
-            <p class="artists">On Last.fm: {% for a in e.artists %}<a href="{{ a.url }}" rel="noopener">{{ a.name }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</p>
+            <p class="artists">{{ c.artists_label }}: {% for a in e.artists %}<a href="{{ a.url }}" rel="noopener">{{ a.name }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</p>
             {% endif %}
             {% if e.recurrence %}
             <p class="recurrence">{{ e.recurrence }}{% if c.session_count %} · {{ c.session_count }}-week course block{% endif %}{% if c.sessions %}<br><span>{{ c.sessions_label }}: {{ c.sessions }}</span>{% endif %}</p>

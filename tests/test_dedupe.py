@@ -14,6 +14,9 @@ def test_differently_titled_listings_of_one_session():
     assert same_event(ev(BAND), ev("Session Stormy Wednesday"))
     assert same_event(ev("Stephan Zinner", venue="Schlachthof"),
                       ev("Stephan Zinner – Großstadtblues", venue="Schlachthof – Saal"))
+    # apostrophes and a different start time (20:00 vs 20:15) don't make two listings different
+    assert same_event(ev("William’s Wetsox", venue="Rheinpfalz Schwabing", start="2026-10-24T20:00"),
+                      ev("Williams Wetsox", venue="Rheinpfalz Schwabing", start="2026-10-24T20:15"))
     # no venue on one side: the start time has to match instead
     assert same_event(ev(BAND, venue=None), ev("Session Stormy Wednesday"))
     assert not same_event(ev(BAND, venue=None), ev("Session Stormy Wednesday", start="2026-10-21T21:00"))

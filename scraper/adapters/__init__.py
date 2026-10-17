@@ -9,6 +9,7 @@ from . import (  # noqa: F401
     mfgigcal,
     misterbs,
     oksanapavlova,
+    rheinpfalz_schwabing,
     swinginmunich,
     ticketmaster,
     unterfahrt,

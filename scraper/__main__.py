@@ -5,6 +5,7 @@ import argparse
 import json
 import logging
 import os
+import re
 import sys
 from datetime import date, datetime, timezone
 from pathlib import Path
@@ -95,6 +96,7 @@ _FILLER = {
 
 
 def _title_words(title: str) -> set[str]:
+    title = re.sub(r"['’`´]", "", title)  # "William’s" and "Williams" are the same word
     return {w for w in slug(title).split("-") if len(w) > 1 and w not in _FILLER}
 
 

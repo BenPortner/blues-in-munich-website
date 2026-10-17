@@ -2,7 +2,7 @@ import json
 from datetime import date
 
 from scraper.adapters import (boogie_baeren, glockenbachwerkstatt, ical, inmuenchen, jsonld, mfgigcal,
-                              swinginmunich, ticketmaster, unterfahrt, vintage_club)
+                              rheinpfalz_schwabing, swinginmunich, ticketmaster, unterfahrt, vintage_club)
 from scraper.filters import keep
 
 from .conftest import TODAY, fixture
@@ -259,3 +259,25 @@ def test_ical_expands_weekly_rule():
     events = ical.parse(ics, "social", TODAY, horizon_days=30)
     assert [e.start for e in events] == ["2026-10-21T20:00", "2026-10-28T20:00", "2026-11-04T20:00", "2026-11-11T20:00"]
     assert events[0].end == "2026-10-21T23:00"
+
+
+RP = "https://rheinpfalz-schwabing.de/veranstaltungen/"
+
+
+def test_rheinpfalz_schwabing_skips_closures_and_notices():
+    events = rheinpfalz_schwabing.parse(fixture("rp_events.html"), RP, TODAY)
+    titles = [e.title for e in events]
+    assert len(events) == 17
+    assert not [t for t in titles if "geschlossen" in t.lower() or "trauern" in t]
+    first = events[0]
+    assert (first.title, first.start, first.end, first.type) == ("Beat Stones", "2026-10-17T20:00", None, "concert")
+    assert first.venue == "Rheinpfalz Schwabing" and first.url == RP
+    # "20:00 – 20:00" on a private event must not become a zero-length end
+    assert all(e.end is None for e in events)
+
+
+def test_rheinpfalz_schwabing_blues_filter_keeps_blues_gigs():
+    events = rheinpfalz_schwabing.parse(fixture("rp_events.html"), RP, TODAY)
+    kept = {e.title for e in events if keep(e, "blues")}
+    assert {"Back To Zero", "Blue Traces", "Jakarta Blues Band", "Black Patti"} <= kept
+    assert not kept & {"Beat Stones", "Roda de choro", "Skillgang"}

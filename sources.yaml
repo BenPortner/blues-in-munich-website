@@ -12,7 +12,7 @@
 #                 site-specific: vintage_club, boogie_baeren, unterfahrt,
 #                          glockenbachwerkstatt, misterbs, swinginmunich, ticketmaster,
 #                          inmuenchen,
-#                          oksanapavlova
+#                          oksanapavlova, rheinpfalz_schwabing
 #   enabled       false to keep an entry without scraping it
 #   default_type  class | workshop | social | concert (when not inferable)
 #   filter        blues        keep events mentioning blues (title/description/tags)
@@ -70,6 +70,15 @@ sources:
     filter: none           # the category below is the weekly blues series
     params:
       categories: [fishnblues]
+
+  - id: rheinpfalz-schwabing
+    name: Rheinpfalz Schwabing
+    kind: venue
+    url: https://rheinpfalz-schwabing.de/veranstaltungen/
+    adapter: rheinpfalz_schwabing
+    enabled: true
+    default_type: concert
+    filter: blues          # pub with oldies/rock/jazz nights too; keep gigs whose blurb says blues
 
   - id: bernd-bauer-blues-band
     name: Bernd Bauer Blues Band
@@ -157,7 +166,18 @@ sources:
 #  - Kongressbar (swing/jazz/blues live bands Fri/Sat) — https://kongressbar.de/events-live-bands-djs/
 #      events are rendered by a plugin without a plain list; needs a custom adapter.
 #  - Kulturzentrum Giesinger Bahnhof — http://www.giesinger-bahnhof.de (hosts Stormy Wednesday)
+#      skipped on purpose: the program (/programm/) is scrapable, but it is mostly children's theatre,
+#      dance classes and readings; Stormy Wednesday is the only reliably blues event and the
+#      Bernd Bauer Blues Band calendar above already lists it.
 #  - Eventim / rausgegangen / regioactive Jazz & Blues listings — block scrapers (403/timeouts)
 #  - Bandsintown — https://www.bandsintown.com — API only looks up one artist at a time (no city or
 #      genre search), keys are only issued to artists or their teams, and the site's city pages
 #      are rendered by JavaScript. Usable only per band, with that band's own API key.
+#  - Backstage München (Club/Halle/Werk) — https://www.backstage.eu/events
+#      found 2026-10-17. Events are loaded by JavaScript ("Loading..." in the HTML); needs the
+#      underlying API or a headless browser. IN München already lists its bigger blues gigs.
+#  - Bang Bang! Concerts (Bluesfest am Rotkreuzplatz, annual August open-air) — https://bangbangconcerts.de
+#      found 2026-10-17. One event a year (16.08.2026 was the 2026 edition); /events/ returns 404,
+#      the event pages are individual. Not worth an adapter; add to manual_events.yaml each year.
+#  - Inninger Bluestage / Wolfratshauser Blues Festival (autumn festivals, Ammersee/Isartal) —
+#      found 2026-10-17. Organizers' own sites not identified; already covered through IN München.

@@ -2,7 +2,7 @@
 # Times are Munich local time. Past events are dropped automatically.
 #
 # - title: Blues Weekend München
-#   type: festival              # class | workshop | social | concert | festival
+#   type: workshop              # class | workshop | social | concert (dance festival -> workshop, music festival -> concert)
 #   start: 2027-03-12T19:00     # or a plain date: 2027-03-12
 #   end: 2027-03-14
 #   url: https://example.org/blues-weekend

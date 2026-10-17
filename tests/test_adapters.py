@@ -44,7 +44,7 @@ def test_vintage_club_event_blocks():
     git_up = next(e for t, e in by_title.items() if "GIT UP" in t)
     assert (git_up.start, git_up.end, git_up.type) == ("2026-10-18T13:00", "2026-10-18T14:30", "workshop")
     weekend = by_title["Workshop-Weekend mit Nicholas (USA) & Tere (ESP)"]
-    assert (weekend.start[:10], weekend.end[:10], weekend.type) == ("2026-10-31", "2026-11-01", "festival")
+    assert (weekend.start[:10], weekend.end[:10], weekend.type) == ("2026-10-31", "2026-11-01", "workshop")
     # The dance-style glossary further down mentions blues; it must not leak into blocks
     assert blues(events) == []
 

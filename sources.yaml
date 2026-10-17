@@ -14,7 +14,7 @@
 #                          inmuenchen,
 #                          oksanapavlova
 #   enabled       false to keep an entry without scraping it
-#   default_type  class | workshop | social | concert | festival (when not inferable)
+#   default_type  class | workshop | social | concert (when not inferable)
 #   filter        blues        keep events mentioning blues (title/description/tags)
 #                 blues_title  only title/tags count (venues that mention blues in passing)
 #                 none         keep everything (all-blues sources)

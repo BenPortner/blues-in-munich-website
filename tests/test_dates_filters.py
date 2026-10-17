@@ -74,7 +74,7 @@ def test_filter_modes():
 
 
 def test_guess_type():
-    assert guess_type("Workshop-Weekend mit Nicholas", "workshop") == "festival"
+    assert guess_type("Workshop-Weekend mit Nicholas", "workshop") == "workshop"
     assert guess_type("Halb-Akro Workshop", "social") == "workshop"
     assert guess_type("West Coast Swing Party", "class") == "social"
     assert guess_type("Something", "concert") == "concert"

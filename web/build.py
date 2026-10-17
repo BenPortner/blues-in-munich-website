@@ -23,10 +23,10 @@ MUNICH = ZoneInfo("Europe/Berlin")
 
 TYPE_LABELS = {
     "class": "Class", "workshop": "Workshop", "social": "Social",
-    "concert": "Concert", "festival": "Festival",
+    "concert": "Concert",
 }
 FILTERS = [("class", "Classes"), ("workshop", "Workshops"), ("social", "Socials"),
-           ("concert", "Concerts"), ("festival", "Festivals")]
+           ("concert", "Concerts")]
 
 
 def _day(iso: str) -> date:

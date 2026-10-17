@@ -7,7 +7,7 @@ import unicodedata
 from dataclasses import asdict, dataclass, field
 from datetime import date
 
-EVENT_TYPES = ("class", "workshop", "social", "concert", "festival")
+EVENT_TYPES = ("class", "workshop", "social", "concert")
 
 
 @dataclass
@@ -71,7 +71,10 @@ class Event:
     @classmethod
     def from_dict(cls, data: dict) -> "Event":
         known = cls.__dataclass_fields__.keys()
-        return cls(**{k: v for k, v in data.items() if k in known})
+        event = cls(**{k: v for k, v in data.items() if k in known})
+        if event.type == "festival":  # legacy type in old data files
+            event.type = "concert"
+        return event
 
 
 def clean_text(text: str | None) -> str:
@@ -88,8 +91,9 @@ def slug(text: str) -> str:
 
 
 _TYPE_HINTS = [
-    ("festival", r"weekend|weekender|festival|camp\b"),
-    ("workshop", r"workshop"),
+    # Dance festivals (weekenders, camps) are workshops; music festivals are concerts
+    ("workshop", r"workshop|weekend|weekender|camp\b"),
+    ("concert", r"festival"),
     ("class", r"\bkurs|\bclass|taster|schnupper"),
     ("social", r"party|social|übungsabend|practice|matinee|record hop|tanzabend|brunch|ball\b"),
     ("concert", r"konzert|concert|live|session|jam\b"),

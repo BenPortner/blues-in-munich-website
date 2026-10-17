@@ -57,7 +57,7 @@ def test_capacity_matching(tmp_path):
 def test_reason_big_venue(tmp_path):
     h = highlights(tmp_path)
     assert h.reason(ev(venue="Muffathalle")) == "Big venue: about 1,400 people"
-    assert h.reason(ev(type="festival", venue="Strom")) == "Big venue: about 500 people"
+    assert h.reason(ev(type="concert", venue="Strom")) == "Big venue: about 500 people"
     assert h.reason(ev(venue="Schlachthof Ox")) is None
     assert h.reason(ev(type="class", venue="Muffathalle")) is None
     assert h.reason(ev()) is None
@@ -208,7 +208,7 @@ def test_reason_picked_by_hand(tmp_path):
     course = ev("Stormy Wednesday course", type="class", start="2026-11-04T19:00",
                 dates=["2026-11-04", "2026-11-11", "2026-11-18"])
     assert h.reason(course) == "Picked by hand"                                         # one of its sessions
-    weekend = ev("Stormy Wednesday Weekend", type="festival", start="2026-11-17", end="2026-11-19")
+    weekend = ev("Stormy Wednesday Weekend", type="workshop", start="2026-11-17", end="2026-11-19")
     assert h.reason(weekend) == "Picked by hand"                                        # date inside the span
 
 

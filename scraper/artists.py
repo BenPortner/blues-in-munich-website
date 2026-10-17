@@ -30,7 +30,7 @@ from .models import slug
 log = logging.getLogger("scraper")
 
 API = "https://ws.audioscrobbler.com/2.0/"
-TYPES = ("concert", "festival")
+TYPES = ("concert",)
 REFRESH_DAYS = 30
 MAX_LOOKUPS = 200  # per run; Last.fm asks for at most a few requests a second
 

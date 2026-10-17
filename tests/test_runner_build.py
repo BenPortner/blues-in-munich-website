@@ -115,7 +115,7 @@ def test_load_archive(tmp_path):
     path = tmp_path / "sources.yaml"
     path.write_text("archive:\n  since: 2026-01-01\nsources: []\n")
     assert load_archive(path) == {"since": "2026-01-01",
-                                  "types": ["class", "workshop", "social", "concert", "festival"]}
+                                  "types": ["class", "workshop", "social", "concert"]}
     path.write_text("archive:\n  since: 2026-01-01\n  types: [class, workshop]\nsources: []\n")
     assert load_archive(path) == ARCHIVE
     path.write_text("sources: []\n")
@@ -227,7 +227,7 @@ def test_build_site_past_section(tmp_path):
 def test_calendar_events():
     course = Event(title="Course", type="class", start="2026-10-21T18:45", end="2026-10-21T19:45",
                    dates=["2026-10-21", "2026-10-28"], id="c")
-    fest = Event(title="Fest", type="festival", start="2026-10-24", end="2026-10-25", id="f")
+    fest = Event(title="Fest", type="workshop", start="2026-10-24", end="2026-10-25", id="f")
     night = Event(title="Night", type="concert", start="2026-10-24T20:00", end="2026-10-25T02:00", id="n")
     late = Event(title="Late", type="concert", start="2026-10-30T20:00", end="2026-10-31", id="l")
     cal = {c["id"]: c for c in calendar_events([course, fest, night, late])}

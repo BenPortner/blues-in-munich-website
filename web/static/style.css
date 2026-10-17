@@ -14,7 +14,6 @@
   --t-workshop: #7a4fb0;
   --t-social: #b0422e;
   --t-concert: #1f3a8a;
-  --t-festival: #8a6a12;
   --radius: 14px;
   --shadow: 0 1px 2px rgb(20 20 40 / 6%), 0 4px 16px rgb(20 20 40 / 5%);
 }
@@ -36,7 +35,6 @@
     --t-workshop: #c3a2f0;
     --t-social: #f09a85;
     --t-concert: #8fa8ff;
-    --t-festival: #f2c46d;
     --shadow: none;
   }
 }
@@ -262,7 +260,6 @@ h1 {
 .type-workshop { --type: var(--t-workshop); }
 .type-social { --type: var(--t-social); }
 .type-concert { --type: var(--t-concert); }
-.type-festival { --type: var(--t-festival); }
 
 .meta {
   display: flex;

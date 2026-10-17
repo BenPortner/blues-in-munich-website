@@ -9,7 +9,7 @@ import yaml
 
 from scraper.models import Event, slug
 
-VENUE_TYPES = ("concert", "festival")
+VENUE_TYPES = ("concert",)
 
 
 @dataclass

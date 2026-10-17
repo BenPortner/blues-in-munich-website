@@ -44,6 +44,9 @@
             {% if e.venue or e.address %}
             <p class="where">{{ e.venue or "" }}{% if e.venue and e.address %} · {% endif %}<span class="address">{{ e.address or "" }}</span></p>
             {% endif %}
+            {% if e.artists %}
+            <p class="artists">On Last.fm: {% for a in e.artists %}<a href="{{ a.url }}" rel="noopener">{{ a.name }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</p>
+            {% endif %}
             {% if e.recurrence %}
             <p class="recurrence">{{ e.recurrence }}{% if c.session_count %} · {{ c.session_count }}-week course block{% endif %}{% if c.sessions %}<br><span>{{ c.sessions_label }}: {{ c.sessions }}</span>{% endif %}</p>
             {% endif %}
@@ -124,7 +127,7 @@
       · <a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a>
     </p>
     {% if lastfm_credit %}
-    <p class="small lastfm">Artist popularity <a href="https://www.last.fm/" rel="noopener">powered by AudioScrobbler</a> (Last.fm)</p>
+    <p class="small lastfm">Artist info <a href="https://www.last.fm/" rel="noopener">powered by AudioScrobbler</a> (Last.fm)</p>
     {% endif %}
   </footer>
   <script src="static/app.js" defer></script>

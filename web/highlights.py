@@ -66,8 +66,9 @@ class Highlights:
             return "Picked by hand"
         if event.type in self.always.get(event.source_id, ()):
             return f"{event.type.title()} by {event.source_name}"
-        if event.known_artist and event.type in VENUE_TYPES:
-            return f"Well-known artist: {event.known_artist}"
+        if event.known_artists and event.type in VENUE_TYPES:
+            plural = "s" if len(event.known_artists) > 1 else ""
+            return f"Well-known artist{plural}: {', '.join(event.known_artists)}"
         if event.type in VENUE_TYPES:
             capacity = self.capacity(event.venue)
             if capacity and capacity >= self.min_capacity:

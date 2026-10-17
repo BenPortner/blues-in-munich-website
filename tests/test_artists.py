@@ -34,6 +34,11 @@ def test_find_artists_keeps_band_names_with_ampersand():
     assert asked("B.B. & The Blues Shacks")[0] == "B.B. & The Blues Shacks"
 
 
+def test_find_artists_tries_names_without_apostrophes():
+    assert asked("William’s Wetsox") == ["William’s Wetsox", "Williams Wetsox"]
+    assert asked("Williams Wetsox Trio") == ["Williams Wetsox Trio", "Williams Wetsox"]
+
+
 def test_find_artists_lists_and_programme_titles():
     title = "30. Münchner Bluesnacht mit Zither Manä, Abi Wallenstein, Ludwig Seuss & Band"
     assert [a.name for a in find_artists(title, known)] == ["Abi Wallenstein", "Ludwig Seuss"]
@@ -63,7 +68,7 @@ class FakeLastFm:
         hit = known(params["artist"])
         if not hit:
             return {"error": 6, "message": "The artist you supplied could not be found"}
-        return {"artist": {"name": hit.name, "stats": {"listeners": str(hit.listeners), "playcount": "1"}}}
+        return {"artist": {"name": hit.name, "url": f"https://www.last.fm/music/{hit.name.replace(' ', '+')}", "stats": {"listeners": str(hit.listeners), "playcount": "1"}}}
 
 
 def test_lastfm_caches_and_refreshes():
@@ -112,8 +117,11 @@ def test_enrich(tmp_path):
         {"title": "Ana Popovic workshop", "type": "workshop"},
     ]
     enrich(events, FakeLastFm(), "key", cache_path, settings, TODAY)
-    assert [e.get("known_artist") for e in events] == ["Ana Popovic", "Joe Bonamassa", None, None, None]
-    # Events carry the name only; listener counts stay in the (unpublished) cache
+    assert [e.get("known_artists") for e in events] == [["Ana Popovic"], ["Joe Bonamassa"], [], [], None]
+    assert events[0]["artists"] == [{"name": "Ana Popovic", "url": "https://www.last.fm/music/Ana+Popovic"}]
+    assert events[2]["artists"] == [{"name": "Ludwig Seuss", "url": "https://www.last.fm/music/Ludwig+Seuss"}]
+    assert events[3]["artists"] == [] and "artists" not in events[4]
+    # Events carry the names only; listener counts stay in the (unpublished) cache
     assert not any("listeners" in e or "artist" in e for e in events)
     cache = json.loads(cache_path.read_text(encoding="utf-8"))
     assert "peter-karp" not in cache and cache["ana-popovic"]["listeners"] == 79400
@@ -126,7 +134,22 @@ def test_enrich(tmp_path):
 def test_enrich_without_key_or_cache(tmp_path):
     events = [{"title": "Joe Bonamassa", "type": "concert"}]
     enrich(events, FakeLastFm(), None, tmp_path / "artists.json", tmp_path / "missing.yaml", TODAY)
-    assert events[0]["known_artist"] is None
+    assert events[0]["known_artists"] == [] and events[0]["artists"] == []
+
+
+def test_profile_url_for_old_cache_entries():
+    cache = {"b-b-the-blues-shacks": {"name": "B.B. & The Blues Shacks", "listeners": 2873, "checked": TODAY.isoformat()}}
+    hit = LastFm(FakeLastFm(), None, cache, TODAY)("B.B. & The Blues Shacks")
+    assert hit.url == "https://www.last.fm/music/B.B.+%26+The+Blues+Shacks"
+
+
+def test_enrich_keeps_every_known_act(tmp_path):
+    settings = tmp_path / "highlights.yaml"
+    settings.write_text("artists:\n  min_listeners: 50000\n", encoding="utf-8")
+    events = [{"title": "Ana Popovic + Peter Karp + Joe Bonamassa + Ana Popovic", "type": "concert"}]
+    enrich(events, FakeLastFm(), "key", tmp_path / "artists.json", settings, TODAY)
+    assert events[0]["known_artists"] == ["Joe Bonamassa", "Ana Popovic"]
+    assert [a["name"] for a in events[0]["artists"]] == ["Ana Popovic", "Peter Karp", "Joe Bonamassa"]  # bill order, no repeats
 
 
 def test_repo_highlights_yaml_has_artist_settings():

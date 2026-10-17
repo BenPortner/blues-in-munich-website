@@ -1,8 +1,9 @@
 """Artist popularity from Last.fm (free key: https://www.last.fm/api/account/create).
 
 For each concert, guesses artist names from the title and looks them up with `artist.getInfo`.
-If the best-known one has at least `artists.min_listeners` listeners (highlights.yaml), its name
-goes on the event as `known_artist`. Listener counts themselves are not published.
+Every act Last.fm knows goes on the event in `artists` (name and profile link, in bill order); the
+ones with at least `artists.min_listeners` listeners (highlights.yaml) also go in `known_artists`,
+best-known first. Listener counts themselves are not published.
 
 Lookups are cached in data/artists.json (git-ignored; CI keeps it in the Actions cache) and
 refreshed after REFRESH_DAYS, so a daily run only asks about new names. Without an API key,
@@ -17,10 +18,11 @@ from __future__ import annotations
 import json
 import logging
 import re
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from datetime import date, timedelta
 from pathlib import Path
 from typing import Callable
+from urllib.parse import quote_plus
 
 import requests
 import yaml
@@ -49,6 +51,7 @@ _ENSEMBLE = re.compile(r"\s+(?:(?:&|and|und)\s+(?:his\s+|seine\s+)?band|trio|qua
 _NOT_A_NAME = re.compile(
     r"^\d+\.|\b\d{4}\b|festival|konzert|concert|bluesnacht|bluestage|blues night|session|\blive\b|"
     r"unplugged|frühschoppen|matinee|\bjam\b|open stage|tribute", re.I)
+_APOSTROPHE = re.compile(r"['’`´]")
 _GENERIC = {"friends", "band", "guests", "special-guests", "special-guest", "support", "trio", "and-friends"}
 
 
@@ -56,13 +59,21 @@ _GENERIC = {"friends", "band", "guests", "special-guests", "special-guest", "sup
 class Artist:
     name: str
     listeners: int
+    url: str = field(default="", compare=False)
+
+
+def profile_url(name: str) -> str:
+    """Last.fm's profile address for a name, for cache entries saved before we kept the url."""
+    return "https://www.last.fm/music/" + quote_plus(name)
 
 
 def _variants(name: str, ignore: set[str]) -> list[str]:
-    """The name, then without a trailing "Band"/"Trio"/"& Band" (Last.fm often lists the leader)."""
+    """The name, then without a trailing "Band"/"Trio"/"& Band" (Last.fm often lists the leader);
+    each also without apostrophes ("William’s Wetsox" is "Williams Wetsox" on Last.fm)."""
     name = name.strip(_QUOTES + " .!?")
     out = []
-    for variant in (name, _ENSEMBLE.sub("", name)):
+    bases = (name, _ENSEMBLE.sub("", name))
+    for variant in (v for base in bases for v in (base, _APOSTROPHE.sub("", base))):
         key = slug(variant)
         if (len(key) >= 3 and key not in _GENERIC and key not in ignore
                 and not _NOT_A_NAME.search(variant) and variant not in out):
@@ -126,7 +137,7 @@ class LastFm:
                 self.cache[key] = entry
                 self.lookups += 1
         if entry and entry["name"]:
-            return Artist(entry["name"], entry["listeners"])
+            return Artist(entry["name"], entry["listeners"], entry.get("url") or profile_url(entry["name"]))
         return None
 
     def _fetch(self, name: str) -> dict:
@@ -144,7 +155,8 @@ class LastFm:
         artist = data["artist"]
         if slug(artist["name"]) != slug(name):  # exact names only, no fuzzy matches
             return {"name": None, "listeners": 0, "checked": checked}
-        return {"name": artist["name"], "listeners": int(artist["stats"]["listeners"]), "checked": checked}
+        return {"name": artist["name"], "listeners": int(artist["stats"]["listeners"]),
+                "url": artist.get("url") or profile_url(artist["name"]), "checked": checked}
 
 
 def _error_body(exc: requests.HTTPError) -> dict:
@@ -169,7 +181,7 @@ def load_settings(path: Path) -> dict:
 
 def enrich(events: list[dict], http, api_key: str | None, cache_path: Path, settings_path: Path,
            today: date) -> None:
-    """Set `known_artist` on concert events (dicts, as written to events.json)."""
+    """Set `artists` and `known_artists` on concert events (dicts, as written to events.json)."""
     settings = load_settings(settings_path)
     cache = json.loads(cache_path.read_text(encoding="utf-8")) if cache_path.exists() else {}
     lastfm = LastFm(http, api_key, cache, today, settings["aliases"])
@@ -179,11 +191,12 @@ def enrich(events: list[dict], http, api_key: str | None, cache_path: Path, sett
         if event["type"] not in TYPES:
             continue
         found = find_artists(event["title"], lastfm, settings["ignore"])
-        best = max(found, key=lambda a: a.listeners, default=None)
-        event["known_artist"] = best.name if best and best.listeners >= settings["min_listeners"] else None
+        event["artists"] = list({a.name: {"name": a.name, "url": a.url} for a in found}.values())
+        names = [a.name for a in sorted(found, key=lambda a: -a.listeners) if a.listeners >= settings["min_listeners"]]
+        event["known_artists"] = list(dict.fromkeys(names))
     # Keep only names that are still on the bill, so the file doesn't grow forever
     kept = {k: v for k, v in sorted(cache.items()) if k in lastfm.used}
     cache_path.parent.mkdir(parents=True, exist_ok=True)
     cache_path.write_text(json.dumps(kept, ensure_ascii=False, indent=1) + "\n", encoding="utf-8", newline="\n")
     log.info("artists: %d looked up on last.fm, %d events with a well-known artist", lastfm.lookups,
-             sum(1 for e in events if e.get("known_artist")))
+             sum(1 for e in events if e.get("known_artists")))

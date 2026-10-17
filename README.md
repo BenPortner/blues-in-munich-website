@@ -1,12 +1,12 @@
 # Blues in Munich
 
-A static site listing **blues events in Munich**: blues dance classes, workshops and socials, plus live blues concerts and sessions. A GitHub Actions job scrapes the sources every morning, commits `data/events.json` and redeploys the site to GitHub Pages.
+A static site listing **blues events in Munich**: blues dance classes, workshops and socials, plus live blues concerts and sessions. A GitHub Actions job scrapes the sources every morning, commits `data/raw/` and `data/events.json` and redeploys the site to GitHub Pages.
 
 Visitors can switch between a list and a month / week / year calendar (FullCalendar 6, loaded from jsDelivr only when the calendar is opened), or subscribe to the iCal feed.
 
 ```
-sources.yaml ──► python -m scraper ──► data/events.json ──► python -m web.build ──► dist/
- (targets)        (adapters + blues filter)  (committed daily)     (index.html, events.ics, events.json)
+sources.yaml ──► python -m scraper ──► data/raw/<source>.json ──► python -m scraper.assemble ──► data/events.json ──► python -m web.build ──► dist/
+ (targets)        (adapters)              (committed daily)          (blues filter, dedupe, Last.fm)    (committed daily)     (index.html, events.ics, events.json)
 ```
 
 ## Sources
@@ -58,7 +58,7 @@ Some events get a ★ Highlight badge and their own filter chip. [`highlights.ya
 
 - `events`: events you pick by hand, by title (optionally with a date, for one night of a recurring event).
 - `always`: event types from a given source, e.g. every Boogie-Bären workshop.
-- concerts with a well-known artist: the scraper picks artist names out of concert titles and looks them up on Last.fm. An artist counts at `artists.min_listeners` (50k) listeners or more; `artists.ignore` and `artists.aliases` fix wrong or missed matches. Needs a `LASTFM_API_KEY`; without one this rule is off. Only the artist's name ends up in `data/events.json`; the lookup cache (`data/artists.json`, with listener counts) is git-ignored and kept in the GitHub Actions cache. When the rule is in use, the footer credits Last.fm ("powered by AudioScrobbler"), as its API terms require. **Those terms also require Last.fm's written approval before the public site uses its data**, so don't add the key to the repository secrets until you have it.
+- concerts with a well-known artist: the scraper picks artist names out of concert titles and looks them up on Last.fm. An artist counts at `artists.min_listeners` (50k) listeners or more; `artists.ignore` and `artists.aliases` fix wrong or missed matches. Needs a `LASTFM_API_KEY`; without one this rule is off. Every act Last.fm knows is linked to its Last.fm profile on the event card; only names and profile links end up in `data/events.json`; the lookup cache (`data/artists.json`, with listener counts) is git-ignored and kept in the GitHub Actions cache. When the rule is in use, the footer credits Last.fm ("powered by AudioScrobbler"), as its API terms require. **Those terms also require Last.fm's written approval before the public site uses its data**, so don't add the key to the repository secrets until you have it.
 - concerts and festivals in big venues: rough capacities and a cutoff (`min_capacity`, currently 400). Venues that aren't listed never count. `python -m web.build` prints the concert venues it couldn't find, so you can add them.
 
 Above the list, an *Upcoming highlights* box sums up this month's and next month's highlights (shown with the *All* filter only).
@@ -71,7 +71,9 @@ Targets Python 3.15 (the version CI uses).
 python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 .venv/bin/python -m pytest -q
 .venv/bin/python -m scraper --dry-run              # print what would be listed
-.venv/bin/python -m scraper                        # write data/events.json
+.venv/bin/python -m scraper                        # scrape into data/raw, then write data/events.json
+.venv/bin/python -m scraper --source vintage-club   # rescrape only these sources (repeatable); the rest come from data/raw
+.venv/bin/python -m scraper.assemble               # rebuild data/events.json from data/raw, no scraping
 .venv/bin/python -m web.build                      # render dist/
 .venv/bin/python -m http.server -d dist 8000       # open http://localhost:8000
 ```
@@ -91,7 +93,7 @@ To include Ticketmaster or Last.fm locally, copy `.env.example` to `.env` and fi
 
 The site is served from the `gh-pages` branch, which holds only the built `dist/`.
 
-**Remote (automatic).** The daily run tests, scrapes, commits `data/events.json` (so the git history doubles as an event archive), builds `dist/` and force-pushes it to `gh-pages`. A push to `main` skips the scrape: it tests, rebuilds from the committed `data/events.json` and deploys, so code changes go live without touching the data. **Actions → Scrape & deploy → Run workflow** scrapes by default; untick *Scrape sources* to only rebuild.
+**Remote (automatic).** The daily run tests, scrapes, commits `data/raw/` and `data/events.json` (so the git history doubles as an event archive), builds `dist/` and force-pushes it to `gh-pages`. A push to `main` skips the scrape: it tests, rebuilds from the committed `data/events.json` and deploys, so code changes go live without touching the data. **Actions → Scrape & deploy → Run workflow** scrapes by default; untick *Scrape sources* to only rebuild.
 
 **Local (manual).** Run `python -m web.build` and push the contents of `dist/` to `gh-pages` yourself. The newest push wins, so the next daily run overwrites a local deploy unless you also push your changes to `main`.
 

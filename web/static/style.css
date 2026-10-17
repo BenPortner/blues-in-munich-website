@@ -296,6 +296,8 @@ h1 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 3;
 }
+.artists { margin: 6px 0 0; color: var(--muted); font-size: 13px; }
+
 .links { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 16px; margin: 10px 0 0; font-size: 14px; }
 .links .school { font-weight: 600; }
 .via { margin-left: auto; color: var(--muted); font-size: 13px; }

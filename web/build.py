@@ -125,7 +125,7 @@ def view_model(data: dict, today: date, highlights: Highlights) -> dict:
         "highlights": sum(1 for c in cards if c["highlight"]),
         "highlight_chip": any(c["highlight"] for c in cards + past_cards),
         # Last.fm's API terms want a credit wherever its data is used
-        "lastfm_credit": any(e.known_artist for e in events),
+        "lastfm_credit": any(e.artists or e.known_artists for e in events),
         "sources": data.get("sources", []),
         "generated": f"{generated.day} {generated.strftime('%b %Y, %H:%M')}",
         "repo_url": os.environ.get("REPO_URL") or (

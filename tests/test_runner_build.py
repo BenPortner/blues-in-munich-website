@@ -3,7 +3,8 @@ from datetime import date
 
 from bs4 import BeautifulSoup
 
-from scraper.__main__ import collect, load_archive, load_sources, ROOT
+from scraper.__main__ import ROOT, scrape_source
+from scraper.assemble import assemble, load_archive, load_raw, load_sources
 from scraper.models import Event, slug
 from scraper.registry import ADAPTERS, SkipSource, adapter
 from web.build import build, calendar_events
@@ -34,6 +35,15 @@ def _broken(source, ctx):
 @adapter("_test_skip")
 def _skip(source, ctx):
     raise SkipSource("no key")
+
+
+def collect(sources, ctx, previous, archive=None):
+    """Scrape into data/raw (here: tmp_path/raw), then build events.json's content from it."""
+    raw_dir = ctx.root / "raw"
+    for source in sources:
+        if source.get("enabled", True):
+            scrape_source(source, ctx, raw_dir, previous["events"])
+    return assemble(sources, raw_dir, previous, ctx.today, archive)
 
 
 def ev(title, start, **kw):
@@ -70,6 +80,49 @@ def test_failed_source_reuses_previous_events(make_ctx):
     assert [e["title"] for e in result["events"]] == ["Blues Night"]
     assert result["sources"][0]["status"] == "failed"
     assert "site down" in result["sources"][0]["error"]
+
+
+def test_failed_source_keeps_its_last_scrape(make_ctx):
+    ctx = make_ctx()
+    ok = src("s", "_test_static", params={"events": [ev("Blues Night", "2026-11-01T20:00")]})
+    collect([ok], ctx, {"events": []})
+    result = collect([{**ok, "adapter": "_test_broken"}], ctx, {"events": []})
+    assert [e["title"] for e in result["events"]] == ["Blues Night"]
+    assert result["sources"][0]["status"] == "failed"
+    raw = load_raw(ctx.root / "raw", "s")
+    assert raw["status"]["status"] == "failed" and raw["events"][0]["title"] == "Blues Night"
+
+
+def test_assemble_without_raw_file_uses_last_events_json(tmp_path):
+    previous = {"events": [Event(title="Blues Night", type="concert", start="2026-11-01", source_id="s",
+                                 source_name="S", id="abc").to_dict()],
+                "sources": [{"id": "s", "name": "S", "status": "ok", "kept": 1}]}
+    result = assemble([src("s", "_test_static")], tmp_path / "raw", previous, TODAY)
+    assert [e["id"] for e in result["events"]] == ["abc"]
+    assert result["sources"][0]["status"] == "ok"
+
+
+def test_assemble_reapplies_filters_without_scraping(make_ctx):
+    ctx = make_ctx()
+    source = src("s", "_test_static", params={"events": [ev("Blues Jam", "2026-10-20T20:00"),
+                                                         ev("Jazz Trio", "2026-10-20T21:00")]})
+    collect([source], ctx, {"events": []})
+    raw_dir = ctx.root / "raw"
+    assert [e["title"] for e in assemble([source], raw_dir, {"events": []}, TODAY)["events"]] == ["Blues Jam"]
+    loose = {**source, "adapter": "_test_broken", "filter": "none"}  # never scraped again
+    assert len(assemble([loose], raw_dir, {"events": []}, TODAY)["events"]) == 2
+    strict = {**source, "exclude": ["jam"]}
+    assert assemble([strict], raw_dir, {"events": []}, TODAY)["events"] == []
+
+
+def test_partial_scrape_leaves_other_raw_files(make_ctx):
+    ctx = make_ctx()
+    a = src("a", "_test_static", params={"events": [ev("Blues Jam", "2026-10-20T20:00")]})
+    b = src("b", "_test_static", params={"events": [ev("Blues Night", "2026-10-21T20:00")]})
+    collect([a, b], ctx, {"events": []})
+    scrape_source({**b, "params": {"events": [ev("Blues Ball", "2026-10-22T20:00")]}}, ctx, ctx.root / "raw")
+    result = assemble([a, b], ctx.root / "raw", {"events": []}, TODAY)
+    assert [e["title"] for e in result["events"]] == ["Blues Jam", "Blues Ball"]
 
 
 def test_empty_adapter_counts_as_failure(make_ctx):

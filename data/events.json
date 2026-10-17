@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T08:18:27+00:00",
+  "generated_at": "2026-10-17T15:24:16+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -19,7 +19,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Mateo Navarro",
+          "url": "https://www.last.fm/music/Mateo+Navarro"
+        }
+      ],
+      "known_artists": [],
       "id": "f0a96f942f44"
     },
     {
@@ -41,7 +47,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Drug Stop",
+          "url": "https://www.last.fm/music/Drug+Stop"
+        }
+      ],
+      "known_artists": [],
       "id": "cc3d5798c3ad"
     },
     {
@@ -60,7 +72,8 @@
       "source_name": "Bernd Bauer Blues Band",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "f5898d11e7f8"
     },
     {
@@ -82,7 +95,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Chris Void",
+          "url": "https://www.last.fm/music/Chris+Void"
+        }
+      ],
+      "known_artists": [],
       "id": "5aee2d5411bc"
     },
     {
@@ -108,7 +127,8 @@
       "source_name": "Vintage Club",
       "school_name": "Vintage Club",
       "school_url": "https://www.vintage-club.de/",
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "628aec196400"
     },
     {
@@ -134,7 +154,8 @@
       "source_name": "Vintage Club",
       "school_name": "Vintage Club",
       "school_url": "https://www.vintage-club.de/",
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "b0cd0aad5b83"
     },
     {
@@ -160,7 +181,8 @@
       "source_name": "Vintage Club",
       "school_name": "Vintage Club",
       "school_url": "https://www.vintage-club.de/",
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "439d92ccd9be"
     },
     {
@@ -182,7 +204,8 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "6e68cab9c7d6"
     },
     {
@@ -204,7 +227,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Boris Ruge & Band",
+          "url": "https://www.last.fm/music/Boris+Ruge+%26+Band"
+        }
+      ],
+      "known_artists": [],
       "id": "12000e578b1d"
     },
     {
@@ -226,7 +255,8 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "7a26d161093a"
     },
     {
@@ -255,7 +285,8 @@
       "source_name": "Boogie-Bären München",
       "school_name": "Boogie-Bären München",
       "school_url": "https://www.boogie-baeren.de/",
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "57ae7cd890a0"
     },
     {
@@ -274,7 +305,8 @@
       "source_name": "Bernd Bauer Blues Band",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "274324853af1"
     },
     {
@@ -296,7 +328,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Son Of The Velvet Rat",
+          "url": "https://www.last.fm/music/Son+Of+The+Velvet+Rat"
+        }
+      ],
+      "known_artists": [],
       "id": "7cc4b5875cea"
     },
     {
@@ -325,7 +363,8 @@
       "source_name": "Boogie-Bären München",
       "school_name": "Boogie-Bären München",
       "school_url": "https://www.boogie-baeren.de/",
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "65f384802908"
     },
     {
@@ -344,7 +383,8 @@
       "source_name": "Vintage Club",
       "school_name": "Vintage Club",
       "school_url": "https://www.vintage-club.de/",
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "c306bf5aba74"
     },
     {
@@ -365,7 +405,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Zither-Manä",
+          "url": "https://www.last.fm/music/Zither-Man%C3%A4"
+        }
+      ],
+      "known_artists": [],
       "id": "4ff77649b049"
     },
     {
@@ -391,7 +437,8 @@
       "source_name": "Vintage Club",
       "school_name": "Vintage Club",
       "school_url": "https://www.vintage-club.de/",
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "be8ca52e65f9"
     },
     {
@@ -417,7 +464,8 @@
       "source_name": "Vintage Club",
       "school_name": "Vintage Club",
       "school_url": "https://www.vintage-club.de/",
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "18c743a2fe49"
     },
     {
@@ -443,7 +491,8 @@
       "source_name": "Vintage Club",
       "school_name": "Vintage Club",
       "school_url": "https://www.vintage-club.de/",
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "f4e3777fc106"
     },
     {
@@ -465,7 +514,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Late",
+          "url": "https://www.last.fm/music/Late"
+        }
+      ],
+      "known_artists": [],
       "id": "85d6674dccb9"
     },
     {
@@ -484,7 +539,8 @@
       "source_name": "Oksana Pavlova",
       "school_name": "Oksana Pavlova",
       "school_url": "https://oksanapavlova.de/",
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "a93814e85526"
     },
     {
@@ -506,7 +562,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "David Howald",
+          "url": "https://www.last.fm/music/David+Howald"
+        }
+      ],
+      "known_artists": [],
       "id": "11562c0ed01f"
     },
     {
@@ -525,7 +587,8 @@
       "source_name": "Bernd Bauer Blues Band",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "b62b881245b3"
     },
     {
@@ -547,7 +610,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Paul Holland",
+          "url": "https://www.last.fm/music/Paul+Holland"
+        }
+      ],
+      "known_artists": [],
       "id": "1b8201c5b563"
     },
     {
@@ -569,7 +638,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Pg Petricca",
+          "url": "https://www.last.fm/music/Pg+Petricca"
+        }
+      ],
+      "known_artists": [],
       "id": "7b92bcaf4543"
     },
     {
@@ -591,7 +666,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Mateo Navarro",
+          "url": "https://www.last.fm/music/Mateo+Navarro"
+        }
+      ],
+      "known_artists": [],
       "id": "3c2cafeb10eb"
     },
     {
@@ -620,7 +701,8 @@
       "source_name": "Boogie-Bären München",
       "school_name": "Boogie-Bären München",
       "school_url": "https://www.boogie-baeren.de/",
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "08de3ac02f06"
     },
     {
@@ -641,7 +723,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Osono",
+          "url": "https://www.last.fm/music/Osono"
+        }
+      ],
+      "known_artists": [],
       "id": "8de476016cee"
     },
     {
@@ -660,7 +748,8 @@
       "source_name": "Bernd Bauer Blues Band",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "a9eb292f5bed"
     },
     {
@@ -681,7 +770,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "The Ghost And The Machine",
+          "url": "https://www.last.fm/music/The+Ghost+And+The+Machine"
+        }
+      ],
+      "known_artists": [],
       "id": "9eedc2774dbd"
     },
     {
@@ -702,7 +797,8 @@
       "source_name": "Boogie-Bären München",
       "school_name": "Boogie-Bären München",
       "school_url": "https://www.boogie-baeren.de/",
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "c0fb6b54eaf3"
     },
     {
@@ -723,7 +819,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Phonoboy",
+          "url": "https://www.last.fm/music/Phonoboy"
+        }
+      ],
+      "known_artists": [],
       "id": "ca5833014b97"
     },
     {
@@ -744,7 +846,8 @@
       "source_name": "Boogie-Bären München",
       "school_name": "Boogie-Bären München",
       "school_url": "https://www.boogie-baeren.de/",
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "729a870dff16"
     },
     {
@@ -765,7 +868,8 @@
       "source_name": "Boogie-Bären München",
       "school_name": "Boogie-Bären München",
       "school_url": "https://www.boogie-baeren.de/",
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "ea5f2ff1855c"
     },
     {
@@ -787,7 +891,8 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "3b461f3f50f0"
     },
     {
@@ -809,7 +914,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Titanic Orchester",
+          "url": "https://www.last.fm/music/Titanic+Orchester"
+        }
+      ],
+      "known_artists": [],
       "id": "1edd96adede3"
     },
     {
@@ -831,7 +942,8 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "b5c1a03178f6"
     },
     {
@@ -852,7 +964,8 @@
       "source_name": "Boogie-Bären München",
       "school_name": "Boogie-Bären München",
       "school_url": "https://www.boogie-baeren.de/",
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "df78c5b293ce"
     },
     {
@@ -871,7 +984,8 @@
       "source_name": "Oksana Pavlova",
       "school_name": "Oksana Pavlova",
       "school_url": "https://oksanapavlova.de/",
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "3ce42d219494"
     },
     {
@@ -890,7 +1004,8 @@
       "source_name": "Bernd Bauer Blues Band",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "c11e81f0a6c0"
     },
     {
@@ -912,7 +1027,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Hochzeitskapelle",
+          "url": "https://www.last.fm/music/Hochzeitskapelle"
+        }
+      ],
+      "known_artists": [],
       "id": "d872c97d3477"
     },
     {
@@ -934,7 +1055,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Mateo Navarro",
+          "url": "https://www.last.fm/music/Mateo+Navarro"
+        }
+      ],
+      "known_artists": [],
       "id": "7a1f457b1df1"
     },
     {
@@ -964,7 +1091,8 @@
       "source_name": "Boogie-Bären München",
       "school_name": "Boogie-Bären München",
       "school_url": "https://www.boogie-baeren.de/",
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "f995411d3cca"
     },
     {
@@ -983,7 +1111,8 @@
       "source_name": "Bernd Bauer Blues Band",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "46cc8e7fe474"
     },
     {
@@ -1004,7 +1133,8 @@
       "source_name": "Boogie-Bären München",
       "school_name": "Boogie-Bären München",
       "school_url": "https://www.boogie-baeren.de/",
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "9be1a5c28a3d"
     },
     {
@@ -1026,7 +1156,8 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "451e190c8db2"
     },
     {
@@ -1047,7 +1178,8 @@
       "source_name": "Boogie-Bären München",
       "school_name": "Boogie-Bären München",
       "school_url": "https://www.boogie-baeren.de/",
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "997d371a1d66"
     },
     {
@@ -1066,7 +1198,8 @@
       "source_name": "Bernd Bauer Blues Band",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "d7b635577239"
     },
     {
@@ -1088,7 +1221,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "The Wildfire",
+          "url": "https://www.last.fm/music/The+Wildfire"
+        }
+      ],
+      "known_artists": [],
       "id": "9a1ecf1e5eb4"
     },
     {
@@ -1110,7 +1249,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "G. Rag y Los Hermanos Patchekos",
+          "url": "https://www.last.fm/music/G.+Rag+y+Los+Hermanos+Patchekos"
+        }
+      ],
+      "known_artists": [],
       "id": "0600021d6313"
     },
     {
@@ -1132,7 +1277,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "The Reload Club",
+          "url": "https://www.last.fm/music/The+Reload+Club"
+        }
+      ],
+      "known_artists": [],
       "id": "c1cd97a35408"
     },
     {
@@ -1154,7 +1305,8 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "c4dfaf5626ec"
     },
     {
@@ -1173,7 +1325,8 @@
       "source_name": "Oksana Pavlova",
       "school_name": "Oksana Pavlova",
       "school_url": "https://oksanapavlova.de/",
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "5dc7c34cd502"
     },
     {
@@ -1192,7 +1345,8 @@
       "source_name": "Bernd Bauer Blues Band",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "a148ef8d36bd"
     },
     {
@@ -1214,7 +1368,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Charles M. Mailer",
+          "url": "https://www.last.fm/music/Charles+M.+Mailer"
+        }
+      ],
+      "known_artists": [],
       "id": "ec19876f55ff"
     },
     {
@@ -1236,7 +1396,8 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "41035485891f"
     },
     {
@@ -1255,7 +1416,8 @@
       "source_name": "Bernd Bauer Blues Band",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "fdde5325e1a4"
     },
     {
@@ -1285,7 +1447,8 @@
       "source_name": "Boogie-Bären München",
       "school_name": "Boogie-Bären München",
       "school_url": "https://www.boogie-baeren.de/",
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "1c52d9f69bcf"
     },
     {
@@ -1307,7 +1470,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Dr. Will & The Wizards",
+          "url": "https://www.last.fm/music/Dr.+Will+%26+The+Wizards"
+        }
+      ],
+      "known_artists": [],
       "id": "22f2ec2f340c"
     },
     {
@@ -1329,7 +1498,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Black Patti",
+          "url": "https://www.last.fm/music/Black+Patti"
+        }
+      ],
+      "known_artists": [],
       "id": "4943347daf2d"
     },
     {
@@ -1351,7 +1526,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Mateo Navarro",
+          "url": "https://www.last.fm/music/Mateo+Navarro"
+        }
+      ],
+      "known_artists": [],
       "id": "4a98e9cf0ce1"
     },
     {
@@ -1370,7 +1551,8 @@
       "source_name": "Bernd Bauer Blues Band",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "d563f536411e"
     },
     {
@@ -1389,7 +1571,8 @@
       "source_name": "Bernd Bauer Blues Band",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "bd8e5c147020"
     },
     {
@@ -1411,7 +1594,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "The Caboose",
+          "url": "https://www.last.fm/music/The+Caboose"
+        }
+      ],
+      "known_artists": [],
       "id": "b6162373816d"
     },
     {
@@ -1430,7 +1619,8 @@
       "source_name": "Bernd Bauer Blues Band",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "b198a98f481f"
     },
     {
@@ -1452,7 +1642,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Veranda Music",
+          "url": "https://www.last.fm/music/Veranda+Music"
+        }
+      ],
+      "known_artists": [],
       "id": "b2fd85a2e1c7"
     },
     {
@@ -1474,7 +1670,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Degurutieni",
+          "url": "https://www.last.fm/music/Degurutieni"
+        }
+      ],
+      "known_artists": [],
       "id": "ef501198ad6f"
     },
     {
@@ -1495,7 +1697,8 @@
       "source_name": "Boogie-Bären München",
       "school_name": "Boogie-Bären München",
       "school_url": "https://www.boogie-baeren.de/",
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "95993cb1c271"
     },
     {
@@ -1521,7 +1724,8 @@
       "source_name": "Vintage Club",
       "school_name": "Vintage Club",
       "school_url": "https://www.vintage-club.de/",
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "be36aa3ae5cc"
     },
     {
@@ -1543,7 +1747,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "The Deed",
+          "url": "https://www.last.fm/music/The+Deed"
+        }
+      ],
+      "known_artists": [],
       "id": "45262f822c94"
     },
     {
@@ -1564,7 +1774,17 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Chris Kramer",
+          "url": "https://www.last.fm/music/Chris+Kramer"
+        },
+        {
+          "name": "Al Jones Band",
+          "url": "https://www.last.fm/music/Al+Jones+Band"
+        }
+      ],
+      "known_artists": [],
       "id": "25459613cfc6"
     },
     {
@@ -1585,7 +1805,8 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "fa6f6db21fcd"
     },
     {
@@ -1606,7 +1827,15 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": "Henrik Freischlader",
+      "artists": [
+        {
+          "name": "Henrik Freischlader",
+          "url": "https://www.last.fm/music/Henrik+Freischlader"
+        }
+      ],
+      "known_artists": [
+        "Henrik Freischlader"
+      ],
       "id": "d3f28b38d0c8"
     },
     {
@@ -1627,7 +1856,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Black Patti",
+          "url": "https://www.last.fm/music/Black+Patti"
+        }
+      ],
+      "known_artists": [],
       "id": "634620ee0057"
     },
     {
@@ -1656,7 +1891,8 @@
       "source_name": "Boogie-Bären München",
       "school_name": "Boogie-Bären München",
       "school_url": "https://www.boogie-baeren.de/",
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "a473a482e0ed"
     },
     {
@@ -1677,7 +1913,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Sari Schorr",
+          "url": "https://www.last.fm/music/Sari+Schorr"
+        }
+      ],
+      "known_artists": [],
       "id": "880d3f25696b"
     },
     {
@@ -1703,7 +1945,8 @@
       "source_name": "Vintage Club",
       "school_name": "Vintage Club",
       "school_url": "https://www.vintage-club.de/",
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "5b0f8477edc0"
     },
     {
@@ -1724,7 +1967,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Christian Schwarzbach",
+          "url": "https://www.last.fm/music/Christian+Schwarzbach"
+        }
+      ],
+      "known_artists": [],
       "id": "a4ba40b1de99"
     },
     {
@@ -1743,7 +1992,8 @@
       "source_name": "Bernd Bauer Blues Band",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "b0270a701912"
     },
     {
@@ -1765,29 +2015,34 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Louis Ville",
+          "url": "https://www.last.fm/music/Louis+Ville"
+        }
+      ],
+      "known_artists": [],
       "id": "9d13687e50d5"
     },
     {
-      "title": "Vollmer Trio",
+      "title": "Vollmer Brothers Organ Trio feat. Donniele Graves",
       "type": "concert",
-      "start": "2026-10-22T20:15",
-      "end": "2026-10-22T23:00",
-      "url": "https://www.in-muenchen.de/events/vollmer-trio.html",
+      "start": "2026-10-22T20:00",
+      "end": null,
+      "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "venue": "Rheinpfalz Schwabing",
       "address": "Kurfürstenstraße 35, 80801 München",
-      "description": "Ein Sound voller Energie, Seele und Spielfreude. Zwischen Blues, Jazz, Funk und Gospel entsteht ein mitreißendes Live-Erlebnis. Mit Hammond-Orgel, Gitarre, Drums und kraftvoller Soulstimme verbindet die Band Virtuosität mit emotionaler Tiefe.",
+      "description": "Ausnahme: am Donnerstag Funk, Gospel, Groove – ein Sound voller Energie, Seele und Spielfreude. Das Vollmer Organ Trio steht für ein mitreißendes Live-Erlebnis zwischen Blues, Jazz, Funk und Gospel. Mit Hammond-Orgel, Gitarre, Drums und einer kraftvollen Soulstimme verbindet die Band Virtuosität mit emotionaler Tiefe und unmittelbarer Bühnenenergie. Seele und Spielfreude. Wenn warme Hammond-Klänge den Raum füllen, Gitarrenlinien Geschichten erzählen und ein Groove einsetzt, der sich nicht mehr abschütteln lässt, beginnt die Welt des Vollmer Organ Trios. Ihre Musik atmet den Geist des Blues, di",
       "recurrence": null,
       "dates": [],
-      "tags": [
-        "Blues Jazz Funk Gospel"
-      ],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
+      "tags": [],
+      "source_id": "rheinpfalz-schwabing",
+      "source_name": "Rheinpfalz Schwabing",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
-      "id": "4177452bc8ff"
+      "artists": [],
+      "known_artists": [],
+      "id": "d070fb212e3a"
     },
     {
       "title": "3. Wolfratshauser Blues Festival",
@@ -1807,7 +2062,8 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "77611c838a5b"
     },
     {
@@ -1828,8 +2084,43 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Manu Lanvin",
+          "url": "https://www.last.fm/music/Manu+Lanvin"
+        },
+        {
+          "name": "Cecilya & The Candy Kings",
+          "url": "https://www.last.fm/music/Cecilya+%26+The+Candy+Kings"
+        }
+      ],
+      "known_artists": [],
       "id": "b445d9b85dd1"
+    },
+    {
+      "title": "Back To Zero",
+      "type": "concert",
+      "start": "2026-10-23T20:00",
+      "end": null,
+      "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
+      "venue": "Rheinpfalz Schwabing",
+      "address": "Kurfürstenstraße 35, 80801 München",
+      "description": "BACK TO ZERO ist eine Münchner Rock-, Blues- und Gefühlsband, erstmals 1985 am Start. Sie spielen: Blues, Rock, Oldies und Soul… from the Sixties till now … Schon 1985 fanden Sänger Axel und Bassist Oliver, in der damals gegründeten Formation BACK TO ZERO, zusammen. Mit einem Mix aus Eigenkompositionen von Axel und bekannten oder weniger bekannten Rock- und Blues-Nummern, begeisterten sie schon damals mit ihrem Programm in Münchner Musikkneipen und auf Privatfesten. Nach einer längeren Pause und Erfahrung in zahlreichen anderen Formationen fanden wir wieder zusammen, seit vielen Jahren wird di",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "rheinpfalz-schwabing",
+      "source_name": "Rheinpfalz Schwabing",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Back to Zero",
+          "url": "https://www.last.fm/music/Back+to+Zero"
+        }
+      ],
+      "known_artists": [],
+      "id": "79117f226e9d"
     },
     {
       "title": "Inninger Bluestage 2026: Young Fast Running Man + Sir Oliver Mally & Peter Schneider",
@@ -1849,7 +2140,17 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Young Fast Running Man",
+          "url": "https://www.last.fm/music/Young+Fast+Running+Man"
+        },
+        {
+          "name": "Sir Oliver Mally & Peter Schneider",
+          "url": "https://www.last.fm/music/Sir+Oliver+Mally+%26+Peter+Schneider"
+        }
+      ],
+      "known_artists": [],
       "id": "0814eca48dc0"
     },
     {
@@ -1870,29 +2171,34 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "8ece850d2bb7"
     },
     {
-      "title": "Williams Wetsox",
+      "title": "William’s Wetsox",
       "type": "concert",
-      "start": "2026-10-24T20:15",
-      "end": "2026-10-24T23:00",
-      "url": "https://www.in-muenchen.de/events/williams-wetsox.html",
+      "start": "2026-10-24T20:00",
+      "end": null,
+      "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "venue": "Rheinpfalz Schwabing",
       "address": "Kurfürstenstraße 35, 80801 München",
-      "description": "Williams, einer der besten Blues-Gitarristen, begeistert mit getragenen Bluesnummern und fetzigen Stücken. Begleitet wird er von Mario Fizz und Alex Bartl.",
+      "description": "Williams Fändrich, auch „da Wetsox“ genannt, gehört seit den 1990ern zu den profiliertesten Bluesmusikern im deutschsprachigen Raum. In den Liedern, die er mit einzigartiger Stimme singt, geht es um das Leben in Bayern, sie handeln von Liebesfreud und Liebesleid, vom verantwortungslosen Umgang mit der Umwelt, aber auch von der Schönheit des Ammertales. Der Blues vom Gipfelkreuz zum Jammertal, vom Abendrot bis zum Morgengrauen. Mario Fix spielt zu den Akkorden noch den Bass auf der Orgel, Alex Bartl bearbeitet die Drums.Beide junge Musikanten aus Peißenberg sind solide Könner auf Ihrem Instrume",
       "recurrence": null,
       "dates": [],
-      "tags": [
-        "Blues"
-      ],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
+      "tags": [],
+      "source_id": "rheinpfalz-schwabing",
+      "source_name": "Rheinpfalz Schwabing",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
-      "id": "6cd6cfdf541f"
+      "artists": [
+        {
+          "name": "Williams Wetsox",
+          "url": "https://www.last.fm/music/Williams+Wetsox"
+        }
+      ],
+      "known_artists": [],
+      "id": "feaca20e6e34"
     },
     {
       "title": "Körber Krohn Fliegauf",
@@ -1912,7 +2218,8 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "6dcc458bad87"
     },
     {
@@ -1934,7 +2241,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Leonie Singt",
+          "url": "https://www.last.fm/music/Leonie+Singt"
+        }
+      ],
+      "known_artists": [],
       "id": "5dca22179cc6"
     },
     {
@@ -1955,7 +2268,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "That Friday Feeling",
+          "url": "https://www.last.fm/music/That+Friday+Feeling"
+        }
+      ],
+      "known_artists": [],
       "id": "d8d47a3e15e0"
     },
     {
@@ -1976,7 +2295,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Ludwig Seuss Band",
+          "url": "https://www.last.fm/music/Ludwig+Seuss+Band"
+        }
+      ],
+      "known_artists": [],
       "id": "2a3ee4cfd49e"
     },
     {
@@ -1997,7 +2322,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Andreas Diehlmann Band",
+          "url": "https://www.last.fm/music/Andreas+Diehlmann+Band"
+        }
+      ],
+      "known_artists": [],
       "id": "38d642aa4e71"
     },
     {
@@ -2018,7 +2349,8 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "55d7afc2b862"
     },
     {
@@ -2039,7 +2371,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Williams Wetsox Trio",
+          "url": "https://www.last.fm/music/Williams+Wetsox+Trio"
+        }
+      ],
+      "known_artists": [],
       "id": "2b490c7cd538"
     },
     {
@@ -2060,7 +2398,15 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": "The Temperance Movement",
+      "artists": [
+        {
+          "name": "The Temperance Movement",
+          "url": "https://www.last.fm/music/The+Temperance+Movement"
+        }
+      ],
+      "known_artists": [
+        "The Temperance Movement"
+      ],
       "id": "714b17e73942"
     },
     {
@@ -2081,7 +2427,15 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": "Eric Bibb",
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://www.last.fm/music/Eric+Bibb"
+        }
+      ],
+      "known_artists": [
+        "Eric Bibb"
+      ],
       "id": "9bd3abe604be"
     },
     {
@@ -2103,7 +2457,8 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "af1c431aa2e9"
     },
     {
@@ -2124,7 +2479,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "The Ultimate Silverbeet",
+          "url": "https://www.last.fm/music/The+Ultimate+Silverbeet"
+        }
+      ],
+      "known_artists": [],
       "id": "213d535e9210"
     },
     {
@@ -2145,7 +2506,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "John Brunton",
+          "url": "https://www.last.fm/music/John+Brunton"
+        }
+      ],
+      "known_artists": [],
       "id": "fe5c0be8d1c1"
     },
     {
@@ -2166,8 +2533,29 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "eaea2bbe8bbe"
+    },
+    {
+      "title": "Blue Traces",
+      "type": "concert",
+      "start": "2026-11-07T20:00",
+      "end": null,
+      "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
+      "venue": "Rheinpfalz Schwabing",
+      "address": "Kurfürstenstraße 35, 80801 München",
+      "description": "Die „blue traces“ wurden 2011 als Blues- und Rockband gegründet. Seitdem spielen die Münchner Musiker Michael Drescher (voc + git), Viktor Magdolen (keys), Fritz Winbeck (drums), Markus Roithmaier (bass) und Sven Kesselring (git) unverändert in dieser Besetzung. Michi Dreschers unverkennbare Stimme prägt den Sound der Band, seine Vorbilder Eric Burdon, Joe Cocker und Tom Waits haben ganz sicher ihre „Spuren“ (engl. traces) hinterlassen. Das gilt auch für den Rest der Band. Ihr ehrlicher und geradliniger Sound trägt den Gesang und begeistert durch mitreißende Spielfreude. Immer wieder aufs Neue",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "rheinpfalz-schwabing",
+      "source_name": "Rheinpfalz Schwabing",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "772de2d31887"
     },
     {
       "title": "Sundog & Monomanic",
@@ -2187,7 +2575,8 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "6b74202bf1dd"
     },
     {
@@ -2209,7 +2598,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Lonesome Andy & His One Man Band",
+          "url": "https://www.last.fm/music/Lonesome+Andy+%26+His+One+Man+Band"
+        }
+      ],
+      "known_artists": [],
       "id": "bfec1062fced"
     },
     {
@@ -2230,7 +2625,8 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "20bf1470443b"
     },
     {
@@ -2249,7 +2645,8 @@
       "source_name": "Bernd Bauer Blues Band",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "452a2e69429c"
     },
     {
@@ -2271,7 +2668,8 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "2af7cf23e9c5"
     },
     {
@@ -2292,7 +2690,8 @@
       "source_name": "SwinginMunich.de",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "de42368a5691"
     },
     {
@@ -2313,7 +2712,21 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Zither-Manä",
+          "url": "https://www.last.fm/music/Zither-Man%C3%A4"
+        },
+        {
+          "name": "Abi Wallenstein",
+          "url": "https://www.last.fm/music/Abi+Wallenstein"
+        },
+        {
+          "name": "Ludwig Seuss Band",
+          "url": "https://www.last.fm/music/Ludwig+Seuss+Band"
+        }
+      ],
+      "known_artists": [],
       "id": "db7a3849a2d1"
     },
     {
@@ -2334,7 +2747,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Schorsch Hampel",
+          "url": "https://www.last.fm/music/Schorsch+Hampel"
+        }
+      ],
+      "known_artists": [],
       "id": "8ee51229236f"
     },
     {
@@ -2355,7 +2774,8 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "5eb683876302"
     },
     {
@@ -2376,7 +2796,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Stephan Zinner",
+          "url": "https://www.last.fm/music/Stephan+Zinner"
+        }
+      ],
+      "known_artists": [],
       "id": "3aeb4ae6df11"
     },
     {
@@ -2397,7 +2823,8 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "a1f4c6335782"
     },
     {
@@ -2419,7 +2846,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Pete Gavin",
+          "url": "https://www.last.fm/music/Pete+Gavin"
+        }
+      ],
+      "known_artists": [],
       "id": "6cc61d6bc73f"
     },
     {
@@ -2440,8 +2873,43 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Meena Cryle",
+          "url": "https://www.last.fm/music/Meena+Cryle"
+        },
+        {
+          "name": "Chris Fillmore",
+          "url": "https://www.last.fm/music/Chris+Fillmore"
+        }
+      ],
+      "known_artists": [],
       "id": "c1147d2ff7a1"
+    },
+    {
+      "title": "Jakarta Blues Band",
+      "type": "concert",
+      "start": "2026-11-28T20:00",
+      "end": null,
+      "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
+      "venue": "Rheinpfalz Schwabing",
+      "address": "Kurfürstenstraße 35, 80801 München",
+      "description": "Chicago Blues: ein musikalischer Leckerbissen! Mit höchster Spielfreude zelebriert die Jakarta Blues Band aus dem Münchner Umland alle Facetten des Chicago Blues und widerlegt immer wieder aufs Neue, dass Blues nur für Melancholiker geeignet ist. Die sechs Musiker bieten perfekte handgemachte Musik, bei der man einfach nicht stillhalten kann. Sie leben jede Note, so dass die Kraft und Emotionalität dieser Musik regelmäßig auf die Zuhörer überspringen und jede(r) mitwippt oder tanzt. Dabei ist kaum eine Formation ist so nah dran am Sound der Originale. Kaum ein Gitarrist pflegt den Stil so auth",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "rheinpfalz-schwabing",
+      "source_name": "Rheinpfalz Schwabing",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Jakarta Blues Band",
+          "url": "https://www.last.fm/music/Jakarta+Blues+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "02cad5d9c1f8"
     },
     {
       "title": "Mojo Blues Band – Jazz & Beyond",
@@ -2461,7 +2929,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Mojo Blues Band",
+          "url": "https://www.last.fm/music/Mojo+Blues+Band"
+        }
+      ],
+      "known_artists": [],
       "id": "127efe9843d6"
     },
     {
@@ -2482,7 +2956,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Stephan Zinner",
+          "url": "https://www.last.fm/music/Stephan+Zinner"
+        }
+      ],
+      "known_artists": [],
       "id": "a88fdd380af0"
     },
     {
@@ -2503,7 +2983,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Kai Strauss & The Electric Blues All Stars",
+          "url": "https://www.last.fm/music/Kai+Strauss+%26+The+Electric+Blues+All+Stars"
+        }
+      ],
+      "known_artists": [],
       "id": "de57b62b9df1"
     },
     {
@@ -2525,7 +3011,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Dr. Will",
+          "url": "https://www.last.fm/music/Dr.+Will"
+        }
+      ],
+      "known_artists": [],
       "id": "985e54d88dfa"
     },
     {
@@ -2546,7 +3038,8 @@
       "source_name": "SwinginMunich.de",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "6bf5e0a1048f"
     },
     {
@@ -2565,7 +3058,8 @@
       "source_name": "Bernd Bauer Blues Band",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "290e34f6a579"
     },
     {
@@ -2586,8 +3080,47 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Henry Heggen",
+          "url": "https://www.last.fm/music/Henry+Heggen"
+        },
+        {
+          "name": "Titus Vollmer",
+          "url": "https://www.last.fm/music/Titus+Vollmer"
+        },
+        {
+          "name": "San2 & his Soul Patrol",
+          "url": "https://www.last.fm/music/San2+%26+his+Soul+Patrol"
+        }
+      ],
+      "known_artists": [],
       "id": "65d26019d8af"
+    },
+    {
+      "title": "Munich Rhythm & Blues Band",
+      "type": "concert",
+      "start": "2026-12-04T20:00",
+      "end": null,
+      "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
+      "venue": "Rheinpfalz Schwabing",
+      "address": "Kurfürstenstraße 35, 80801 München",
+      "description": "Die Band spielt cross over, alles was Stimmung macht, die fünf Musiker heizen ordentlich ein. Ihr Special ist eine Blues Brother Show im zweiten Set. Wir freuen uns auf die Band, bitte Hut nicht vergessen.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "rheinpfalz-schwabing",
+      "source_name": "Rheinpfalz Schwabing",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Blues Band",
+          "url": "https://www.last.fm/music/+noredirect/Blues+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "3f394472cac9"
     },
     {
       "title": "Bernd Bauer Blues Band: Live-Konzert im Märchenbazar",
@@ -2605,7 +3138,8 @@
       "source_name": "Bernd Bauer Blues Band",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "852d5a086710"
     },
     {
@@ -2627,7 +3161,13 @@
       "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Baby Kreuzberg",
+          "url": "https://www.last.fm/music/Baby+Kreuzberg"
+        }
+      ],
+      "known_artists": [],
       "id": "e63fc74695b6"
     },
     {
@@ -2648,8 +3188,39 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Saschmo",
+          "url": "https://www.last.fm/music/Saschmo"
+        }
+      ],
+      "known_artists": [],
       "id": "5173476bd77a"
+    },
+    {
+      "title": "Black Patti",
+      "type": "concert",
+      "start": "2026-12-11T20:00",
+      "end": null,
+      "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
+      "venue": "Rheinpfalz Schwabing",
+      "address": "Kurfürstenstraße 35, 80801 München",
+      "description": "Black Patti – das sind Peter Crow C. und Ferdinand „Jelly Roll“ Kraemer. Seit über 10 Jahren sind die zwei Blues & Roots Musiker auf internationalen Bühnen und Festivals gemeinsam unterwegs. Zweistimmig, handgemacht und unzensiert erzählt das mehrfach prämierte Duo in seinen Songs Geschichten, die das Leben schreibt. Musikalisch orientiert sich Black Patti an der einzigartigen Mischung der vor dem zweiten Weltkrieg in den USA entstandenen, ländlichen Stile. Mit ihrem äußerst abwechslungsreichen Repertoire präsentieren die Süddeutschen filigran-kunstvolle und berührende Roots-Musik: zwischen ti",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "rheinpfalz-schwabing",
+      "source_name": "Rheinpfalz Schwabing",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Black Patti",
+          "url": "https://www.last.fm/music/Black+Patti"
+        }
+      ],
+      "known_artists": [],
+      "id": "c95393ea1ae8"
     },
     {
       "title": "13. American Bar Night – „Midlife or Crisis?“ & Friends",
@@ -2669,7 +3240,8 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "64fcbc3ac2b0"
     },
     {
@@ -2688,7 +3260,13 @@
       "source_name": "Jazzclub Unterfahrt",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Al Jones Blues Band",
+          "url": "https://www.last.fm/music/Al+Jones+Blues+Band"
+        }
+      ],
+      "known_artists": [],
       "id": "28d33149086a"
     },
     {
@@ -2709,7 +3287,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Zwoa Bier",
+          "url": "https://www.last.fm/music/Zwoa+Bier"
+        }
+      ],
+      "known_artists": [],
       "id": "e4e4dba56531"
     },
     {
@@ -2730,7 +3314,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Saltbrennt",
+          "url": "https://www.last.fm/music/Saltbrennt"
+        }
+      ],
+      "known_artists": [],
       "id": "904656d24c18"
     },
     {
@@ -2751,7 +3341,17 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Sir Oliver Mally Group",
+          "url": "https://www.last.fm/music/Sir+Oliver+Mally+Group"
+        },
+        {
+          "name": "Peter Schneider",
+          "url": "https://www.last.fm/music/Peter+Schneider"
+        }
+      ],
+      "known_artists": [],
       "id": "d7d20598c716"
     },
     {
@@ -2772,7 +3372,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Stephan Zinner",
+          "url": "https://www.last.fm/music/Stephan+Zinner"
+        }
+      ],
+      "known_artists": [],
       "id": "90ae7942419f"
     },
     {
@@ -2793,7 +3399,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Jared James Nichols",
+          "url": "https://www.last.fm/music/Jared+James+Nichols"
+        }
+      ],
+      "known_artists": [],
       "id": "8116283823fc"
     },
     {
@@ -2814,7 +3426,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Johnny & the Yooahoos",
+          "url": "https://www.last.fm/music/Johnny+%26+the+Yooahoos"
+        }
+      ],
+      "known_artists": [],
       "id": "77d8a5116d55"
     },
     {
@@ -2835,7 +3453,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Danny Bryant",
+          "url": "https://www.last.fm/music/Danny+Bryant"
+        }
+      ],
+      "known_artists": [],
       "id": "482710393fcb"
     },
     {
@@ -2856,7 +3480,17 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Günter Grünwald",
+          "url": "https://www.last.fm/music/G%C3%BCnter+Gr%C3%BCnwald"
+        },
+        {
+          "name": "Rad Gumbo",
+          "url": "https://www.last.fm/music/Rad+Gumbo"
+        }
+      ],
+      "known_artists": [],
       "id": "377eb1e7f92e"
     },
     {
@@ -2877,7 +3511,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Raphael Wressnig",
+          "url": "https://www.last.fm/music/Raphael+Wressnig"
+        }
+      ],
+      "known_artists": [],
       "id": "e9d1b0b9f4ea"
     },
     {
@@ -2898,7 +3538,20 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": "Graveyard",
+      "artists": [
+        {
+          "name": "Graveyard",
+          "url": "https://www.last.fm/music/Graveyard"
+        },
+        {
+          "name": "Blues Pills",
+          "url": "https://www.last.fm/music/Blues+Pills"
+        }
+      ],
+      "known_artists": [
+        "Graveyard",
+        "Blues Pills"
+      ],
       "id": "8b0fe5e4c983"
     },
     {
@@ -2919,7 +3572,27 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": "Bernard Allison",
+      "artists": [
+        {
+          "name": "Devon Allman",
+          "url": "https://www.last.fm/music/Devon+Allman"
+        },
+        {
+          "name": "Jimmy Hall",
+          "url": "https://www.last.fm/music/Jimmy+Hall"
+        },
+        {
+          "name": "Claudette King",
+          "url": "https://www.last.fm/music/Claudette+King"
+        },
+        {
+          "name": "Bernard Allison",
+          "url": "https://www.last.fm/music/Bernard+Allison"
+        }
+      ],
+      "known_artists": [
+        "Bernard Allison"
+      ],
       "id": "c780e652c65f"
     },
     {
@@ -2940,7 +3613,15 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": "Ash Grunwald",
+      "artists": [
+        {
+          "name": "Ash Grunwald",
+          "url": "https://www.last.fm/music/Ash+Grunwald"
+        }
+      ],
+      "known_artists": [
+        "Ash Grunwald"
+      ],
       "id": "09c6aca9c076"
     },
     {
@@ -2961,7 +3642,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Stephan Zinner",
+          "url": "https://www.last.fm/music/Stephan+Zinner"
+        }
+      ],
+      "known_artists": [],
       "id": "8dd5958aa3f3"
     },
     {
@@ -2982,7 +3669,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Krissy Matthews",
+          "url": "https://www.last.fm/music/Krissy+Matthews"
+        }
+      ],
+      "known_artists": [],
       "id": "206dda01cf64"
     },
     {
@@ -3003,7 +3696,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Hans Theessink",
+          "url": "https://www.last.fm/music/Hans+Theessink"
+        }
+      ],
+      "known_artists": [],
       "id": "1ccbf127a0ff"
     },
     {
@@ -3024,7 +3723,15 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": "Joe Bonamassa",
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://www.last.fm/music/Joe+Bonamassa"
+        }
+      ],
+      "known_artists": [
+        "Joe Bonamassa"
+      ],
       "id": "3ede1066ee72"
     },
     {
@@ -3045,7 +3752,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "B.B. & The Blues Shacks",
+          "url": "https://www.last.fm/music/B.B.+%26+The+Blues+Shacks"
+        }
+      ],
+      "known_artists": [],
       "id": "9ede35c84290"
     },
     {
@@ -3064,7 +3777,8 @@
       "source_name": "Bernd Bauer Blues Band",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [],
+      "known_artists": [],
       "id": "e89cd8f357c1"
     },
     {
@@ -3085,7 +3799,13 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "known_artist": null,
+      "artists": [
+        {
+          "name": "Axel Zwingenberger",
+          "url": "https://www.last.fm/music/Axel+Zwingenberger"
+        }
+      ],
+      "known_artists": [],
       "id": "129fb11f2680"
     }
   ],
@@ -3125,6 +3845,15 @@
       "status": "ok",
       "found": 8,
       "kept": 43
+    },
+    {
+      "id": "rheinpfalz-schwabing",
+      "name": "Rheinpfalz Schwabing",
+      "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
+      "kind": "venue",
+      "status": "ok",
+      "found": 17,
+      "kept": 7
     },
     {
       "id": "bernd-bauer-blues-band",
@@ -3169,7 +3898,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 164,
-      "kept": 56
+      "kept": 53
     },
     {
       "id": "ticketmaster",

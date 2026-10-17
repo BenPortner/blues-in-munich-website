@@ -16,7 +16,7 @@ on:
     branches: [main]
 
 permissions:
-  contents: write   # commit data/events.json, push gh-pages
+  contents: write   # commit data/raw + data/events.json, push gh-pages
 
 concurrency:
   group: pages
@@ -62,10 +62,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git stash push -- data/events.json
+          git stash push --include-untracked -- data/events.json data/raw
           git pull --ff-only origin main
           git stash pop
-          git add data/events.json
+          git add data/events.json data/raw
           if git diff --cached --quiet; then
             echo "No changes"
           else

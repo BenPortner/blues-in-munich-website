@@ -30,8 +30,10 @@ class Event:
     source_name: str = ""
     school_name: str | None = None
     school_url: str | None = None
-    # Concerts: a well-known artist on the bill (Last.fm, see scraper/artists.py)
-    known_artist: str | None = None
+    # Concerts: every act Last.fm knows, as {"name", "url"} (its profile), in bill order
+    artists: list[dict] = field(default_factory=list)
+    # Concerts: well-known artists on the bill, best-known first (Last.fm, see scraper/artists.py)
+    known_artists: list[str] = field(default_factory=list)
     id: str = ""
 
     def finalize(self, source: dict) -> "Event":
@@ -72,6 +74,8 @@ class Event:
     def from_dict(cls, data: dict) -> "Event":
         known = cls.__dataclass_fields__.keys()
         event = cls(**{k: v for k, v in data.items() if k in known})
+        if data.get("known_artist") and not event.known_artists:  # single name in old data files
+            event.known_artists = [data["known_artist"]]
         if event.type == "festival":  # legacy type in old data files
             event.type = "concert"
         return event

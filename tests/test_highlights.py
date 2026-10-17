@@ -175,8 +175,10 @@ def test_no_spotlight_without_upcoming_highlights(tmp_path):
 
 def test_reason_known_artist(tmp_path):
     h = highlights(tmp_path)
-    assert h.reason(ev(venue="Some Bar", known_artist="Eric Bibb")) == "Well-known artist: Eric Bibb"
-    assert h.reason(ev(type="workshop", known_artist="Eric Bibb")) is None
+    assert h.reason(ev(venue="Some Bar", known_artists=["Eric Bibb"])) == "Well-known artist: Eric Bibb"
+    assert (h.reason(ev(venue="Some Bar", known_artists=["Eric Bibb", "Ana Popovic"]))
+            == "Well-known artists: Eric Bibb, Ana Popovic")
+    assert h.reason(ev(type="workshop", known_artists=["Eric Bibb"])) is None
 
 
 def test_lastfm_credit_only_with_artist_data(tmp_path):
@@ -189,12 +191,19 @@ def test_lastfm_credit_only_with_artist_data(tmp_path):
 
     plain = page_for([ev("Bar Gig", start="2026-10-22T20:00", venue="Some Bar", id="bar").to_dict()])
     assert plain.select_one(".lastfm") is None
-    famous = page_for([ev("Eric Bibb", start="2026-10-22T20:00", venue="Some Bar", known_artist="Eric Bibb",
+    famous = page_for([ev("Eric Bibb", start="2026-10-22T20:00", venue="Some Bar", known_artists=["Eric Bibb"],
                           id="bibb").to_dict()])
     credit = famous.select_one(".lastfm a")
     assert credit.text == "powered by AudioScrobbler" and credit["href"] == "https://www.last.fm/"
     assert famous.select_one(".card")["data-highlight"] == ""
     assert "Eric Bibb" in famous.select_one("#spotlight").text
+
+    url = "https://www.last.fm/music/Louis+Ville"
+    local = page_for([ev("Louis Ville", start="2026-10-22T20:00", venue="Some Bar", id="lv",
+                         artists=[{"name": "Louis Ville", "url": url}]).to_dict()])
+    link = local.select_one(".card .artists a")
+    assert link.text == "Louis Ville" and link["href"] == url
+    assert local.select_one(".lastfm a") and not local.select_one(".card").has_attr("data-highlight")
 
 
 def test_reason_picked_by_hand(tmp_path):

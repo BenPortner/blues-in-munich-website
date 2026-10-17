@@ -211,7 +211,7 @@ def main(argv: list[str] | None = None) -> int:
     enrich(result["events"], ctx.http, os.environ.get("LASTFM_API_KEY"), args.out.parent / "artists.json",
            args.sources.parent / "highlights.yaml", ctx.today)
     args.out.parent.mkdir(parents=True, exist_ok=True)
-    args.out.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    args.out.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")
     log.info("wrote %d events to %s", len(result["events"]), args.out)
     failed = [s["id"] for s in result["sources"] if s["status"] == "failed"]
     if failed:

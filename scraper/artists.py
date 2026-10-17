@@ -184,6 +184,6 @@ def enrich(events: list[dict], http, api_key: str | None, cache_path: Path, sett
     # Keep only names that are still on the bill, so the file doesn't grow forever
     kept = {k: v for k, v in sorted(cache.items()) if k in lastfm.used}
     cache_path.parent.mkdir(parents=True, exist_ok=True)
-    cache_path.write_text(json.dumps(kept, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    cache_path.write_text(json.dumps(kept, ensure_ascii=False, indent=1) + "\n", encoding="utf-8", newline="\n")
     log.info("artists: %d looked up on last.fm, %d events with a well-known artist", lastfm.lookups,
              sum(1 for e in events if e.get("known_artist")))

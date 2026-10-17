@@ -224,11 +224,11 @@ def build(data_path: Path, out: Path, today: date, highlights: Highlights | None
     if out.exists():
         shutil.rmtree(out)
     shutil.copytree(HERE / "static", out / "static")
-    (out / "index.html").write_text(html, encoding="utf-8")
+    (out / "index.html").write_text(html, encoding="utf-8", newline="\n")
     for page, title in (("impressum", "Impressum"), ("datenschutz", "Datenschutzerklärung")):
         (out / f"{page}.html").write_text(
-            env.get_template("legal.html.j2").render(page=page, title_de=title, legal=LEGAL), encoding="utf-8")
-    (out / "events.json").write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+            env.get_template("legal.html.j2").render(page=page, title_de=title, legal=LEGAL), encoding="utf-8", newline="\n")
+    (out / "events.json").write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8", newline="\n")
     (out / "events.ics").write_bytes(build_ics(data))
     (out / ".nojekyll").write_text("")
     return highlights.unknown_venues([Event.from_dict(e) for e in data["events"]])

@@ -108,7 +108,11 @@ def same_event(a: Event, b: Event) -> bool:
         return False
     va, vb = slug(a.venue or ""), slug(b.venue or "")
     if va and vb:
-        if va not in vb and vb not in va:
+        # sources also name the same place differently ("Groundlift Ammersee Live Studios" vs "Alte
+        # Brauerei Stegen"): the same street address counts as the same place
+        street_a, street_b = slug((a.address or "").split(",")[0]), slug((b.address or "").split(",")[0])
+        same_street = bool(street_a) and street_a == street_b
+        if va not in vb and vb not in va and not same_street:
             return False
     elif "T" not in a.start or a.start != b.start:
         return False
@@ -134,8 +138,15 @@ def dedupe(events: list[Event]) -> list[Event]:
             continue
         twin = next((e for e in by_day.get(event.start[:10], []) if same_event(e, event)), None)
         if twin:
-            _fill_gaps(twin, event)
             seen.update({event.id, key})
+            if _title_words(twin.title) < _title_words(event.title):
+                # the earlier listing is only a generic one ("Inninger Bluestage 2026" vs. the evening's
+                # actual bands): the more specific one replaces it
+                _fill_gaps(event, twin)
+                result[result.index(twin)] = event
+                by_day[event.start[:10]][by_day[event.start[:10]].index(twin)] = event
+            else:
+                _fill_gaps(twin, event)
             continue
         seen.update({event.id, key})
         by_day.setdefault(event.start[:10], []).append(event)

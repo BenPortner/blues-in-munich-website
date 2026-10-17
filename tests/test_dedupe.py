@@ -30,6 +30,16 @@ def test_different_events_stay_apart():
     assert not same_event(ev("Bernd Bauer Blues Band: Live-Konzert"), ev("Blues Session live"))
 
 
+def test_generic_series_listing_yields_to_the_specific_one():
+    series = ev("Inninger Bluestage 2026", id="a", venue="Groundlift Ammersee Live Studios",
+                address="Landsberger Straße 57, 82266 Stegen/Inning am Ammersee", start="2026-10-17T19:30")
+    night = ev("Inninger Bluestage 2026: Chris Kramer + Al Jones Band", id="b", venue="Alte Brauerei Stegen",
+               address="Landsberger Straße 57, 82266 Inning am Ammersee", start="2026-10-17T19:30",
+               end="2026-10-17T23:00")
+    assert [e.id for e in dedupe([series, night])] == ["b"]
+    assert [e.id for e in dedupe([night, series])] == ["b"]
+
+
 def test_dedupe_keeps_first_source_and_fills_gaps():
     band = ev(BAND, id="a", description="Akustische offene Blues Session, Eintritt frei")
     listing = ev("Session Stormy Wednesday", id="b", end="2026-10-21T22:30", address="Giesinger Bahnhofplatz 1",

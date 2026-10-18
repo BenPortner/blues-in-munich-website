@@ -10,7 +10,7 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 _REPO = os.environ.get("GITHUB_REPOSITORY")
-USER_AGENT = "BluesInMunichBot/1.0 (daily blues event listing{})".format(
+USER_AGENT = "BluesInMunichBot/1.0 (daily blues event listing; +https://www.bluesinmunich.de{})".format(
     f"; +https://github.com/{_REPO}" if _REPO else "")
 
 

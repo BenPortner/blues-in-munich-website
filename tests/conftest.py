@@ -27,6 +27,9 @@ class FakeHttp:
                 return fixture(name)
         raise AssertionError(f"unexpected request {url}")
 
+    def post_text(self, url, data):
+        return self.text(url, data)
+
 
 @pytest.fixture
 def make_ctx(tmp_path):

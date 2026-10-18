@@ -13,7 +13,7 @@
 #                          glockenbachwerkstatt, misterbs, swinginmunich, ticketmaster,
 #                          inmuenchen,
 #                          oksanapavlova, rheinpfalz_schwabing, gansamwasser,
-#                          village
+#                          village, hepcat
 #   enabled       false to keep an entry without scraping it
 #   default_type  class | workshop | social | concert (when not inferable)
 #   filter        blues        keep events mentioning blues (title/description/tags)
@@ -59,6 +59,15 @@ sources:
     enabled: true
     default_type: workshop
     filter: blues          # mostly Lindy Hop; monthly-ish blues workshops at Arnulfstr. 195
+
+  - id: hepcat-club
+    name: Hep Cat Club
+    kind: school
+    url: https://hepcatclub.com/
+    adapter: hepcat
+    enabled: true
+    default_type: class
+    filter: blues_title    # swing school in Augsburg; the weekly swing social lists blues among its styles
 
   # --- Venues & bands (concerts, sessions) ----------------------------------
   - id: glockenbachwerkstatt

@@ -17,6 +17,7 @@ The scrape targets are listed in [`sources.yaml`](sources.yaml). Currently enabl
 |---|---|---|
 | Vintage Club | school | blues courses from the timetable (with session dates), blues workshops/socials |
 | Boogie-Bären München | school | blues classes from the training timetable (with session dates), calendar events that mention blues |
+| Hep Cat Club (Augsburg) | school | blues classes from the school calendar (with session dates), blues workshops and parties |
 | Oksana Pavlova | school | blues workshops announced as news posts (via the WordPress API) |
 | Glockenbachwerkstatt | venue | the weekly *Fish'n Blues* concerts |
 | Bernd Bauer Blues Band | band | gigs in Munich, incl. the *Stormy Wednesday* open blues session |

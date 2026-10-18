@@ -3,6 +3,7 @@ from . import (  # noqa: F401
     boogie_baeren,
     gansamwasser,
     glockenbachwerkstatt,
+    hepcat,
     ical,
     inmuenchen,
     jsonld,

@@ -46,5 +46,14 @@ class Http:
             resp.encoding = resp.apparent_encoding
         return resp.text
 
+    def post_text(self, url: str, data: dict) -> str:
+        """POST a form (e.g. a WordPress admin-ajax call) and return the response body."""
+        self._wait(url)
+        resp = self.session.post(url, data=data, timeout=self.timeout)
+        resp.raise_for_status()
+        if not resp.encoding or resp.encoding.lower() == "iso-8859-1":
+            resp.encoding = resp.apparent_encoding
+        return resp.text
+
     def json(self, url: str, params: dict | None = None):
         return self.get(url, params).json()

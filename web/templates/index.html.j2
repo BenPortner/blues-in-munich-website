@@ -17,7 +17,7 @@
       <h1>Blues in Munich</h1>
       <p class="lede">Blues dance classes, workshops and socials, plus live blues — gathered from Munich's dance schools, venues and bands.</p>
       <p class="actions">
-        <a class="button" href="{{ webcal_url }}">Subscribe to calendar</a>
+        <a class="button" id="subscribe" href="{{ webcal_url }}" data-android-href="{{ gcal_url }}">Subscribe to calendar</a>
         <a class="button ghost" href="#sources">Sources</a>
       </p>
     </div>
@@ -145,7 +145,7 @@
     </ul>
     <p class="small">
       Last updated {{ generated }} (Munich time) ·
-      <a href="events.ics">iCal feed</a> · <a href="events.json">JSON</a>
+      <a href="events.ics">iCal feed</a> · <a href="{{ gcal_url }}">Google Calendar</a> · <a href="events.json">JSON</a>
       {% if repo_url %} · <a href="{{ repo_url }}/issues/new?title=New%20source%3A%20">Suggest a source</a>{% endif %}
       · <a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a>
     </p>

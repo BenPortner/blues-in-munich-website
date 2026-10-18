@@ -235,6 +235,10 @@ def test_build_site(tmp_path):
     assert page.select_one(".card .school")["href"] == "https://www.vintage-club.de/"
     assert cards[1].h4.a["href"] == "https://www.glockenbachwerkstatt.de/events/x/"
     assert "Upcoming sessions: 21 Oct, 28 Oct" in cards[0].get_text()
+    subscribe = page.select_one("#subscribe")
+    assert subscribe["href"] == "webcal://www.bluesinmunich.de/events.ics"
+    assert subscribe["data-android-href"] == (
+        "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fwww.bluesinmunich.de%2Fevents.ics")
     assert (out / "static" / "style.css").exists()
     ics = (out / "events.ics").read_text()
     assert ics.count("BEGIN:VEVENT") == 3  # two class sessions + one concert

@@ -9,6 +9,7 @@ import shutil
 from datetime import date, datetime, timedelta
 from itertools import groupby
 from pathlib import Path
+from urllib.parse import quote
 from zoneinfo import ZoneInfo
 
 from icalendar import Calendar
@@ -156,6 +157,8 @@ def view_model(data: dict, today: date, highlights: Highlights) -> dict:
         "calendar_json": calendar_json,
         # webcal:// makes calendar apps subscribe (and keep polling) instead of importing a one-off copy
         "webcal_url": f"webcal://{SITE_HOST}/events.ics",
+        # Android has no webcal:// handler and the Google Calendar app can't subscribe; its website can
+        "gcal_url": "https://calendar.google.com/calendar/render?cid=" + quote(f"webcal://{SITE_HOST}/events.ics", safe=""),
         "total": len(cards),
         "total_counts": chip_counts(lambda c: True),
         # Chips count upcoming events; a type with only past ones still gets a chip

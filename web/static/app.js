@@ -1,3 +1,9 @@
+// Android has no webcal:// handler, so the subscribe button sends it to Google Calendar's "add by URL" page.
+(function () {
+  var subscribe = document.getElementById("subscribe");
+  if (subscribe && /Android/i.test(navigator.userAgent)) subscribe.href = subscribe.getAttribute("data-android-href");
+})();
+
 // Type filter chips and the List / Calendar switch. The page works without JS as a plain list.
 // URL hash keeps the state: "#concert", "#calendar", "#calendar/concert", "#concert/region". "highlight"
 // is a filter too (see highlights.yaml). Events outside Munich (data-regional) are left out everywhere

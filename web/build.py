@@ -32,6 +32,7 @@ TYPE_LABELS = {
 }
 FILTERS = [("class", "Classes"), ("workshop", "Workshops"), ("social", "Socials"),
            ("concert", "Concerts")]
+COURSE_HORIZON_MONTHS = 2  # course blocks starting later than this aren't listed yet
 # The city's own postcodes; anything else is the region (the place menu: "Munich" / "Munich and region")
 MUNICH_POSTCODES = range(80331, 81930)
 POSTCODE = re.compile(r"\b(\d{5})\b")
@@ -106,8 +107,24 @@ def group_months(cards: list[dict], today: date) -> list[dict]:
     return months
 
 
-def view_model(data: dict, today: date, highlights: Highlights) -> dict:
+def months_later(day: date, months: int) -> date:
+    """The same day `months` later (the month's last day if it is shorter)."""
+    month = day.month - 1 + months
+    year, month = day.year + month // 12, month % 12 + 1
+    last = (date(year + month // 12, month % 12 + 1, 1) - timedelta(days=1)).day
+    return date(year, month, min(day.day, last))
+
+
+def shown_events(data: dict, today: date) -> list[Event]:
+    """The events the site and its calendar feed list: course blocks (classes with session dates)
+    only once they start within COURSE_HORIZON_MONTHS, so the next term is listed, not next year's."""
+    horizon = months_later(today, COURSE_HORIZON_MONTHS).isoformat()
     events = [Event.from_dict(e) for e in data["events"]]
+    return [e for e in events if not (e.type == "class" and e.dates and min(e.dates) > horizon)]
+
+
+def view_model(data: dict, today: date, highlights: Highlights) -> dict:
+    events = shown_events(data, today)
     upcoming = sorted((e for e in events if e.last_date >= today.isoformat()),
                       key=lambda e: (e.next_date(today), e.start, e.title))
     # Archived past events (the runner decides what's kept), newest first
@@ -209,14 +226,13 @@ def _ical_dt(iso: str):
     return date.fromisoformat(iso)
 
 
-def build_ics(data: dict) -> bytes:
+def build_ics(data: dict, today: date) -> bytes:
     cal = Calendar()
     cal.add("prodid", "-//Blues in Munich//events//EN")
     cal.add("version", "2.0")
     cal.add("x-wr-calname", "Blues in Munich")
     cal.add("x-wr-timezone", "Europe/Berlin")
-    for raw in data["events"]:
-        e = Event.from_dict(raw)
+    for e in shown_events(data, today):
         for n, (start, end) in enumerate(occurrences(e)):
             item = ICalEvent()
             item.add("uid", f"{e.id}-{n}@blues-in-munich")
@@ -258,7 +274,7 @@ def build(data_path: Path, out: Path, today: date, highlights: Highlights | None
         (out / f"{page}.html").write_text(
             env.get_template("legal.html.j2").render(page=page, title_de=title, legal=LEGAL), encoding="utf-8", newline="\n")
     (out / "events.json").write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8", newline="\n")
-    (out / "events.ics").write_bytes(build_ics(data))
+    (out / "events.ics").write_bytes(build_ics(data, today))
     (out / ".nojekyll").write_text("")
     return highlights.unknown_venues([Event.from_dict(e) for e in data["events"]])
 

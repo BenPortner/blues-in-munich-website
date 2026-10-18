@@ -7,7 +7,7 @@ from scraper.__main__ import ROOT, scrape_source
 from scraper.assemble import assemble, load_archive, load_raw, load_sources
 from scraper.models import Event, slug
 from scraper.registry import ADAPTERS, SkipSource, adapter
-from web.build import build, calendar_events, regional
+from web.build import build, calendar_events, months_later, regional
 from web.highlights import Highlights
 
 from .conftest import TODAY
@@ -352,3 +352,30 @@ def test_region_switch(tmp_path):
     build(data_path, tmp_path / "dist", TODAY, Highlights.load(picks))
     page = BeautifulSoup((tmp_path / "dist" / "index.html").read_text(encoding="utf-8"), "lxml")
     assert page.select_one(".place") is None
+
+
+def test_course_blocks_far_ahead_wait(tmp_path):
+    def course(title, *dates, type_="class"):
+        return Event(title=title, type=type_, start=f"{dates[0]}T19:35", end=f"{dates[0]}T20:35",
+                     recurrence="Tuesdays 19:35–20:35" if type_ == "class" else None,
+                     dates=list(dates) if type_ == "class" else [], id=slug(title)).to_dict()
+    data = {"generated_at": "2026-10-16T04:00:00+00:00", "sources": [], "events": [
+        course("This term", "2026-10-20", "2026-10-27"),
+        course("Next term", "2026-12-01", "2026-12-08"),      # starts before 16 Dec: listed
+        course("Winter term", "2027-01-12", "2027-01-19"),    # more than 2 months out: not yet
+        course("Winter workshop", "2027-01-16", type_="workshop"),  # only course blocks wait
+    ]}
+    data_path = tmp_path / "events.json"
+    data_path.write_text(json.dumps(data))
+    build(data_path, tmp_path / "dist", TODAY)
+    page = BeautifulSoup((tmp_path / "dist" / "index.html").read_text(encoding="utf-8"), "lxml")
+    assert [c.h4.get_text() for c in page.select(".card")] == ["This term", "Next term", "Winter workshop"]
+    assert {c["title"] for c in json.loads(page.select_one("#calendar-data").string)} == {
+        "This term", "Next term", "Winter workshop"}
+    assert "Winter term" not in (tmp_path / "dist" / "events.ics").read_text(encoding="utf-8")
+
+
+def test_months_later():
+    assert months_later(date(2026, 10, 16), 3) == date(2027, 1, 16)
+    assert months_later(date(2026, 11, 30), 3) == date(2027, 2, 28)  # no 30 Feb
+    assert months_later(date(2026, 1, 31), 1) == date(2026, 2, 28)

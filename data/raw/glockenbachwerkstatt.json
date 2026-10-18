@@ -1,0 +1,197 @@
+{
+ "scraped_at": "2026-10-18T08:29:15+00:00",
+ "status": {
+  "id": "glockenbachwerkstatt",
+  "name": "Glockenbachwerkstatt – Fish'n Blues",
+  "url": "https://www.glockenbachwerkstatt.de/",
+  "kind": "venue",
+  "status": "ok",
+  "found": 8
+ },
+ "events": [
+  {
+   "title": "Louis Ville",
+   "type": "concert",
+   "start": "2026-10-21T20:30",
+   "end": null,
+   "url": "https://www.glockenbachwerkstatt.de/events/fishnblues-louis-ville1026/",
+   "venue": "Glockenbachwerkstatt",
+   "address": "Blumenstraße 7, 80331 München",
+   "description": "Fisch: 19:00 Uhr · kostenfrei",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Fish'n Blues",
+    "Konzert"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Leonie singt!",
+   "type": "concert",
+   "start": "2026-10-28T20:30",
+   "end": null,
+   "url": "https://www.glockenbachwerkstatt.de/events/leonie-singt/",
+   "venue": "Glockenbachwerkstatt",
+   "address": "Blumenstraße 7, 80331 München",
+   "description": "Fisch: 19:00 Uhr · kostenfrei",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Fish'n Blues",
+    "Konzert"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "The Secret Songwriter's Union",
+   "type": "concert",
+   "start": "2026-11-04T20:30",
+   "end": null,
+   "url": "https://www.glockenbachwerkstatt.de/events/the-secret-songwriters-union/",
+   "venue": "Glockenbachwerkstatt",
+   "address": "Blumenstraße 7, 80331 München",
+   "description": "NIGHTBIRD (FIN) & MÄKKELÄ (FIN/D) & FRIEDER GRAEF (D) · kostenfrei",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Fish'n Blues",
+    "Konzert"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lonesome Andy & his One Man Band",
+   "type": "concert",
+   "start": "2026-11-11T20:30",
+   "end": null,
+   "url": "https://www.glockenbachwerkstatt.de/events/lonesome-andy-his-one-man-band/",
+   "venue": "Glockenbachwerkstatt",
+   "address": "Blumenstraße 7, 80331 München",
+   "description": "Fisch: 19:00 Uhr · kostenfrei",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Fish'n Blues",
+    "Konzert"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Sepp Eisele Trio",
+   "type": "concert",
+   "start": "2026-11-18T20:30",
+   "end": null,
+   "url": "https://www.glockenbachwerkstatt.de/events/sepp-eisele-trio/",
+   "venue": "Glockenbachwerkstatt",
+   "address": "Blumenstraße 7, 80331 München",
+   "description": "Fisch: 19:00 Uhr · kostenfrei",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Fish'n Blues",
+    "Konzert"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Pete Gavin",
+   "type": "concert",
+   "start": "2026-11-25T20:30",
+   "end": null,
+   "url": "https://www.glockenbachwerkstatt.de/events/pete-gavin2026/",
+   "venue": "Glockenbachwerkstatt",
+   "address": "Blumenstraße 7, 80331 München",
+   "description": "Fisch: 19:00 Uhr · kostenfrei",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Fish'n Blues",
+    "Konzert"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Dr. Will & Saschmo Bibergeil",
+   "type": "concert",
+   "start": "2026-12-02T20:30",
+   "end": null,
+   "url": "https://www.glockenbachwerkstatt.de/events/fishnblues-dr-will-saschmo-bibergeil2026/",
+   "venue": "Glockenbachwerkstatt",
+   "address": "Blumenstraße 7, 80331 München",
+   "description": "Fisch 19:00 Uhr · kostenfrei",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Fish'n Blues",
+    "Konzert"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Baby Kreuzberg",
+   "type": "concert",
+   "start": "2026-12-09T20:30",
+   "end": null,
+   "url": "https://www.glockenbachwerkstatt.de/events/baby-kreuzberg/",
+   "venue": "Glockenbachwerkstatt",
+   "address": "Blumenstraße 7, 80331 München",
+   "description": "Fisch: 19:00 Uhr · kostenfrei",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Fish'n Blues",
+    "Konzert"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  }
+ ]
+}

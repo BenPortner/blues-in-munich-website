@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-10-17T15:17:33+00:00",
+ "scraped_at": "2026-10-18T08:29:19+00:00",
  "status": {
   "id": "rheinpfalz-schwabing",
   "name": "Rheinpfalz Schwabing",
   "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
   "kind": "venue",
   "status": "ok",
-  "found": 17
+  "found": 16
  },
  "events": [
-  {
-   "title": "Beat Stones",
-   "type": "concert",
-   "start": "2026-10-17T20:00",
-   "end": null,
-   "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
-   "venue": "Rheinpfalz Schwabing",
-   "address": "Kurfürstenstraße 35, 80801 München",
-   "description": "Mir san wieder da! Und die Rheinpfalz ist absolut voll… Liebe Gäste, Wir möchten nicht, dass Ihr eine unnötige Anfahrt auf Euch nehmt. Die gute Nachricht: Schon am 13. Nov. sind die Jungs schon wieder da!!! Wer gerne Stones, Yardbirds, Doors, Fleetwood Mac, Jethro Tull, Spencer Davis, Tremeloes, Beatles & Co hört, ist bei den legendären Beatstones bestens aufgehoben: fabulous, original, just wonderful. Aus der Presse: „Munichs oldest Oldie-Band“: frisch, wild und ungestüm. (…) Klangteppiche aus hartem Rock und weichen Balladen. (…) Die besten Oldies, gespielt von herausragenden Musikern. Dirk Ziebolz (leadvoc, guitar) Woff Lauter (drums, voc) James Jacobs (keyboard, voc) Siegi Lang (guitar) Bertel (bass, voc) Ein sau-cooler Move! Bitte mit 15,00 Euro aufwärts für die Band rechnen. Das sind die Jungs absolut wert.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Vollmer Brothers Organ Trio feat. Donniele Graves",
    "type": "concert",

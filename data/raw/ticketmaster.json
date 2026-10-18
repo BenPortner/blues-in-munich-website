@@ -1,0 +1,12 @@
+{
+ "scraped_at": "2026-10-18T08:35:21+00:00",
+ "status": {
+  "id": "ticketmaster",
+  "name": "Ticketmaster (genre Blues)",
+  "url": "https://www.ticketmaster.de/",
+  "kind": "aggregator",
+  "status": "ok",
+  "found": 0
+ },
+ "events": []
+}

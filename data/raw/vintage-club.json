@@ -1,0 +1,2819 @@
+{
+ "scraped_at": "2026-10-18T08:29:01+00:00",
+ "status": {
+  "id": "vintage-club",
+  "name": "Vintage Club",
+  "url": "https://www.vintage-club.de/",
+  "kind": "school",
+  "status": "ok",
+  "found": 106
+ },
+ "events": [
+  {
+   "title": "Peppa Swing · (1,5 - 4 Jahre + Erw.) Neustart: verschoben auf 19. Oktober",
+   "type": "class",
+   "start": "2026-09-21T16:15",
+   "end": "2026-09-21T17:15",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Advance registration by email required.",
+   "recurrence": "Mondays 16:15–17:15",
+   "dates": [
+    "2026-09-21",
+    "2026-09-28",
+    "2026-10-05",
+    "2026-10-12"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 2 Refresher / Summary · ab Level 2+",
+   "type": "class",
+   "start": "2026-09-21T17:30",
+   "end": "2026-09-21T18:30",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Mondays 17:30–18:30",
+   "dates": [
+    "2026-09-21",
+    "2026-09-28",
+    "2026-10-05",
+    "2026-10-12"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Balboa 2 · Aufsteiger / Mittelstufe 1",
+   "type": "class",
+   "start": "2026-09-21T17:30",
+   "end": "2026-09-21T18:30",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Mondays 17:30–18:30",
+   "dates": [
+    "2026-09-21",
+    "2026-09-28",
+    "2026-10-05",
+    "2026-10-12"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie Woogie 2 · Mittelstufe",
+   "type": "class",
+   "start": "2026-09-22T17:30",
+   "end": "2026-09-22T18:30",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Tuesdays 17:30–18:30",
+   "dates": [
+    "2026-09-22",
+    "2026-09-29",
+    "2026-10-06",
+    "2026-10-13"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Easy Dips, Tricks, Lifts & Drops · ab Aufsteiger",
+   "type": "class",
+   "start": "2026-09-22T17:30",
+   "end": "2026-09-22T18:30",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Tuesdays 17:30–18:30",
+   "dates": [
+    "2026-09-22",
+    "2026-09-29",
+    "2026-10-06",
+    "2026-10-13"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Body Awareness · ab Level 2",
+   "type": "class",
+   "start": "2026-09-23T17:30",
+   "end": "2026-09-23T18:30",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Wednesdays 17:30–18:30",
+   "dates": [
+    "2026-09-23",
+    "2026-09-30",
+    "2026-10-07",
+    "2026-10-14"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Electro Swing · alle Level",
+   "type": "class",
+   "start": "2026-09-23T17:30",
+   "end": "2026-09-23T18:30",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Advance registration by email required.",
+   "recurrence": "Wednesdays 17:30–18:30",
+   "dates": [
+    "2026-09-23",
+    "2026-09-30",
+    "2026-10-07",
+    "2026-10-14"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Solo Charleston / Jazz 1 (Block B) · Anfänger",
+   "type": "class",
+   "start": "2026-09-23T17:30",
+   "end": "2026-09-23T18:30",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Petit Palais",
+   "address": null,
+   "description": "Advance registration by email required.",
+   "recurrence": "Wednesdays 17:30–18:30",
+   "dates": [
+    "2026-09-23",
+    "2026-09-30",
+    "2026-10-07",
+    "2026-10-14"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Hobby-Showgruppe · ab Level 2+",
+   "type": "class",
+   "start": "2026-09-24T17:30",
+   "end": "2026-09-24T18:30",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Advance registration by email required.",
+   "recurrence": "Thursdays 17:30–18:30",
+   "dates": [
+    "2026-09-24",
+    "2026-10-01",
+    "2026-10-08",
+    "2026-10-15"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Dips & Tricks · ab Level 2",
+   "type": "class",
+   "start": "2026-09-24T17:30",
+   "end": "2026-09-24T18:30",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Thursdays 17:30–18:30",
+   "dates": [
+    "2026-09-24",
+    "2026-10-01",
+    "2026-10-08",
+    "2026-10-15"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Balboa 1 (Block C) · Anfänger",
+   "type": "class",
+   "start": "2026-09-24T17:30",
+   "end": "2026-09-24T18:30",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Petit Palais",
+   "address": null,
+   "description": "Die drei verschiedenen Themenblöcke wechseln monatlich. Um in Balboa 2 aufzusteigen, musst du die Inhalte von allen drei Themenblöcken sicher beherrschen. Ein Einstieg für absolute Neulinge ist immer nur am Anfang jedes Themenblocks möglich. Advance registration by email required.",
+   "recurrence": "Thursdays 17:30–18:30",
+   "dates": [
+    "2026-09-24",
+    "2026-10-01",
+    "2026-10-08",
+    "2026-10-15"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 1 (Block C) · Anfänger",
+   "type": "class",
+   "start": "2026-09-25T17:30",
+   "end": "2026-09-25T18:30",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Die 3 verschiedenen Themenblöcke wechseln sich monatlich ab. Um in Lindy Hop 2 aufsteigen zu können, musst du die Inhalte von allen 3 Themenblöcken sicher beherrschen. Es sind keine Vorkenntnisse notwendig! Ein Einstieg für absolute Neulinge ist jedoch immer nur am Anfang eines neuen Themenblocks möglich. Advance registration by email required.",
+   "recurrence": "Fridays 17:30–18:30",
+   "dates": [
+    "2026-09-25",
+    "2026-10-02",
+    "2026-10-09",
+    "2026-10-16"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Solo Showgruppe · Fortge-schrittene (höchstes Level)",
+   "type": "class",
+   "start": "2026-09-25T17:30",
+   "end": "2026-09-25T18:30",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Advance registration by email required.",
+   "recurrence": "Fridays 17:30–18:30",
+   "dates": [
+    "2026-09-25",
+    "2026-10-02",
+    "2026-10-09",
+    "2026-10-16"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Shag 1 (Block C) · Anfänger",
+   "type": "class",
+   "start": "2026-09-21T18:45",
+   "end": "2026-09-21T19:45",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Die drei verschiedenen Themenblöcke wechseln sich jeden Monat ab. Um in Shag 2 aufzusteigen, musst du die Inhalte von allen drei Themenblöcken sicher beherrschen. Ein Einstieg für absolute Neulinge ist immer nur am Anfang jedes Themenblocks möglich. Block A: Basics & Turns Block B: Basics & Breaks Block C: Basics & Footwork Advance registration by email required.",
+   "recurrence": "Mondays 18:45–19:45",
+   "dates": [
+    "2026-09-21",
+    "2026-09-28",
+    "2026-10-05",
+    "2026-10-12"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Balboa 3 · Mittelstufe 2 / Fortgeschrittene 1",
+   "type": "class",
+   "start": "2026-09-21T18:45",
+   "end": "2026-09-21T19:45",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Mondays 18:45–19:45",
+   "dates": [
+    "2026-09-21",
+    "2026-09-28",
+    "2026-10-05",
+    "2026-10-12"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 1 (Block A) · Anfänger",
+   "type": "class",
+   "start": "2026-09-22T18:45",
+   "end": "2026-09-22T19:45",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Die 3 verschiedenen Themenblöcke wechseln sich monatlich ab. Um in Lindy Hop 2 aufsteigen zu können, musst du die Inhalte von allen 3 Themenblöcken sicher beherrschen. Es sind keine Vorkenntnisse notwendig! Ein Einstieg für absolute Neulinge ist jedoch immer nur am Anfang eines neuen Themenblocks möglich. Advance registration by email required.",
+   "recurrence": "Tuesdays 18:45–19:45",
+   "dates": [
+    "2026-09-22",
+    "2026-09-29",
+    "2026-10-06",
+    "2026-10-13"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 2 (Block B) · Aufsteiger",
+   "type": "class",
+   "start": "2026-09-22T18:45",
+   "end": "2026-09-22T19:45",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Das Level Lindy Hop 2 besteht aus 3 verschiedenen Themenblöcken, die sich je nach Wochentag und Monat abwechseln. Voraussetzung für Lindy Hop 2 ist die sichere Beherrschung der Inhalte der 3 Themenblöcke aus Lindy Hop 1. Ein Einstieg ist mit jedem Block möglich, jedoch immer am Anfang jedes Themenblocks.",
+   "recurrence": "Tuesdays 18:45–19:45",
+   "dates": [
+    "2026-09-22",
+    "2026-09-29",
+    "2026-10-06",
+    "2026-10-13"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 3 · Mittelstufe 1",
+   "type": "class",
+   "start": "2026-09-23T18:45",
+   "end": "2026-09-23T19:45",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Wednesdays 18:45–19:45",
+   "dates": [
+    "2026-09-23",
+    "2026-09-30",
+    "2026-10-07",
+    "2026-10-14"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "California Blues · alle Level",
+   "type": "class",
+   "start": "2026-09-23T18:45",
+   "end": "2026-09-23T19:45",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen, wesentliche Schritte und Figuren, um dich auf der Tanzfläche sicher und wohl zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkundet, die zu verschiedenen Musikstilen getanzt werden können. Advance registration by email required.",
+   "recurrence": "Wednesdays 18:45–19:45",
+   "dates": [
+    "2026-09-23",
+    "2026-09-30",
+    "2026-10-07",
+    "2026-10-14"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Rockabilly Jive 1 · Anfänger",
+   "type": "class",
+   "start": "2026-09-23T18:45",
+   "end": "2026-09-23T19:45",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Petit Palais",
+   "address": null,
+   "description": "Advance registration by email required.",
+   "recurrence": "Wednesdays 18:45–19:45",
+   "dates": [
+    "2026-09-23",
+    "2026-09-30",
+    "2026-10-07",
+    "2026-10-14"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie Woogie 1 (Block B) · Anfänger",
+   "type": "class",
+   "start": "2026-09-24T18:45",
+   "end": "2026-09-24T19:45",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Die drei verschiedenen Themenblöcke wechseln monatlich. Um in Boogie Woogie 2 aufzusteigen, musst du die Inhalte von allen drei Themenblöcken sicher beherrschen. Ein Einstieg für absolute Neulinge ist immer nur am Anfang jedes Themenblocks möglich. Advance registration by email required.",
+   "recurrence": "Thursdays 18:45–19:45",
+   "dates": [
+    "2026-09-24",
+    "2026-10-01",
+    "2026-10-08",
+    "2026-10-15"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie Woogie 2 · Mittelstufe",
+   "type": "class",
+   "start": "2026-09-24T18:45",
+   "end": "2026-09-24T19:45",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Thursdays 18:45–19:45",
+   "dates": [
+    "2026-09-24",
+    "2026-10-01",
+    "2026-10-08",
+    "2026-10-15"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Balboa 1 Refresher · Aufsteiger",
+   "type": "class",
+   "start": "2026-09-24T18:45",
+   "end": "2026-09-24T19:45",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Petit Palais",
+   "address": null,
+   "description": "Advance registration by email required.",
+   "recurrence": "Thursdays 18:45–19:45",
+   "dates": [
+    "2026-09-24",
+    "2026-10-01",
+    "2026-10-08",
+    "2026-10-15"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 1 Refresher / Summary · ab Level 1+",
+   "type": "class",
+   "start": "2026-09-25T18:45",
+   "end": "2026-09-25T19:45",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Advance registration by email required.",
+   "recurrence": "Fridays 18:45–19:45",
+   "dates": [
+    "2026-09-25",
+    "2026-10-02",
+    "2026-10-09",
+    "2026-10-16"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Balboa 1 (Block B) · Anfänger",
+   "type": "class",
+   "start": "2026-09-25T18:45",
+   "end": "2026-09-25T19:45",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Die drei verschiedenen Themenblöcke wechseln monatlich. Um in Balboa 2 aufzusteigen, musst du die Inhalte von allen drei Themenblöcken sicher beherrschen. Ein Einstieg für absolute Neulinge ist immer nur am Anfang jedes Themenblocks möglich. Advance registration by email required.",
+   "recurrence": "Fridays 18:45–19:45",
+   "dates": [
+    "2026-09-25",
+    "2026-10-02",
+    "2026-10-09",
+    "2026-10-16"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Shag 2 · Aufsteiger / Mittelstufe 1",
+   "type": "class",
+   "start": "2026-09-21T20:00",
+   "end": "2026-09-21T21:00",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Mondays 20:00–21:00",
+   "dates": [
+    "2026-09-21",
+    "2026-09-28",
+    "2026-10-05",
+    "2026-10-12"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Balboa Invitational · (geschlossene Gruppe)",
+   "type": "class",
+   "start": "2026-09-21T20:00",
+   "end": "2026-09-21T21:00",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Mondays 20:00–21:00",
+   "dates": [
+    "2026-09-21",
+    "2026-09-28",
+    "2026-10-05",
+    "2026-10-12"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 3 · Mittelstufe 1",
+   "type": "class",
+   "start": "2026-09-22T20:00",
+   "end": "2026-09-22T21:00",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Tuesdays 20:00–21:00",
+   "dates": [
+    "2026-09-22",
+    "2026-09-29",
+    "2026-10-06",
+    "2026-10-13"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Solo Charleston / Jazz 1 (Block B) · Anfänger",
+   "type": "class",
+   "start": "2026-09-22T20:00",
+   "end": "2026-09-22T21:00",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Advance registration by email required.",
+   "recurrence": "Tuesdays 20:00–21:00",
+   "dates": [
+    "2026-09-22",
+    "2026-09-29",
+    "2026-10-06",
+    "2026-10-13"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 1 (Block B) · Anfänger",
+   "type": "class",
+   "start": "2026-09-23T20:00",
+   "end": "2026-09-23T21:00",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Die 3 verschiedenen Themenblöcke wechseln sich monatlich ab. Um in Lindy Hop 2 aufsteigen zu können, musst du die Inhalte von allen 3 Themenblöcken sicher beherrschen. Es sind keine Vorkenntnisse notwendig! Ein Einstieg für absolute Neulinge ist jedoch immer nur am Anfang eines neuen Themenblocks möglich. Advance registration by email required.",
+   "recurrence": "Wednesdays 20:00–21:00",
+   "dates": [
+    "2026-09-23",
+    "2026-09-30",
+    "2026-10-07",
+    "2026-10-14"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 4 · Mittelstufe 2",
+   "type": "class",
+   "start": "2026-09-23T20:00",
+   "end": "2026-09-23T21:00",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Wednesdays 20:00–21:00",
+   "dates": [
+    "2026-09-23",
+    "2026-09-30",
+    "2026-10-07",
+    "2026-10-14"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Rockabilly Jive 2 · ab Aufsteiger",
+   "type": "class",
+   "start": "2026-09-23T20:00",
+   "end": "2026-09-23T21:00",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Petit Palais",
+   "address": null,
+   "description": "Advance registration by email required.",
+   "recurrence": "Wednesdays 20:00–21:00",
+   "dates": [
+    "2026-09-23",
+    "2026-09-30",
+    "2026-10-07",
+    "2026-10-14"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie Woogie 1 Refresher · ab Level 1+",
+   "type": "class",
+   "start": "2026-09-24T20:00",
+   "end": "2026-09-24T21:00",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Thursdays 20:00–21:00",
+   "dates": [
+    "2026-09-24",
+    "2026-10-01",
+    "2026-10-08",
+    "2026-10-15"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie Woogie 3 · Fortgeschrittene",
+   "type": "class",
+   "start": "2026-09-24T20:00",
+   "end": "2026-09-24T21:00",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Thursdays 20:00–21:00",
+   "dates": [
+    "2026-09-24",
+    "2026-10-01",
+    "2026-10-08",
+    "2026-10-15"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Balboa 2 · Mittelstufe",
+   "type": "class",
+   "start": "2026-09-24T20:00",
+   "end": "2026-09-24T21:00",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Petit Palais",
+   "address": null,
+   "description": "Advance registration by email required.",
+   "recurrence": "Thursdays 20:00–21:00",
+   "dates": [
+    "2026-09-24",
+    "2026-10-01",
+    "2026-10-08",
+    "2026-10-15"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 2 (Block A) · Aufsteiger",
+   "type": "class",
+   "start": "2026-09-25T20:00",
+   "end": "2026-09-25T21:00",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Das Level Lindy Hop 2 besteht aus 3 verschiedenen Themenblöcken, die sich je nach Wochentag und Monat abwechseln. Voraussetzung für Lindy Hop 2 ist die sichere Beherrschung der Inhalte der 3 Themenblöcke aus Lindy Hop 1. Ein Einstieg ist mit jedem Block möglich, jedoch immer am Anfang jedes Themenblocks.",
+   "recurrence": "Fridays 20:00–21:00",
+   "dates": [
+    "2026-09-25",
+    "2026-10-02",
+    "2026-10-09",
+    "2026-10-16"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Refresher Balboa 1 / Aufsteiger Balboa 2 · ab Level 1+",
+   "type": "class",
+   "start": "2026-09-25T20:00",
+   "end": "2026-09-25T21:00",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Fridays 20:00–21:00",
+   "dates": [
+    "2026-09-25",
+    "2026-10-02",
+    "2026-10-09",
+    "2026-10-16"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Shag 2 + Shag 3 · Mittelstufe / Fortge-schrittene",
+   "type": "class",
+   "start": "2026-09-21T21:10",
+   "end": "2026-09-21T22:10",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Mondays 21:10–22:10",
+   "dates": [
+    "2026-09-21",
+    "2026-09-28",
+    "2026-10-05",
+    "2026-10-12"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie Woogie 1 (Block A) · Anfänger",
+   "type": "class",
+   "start": "2026-09-21T21:10",
+   "end": "2026-09-21T22:10",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Die drei verschiedenen Themenblöcke wechseln monatlich. Um in Boogie Woogie 2 aufzusteigen, musst du die Inhalte von allen drei Themenblöcken sicher beherrschen. Ein Einstieg für absolute Neulinge ist immer nur am Anfang jedes Themenblocks möglich. Advance registration by email required.",
+   "recurrence": "Mondays 21:10–22:10",
+   "dates": [
+    "2026-09-21",
+    "2026-09-28",
+    "2026-10-05",
+    "2026-10-12"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Showgruppe · (geschlossene Gruppe)",
+   "type": "class",
+   "start": "2026-09-22T21:10",
+   "end": "2026-09-22T22:10",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Tuesdays 21:10–22:10",
+   "dates": [
+    "2026-09-22",
+    "2026-09-29",
+    "2026-10-06",
+    "2026-10-13"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Solo Jazz / Solo Charles- ton 2 · Mittelstufe",
+   "type": "class",
+   "start": "2026-09-22T21:10",
+   "end": "2026-09-22T22:10",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Tuesdays 21:10–22:10",
+   "dates": [
+    "2026-09-22",
+    "2026-09-29",
+    "2026-10-06",
+    "2026-10-13"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy for Fun / Jam Session",
+   "type": "class",
+   "start": "2026-09-23T21:10",
+   "end": "2026-09-23T22:10",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Wednesdays 21:10–22:10",
+   "dates": [
+    "2026-09-23",
+    "2026-09-30",
+    "2026-10-07",
+    "2026-10-14"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 5 · Fortge-schrittene",
+   "type": "class",
+   "start": "2026-09-23T21:10",
+   "end": "2026-09-23T22:10",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Wednesdays 21:10–22:10",
+   "dates": [
+    "2026-09-23",
+    "2026-09-30",
+    "2026-10-07",
+    "2026-10-14"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Rockabilly Dips & Tricks · ab Aufsteiger",
+   "type": "class",
+   "start": "2026-09-23T21:10",
+   "end": "2026-09-23T22:10",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Petit Palais",
+   "address": null,
+   "description": "Advance registration by email required.",
+   "recurrence": "Wednesdays 21:10–22:10",
+   "dates": [
+    "2026-09-23",
+    "2026-09-30",
+    "2026-10-07",
+    "2026-10-14"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie For Fun · alle Level",
+   "type": "class",
+   "start": "2026-09-24T21:10",
+   "end": "2026-09-24T22:10",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Thursdays 21:10–22:10",
+   "dates": [
+    "2026-09-24",
+    "2026-10-01",
+    "2026-10-08",
+    "2026-10-15"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Soul Lindy · ab Level 2",
+   "type": "class",
+   "start": "2026-09-24T21:10",
+   "end": "2026-09-24T22:10",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Advance registration by email required.",
+   "recurrence": "Thursdays 21:10–22:10",
+   "dates": [
+    "2026-09-24",
+    "2026-10-01",
+    "2026-10-08",
+    "2026-10-15"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "St. Louis Shag · alle Level",
+   "type": "class",
+   "start": "2026-09-24T21:10",
+   "end": "2026-09-24T22:10",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Petit Palais",
+   "address": null,
+   "description": "Advance registration by email required.",
+   "recurrence": "Thursdays 21:10–22:10",
+   "dates": [
+    "2026-09-24",
+    "2026-10-01",
+    "2026-10-08",
+    "2026-10-15"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 3 · Mittelstufe 1",
+   "type": "class",
+   "start": "2026-09-25T21:10",
+   "end": "2026-09-25T22:10",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Fridays 21:10–22:10",
+   "dates": [
+    "2026-09-25",
+    "2026-10-02",
+    "2026-10-09",
+    "2026-10-16"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Balboa 2 · Aufsteiger / Mittelstufe 1",
+   "type": "class",
+   "start": "2026-09-25T21:10",
+   "end": "2026-09-25T22:10",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Fridays 21:10–22:10",
+   "dates": [
+    "2026-09-25",
+    "2026-10-02",
+    "2026-10-09",
+    "2026-10-16"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Peppa Swing · (1,5 - 4 Jahre + Erw.)",
+   "type": "class",
+   "start": "2026-10-19T16:15",
+   "end": "2026-10-19T17:15",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Advance registration by email required.",
+   "recurrence": "Mondays 16:15–17:15",
+   "dates": [
+    "2026-10-19",
+    "2026-10-26",
+    "2026-11-02",
+    "2026-11-09"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 2 Refresher / Summary · ab Level 2+",
+   "type": "class",
+   "start": "2026-10-19T17:30",
+   "end": "2026-10-19T18:30",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Mondays 17:30–18:30",
+   "dates": [
+    "2026-10-19",
+    "2026-10-26",
+    "2026-11-02",
+    "2026-11-09"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Balboa 2 · Aufsteiger / Mittelstufe 1",
+   "type": "class",
+   "start": "2026-10-19T17:30",
+   "end": "2026-10-19T18:30",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Mondays 17:30–18:30",
+   "dates": [
+    "2026-10-19",
+    "2026-10-26",
+    "2026-11-02",
+    "2026-11-09"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie Woogie 2 · Mittelstufe",
+   "type": "class",
+   "start": "2026-10-20T17:30",
+   "end": "2026-10-20T18:30",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Tuesdays 17:30–18:30",
+   "dates": [
+    "2026-10-20",
+    "2026-10-27",
+    "2026-11-03",
+    "2026-11-10"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Easy Dips, Tricks, Lifts & Drops · ab Aufsteiger",
+   "type": "class",
+   "start": "2026-10-20T17:30",
+   "end": "2026-10-20T18:30",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Tuesdays 17:30–18:30",
+   "dates": [
+    "2026-10-20",
+    "2026-10-27",
+    "2026-11-03",
+    "2026-11-10"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Body Awareness · ab Level 2",
+   "type": "class",
+   "start": "2026-10-21T17:30",
+   "end": "2026-10-21T18:30",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Wednesdays 17:30–18:30",
+   "dates": [
+    "2026-10-21",
+    "2026-10-28",
+    "2026-11-04",
+    "2026-11-11"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Electro Swing · alle Level",
+   "type": "class",
+   "start": "2026-10-21T17:30",
+   "end": "2026-10-21T18:30",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Advance registration by email required.",
+   "recurrence": "Wednesdays 17:30–18:30",
+   "dates": [
+    "2026-10-21",
+    "2026-10-28",
+    "2026-11-04",
+    "2026-11-11"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Solo Charleston / Jazz 1 (Block C) · Anfänger",
+   "type": "class",
+   "start": "2026-10-21T17:30",
+   "end": "2026-10-21T18:30",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Petit Palais",
+   "address": null,
+   "description": "Advance registration by email required.",
+   "recurrence": "Wednesdays 17:30–18:30",
+   "dates": [
+    "2026-10-21",
+    "2026-10-28",
+    "2026-11-04",
+    "2026-11-11"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Hobby-Showgruppe · ab Level 2+",
+   "type": "class",
+   "start": "2026-10-22T17:30",
+   "end": "2026-10-22T18:30",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Advance registration by email required.",
+   "recurrence": "Thursdays 17:30–18:30",
+   "dates": [
+    "2026-10-22",
+    "2026-10-29",
+    "2026-11-05",
+    "2026-11-12"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Dips & Tricks · ab Level 2",
+   "type": "class",
+   "start": "2026-10-22T17:30",
+   "end": "2026-10-22T18:30",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Thursdays 17:30–18:30",
+   "dates": [
+    "2026-10-22",
+    "2026-10-29",
+    "2026-11-05",
+    "2026-11-12"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Balboa 1 (Block A) · Anfänger",
+   "type": "class",
+   "start": "2026-10-22T17:30",
+   "end": "2026-10-22T18:30",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Petit Palais",
+   "address": null,
+   "description": "Die drei verschiedenen Themenblöcke wechseln monatlich. Um in Balboa 2 aufzusteigen, musst du die Inhalte von allen drei Themenblöcken sicher beherrschen. Ein Einstieg für absolute Neulinge ist immer nur am Anfang jedes Themenblocks möglich. Advance registration by email required.",
+   "recurrence": "Thursdays 17:30–18:30",
+   "dates": [
+    "2026-10-22",
+    "2026-10-29",
+    "2026-11-05",
+    "2026-11-12"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 1 (Block A) · Anfänger",
+   "type": "class",
+   "start": "2026-10-23T17:30",
+   "end": "2026-10-23T18:30",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Die 3 verschiedenen Themenblöcke wechseln sich monatlich ab. Um in Lindy Hop 2 aufsteigen zu können, musst du die Inhalte von allen 3 Themenblöcken sicher beherrschen. Es sind keine Vorkenntnisse notwendig! Ein Einstieg für absolute Neulinge ist jedoch immer nur am Anfang eines neuen Themenblocks möglich. Advance registration by email required.",
+   "recurrence": "Fridays 17:30–18:30",
+   "dates": [
+    "2026-10-23",
+    "2026-10-30",
+    "2026-11-06",
+    "2026-11-13"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Solo Showgruppe · Fortge-schrittene (höchstes Level)",
+   "type": "class",
+   "start": "2026-10-23T17:30",
+   "end": "2026-10-23T18:30",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Advance registration by email required.",
+   "recurrence": "Fridays 17:30–18:30",
+   "dates": [
+    "2026-10-23",
+    "2026-10-30",
+    "2026-11-06",
+    "2026-11-13"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Shag 1 (Block A) · Anfänger",
+   "type": "class",
+   "start": "2026-10-19T18:45",
+   "end": "2026-10-19T19:45",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Die drei verschiedenen Themenblöcke wechseln sich jeden Monat ab. Um in Shag 2 aufzusteigen, musst du die Inhalte von allen drei Themenblöcken sicher beherrschen. Ein Einstieg für absolute Neulinge ist immer nur am Anfang jedes Themenblocks möglich. Block A: Basics & Turns Block B: Basics & Breaks Block C: Basics & Footwork Advance registration by email required.",
+   "recurrence": "Mondays 18:45–19:45",
+   "dates": [
+    "2026-10-19",
+    "2026-10-26",
+    "2026-11-02",
+    "2026-11-09"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Balboa 3 · Mittelstufe 2 / Fortgeschrittene 1",
+   "type": "class",
+   "start": "2026-10-19T18:45",
+   "end": "2026-10-19T19:45",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Mondays 18:45–19:45",
+   "dates": [
+    "2026-10-19",
+    "2026-10-26",
+    "2026-11-02",
+    "2026-11-09"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 1 (Block B) · Anfänger",
+   "type": "class",
+   "start": "2026-10-20T18:45",
+   "end": "2026-10-20T19:45",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Die 3 verschiedenen Themenblöcke wechseln sich monatlich ab. Um in Lindy Hop 2 aufsteigen zu können, musst du die Inhalte von allen 3 Themenblöcken sicher beherrschen. Es sind keine Vorkenntnisse notwendig! Ein Einstieg für absolute Neulinge ist jedoch immer nur am Anfang eines neuen Themenblocks möglich. Advance registration by email required.",
+   "recurrence": "Tuesdays 18:45–19:45",
+   "dates": [
+    "2026-10-20",
+    "2026-10-27",
+    "2026-11-03",
+    "2026-11-10"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 2 (Block C) · Aufsteiger",
+   "type": "class",
+   "start": "2026-10-20T18:45",
+   "end": "2026-10-20T19:45",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Das Level Lindy Hop 2 besteht aus 3 verschiedenen Themenblöcken, die sich je nach Wochentag und Monat abwechseln. Voraussetzung für Lindy Hop 2 ist die sichere Beherrschung der Inhalte der 3 Themenblöcke aus Lindy Hop 1. Ein Einstieg ist mit jedem Block möglich, jedoch immer am Anfang jedes Themenblocks.",
+   "recurrence": "Tuesdays 18:45–19:45",
+   "dates": [
+    "2026-10-20",
+    "2026-10-27",
+    "2026-11-03",
+    "2026-11-10"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 3 · Mittelstufe 1",
+   "type": "class",
+   "start": "2026-10-21T18:45",
+   "end": "2026-10-21T19:45",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Wednesdays 18:45–19:45",
+   "dates": [
+    "2026-10-21",
+    "2026-10-28",
+    "2026-11-04",
+    "2026-11-11"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Blues · alle Level",
+   "type": "class",
+   "start": "2026-10-21T18:45",
+   "end": "2026-10-21T19:45",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen, wesentliche Schritte und Figuren, um dich auf der Tanzfläche sicher und wohl zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkundet, die zu verschiedenen Musikstilen getanzt werden können.",
+   "recurrence": "Wednesdays 18:45–19:45",
+   "dates": [
+    "2026-10-21",
+    "2026-10-28",
+    "2026-11-04",
+    "2026-11-11"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Rockabilly Jive 1 · Anfänger",
+   "type": "class",
+   "start": "2026-10-21T18:45",
+   "end": "2026-10-21T19:45",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Petit Palais",
+   "address": null,
+   "description": "Advance registration by email required.",
+   "recurrence": "Wednesdays 18:45–19:45",
+   "dates": [
+    "2026-10-21",
+    "2026-10-28",
+    "2026-11-04",
+    "2026-11-11"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie Woogie 1 (Block C) · Anfänger",
+   "type": "class",
+   "start": "2026-10-22T18:45",
+   "end": "2026-10-22T19:45",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Die drei verschiedenen Themenblöcke wechseln monatlich. Um in Boogie Woogie 2 aufzusteigen, musst du die Inhalte von allen drei Themenblöcken sicher beherrschen. Ein Einstieg für absolute Neulinge ist immer nur am Anfang jedes Themenblocks möglich. Advance registration by email required.",
+   "recurrence": "Thursdays 18:45–19:45",
+   "dates": [
+    "2026-10-22",
+    "2026-10-29",
+    "2026-11-05",
+    "2026-11-12"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie Woogie 2 · Mittelstufe",
+   "type": "class",
+   "start": "2026-10-22T18:45",
+   "end": "2026-10-22T19:45",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Thursdays 18:45–19:45",
+   "dates": [
+    "2026-10-22",
+    "2026-10-29",
+    "2026-11-05",
+    "2026-11-12"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Balboa 1 Refresher · Aufsteiger",
+   "type": "class",
+   "start": "2026-10-22T18:45",
+   "end": "2026-10-22T19:45",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Petit Palais",
+   "address": null,
+   "description": "Advance registration by email required.",
+   "recurrence": "Thursdays 18:45–19:45",
+   "dates": [
+    "2026-10-22",
+    "2026-10-29",
+    "2026-11-05",
+    "2026-11-12"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 1 Refresher / Summary · ab Level 1+",
+   "type": "class",
+   "start": "2026-10-23T18:45",
+   "end": "2026-10-23T19:45",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Advance registration by email required.",
+   "recurrence": "Fridays 18:45–19:45",
+   "dates": [
+    "2026-10-23",
+    "2026-10-30",
+    "2026-11-06",
+    "2026-11-13"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Balboa 1 (Block C) · Anfänger",
+   "type": "class",
+   "start": "2026-10-23T18:45",
+   "end": "2026-10-23T19:45",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Die drei verschiedenen Themenblöcke wechseln monatlich. Um in Balboa 2 aufzusteigen, musst du die Inhalte von allen drei Themenblöcken sicher beherrschen. Ein Einstieg für absolute Neulinge ist immer nur am Anfang jedes Themenblocks möglich. Advance registration by email required.",
+   "recurrence": "Fridays 18:45–19:45",
+   "dates": [
+    "2026-10-23",
+    "2026-10-30",
+    "2026-11-06",
+    "2026-11-13"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Shag 2 · Aufsteiger / Mittelstufe 1",
+   "type": "class",
+   "start": "2026-10-19T20:00",
+   "end": "2026-10-19T21:00",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Mondays 20:00–21:00",
+   "dates": [
+    "2026-10-19",
+    "2026-10-26",
+    "2026-11-02",
+    "2026-11-09"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Balboa Invitational · (geschlossene Gruppe)",
+   "type": "class",
+   "start": "2026-10-19T20:00",
+   "end": "2026-10-19T21:00",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Mondays 20:00–21:00",
+   "dates": [
+    "2026-10-19",
+    "2026-10-26",
+    "2026-11-02",
+    "2026-11-09"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 3 · Mittelstufe 1",
+   "type": "class",
+   "start": "2026-10-20T20:00",
+   "end": "2026-10-20T21:00",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Tuesdays 20:00–21:00",
+   "dates": [
+    "2026-10-20",
+    "2026-10-27",
+    "2026-11-03",
+    "2026-11-10"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Solo Charleston / Jazz 1 (Block C) · Anfänger",
+   "type": "class",
+   "start": "2026-10-20T20:00",
+   "end": "2026-10-20T21:00",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Advance registration by email required.",
+   "recurrence": "Tuesdays 20:00–21:00",
+   "dates": [
+    "2026-10-20",
+    "2026-10-27",
+    "2026-11-03",
+    "2026-11-10"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 1 (Block C) · Anfänger",
+   "type": "class",
+   "start": "2026-10-21T20:00",
+   "end": "2026-10-21T21:00",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Die 3 verschiedenen Themenblöcke wechseln sich monatlich ab. Um in Lindy Hop 2 aufsteigen zu können, musst du die Inhalte von allen 3 Themenblöcken sicher beherrschen. Es sind keine Vorkenntnisse notwendig! Ein Einstieg für absolute Neulinge ist jedoch immer nur am Anfang eines neuen Themenblocks möglich. Advance registration by email required.",
+   "recurrence": "Wednesdays 20:00–21:00",
+   "dates": [
+    "2026-10-21",
+    "2026-10-28",
+    "2026-11-04",
+    "2026-11-11"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 4 · Mittelstufe 2",
+   "type": "class",
+   "start": "2026-10-21T20:00",
+   "end": "2026-10-21T21:00",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Wednesdays 20:00–21:00",
+   "dates": [
+    "2026-10-21",
+    "2026-10-28",
+    "2026-11-04",
+    "2026-11-11"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Rockabilly Jive 2 · ab Aufsteiger",
+   "type": "class",
+   "start": "2026-10-21T20:00",
+   "end": "2026-10-21T21:00",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Petit Palais",
+   "address": null,
+   "description": "Advance registration by email required.",
+   "recurrence": "Wednesdays 20:00–21:00",
+   "dates": [
+    "2026-10-21",
+    "2026-10-28",
+    "2026-11-04",
+    "2026-11-11"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie Woogie 1 Refresher · ab Level 1+",
+   "type": "class",
+   "start": "2026-10-22T20:00",
+   "end": "2026-10-22T21:00",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Thursdays 20:00–21:00",
+   "dates": [
+    "2026-10-22",
+    "2026-10-29",
+    "2026-11-05",
+    "2026-11-12"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie Woogie 3 · Fortgeschrittene",
+   "type": "class",
+   "start": "2026-10-22T20:00",
+   "end": "2026-10-22T21:00",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Thursdays 20:00–21:00",
+   "dates": [
+    "2026-10-22",
+    "2026-10-29",
+    "2026-11-05",
+    "2026-11-12"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Balboa 2 · Mittelstufe",
+   "type": "class",
+   "start": "2026-10-22T20:00",
+   "end": "2026-10-22T21:00",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Petit Palais",
+   "address": null,
+   "description": "Advance registration by email required.",
+   "recurrence": "Thursdays 20:00–21:00",
+   "dates": [
+    "2026-10-22",
+    "2026-10-29",
+    "2026-11-05",
+    "2026-11-12"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 2 (Block B) · Aufsteiger",
+   "type": "class",
+   "start": "2026-10-23T20:00",
+   "end": "2026-10-23T21:00",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Das Level Lindy Hop 2 besteht aus 3 verschiedenen Themenblöcken, die sich je nach Wochentag und Monat abwechseln. Voraussetzung für Lindy Hop 2 ist die sichere Beherrschung der Inhalte der 3 Themenblöcke aus Lindy Hop 1. Ein Einstieg ist mit jedem Block möglich, jedoch immer am Anfang jedes Themenblocks.",
+   "recurrence": "Fridays 20:00–21:00",
+   "dates": [
+    "2026-10-23",
+    "2026-10-30",
+    "2026-11-06",
+    "2026-11-13"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Refresher Balboa 1 / Aufsteiger Balboa 2 · ab Level 1+",
+   "type": "class",
+   "start": "2026-10-23T20:00",
+   "end": "2026-10-23T21:00",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Fridays 20:00–21:00",
+   "dates": [
+    "2026-10-23",
+    "2026-10-30",
+    "2026-11-06",
+    "2026-11-13"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Shag 2 + Shag 3 · Mittelstufe / Fortge-schrittene",
+   "type": "class",
+   "start": "2026-10-19T21:10",
+   "end": "2026-10-19T22:10",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Mondays 21:10–22:10",
+   "dates": [
+    "2026-10-19",
+    "2026-10-26",
+    "2026-11-02",
+    "2026-11-09"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie Woogie 1 (Block B) · Anfänger",
+   "type": "class",
+   "start": "2026-10-19T21:10",
+   "end": "2026-10-19T22:10",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Die drei verschiedenen Themenblöcke wechseln monatlich. Um in Boogie Woogie 2 aufzusteigen, musst du die Inhalte von allen drei Themenblöcken sicher beherrschen. Ein Einstieg für absolute Neulinge ist immer nur am Anfang jedes Themenblocks möglich. Advance registration by email required.",
+   "recurrence": "Mondays 21:10–22:10",
+   "dates": [
+    "2026-10-19",
+    "2026-10-26",
+    "2026-11-02",
+    "2026-11-09"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Showgruppe · (geschlossene Gruppe)",
+   "type": "class",
+   "start": "2026-10-20T21:10",
+   "end": "2026-10-20T22:10",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Tuesdays 21:10–22:10",
+   "dates": [
+    "2026-10-20",
+    "2026-10-27",
+    "2026-11-03",
+    "2026-11-10"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Solo Jazz / Solo Charles- ton 2 · Mittelstufe",
+   "type": "class",
+   "start": "2026-10-20T21:10",
+   "end": "2026-10-20T22:10",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Tuesdays 21:10–22:10",
+   "dates": [
+    "2026-10-20",
+    "2026-10-27",
+    "2026-11-03",
+    "2026-11-10"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy for Fun / Jam Session",
+   "type": "class",
+   "start": "2026-10-21T21:10",
+   "end": "2026-10-21T22:10",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Wednesdays 21:10–22:10",
+   "dates": [
+    "2026-10-21",
+    "2026-10-28",
+    "2026-11-04",
+    "2026-11-11"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 5 · Fortge-schrittene",
+   "type": "class",
+   "start": "2026-10-21T21:10",
+   "end": "2026-10-21T22:10",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Wednesdays 21:10–22:10",
+   "dates": [
+    "2026-10-21",
+    "2026-10-28",
+    "2026-11-04",
+    "2026-11-11"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Rockabilly Dips & Tricks · ab Aufsteiger",
+   "type": "class",
+   "start": "2026-10-21T21:10",
+   "end": "2026-10-21T22:10",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Petit Palais",
+   "address": null,
+   "description": "Advance registration by email required.",
+   "recurrence": "Wednesdays 21:10–22:10",
+   "dates": [
+    "2026-10-21",
+    "2026-10-28",
+    "2026-11-04",
+    "2026-11-11"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie For Fun · alle Level",
+   "type": "class",
+   "start": "2026-10-22T21:10",
+   "end": "2026-10-22T22:10",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Thursdays 21:10–22:10",
+   "dates": [
+    "2026-10-22",
+    "2026-10-29",
+    "2026-11-05",
+    "2026-11-12"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Shag 2 · ab Level 2 nur am 22. Okt!",
+   "type": "class",
+   "start": "2026-10-22T21:10",
+   "end": "2026-10-22T22:10",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Advance registration by email required.",
+   "recurrence": "Thursdays 21:10–22:10",
+   "dates": [
+    "2026-10-22",
+    "2026-10-29",
+    "2026-11-05",
+    "2026-11-12"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "St. Louis Shag · alle Level",
+   "type": "class",
+   "start": "2026-10-22T21:10",
+   "end": "2026-10-22T22:10",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Petit Palais",
+   "address": null,
+   "description": "Advance registration by email required.",
+   "recurrence": "Thursdays 21:10–22:10",
+   "dates": [
+    "2026-10-22",
+    "2026-10-29",
+    "2026-11-05",
+    "2026-11-12"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 3 · Mittelstufe 1",
+   "type": "class",
+   "start": "2026-10-23T21:10",
+   "end": "2026-10-23T22:10",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 1)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Fridays 21:10–22:10",
+   "dates": [
+    "2026-10-23",
+    "2026-10-30",
+    "2026-11-06",
+    "2026-11-13"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Balboa 2 · Aufsteiger / Mittelstufe 1",
+   "type": "class",
+   "start": "2026-10-23T21:10",
+   "end": "2026-10-23T22:10",
+   "url": "https://www.vintage-club.de/classes.aspx",
+   "venue": "Vintage Club (VC Studio 2)",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "",
+   "recurrence": "Fridays 21:10–22:10",
+   "dates": [
+    "2026-10-23",
+    "2026-10-30",
+    "2026-11-06",
+    "2026-11-13"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lifts, Dips & Tricks mit Hunter & Bianca (ab Intermediate)",
+   "type": "workshop",
+   "start": "2026-10-17T10:15",
+   "end": "2026-10-17T11:15",
+   "url": "https://www.vintage-club.de/workshops.aspx",
+   "venue": "Vintage Club",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "10:15 – 11:15 Part 1: Dips – 60 Minuten (20 Euro / *17 Euro) 11:30 – 12:30 Part 2: Tricks – 60 Minuten (20 Euro / *17 Euro) 12:45 – 13:45 Part 3: Lifts – 60 Minuten (20 Euro / *17 Euro) *VC-Clubmitglieder, Studenten/Schüler mit gültigem Ausweis Für Lindy-Hop- und Boogie-Woogie-Tänzer geeignet! Der Workshop richtet sich sowohl an Lindy-Hop- als auch an Boogie-Woogie-Tänzer. Partner: Bitte bringt nach Möglichkeit einen Tanzpartner mit, denn bei diesem Workshop ist gegenseitiges Vertrauen besonders wichtig. Voraussetzungen: Ihr solltet bereits ein wenig Tanzerfahrung haben und in einer guten körperlichen Verfassung sein. Da der Workshop körperlich anspruchsvoll sein kann, solltet ihr keine größeren körperlichen Beschwerden haben, insbesondere im Rücken- oder Kniebereich. Anmeldung: Bitte meldet euch per E-Mail an info@worldofswing.com. Kurzfristige Teilnahme: Nachmeldungen vor Ort sind möglich, sofern bis spätestens einen Tag vor dem Workshop genügend verbindliche Voranmeldungen eingegangen sind. Bianca ist leidenschaftliche Swingtänzerin mit besonderer Begeisterung für Collegiate Shag, Lindy Hop und Balboa. Ihr Tanz ist geprägt von Energie, Aerials und der Freude an der Verbindung mit dem Partner. Als erfahrene Tänzerin und Trainerin war sie international auf Wettbewerben und Workshops aktiv und lässt sich dabei besonders von historischen Aufnahmen und der ursprünglichen Tradition der Tänze inspirieren. Hunter ist ein professioneller Swingtänzer, Trainer und Choreograf mit langjähriger Bühnen- und Kameraerfahrung. Er arbeitete unter anderem als Choreograf für TV- und Filmproduktionen, war Background-Tänzer für die Jackson 5 und Jessie J und ist Associate Choreographer für Virgin Voyages. Als international gefragter Trainer verbindet er seine Erfahrung aus der Entertainment-Branche mit seiner großen Leidenschaft für Swingtanz. --------------------",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "🤠 THE GIT UP – COUNTRY LINE DANCE MIT HUNTER 🤠",
+   "type": "workshop",
+   "start": "2026-10-18T13:00",
+   "end": "2026-10-18T14:30",
+   "url": "https://www.vintage-club.de/workshops.aspx",
+   "venue": "Vintage Club",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Lernt mit Hunter die Choreografie zum Country-Hit „The Git Up“! Gemeinsam tanzen wir die beliebten Moves – mit jeder Menge Spaß und Country-Feeling. Alle Level willkommen! Der Workshop eignet sich für alle, die Lust auf Country Line Dance haben. Choreografie: Hunter Krikac Dauer: 90 Minuten Preis: 30 € Ermäßigt: 25 € für Vintage-Club-Mitglieder sowie Schüler und Studenten mit gültigem Ausweis Kommt vorbei und tanzt mit! Yee-haw! 🤠 „The Git Up“ Country Line Dance: \"The Git Up\" Country Line Dance - Revisioned Choreo by Hunter Krikac \"The Git Up\" by Hunter & Karine Anmeldung: Bitte meldet euch per E-Mail an info@worldofswing.com. Kurzfristige Teilnahme: Nachmeldungen vor Ort sind möglich, sofern bis spätestens einen Tag vor dem Workshop genügend verbindliche Voranmeldungen eingegangen sind. --------------------",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Workshop-Weekend mit Nicholas (USA) & Tere (ESP)",
+   "type": "workshop",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "url": "https://www.vintage-club.de/workshops.aspx",
+   "venue": "Vintage Club",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Extreme Jitterbug mit Nicholas und Tere! Lernt von zwei vielseitigen Trainern mit jeder Menge Energie. Nicholas Tapia und Tere Fernández bringen vielseitige Erfahrung, große Musikalität und jede Menge Begeisterung für Swing Dance mit. Nicholas unterrichtet seit 2009 professionell und hat sich von Ballroom und Argentine Tango bis hin zu Lindy Hop, Balboa und Collegiate Shag einen Namen gemacht. Tere begeistert mit ihrer Energie, ihren schnellen Füßen und ihrer Erfahrung in verschiedenen Swingtanzstilen. Gemeinsam vermitteln sie präzise Technik, Spielfreude und ein starkes Gefühl für Partnerschaft und Musik. Dabei schaffen sie eine offene, motivierende Atmosphäre, in der Lernen Spaß macht und die Freude am gemeinsamen Tanzen im Mittelpunkt steht. Alle Kurse ab Intermediate Level. Samstag: 10:00 – 11:30 Collegiate Shag: „Classic Shapes“ 11:45 – 13:15 Triple Your Shag! 13:30 – 15:00 Lindy Hop: „Free Your Footwork“ Sonntag: 10:00 – 11:30 Balboa: „Tricks and Cheese“ 11:45 – 13:15 Slow Bal: „Flow and Rhythms“ 13:30 – 15:00 Tango for Swing Dancers Anzahl Dauer Regulärer Preis Ermäßigter Preis* 1 Einheit 1,5 Std. 35 Euro 30 Euro 2 Einheiten 3 Std. 55 Euro 50 Euro 3 Einheiten (ganzer Tag) 4,5 Std. 70 Euro 65 Euro 6 Einheiten (2 ganze Tage) 9 Std. 130 Euro 120 Euro *reduzierter Preis für Schüler, Studenten und Vintage Club Clubmitgliedern Anmeldung unter info@worldofswing.com! --------------------",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "🎉🥳 SPECIAL: Marcus feiert seinen 60sten! – Birthday Party im Vintage Club 🥳🎉",
+   "type": "social",
+   "start": "2026-10-17",
+   "end": null,
+   "url": "https://www.vintage-club.de/parties.aspx",
+   "venue": "Vintage Club",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "60 Jahre, jede Menge Swing und ein Grund zum Feiern! 🕺🎶 Am Samstag, 17. Oktober 2026, steigt im Vintage Club eine ganz besondere Party: Marcus feiert seinen 60. Geburtstag nach! Dazu laden wir euch alle herzlich ein, gemeinsam mit uns einen unvergesslichen Abend zu erleben! Von 20:00 bis 24:00 Uhr sorgen verschiedene DJs mit einem bunten Mix aus Swing, Boogie, Rock ’n’ Roll und vielen weiteren Klassikern für beste Stimmung. Freut euch auf jede Menge bekannte Gesichter, gute Musik, eine volle Tanzfläche und einen großartigen Abend mit vielen Freunden! 💃🕺🎶 Lasst uns gemeinsam auf Marcus anstoßen! Wir freuen uns auf eine tolle Party mit euch!🥂 📍 Vintage Club 🕗 20:00–24:00 Uhr 🎧 Verschiedene DJs und ein bunter Musikmix 🎟️ Zur Feier des Tages ist der Eintritt frei! Let's celebrate Marcus! ❤️🎂🎉 -------------------- ....immer wieder sonntags ....",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "✨ Fifties Record Hop! ✨",
+   "type": "social",
+   "start": "2026-10-18",
+   "end": null,
+   "url": "https://www.vintage-club.de/parties.aspx",
+   "venue": "Vintage Club",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Die 50er Jahre Traditionsveranstaltung! Seit 1972 jeden Sonntag Fifties Record Hop mit wechselnden DJs. Rock'n'Roll, Boogie Woogie, Rockabilly, Jive, Bop, Rhythm'n'Blues, Western Swing, Neoswing, Soul-Cha-Cha etc. – alles ist dabei! 🕗 19:15 – 23:15 Uhr 🎧 DJ Siegi Spiel 🎟 Eintritt: 10 € Bis zum Sonntag! Wir freuen uns auf euch! Nächste Termine – Fifties Record Hop Sonntag, 18. Okt Fifties Record Hop von 19:15 – 23:15 Uhr mit DJ Siegi Spiel, Eintritt 10 Euro Sonntag, 25. Okt Fifties Record Hop von 19:15 – 23:15 Uhr mit DJ Marcus Koch & Hunter Krikac, Eintritt 10 Euro",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "🎃👻 HALLOWEEN IM VINTAGE CLUB 👻🎃",
+   "type": "social",
+   "start": "2026-10-31",
+   "end": null,
+   "url": "https://www.vintage-club.de/parties.aspx",
+   "venue": "Vintage Club",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Lust auf eine schaurig-schöne Halloween-Nacht? 🦇💀 Dann kommt zu uns in den Vintage Club und tanzt mit uns durch die Geisterstunde! 🎧 Spooky DJ Mani Stürzer sorgt mit seiner Musik für den richtigen Halloween-Vibe und eine volle Tanzfläche! 🕸️🕺💃 🕗 20:15–24:15 Uhr 🎧 DJ Mani Stürzer 🎟️ Eintritt: 10 € Also: Kostüm an, Tanzschuhe geschnürt und ab auf die Tanzfläche! 🎃🕷️🦇 Wir freuen uns auf eine schaurig-schöne Halloween-Party mit euch! 🧡👻 --------------------",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "✨ Fifties Record Hop Special: \"Jitterbug Roulette\" ✨",
+   "type": "social",
+   "start": "2026-12-06",
+   "end": null,
+   "url": "https://www.vintage-club.de/parties.aspx",
+   "venue": "Vintage Club",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "You are never to old to Rock ’n’ Roll! Nach dem großen Erfolg der ersten Editionen heißt es zum dritten Mal Jitterbug Roulette . Es wird ein Abend mit Überraschungsgarantie! Das Glücksrad entscheidet, welche Musik gespielt wird. Jedes Musikgenre-Set wird ca. 15 Minuten umfassen. Für die Auswahl sorgen wieder Axel Lintner, Mani Stürzer und Marcus Koch . 🕗 19:15 – 23:15 Uhr 🎧 DJs Axel Lintner, Mani Stürzer, Marcus Koch 🎟 Eintritt: 10 € Bis zum Sonntag! Wir freuen uns auf euch! Vintage Club Zugang über City-Kino Passage Sonnenstr. 12b/III Rgb., 80331 München (Stachus) 089 / 543 44 150, info@worldofswing.com --------------------------------------------------------- Lindy Hop Boogie Woogie Balboa Lindy Hop wird auch als Großvater des Swing bezeichnet. Er entstand in den späten 20er Jahren in den Ballsälen des „schwarzen“ New Yorker Stadtteils Harlem, wie dem berühmten Savoy Ballroom, und entwickelte sich später zu vielen anderen Tanzformen (z.B. Rock’n’Roll, Boogie Woogie und Jive). Er wurde zu Big Band-Musik getanzt und erhielt seine typischen Charaktereigenschaften durch sogenannte „Break-Aways“ und vor allem durch den Swing Out, bei dem die Partner umeinander herumwirbeln. Beim Break-Away wurde die enge Paartanzhaltung aufgebrochen und beide Partner konnten individuell Schritte improvisieren. Der Tanz kann, durch wilde Kicks und Bewegungen bereichert, wild und spontan sein, aber auch cool und elegant. Später auch als „Jitterbug“ bezeichnet, verbreitete er sich zwischen 1930 und 1950 rasend schnell über den amerikanischen Kontinent. Vor allem durch US-Soldaten und Hollywoodfilme erlangte er weltweite Popularität. Lindy Hop wurde stark beeinflusst durch afroamerikanische Tänze, vor allem Charleston, Jazz und Stepptanz. 1943 bezeichnete das Life Magazine den Lindy Hop als „Amerikas Nationalen Volkstanz“. Es gibt viele unterschiedliche Stile des Lindy Hop. Die bekanntesten sind Savoy Style und Hollywood Style Lindy Hop. Boogie Woogie ist der Name für eine Musikrichtung und verschiedene Tanzstile. In den USA ist Boogie Woogie die Bezeichnung für Vernacular Solo-Jazzschritte. In Europa versteht man unter Boogie Woogie einen 6-Count Tanzstil, der eine Weiterentwicklung von Jitterbug, Lindy Hop und Rock’n’Roll der 50er Jahre ist, die die GIs mit nach Deutschland brachten. Boogie Woogie ist bekannt für seine eindrucksvolle und vielseitige Fußarbeit. Neben unzähligen Hobbytänzern gibt es auch hochkarätige internationale Turniertänzer. Boogie Woogie wird hauptsächlich zu Musik der späten 40er und 50er Jahre getanzt (z.B. Boogie Woogie, Rhythm’n’Blues, Rock’n’Roll, Rockabilly, Jive). Er erlaubt viel Freiraum für persönliches Styling und Improvisation und ist reich an typischen Figuren und Schritten, die in viele andere Tanzstile übernommen wurden. Andererseits wurden in den letzten Jahren auch viele Figuren aus anderen Swingtänzen in den Boogie Woogie integriert. Balboa ist bekannt für seine geschmeidige, enge Fußarbeit, bereichert mit vielen Shuffle-Schritten, und seine enge „Brust-an-Brust“-Tanzhaltung. Balboatänzern war es angeblich nicht erlaubt, sich aus der geschlossenen Tanzhaltung zu lösen. Sie waren elegant gekleidete Tänzer, die nicht gerne schwitzen wollten. Balboa ist also ideal für schnelle Musik. Man sagt, dass ein guter Balboatänzer auf jede Geschwindigkeit tanzen konnte. Der Balboagrundschritt basiert auf 8 Zählzeiten. Wahrscheinlich hat er seinen Ursprung im Foxtrot oder/und im Charleston. Aufgrund von Platzmangel auf der Tanzfläche entwickelte sich daraus der Balboa. Der Pavilion Ballroom und der Rendezvous Ballroom waren die heißesten Ballsäle auf Balboa Island in Südkalifornien, wo der Balboa in den 30er Jahren entstanden ist. Als die heiße Swingmusik ihren Höhepunkt erreichte, erweiterten einige ungebändigte, junge Tänzer den Balboa um Break-Aways, Drehungen und Faller. Diese Tanzform wurde früher als „Swing“ bezeichnet; heute sagt man dazu Bal-Swing. Der Ausdruck Bal-Swing wurde jedoch erst in den 70er Jahren geprägt. Bal-Swing ist also ein mit Swingelementen bereicherter Balboa. Dieses gesteigerte Energielevel wurde vor allem durch die „Ray Rand Swingers“ aus Südkalifornien und Tänzer wie Maxie Dorf und Lolly Wise populär gemacht. Impressum Datenschutzerklärung AGB",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "20. Münchner Balboa und Shag Weekend",
+   "type": "workshop",
+   "start": "2026-10-23",
+   "end": "2026-10-25",
+   "url": "https://www.vintage-club.de/index.aspx",
+   "venue": "Vintage Club",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "🎟️🎉 RESTTICKETS FÜR DIE PARTYS JETZT ERHÄLTLICH! 🎉🎟️ Du möchtest beim 20. Münchner Balboa & Shag Weekend vom 23. bis 25. Oktober 2026 dabei sein, ohne Workshops zu buchen? Kein Problem! 💃🕺 Ab sofort bis 20. Oktober könnt ihr Tickets ausschließlich für die Abendpartys erwerben – ganz ohne Workshop-Anmeldung! 🎷 Freut euch auf mitreißende Live-Musik mit der fantastischen Hot Sugar Band aus Frankreich, jede Menge Swing und unvergessliche Tanzabende! ✨ Du möchtest auch an den Workshops teilnehmen? Es gibt noch freie Plätze! Sichert euch euren Platz, bevor es zu spät ist. Wir bieten dir wieder top internationale Trainer/innen in angenehmer, familiärer Umgebung. Verpasse nicht die Gelegenheit, deine Passion für Balboa und Shag zu entdecken, deine Fähigkeiten zu erweitern und viel Spaß mit Gleichgesinnten zu haben. Lass dich inspirieren von: Natalia Rueda (COL) & Mickey Fortanasce (USA) Olga Marina (SWE) & Jacob Wigger (USA) Fancy Dougherty & Jeremy Otth (USA) Bianca Yaghoobi & Hunter Krikac (USA) Saskia Loder (GER) & Andrew Wilson (CDN) Bärbl Kaufer & Marcus Koch (GER) Fanny Bartl (GER) & Domen Bohinc (SLO) Marion Forano (FRA) & Sergej Götz (GER) Ioanna Kakoulidou & Apostolos Zormpas (GRC) Zum Üben und Abtanzen gibt es Partys mit der fantastischen Hot Sugar Band (FRA) Wir freuen uns darauf, dich in München zu begrüßen und wünschen dir ein unvergessliches Wochenende mit viel Tanzen und vielen neuen Freunden. Alle wichtigen Infos und Updates findest du hier! --------------------",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  }
+ ]
+}

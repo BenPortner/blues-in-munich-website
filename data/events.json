@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T15:49:26+00:00",
+  "generated_at": "2026-10-18T08:35:21+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -2055,7 +2055,7 @@
       "title": "Vollmer Brothers Organ Trio feat. Donniele Graves",
       "type": "concert",
       "start": "2026-10-22T20:00",
-      "end": null,
+      "end": "2026-10-22T23:00",
       "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "venue": "Rheinpfalz Schwabing",
       "address": "Kurfürstenstraße 35, 80801 München",
@@ -2206,7 +2206,7 @@
       "title": "William’s Wetsox",
       "type": "concert",
       "start": "2026-10-24T20:00",
-      "end": null,
+      "end": "2026-10-24T23:00",
       "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "venue": "Rheinpfalz Schwabing",
       "address": "Kurfürstenstraße 35, 80801 München",
@@ -3852,7 +3852,7 @@
       "url": "https://www.boogie-baeren.de/",
       "kind": "school",
       "status": "ok",
-      "found": 98,
+      "found": 96,
       "kept": 13
     },
     {
@@ -3879,7 +3879,7 @@
       "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "kind": "venue",
       "status": "ok",
-      "found": 17,
+      "found": 16,
       "kept": 7
     },
     {
@@ -3897,7 +3897,7 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 60,
+      "found": 59,
       "kept": 1
     },
     {
@@ -3924,7 +3924,7 @@
       "url": "https://www.swinginmunich.de/en",
       "kind": "aggregator",
       "status": "ok",
-      "found": 42,
+      "found": 40,
       "kept": 2
     },
     {
@@ -3933,7 +3933,7 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 164,
+      "found": 162,
       "kept": 53
     },
     {

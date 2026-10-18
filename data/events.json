@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T08:35:21+00:00",
+  "generated_at": "2026-10-18T10:43:00+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -1866,6 +1866,31 @@
       "id": "d3f28b38d0c8"
     },
     {
+      "title": "Ben Poole (GBR)",
+      "type": "concert",
+      "start": "2026-10-18T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=a0bb1c36d2d69f5fc700d565dd7853c8",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Mischung aus Blues, Rock und Soul BEN POOLE international anerkannter, preisgekrönter Gitarrist, Sänger und Songwriter. Nominiert als einer der „Besten Blues-Gitarristen der Welt“ ist er an der Spitze der talentierten Blues-/Rockszene auf weltweiter Ebene. Bereits in jungen Jahren machte er...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Ben Poole",
+          "url": "https://www.last.fm/music/Ben+Poole"
+        }
+      ],
+      "known_artists": [],
+      "id": "62b82f04589e"
+    },
+    {
       "title": "Black Patti",
       "type": "concert",
       "start": "2026-10-19T19:30",
@@ -2228,6 +2253,31 @@
       "id": "feaca20e6e34"
     },
     {
+      "title": "Carl Verheyen (USA)",
+      "type": "concert",
+      "start": "2026-10-24T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=806dba4f8bf0641e877db2ca27b1586a",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "\"LIGHT SHINE TOUR\" Rock, Blues, Jazz CARL VERHEYEN, wurde vom Guitar Magazine als „einer der zehn besten Gitarristen der Welt“ und vom Classic Rock Magazine als „einer der 100 besten Gitarristen aller Zeiten“ bezeichnet. Carl ist seit 1985 Mitglied der erfolgreichen britischen Rockgruppe S...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Carl Verheyen",
+          "url": "https://www.last.fm/music/Carl+Verheyen"
+        }
+      ],
+      "known_artists": [],
+      "id": "4aa7f8bc2b87"
+    },
+    {
       "title": "Körber Krohn Fliegauf",
       "type": "concert",
       "start": "2026-10-28T19:00",
@@ -2359,6 +2409,33 @@
       "id": "38d642aa4e71"
     },
     {
+      "title": "Aynsley Lister (GBR)",
+      "type": "concert",
+      "start": "2026-10-30T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=9ca1ac1692d324ae3fecaefe254b423e",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Mischung aus Blues, Rock und Soul Freut euch auf einen Abend, der rockt, groovt und berührt! Wenn Aynsley Lister und seine Band loslegen, wird klar, warum sie zu den besten Acts der internationalen Bluesrock-Szene gehören. Mit seiner einzigartigen Mischung aus packenden Gitarrenriffs, ehrlichem ...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Aynsley Lister",
+          "url": "https://www.last.fm/music/Aynsley+Lister"
+        }
+      ],
+      "known_artists": [
+        "Aynsley Lister"
+      ],
+      "id": "d3bc8fac1751"
+    },
+    {
       "title": "San2 unplugged",
       "type": "concert",
       "start": "2026-10-31T20:00",
@@ -2379,6 +2456,33 @@
       "artists": [],
       "known_artists": [],
       "id": "55d7afc2b862"
+    },
+    {
+      "title": "Aynsley Lister (GBR)",
+      "type": "concert",
+      "start": "2026-10-31T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=33d2ad8dc5b40e819e2eb23c4921ea2f",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Mischung aus Blues, Rock und Soul Freut euch auf einen Abend, der rockt, groovt und berührt! Wenn Aynsley Lister und seine Band loslegen, wird klar, warum sie zu den besten Acts der internationalen Bluesrock-Szene gehören. Mit seiner einzigartigen Mischung aus packenden Gitarrenriffs, ehrlichem ...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Aynsley Lister",
+          "url": "https://www.last.fm/music/Aynsley+Lister"
+        }
+      ],
+      "known_artists": [
+        "Aynsley Lister"
+      ],
+      "id": "067b264860b7"
     },
     {
       "title": "Frühschoppen mit Williams Wetsox Trio",
@@ -2585,6 +2689,31 @@
       "id": "772de2d31887"
     },
     {
+      "title": "Yasi Hofer",
+      "type": "concert",
+      "start": "2026-11-07T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=6bcade06e6a5f77374db050e3a3d20a1",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Rock, Blues und Progressive Rock, mit Einflüssen aus Fusion und Instrumental Rock BEST OF TOUR 2026 Nach über einem Jahrzehnt gemeinsamer Bühnenpräsenz und vier erfolgreichen Studioalben ist es Zeit, die musikalische Reise zu feiern. Yasi Hofer zählt heute zu den renommiertesten Gitarri...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Yasi Hofer",
+          "url": "https://www.last.fm/music/Yasi+Hofer"
+        }
+      ],
+      "known_artists": [],
+      "id": "b7e79af2bc23"
+    },
+    {
       "title": "Sundog & Monomanic",
       "type": "concert",
       "start": "2026-11-08T19:30",
@@ -2633,6 +2762,31 @@
       ],
       "known_artists": [],
       "id": "bfec1062fced"
+    },
+    {
+      "title": "RO CLAUSMAN BAND",
+      "type": "concert",
+      "start": "2026-11-13T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=ff1aac155a9d69f17f09ea96504f37f3",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "grooviger Blues, soulige Balladen, fetziger Rock ’n’ Roll und jazzig angehauchter Southern Rock Die 6-köpfige Bluesrock-Band um den virtuosen Penzberger Profi-Gitarristen und Sänger RO CLAUSMAN gehört zum Feinsten, was man in diesem Genre im oberbayerischen Voralpenland hören kann. Hier jage...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Ro Clausman",
+          "url": "https://www.last.fm/music/Ro+Clausman"
+        }
+      ],
+      "known_artists": [],
+      "id": "ff05effc904f"
     },
     {
       "title": "Bin I Kini?! – Der Prinzregenten-Blues",
@@ -2806,6 +2960,31 @@
       "id": "5eb683876302"
     },
     {
+      "title": "Band of Friends (GBR)",
+      "type": "concert",
+      "start": "2026-11-21T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=3f973176a9e5e35f9280760b08fa0de3",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Blues-Rock, Eine Hommage an Rory Gallagher Freut euch auf ein Konzert, das die Musik von Rory Gallagher lebendig hält! Die Band of Friends ist weit mehr als eine Tribute-Band. Gerry McAvoy – langjähriger Bassist von Rory Gallagher - ist zurück mit neuer Besetzung. Zusammen mit seinen beiden n...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Band of Friends",
+          "url": "https://www.last.fm/music/Band+of+Friends"
+        }
+      ],
+      "known_artists": [],
+      "id": "cef9587e254f"
+    },
+    {
       "title": "Stephan Zinner",
       "type": "concert",
       "start": "2026-11-22T19:00",
@@ -2831,6 +3010,31 @@
       ],
       "known_artists": [],
       "id": "3aeb4ae6df11"
+    },
+    {
+      "title": "Greg Black & The Bad Notion (SLO)",
+      "type": "concert",
+      "start": "2026-11-22T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=9867bbbcc2f8d385e843cb84f6a2423d",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Blues, Rock,Soul Greg Black & The Bad Notions ist eine energiegeladene Band, die Blues, Rock und Soul zu einem kraftvollen, zeitgemäßen Sound verbindet. Im Mittelpunkt steht Sänger und Gitarrist Greg Black, dessen markante Stimme und dynamisches Gitarrenspiel den musikalischen Kern der Gruppe b...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Greg Black & The Bad Notion",
+          "url": "https://www.last.fm/music/Greg+Black+&+The+Bad+Notion"
+        }
+      ],
+      "known_artists": [],
+      "id": "3330568fcd36"
     },
     {
       "title": "The Official Blues Brothers Revue",
@@ -3250,6 +3454,51 @@
       "id": "c95393ea1ae8"
     },
     {
+      "title": "Starnberg Bluesrock",
+      "type": "concert",
+      "start": "2026-12-12T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=4bfafdb01f59d26aeb179d63ee1dc695",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Klassiker aus Blues, Rock, Reggae und Soul Starnberg Bluesrock steht für mitreißende Bühnenpräsenz und eine abwechslungsreiche Mischung von Klassikern aus Blues, Rock, Reggae und Soul. Hierbei greift die Band auf alte Meister wie Jimi Hendrix, Eric Clapton, Stevie Ray Vaughan, Joe Cocker, Bill...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "1454ac8628c6"
+    },
+    {
+      "title": "Ludwig Seuss Band",
+      "type": "concert",
+      "start": "2026-12-18T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=d08785a7a1f1c7ebe881aa0c95cf77f6",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Klassischer Piano-Boogie mit Jump-Blues und Louisiana-Rock’n‘Roll Ludwig Seuss – bekannt als Keyboarder der Spider Murphy Band, kommt mit seiner herausragenden Allstarbesetzung. Mit unzähligen Konzerten ist seine eigene Band in den letzten Jahrzehnten zu einer der interessantesten und begehrtes...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Ludwig Seuss Band",
+          "url": "https://www.last.fm/music/Ludwig+Seuss+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "62c8b6e8743a"
+    },
+    {
       "title": "13. American Bar Night – „Midlife or Crisis?“ & Friends",
       "type": "concert",
       "start": "2026-12-19T18:00",
@@ -3295,6 +3544,26 @@
       ],
       "known_artists": [],
       "id": "28d33149086a"
+    },
+    {
+      "title": "Vorsilvesterparty mit Village Affair und anschließender Session",
+      "type": "concert",
+      "start": "2026-12-30T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=4d5a8c2e2f41c28b7d621bc00f649c46",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Mit Village Affair versammelt Urgestein D.D. Blues vier außergewöhnliche Musiker um sich und verbindet unterschiedliche Stilrichtungen zu Rhythm Groove und Soul. Dieter Uebler D.D. Blues (g) Sebastian Schimmelpfennig (keyb, g, voc, chapmanstick), Claus Zöllner (b, voc), Hannes Schweiger (pe...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "f10ddc8015b6"
     },
     {
       "title": "Zwoa Bier",
@@ -3382,6 +3651,81 @@
       "id": "d7d20598c716"
     },
     {
+      "title": "Morblus (I) - Dieter feiert seinen Geburtstag",
+      "type": "concert",
+      "start": "2027-01-15T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=739340afb3393d61b171c7d1ecf98795",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Gefühlvoller Blues, melodiöser Soul und energiegeladener Bluesrock sind der Sound, für den MORBLUS seit 30 Jahren steht und mit der die Band internationale Erfolge feiert. Getrieben von Talent und Leidenschaft, hat der charismatischen Bandleader Roberto Morbioli seinen ganz eigenen Stil gefunden...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Morblus",
+          "url": "https://www.last.fm/music/Morblus"
+        }
+      ],
+      "known_artists": [],
+      "id": "c2e2efe9ac56"
+    },
+    {
+      "title": "BLUES CARAVAN",
+      "type": "concert",
+      "start": "2027-01-22T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=ed70dfed0a28191f40db988a163af514",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "++++INFOS FOLGEN++++ Karten: reservierung@village-habach.de Einlass: 19:00 Konzertbeginn: 20:15 Eintritt: €28 / *€25 *reduzierter Preis – keine Angabe von Gründen notwendig",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Blues Caravan",
+          "url": "https://www.last.fm/music/Blues+Caravan"
+        }
+      ],
+      "known_artists": [],
+      "id": "22d7b353aef7"
+    },
+    {
+      "title": "UNDER ATTIC",
+      "type": "concert",
+      "start": "2027-01-23T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=4c2a1e43fb78c040dac70b178b80a8d6",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Energiegeladenen Alternative Blues Rock mit Einflüssen aus Indie, Classic Rock und Funk. Die fünfköpfige Band aus Oberbayern verbindet markante Gitarrenriffs, gefühlvolle Soli und eine charakterstarke, raue Stimme zu einem mitreißenden Livesound. Mit zahlreichen Auftritten auf Festivals, in Clu...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Under Attic",
+          "url": "https://www.last.fm/music/Under+Attic"
+        }
+      ],
+      "known_artists": [],
+      "id": "bab14bcaa9e9"
+    },
+    {
       "title": "Stephan Zinner – Großstadtblues",
       "type": "concert",
       "start": "2027-01-26T20:00",
@@ -3407,6 +3751,56 @@
       ],
       "known_artists": [],
       "id": "90ae7942419f"
+    },
+    {
+      "title": "Sean Athens Band",
+      "type": "concert",
+      "start": "2027-01-29T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=1e8198f7d25cf5b734bf4c999441e19a",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Klassischer Blues, kraftvoller Rock mit modernen Einflüssen Was bekommt man, wenn man eine ordentliche Portion BB King, eine Prise Gary Moore und die Energie von Joe Bonamassa mischt? Die Antwort: den unverwechselbaren, modernen und kraftvollen Sound der Sean Athens Band. Vier Musiker, die mi...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Sean Athens",
+          "url": "https://www.last.fm/music/Sean+Athens"
+        }
+      ],
+      "known_artists": [],
+      "id": "db9403c7a399"
+    },
+    {
+      "title": "The Hamburg Blues Band (D/UK/US/PL)",
+      "type": "concert",
+      "start": "2027-01-31T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=925a74515fc3f19f3e479036a949b80f",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Feat. Gert Lange, Krissy Matthews, Frank Itt, Eddie Filipp - Special guest: Will Wilde Blues-Rock mit Soul, Psychedelic, Rhythm und Boogie vermengt City-Heat Tour 2027 Im Rahmen ihrer \"City Heat\"-Tour präsentiert die Hamburg Blues Band mit dem Hamburger Rockshouter & Bandleader Gert Lang...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "The Hamburg Blues Band",
+          "url": "https://www.last.fm/music/The+Hamburg+Blues+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "93fbd681843b"
     },
     {
       "title": "Jared James Nichols",
@@ -3490,6 +3884,31 @@
       "id": "482710393fcb"
     },
     {
+      "title": "Kai Strauss & The Electric Blues Allstars (GER/USA/UK)",
+      "type": "concert",
+      "start": "2027-02-11T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=b67b1eb86d5c44e0ec6ced133eda1fb7",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Moderner soulig-funkiger Blues Schon als Teenager war er von der Magie eines Buddy Guy, Albert King oder der Vaughan Brothers infiziert. Nachdem er viele Jahre mit dem in Texas, USA, geborenen Sänger Memo Gonzalez unterwegs war, startete er seine Solokarriere und nun zählt Kai Strauss zählt zu...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Kai Strauss",
+          "url": "https://www.last.fm/music/Kai+Strauss"
+        }
+      ],
+      "known_artists": [],
+      "id": "0d127aedfcdd"
+    },
+    {
       "title": "Günter Grünwald & Rad Gumbo",
       "type": "concert",
       "start": "2027-02-13T20:00",
@@ -3521,6 +3940,81 @@
       "id": "377eb1e7f92e"
     },
     {
+      "title": "Schwarzenberger Band",
+      "type": "concert",
+      "start": "2027-02-13T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=564c2b48f910ed0b8036edb18ffc85ed",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Bluesrock mit Einflüssen aus Jazz & Fusion Zwischen Bluesrock á la Joe Bonamassa und den jazzigen Einflüssen eines Oz Noy verbindet der Ausnahmegitarrist Spielfreude und Virtuosität zu einer brodelnd-treibenden Mischung, die fasziniert, fesselt und mitreißt. Bekannt als Gitarrist von „San2 & ...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Schwarzenberger",
+          "url": "https://www.last.fm/music/Schwarzenberger"
+        }
+      ],
+      "known_artists": [],
+      "id": "b0e1c8042be8"
+    },
+    {
+      "title": "Meena Cryle & Chris Fillmore Band (AUT)",
+      "type": "concert",
+      "start": "2027-02-21T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=749acc015261720a44f80eb0dc5d5cd9",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Meena Cryle & Chris Fillmore zählen seit vielen Jahren zu den erfolgreichsten österreichischen Musikexporten in der internationalen Blues 'n' Roots Szene und sind alte Bekannte im Village. Sie waren von Beginn an eine musikalische Einheit und dass das nach mehr als fünfzehn Jahren immer noch so ...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Meena Cryle & Chris Fillmore Band",
+          "url": "https://www.last.fm/music/Meena+Cryle+&+Chris+Fillmore+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "c51b24d38c6e"
+    },
+    {
+      "title": "Bluedög and the Hardcore Bluesband",
+      "type": "concert",
+      "start": "2027-02-27T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=8b7365c31aa31e9628d6b206981e9ba9",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Blues, Bluesrock Man muss den „Blues-Hexenmeister“ Philipp „Bluedög“ Gerber nicht beschreiben, nein, man muss ihn sehen, hören und fühlen! Seine Art, die Saiten seiner Gitarre zu bearbeiten, ist legendär. Kaum einer fühlt und spürt den Blues so wie er, ein Mann, der die feinen Töne zerbrechlich ...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "the hardcore bluesband",
+          "url": "https://www.last.fm/music/the+hardcore+bluesband"
+        }
+      ],
+      "known_artists": [],
+      "id": "77ee9b5e552f"
+    },
+    {
       "title": "Raphael Wressnig & Soul Gift",
       "type": "concert",
       "start": "2027-03-04T20:00",
@@ -3546,6 +4040,51 @@
       ],
       "known_artists": [],
       "id": "e9d1b0b9f4ea"
+    },
+    {
+      "title": "Norman Beaker Trio (UK, IT)",
+      "type": "concert",
+      "start": "2027-03-05T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=623417b5aec562ac5e8ba1aeb497e45d",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Blues und Bluesrock mit Einflüssen aus Soul, Jazz und Rhythm & Blues Norman Beaker gehört zu den prägenden Persönlichkeiten der britischen Blues-Szene und blickt auf eine außergewöhnliche Karriere zurück. Als Gitarrist, Sänger, Bandleader und Produzent stand er mit zahlreichen Größen des Blues u...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Norman Beaker Trio",
+          "url": "https://www.last.fm/music/Norman+Beaker+Trio"
+        }
+      ],
+      "known_artists": [],
+      "id": "71f2b05a60d5"
+    },
+    {
+      "title": "Allen Forrester Band (USA)",
+      "type": "concert",
+      "start": "2027-03-12T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=f56eb306e617a2d6425f5291ebe207c3",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Blues Rock / Southern Rock Die ALLEN-FORRESTER BAND ist ein gemeinsames Projekt der beiden New Yorker Gitarristen Ben Forrester und Josh Allen. Geprägt von den Pionieren des Southern Rock wie der Allman Brothers Band, Lynyrd Skynyrd, Black Crowes, und Blackberry Smoke, verpassen die beiden dem...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "9232375ffb47"
     },
     {
       "title": "Graveyard + Blues Pills",
@@ -3679,6 +4218,56 @@
       "id": "8dd5958aa3f3"
     },
     {
+      "title": "Miller Anderson Band (GBR)",
+      "type": "concert",
+      "start": "2027-04-25T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=b3b5c8ef0089e8b35bd82054e03d76bf",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Blues und Rock mit deutlichen Einflüssen aus Folk- und Glam-Rock MILLER ANDERSON noch einmal im Village hautnah sehen und hören zu dürfen und damit einem echten Woodstock Veteranen direkt gegenüber zu stehen, so viele Gelegenheiten gibt es da nicht mehr …. Die versierte Slide-Arbeit und der k...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Miller Anderson Band",
+          "url": "https://www.last.fm/music/Miller+Anderson+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "70f1eb4e43ad"
+    },
+    {
+      "title": "Cliff Stevens (CAN)",
+      "type": "concert",
+      "start": "2027-04-30T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=02d8713c8feacf37a5c62b43e6e7a0d2",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Mischung aus Blues, Classic Rock Kratziger, ergreifender Gesang und überzeugendes Songwriting á la Eric Clapton, Stevie Ray Vaughan und John Mayer. Musikalisch reicht die Spanne von treibendem Blues-Rock, über Slow Classic Blues bis zu Acoustic Country Blues. Cliff Stevens’ markante Stimme und ...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Cliff Stevens",
+          "url": "https://www.last.fm/music/Cliff+Stevens"
+        }
+      ],
+      "known_artists": [],
+      "id": "106cff2017c0"
+    },
+    {
       "title": "Krissy Matthews",
       "type": "concert",
       "start": "2027-05-04T20:00",
@@ -3704,6 +4293,31 @@
       ],
       "known_artists": [],
       "id": "206dda01cf64"
+    },
+    {
+      "title": "RO CLAUSMAN BAND",
+      "type": "concert",
+      "start": "2027-05-08T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=1a484a7f15622e0d90ac55d097f7d2d2",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Grooviger Blues, soulige Balladen, fetziger Rock ’n’ Roll und jazzig angehauchter Southern Rock Die 6-köpfige Bluesrock-Band um den virtuosen Penzberger Profi-Gitarristen und Sänger RO CLAUSMAN gehört zum Feinsten, was man in diesem Genre im oberbayerischen Voralpenland hören kann. Hier jage...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Ro Clausman",
+          "url": "https://www.last.fm/music/Ro+Clausman"
+        }
+      ],
+      "known_artists": [],
+      "id": "e6727bdbcd82"
     },
     {
       "title": "Hans Theessink",
@@ -3917,6 +4531,15 @@
       "status": "ok",
       "found": 15,
       "kept": 1
+    },
+    {
+      "id": "village-habach",
+      "name": "Village Habach",
+      "url": "https://www.village-habach.de/",
+      "kind": "venue",
+      "status": "ok",
+      "found": 50,
+      "kept": 25
     },
     {
       "id": "swinginmunich",

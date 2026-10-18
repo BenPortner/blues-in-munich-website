@@ -14,5 +14,6 @@ from . import (  # noqa: F401
     swinginmunich,
     ticketmaster,
     unterfahrt,
+    village,
     vintage_club,
 )

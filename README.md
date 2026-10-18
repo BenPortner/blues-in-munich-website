@@ -23,6 +23,7 @@ The scrape targets are listed in [`sources.yaml`](sources.yaml). Currently enabl
 | Jazzclub Unterfahrt | venue | gigs billed as blues (title or "Blues" series) |
 | Mister B's | venue | live programme of the month, gigs billed as blues |
 | Café Gans am Wasser | venue | culture programme of the Westpark beer garden (monthly pages, Herbstfest, Open Stages, Winterzauber), gigs that mention blues |
+| Village Habach | venue | programme of the blues club in the Kulturtal Obermühle near Murnau, gigs that mention blues |
 | SwinginMunich.de | aggregator | swing dance calendar, filtered to events that mention blues |
 | IN München | aggregator | city magazine listings whose title or genre says blues (WordPress API) |
 | Ticketmaster | aggregator | genre "Blues" within 30 km of Munich (needs a free API key) |

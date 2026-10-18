@@ -1,4 +1,5 @@
 # What counts as a highlight on the site: a ★ badge and the "Highlights" filter chip.
+# Events at a `never` venue are skipped by rules 2-4.
 #
 # 1. `events`: events picked by hand, by title.
 # 2. `always`: events of these types from these sources (ids from sources.yaml).
@@ -23,6 +24,11 @@
 #   - title: Stormy Wednesday
 #     date: 2026-11-18
 events: []
+
+# Venues whose events are never highlights (matched like `venues` below), whatever the
+# rules after this say. Events picked by hand in `events` still are.
+never:
+  - Village Habach                     # far out of town (near Murnau)
 
 always:
   - source: boogie-baeren

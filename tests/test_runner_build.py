@@ -7,7 +7,8 @@ from scraper.__main__ import ROOT, scrape_source
 from scraper.assemble import assemble, load_archive, load_raw, load_sources
 from scraper.models import Event, slug
 from scraper.registry import ADAPTERS, SkipSource, adapter
-from web.build import build, calendar_events
+from web.build import build, calendar_events, regional
+from web.highlights import Highlights
 
 from .conftest import TODAY
 
@@ -313,3 +314,41 @@ def test_build_empty(tmp_path):
 def teardown_module():
     for name in ("_test_static", "_test_broken", "_test_skip"):
         ADAPTERS.pop(name, None)
+
+
+def test_region_switch(tmp_path):
+    gig = lambda title, address, type="concert": Event(title=title, type=type, start="2026-10-21T20:00",
+                                                       address=address, id=slug(title)).to_dict()
+    data = {"generated_at": "2026-10-16T04:00:00+00:00", "sources": [], "events": [
+        gig("City gig", "Blumenstraße 7, 80331 München"),
+        gig("Village gig", "Obermühle 1, 82392 Habach"),
+        gig("Garching gig", "Bürgerplatz 9, 85748 Garching bei München"),  # "München" in the name
+        gig("No postcode", "Westpark"),                                     # counts as Munich
+        gig("Augsburg class", "Viktoriastraße 3b, 86150 Augsburg", type="class"),  # any type
+    ]}
+    assert [regional(Event.from_dict(e)) for e in data["events"]] == [False, True, True, False, True]
+    data_path = tmp_path / "events.json"
+    data_path.write_text(json.dumps(data))
+    picks = tmp_path / "highlights.yaml"
+    picks.write_text("events: [City gig, Village gig]", encoding="utf-8")
+    build(data_path, tmp_path / "dist", TODAY, Highlights.load(picks))
+    page = BeautifulSoup((tmp_path / "dist" / "index.html").read_text(encoding="utf-8"), "lxml")
+    assert [c.h4.get_text() for c in page.select(".card[data-regional]")] == [
+        "Augsburg class", "Garching gig", "Village gig"]
+    # the place menu offers Munich (2 upcoming events) and Munich and region (5)
+    assert [b.get_text(" ", strip=True) for b in page.select(".place-menu [data-area]")] == [
+        "Munich 2", "Munich and region 5"]
+    # chips count without and with the region; without JS the page lists everything
+    counts = {b["data-filter"]: (b["data-counts"], b.span.get_text()) for b in page.select(".chip[data-filter]")}
+    assert counts == {"all": ("2 5", "5"), "highlight": ("1 2", "2"), "class": ("0 1", "1"), "concert": ("2 4", "4")}
+    # an out-of-town highlight is a highlight like any other, marked so the page can leave it out
+    assert [li.a.get_text() for li in page.select("#spotlight li[data-regional]")] == ["Village gig"]
+    cal = {c["title"]: c["extendedProps"] for c in json.loads(page.select_one("#calendar-data").string)}
+    assert cal["Village gig"]["regional"] is True and "regional" not in cal["City gig"]
+
+    # no switch when every concert is in town
+    data["events"] = data["events"][:1]
+    data_path.write_text(json.dumps(data))
+    build(data_path, tmp_path / "dist", TODAY, Highlights.load(picks))
+    page = BeautifulSoup((tmp_path / "dist" / "index.html").read_text(encoding="utf-8"), "lxml")
+    assert page.select_one(".place") is None

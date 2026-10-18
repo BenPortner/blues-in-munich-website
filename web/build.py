@@ -4,6 +4,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import shutil
 from datetime import date, datetime, timedelta
 from itertools import groupby
@@ -31,6 +32,9 @@ TYPE_LABELS = {
 }
 FILTERS = [("class", "Classes"), ("workshop", "Workshops"), ("social", "Socials"),
            ("concert", "Concerts")]
+# The city's own postcodes; anything else is the region (the place menu: "Munich" / "Munich and region")
+MUNICH_POSTCODES = range(80331, 81930)
+POSTCODE = re.compile(r"\b(\d{5})\b")
 
 
 def _day(iso: str) -> date:
@@ -59,6 +63,13 @@ def fmt_span(event: Event) -> str:
     return ""
 
 
+def regional(e: Event) -> bool:
+    """An event outside Munich, going by the address's postcode (the last five-digit number:
+    house numbers come first). Without a postcode it counts as Munich."""
+    found = POSTCODE.findall(e.address or "")
+    return bool(found) and int(found[-1]) not in MUNICH_POSTCODES
+
+
 def card(e: Event, today: date, highlights: Highlights) -> dict:
     past = e.last_date < today.isoformat()
     # Past events sit on their first day; their course sessions are all listed
@@ -73,6 +84,7 @@ def card(e: Event, today: date, highlights: Highlights) -> dict:
         "sessions_label": "Sessions" if past else "Upcoming sessions",
         "session_count": len(e.dates),
         "highlight": highlights.reason(e),
+        "regional": regional(e),
         # artists.links in highlights.yaml may point elsewhere than Last.fm
         "artists_label": "On Last.fm" if all(a["url"].startswith("https://www.last.fm/") for a in e.artists)
                          else "Artists",
@@ -112,6 +124,12 @@ def view_model(data: dict, today: date, highlights: Highlights) -> dict:
     this_month, next_month = spotlight_months(today)
     after = (next_month + timedelta(days=32)).replace(day=1)
     spotlight = [{**c, "day_label": fmt_day(c["day"])} for c in cards if c["highlight"] and c["day"] < after]
+    in_town = [c for c in cards if not c["regional"]]
+
+    def chip_counts(match) -> tuple[int, int]:
+        """Upcoming events a chip lists without and with the events outside Munich."""
+        return sum(1 for c in in_town if match(c)), sum(1 for c in cards if match(c))
+
     return {
         "spotlight": spotlight,
         "spotlight_label": f"{this_month:%B} & {next_month:%B}",
@@ -122,10 +140,14 @@ def view_model(data: dict, today: date, highlights: Highlights) -> dict:
         # webcal:// makes calendar apps subscribe (and keep polling) instead of importing a one-off copy
         "webcal_url": f"webcal://{SITE_HOST}/events.ics",
         "total": len(cards),
+        "total_counts": chip_counts(lambda c: True),
         # Chips count upcoming events; a type with only past ones still gets a chip
-        "filters": [(t, label, counts[t]) for t, label in FILTERS
+        "filters": [(t, label, chip_counts(lambda c, t=t: c["e"].type == t)) for t, label in FILTERS
                     if counts[t] or any(c["e"].type == t for c in past_cards)],
-        "highlights": sum(1 for c in cards if c["highlight"]),
+        # Place menu ("Munich" / "Munich and region"), when some event is out of town
+        "region_switch": any(c["regional"] for c in cards + past_cards),
+        "region_extra": len(cards) - len(in_town),
+        "highlights": chip_counts(lambda c: c["highlight"]),
         "highlight_chip": any(c["highlight"] for c in cards + past_cards),
         # Last.fm's API terms want a credit wherever its data is used
         "lastfm_credit": any(e.artists or e.known_artists for e in events),
@@ -175,6 +197,7 @@ def calendar_events(events: list[Event], highlights: Highlights | None = None) -
                     "venue": e.venue,
                     "time": fmt_time(e),
                     **({"highlight": True} if highlight else {}),
+                    **({"regional": True} if regional(e) else {}),
                 },
             })
     return items

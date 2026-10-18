@@ -2,7 +2,7 @@
 well-known artists (found by the scraper, see scraper/artists.py) or big venues."""
 from __future__ import annotations
 
-from dataclasses import dataclass, field
+from dataclasses import dataclass
 from pathlib import Path
 
 import yaml
@@ -40,7 +40,6 @@ class Highlights:
     always: dict[str, set[str]]  # source id -> event types that are always highlights
     capacities: dict[str, int]  # slugged venue name or alias -> capacity
     min_capacity: int
-    never: set[str] = field(default_factory=set)  # slugged venue names that are never highlights
 
     @classmethod
     def load(cls, path: Path) -> "Highlights":
@@ -51,12 +50,7 @@ class Highlights:
             for name in [venue["name"], *venue.get("match", [])]:
                 capacities[slug(name)] = venue["capacity"]
         picks = [_pick(entry) for entry in raw.get("events") or []]
-        never = {slug(venue) for venue in raw.get("never") or []}
-        return cls(picks, always, capacities, raw.get("min_capacity", 400), never)
-
-    def _excluded(self, venue: str | None) -> bool:
-        text = f"-{slug(venue)}-" if venue else ""
-        return any(f"-{key}-" in text for key in self.never)
+        return cls(picks, always, capacities, raw.get("min_capacity", 400))
 
     def capacity(self, venue: str | None) -> int | None:
         """Capacity of the longest known name found as whole words in `venue`."""
@@ -70,8 +64,6 @@ class Highlights:
         """Why this event is a highlight, or None if it isn't."""
         if any(pick.matches(event) for pick in self.picks):
             return "Picked by hand"
-        if self._excluded(event.venue):
-            return None
         if event.type in self.always.get(event.source_id, ()):
             return f"{event.type.title()} by {event.source_name}"
         if event.known_artists and event.type in VENUE_TYPES:

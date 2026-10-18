@@ -14,8 +14,6 @@ events:
   - Sari Schorr
   - title: Stormy Wednesday
     date: 2026-11-18
-never:
-  - Far Out Club
 always:
   - source: bb
     types: [workshop]
@@ -71,19 +69,6 @@ def test_reason_always(tmp_path):
     assert h.reason(workshop) == "Workshop by Boogie-Bären"
     assert h.reason(ev(type="class", source_id="bb", source_name="Boogie-Bären")) is None
     assert h.reason(ev(type="workshop", source_id="other", source_name="Other School")) is None
-
-
-def test_never_venue(tmp_path):
-    h = highlights(tmp_path)
-    assert h.reason(ev(venue="Far Out Club · Somewhere", known_artists=["Eric Bibb"])) is None
-    assert h.reason(ev(type="workshop", venue="Far Out Club", source_id="bb", source_name="BB")) is None
-    assert h.reason(ev("Sari Schorr", venue="Far Out Club")) == "Picked by hand"  # a hand pick still wins
-    assert h.reason(ev(venue="Far Out", known_artists=["Eric Bibb"]))             # whole words only
-
-
-def test_repo_highlights_yaml_never_village(tmp_path):
-    h = Highlights.load(ROOT / "highlights.yaml")
-    assert h.reason(ev("Ben Poole (GBR)", venue="Village Habach", known_artists=["Ben Poole"])) is None
 
 
 def test_unknown_venues(tmp_path):

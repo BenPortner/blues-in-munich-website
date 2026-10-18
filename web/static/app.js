@@ -1,6 +1,7 @@
 // Type filter chips and the List / Calendar switch. The page works without JS as a plain list.
-// URL hash keeps the state: "#concert", "#calendar", "#calendar/concert". "highlight" is a filter too
-// (see highlights.yaml).
+// URL hash keeps the state: "#concert", "#calendar", "#calendar/concert", "#concert/region". "highlight"
+// is a filter too (see highlights.yaml). Events outside Munich (data-regional) are left out everywhere
+// until the place menu is set to "Munich and region" ("region" at the end of the hash).
 (function () {
   var chips = document.querySelectorAll(".chip[data-filter]");
   if (!chips.length) return;
@@ -9,8 +10,12 @@
   var spotlight = document.getElementById("spotlight");
   var listView = document.getElementById("list-view");
   var calView = document.getElementById("calendar-view");
-  var viewButtons = document.querySelectorAll(".chip[data-view]");
-  var state = { view: "list", type: "all" };
+  var viewButtons = document.querySelectorAll("[data-view]");
+  var areas = document.querySelector(".place");
+  var placeButton = areas && areas.querySelector(".place-button");
+  var placeMenu = areas && areas.querySelector(".place-menu");
+  var areaButtons = document.querySelectorAll("[data-area]");
+  var state = { view: "list", type: "all", region: false };
 
   var FC_SRC = "https://cdn.jsdelivr.net/npm/fullcalendar@6.1.22/index.global.min.js";
   var FC_SRI = "sha384-a9qx08ufzJ+0qbHzdqA+GYiSayQQB5BK2YGS/HQT9cxhQm+GhiXFj1ByVXa93ZRR";
@@ -20,6 +25,8 @@
   function readHash() {
     var parts = location.hash.slice(1).split("/");
     if (parts[0] === "calendar") { state.view = "calendar"; parts.shift(); }
+    state.region = !!areas && parts[parts.length - 1] === "region";
+    if (state.region) parts.pop();
     var type = parts[0] || "all";
     state.type = document.querySelector('.chip[data-filter="' + type + '"]') ? type : "all";
   }
@@ -28,17 +35,19 @@
     var parts = [];
     if (state.view === "calendar") parts.push("calendar");
     if (state.type !== "all") parts.push(state.type);
+    if (state.region) parts.push("region");
     history.replaceState(null, "", parts.length ? "#" + parts.join("/") : location.pathname);
   }
 
-  function shown(type, highlight) {
+  function shown(type, highlight, regional) {
+    if (regional && areas && !state.region) return false;
     if (state.type === "highlight") return highlight;
     return state.type === "all" || type === state.type;
   }
 
   function applyList() {
     document.querySelectorAll(".card").forEach(function (card) {
-      card.hidden = !shown(card.dataset.type, "highlight" in card.dataset);
+      card.hidden = !shown(card.dataset.type, "highlight" in card.dataset, "regional" in card.dataset);
     });
     // Hide days and months that have nothing left to show
     document.querySelectorAll(".day").forEach(function (day) {
@@ -49,7 +58,12 @@
     });
     if (past) past.hidden = !past.querySelector(".month:not([hidden])");
     // The highlights box is an overview: only above the full list
-    if (spotlight) spotlight.hidden = state.type !== "all";
+    if (spotlight) {
+      spotlight.querySelectorAll("li").forEach(function (li) {
+        li.hidden = "regional" in li.dataset && !!areas && !state.region;
+      });
+      spotlight.hidden = state.type !== "all" || !spotlight.querySelector("li:not([hidden])");
+    }
     // Whether any upcoming event is left; the past section doesn't count
     return !!document.querySelector("#upcoming .month:not([hidden])");
   }
@@ -61,6 +75,17 @@
     viewButtons.forEach(function (b) {
       b.setAttribute("aria-pressed", String(b.dataset.view === state.view));
     });
+    if (areas) {
+      areaButtons.forEach(function (b) {
+        b.setAttribute("aria-checked", String((b.dataset.area === "region") === state.region));
+      });
+      areas.querySelector(".place-label").textContent = state.region ? "Munich and region" : "Munich";
+      placeButton.classList.toggle("widened", state.region);  // also shows on phones, where the label is hidden
+      // data-counts: "without with" the events outside Munich
+      chips.forEach(function (chip) {
+        chip.querySelector("span").textContent = chip.dataset.counts.split(" ")[state.region ? 1 : 0];
+      });
+    }
     var anyVisible = applyList();
     var onCalendar = state.view === "calendar";
     listView.hidden = onCalendar;
@@ -146,7 +171,7 @@
       navLinkDayClick: function (date) { calendar.changeView(weekView, date); },
       events: function (info, success) {
         success(all.filter(function (e) {
-          return shown(e.extendedProps.type, !!e.extendedProps.highlight);
+          return shown(e.extendedProps.type, !!e.extendedProps.highlight, !!e.extendedProps.regional);
         }).map(function (e) {
           var color = typeColor(e.extendedProps.type);
           return Object.assign({}, e, { backgroundColor: color, borderColor: color });
@@ -177,6 +202,38 @@
       apply();
     });
   });
+  // --- place menu -----------------------------------------------------------
+  function openMenu(open) {
+    placeMenu.hidden = !open;
+    placeButton.setAttribute("aria-expanded", String(open));
+    if (open) (placeMenu.querySelector('[aria-checked="true"]') || areaButtons[0]).focus();
+  }
+  if (areas) {
+    areas.hidden = false;
+    placeButton.addEventListener("click", function () { openMenu(placeMenu.hidden); });
+    areaButtons.forEach(function (b) {
+      b.addEventListener("click", function () {
+        state.region = b.dataset.area === "region";
+        openMenu(false);
+        placeButton.focus();
+        writeHash();
+        apply();
+      });
+    });
+    placeMenu.addEventListener("keydown", function (e) {
+      if (e.key === "ArrowDown" || e.key === "ArrowUp") {
+        e.preventDefault();
+        var i = Array.prototype.indexOf.call(areaButtons, document.activeElement);
+        areaButtons[(i + (e.key === "ArrowDown" ? 1 : areaButtons.length - 1)) % areaButtons.length].focus();
+      }
+    });
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape" && !placeMenu.hidden) { openMenu(false); placeButton.focus(); }
+    });
+    document.addEventListener("click", function (e) {
+      if (!placeMenu.hidden && !areas.contains(e.target)) openMenu(false);
+    });
+  }
   viewButtons.forEach(function (b) {
     b.addEventListener("click", function () {
       state.view = b.dataset.view;

@@ -5,8 +5,8 @@
   "name": "Glockenbachwerkstatt – Fish'n Blues",
   "url": "https://www.glockenbachwerkstatt.de/",
   "kind": "venue",
-  "status": "ok",
-  "found": 8
+  "status": "failed",
+  "error": "RetryError: HTTPSConnectionPool(host='www.glockenbachwerkstatt.de', port=443): Max retries exceeded with url: /veranstaltungen/?date=&category=fishnblues (Caused by ResponseError('too many 500 error responses'))"
  },
  "events": [
   {

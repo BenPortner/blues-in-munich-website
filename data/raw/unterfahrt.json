@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-10-19T08:24:37+00:00",
+ "scraped_at": "2026-10-19T09:09:27+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 59
+  "found": 62
  },
  "events": [
   {
@@ -345,6 +345,26 @@
    "id": ""
   },
   {
+   "title": "JAM SESSION",
+   "type": "concert",
+   "start": "2026-11-01T20:30",
+   "end": null,
+   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11682",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstraße 42, 81675 München",
+   "description": "Die gerade frisch mit dem BMW Young Artist Jazz Award ausgezeichnete Kontrabassistin Ida Koch studiert an der Hochschule für Musik und Theater bei Henning Sieverts. Als fester Bestandteil der Jungen Münchner Jazz Szene sieht man sie in den verschiedensten Formationen; unter anderem im Trio des Gitarristen Elias Prinz, an der Seite von Pianist Pablo Struff oder mit ihrem kürzlich eigens gegründeten Quartett. Bei unseren Jam Sessions im November wird sie von dieser Vielseitigkeit eine Kostprobe geben. Jeden Sonntag mit einer anderen Besetzung, von Bebop über Django Reinhardt bis zu lyrischem Vocal Jazz und modernen Eigenkompositiotnen - und auf jeden Fall immer mit Groove!",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "FABLES OF MINGUS",
    "type": "concert",
    "start": "2026-11-02T20:30",
@@ -493,6 +513,26 @@
    "id": ""
   },
   {
+   "title": "JAM SESSION",
+   "type": "concert",
+   "start": "2026-11-08T20:30",
+   "end": null,
+   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11689",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstraße 42, 81675 München",
+   "description": "Die gerade frisch mit dem BMW Young Artist Jazz Award ausgezeichnete Kontrabassistin Ida Koch studiert an der Hochschule für Musik und Theater bei Henning Sieverts. Als fester Bestandteil der Jungen Münchner Jazz Szene sieht man sie in den verschiedensten Formationen; unter anderem im Trio des Gitarristen Elias Prinz, an der Seite von Pianist Pablo Struff oder mit ihrem kürzlich eigens gegründeten Quartett. Bei unseren Jam Sessions im November wird sie von dieser Vielseitigkeit eine Kostprobe geben. Jeden Sonntag mit einer anderen Besetzung, von Bebop über Django Reinhardt bis zu lyrischem Vocal Jazz und modernen Eigenkompositiotnen - und auf jeden Fall immer mit Groove!",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "KURZ-LUDWIG-PARZHUBER BIGBAND",
    "type": "concert",
    "start": "2026-11-09T20:30",
@@ -597,6 +637,26 @@
    "id": ""
   },
   {
+   "title": "JAM SESSION",
+   "type": "concert",
+   "start": "2026-11-15T20:30",
+   "end": null,
+   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11696",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstraße 42, 81675 München",
+   "description": "Die gerade frisch mit dem BMW Young Artist Jazz Award ausgezeichnete Kontrabassistin Ida Koch studiert an der Hochschule für Musik und Theater bei Henning Sieverts. Als fester Bestandteil der Jungen Münchner Jazz Szene sieht man sie in den verschiedensten Formationen; unter anderem im Trio des Gitarristen Elias Prinz, an der Seite von Pianist Pablo Struff oder mit ihrem kürzlich eigens gegründeten Quartett. Bei unseren Jam Sessions im November wird sie von dieser Vielseitigkeit eine Kostprobe geben. Jeden Sonntag mit einer anderen Besetzung, von Bebop über Django Reinhardt bis zu lyrischem Vocal Jazz und modernen Eigenkompositiotnen - und auf jeden Fall immer mit Groove!",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "GERALD CLAYTON",
    "type": "concert",
    "start": "2026-11-16T19:30",
@@ -688,7 +748,7 @@
    "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11700",
    "venue": "Jazzclub Unterfahrt",
    "address": "Einsteinstraße 42, 81675 München",
-   "description": "Mit Phantom Happiness präsentiert Johannes Enders ein neues internationales Jazzquartett auf höchstem künstlerischem Niveau. An seiner Seite: der Pianist Rainer Böhm, der amerikanische Bassist Doug Weiss und der legendäre Schlagzeuger Jorge Rossy. Vier starke musikalische Persönlichkeiten, vereint in einem gemeinsamen Klangideal von Tiefe, Freiheit und erzählerischer Kraft.",
+   "description": "Glück mag ein flüchtiges Gefühl sein, etwas, dass sich nicht festhalten lässt. Aber, die Momente, in denen es einem hold war, die wirken oft lange nach. Und machen etwas mit uns. Vielleicht hat der Weilheimer Saxofonist Johannes Enders sein jüngstes Album auch Phantom Happiness genannt, weil er immer noch von diesen Phasen profitiert, in denen Freude und Seligkeit zusammenkamen. Die Musik, die er in handverlesener Besetzung einspielte, macht mit ihrer Grundstimmung, ihren Melodien irgendwie süchtig. Phantom Schmerz könnte einsetzen, wenn das Konzert vorbei ist.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -1188,7 +1248,7 @@
    "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11038",
    "venue": "Jazzclub Unterfahrt",
    "address": "Einsteinstraße 42, 81675 München",
-   "description": "Konzerte in 53 Ländern, zwei Grammy-Nominierungen, Millionen Video-Clicks, Handpan-Pionier und tausende Fahrradkilometer auf Tour – seit 20 Jahren verbreitet Manu Delago seine Musik rund um die Welt. Diese außergewöhnliche Karriere feiert der Tiroler Musiker und Komponist gemeinsam mit seinem Ensemble auf der bevorstehenden Jubiläumstour.",
+   "description": "Manu Delago hat einen Hang zum Hang. Auf diesem optisch an ein Ufo gemahnenden und klanglich an Steel-Drums erinnernden Instrument verzaubert der Tiroler uns mit Sounds, die einerseits geheimnisvoll metallisch schimmern und andererseits wohlige Wärme verbreiten. Auf seiner Environ Us-Tour bettet er seine Handpan-Kapriolen nun auf Texturen und Klangflächen, die ein mit Klarinetten, Posaunen, Streichquartett und Percussion-Section ausgestattetes Ensemble ausbreitet.",
    "recurrence": null,
    "dates": [],
    "tags": [],

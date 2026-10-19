@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-10-18T08:29:27+00:00",
+ "scraped_at": "2026-10-19T08:24:37+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
@@ -9,26 +9,6 @@
   "found": 59
  },
  "events": [
-  {
-   "title": "JAM SESSION",
-   "type": "concert",
-   "start": "2026-10-18T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11668",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Der Saxofonist Maxim Frischmann bittet zur Session – inspirierte Einsteiger sind wie immer herzlich willkommen. Vielleicht sollten sie sich im Vorfeld mit der Musik des Wahl-Berliners vertraut machen. Die peppt Modern Jazz mit Gegenwarts-Beats und elektronischen Klangfarben auf, frisiert swingende Passagen, in dem sie Grooves als Turbo nutzt. Maxed Out heißt das Quartett, mit dem Maxim Frischmann seinem Nachnamen gerecht wird. Was er mit seinen Gefährten spielt, klingt unverbraucht und auf unangestrengte Weise neu.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "HARMEN FRAANJE",
    "type": "concert",
@@ -681,6 +661,26 @@
    "id": ""
   },
   {
+   "title": "ARTIFACTS TRIO",
+   "type": "concert",
+   "start": "2026-11-18T20:30",
+   "end": null,
+   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11699",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstraße 42, 81675 München",
+   "description": "Müsste man die Musik des Artifacts Trios in einem Begriff zusammenfassen, dann wäre das wohl Groove, wagte ein Autor der Online-Plattform All About Jazz zu behaupten. Einerseits hat er Recht: was Flötistin Nicole Mitchell, Cellistin Tomeka Reid und Drummer Mike Reed da spielen, ist immer in Bewegung und hat reichlich Vorwärtsdrang. Andererseits muss widersprochen werden. Denn diese drei Innovatoren der Chicagoer Improvisations-Szene machen so viel mehr: sie nutzen Klangfarben, Traditionen, diverse Backgrounds, unverbrauchte Ideen, um ein musikalisches Kaleidoskop zu entwerfen.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "JOHANNES ENDERS",
    "type": "concert",
    "start": "2026-11-19T20:30",
@@ -1044,7 +1044,7 @@
    "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11728",
    "venue": "Jazzclub Unterfahrt",
    "address": "Einsteinstraße 42, 81675 München",
-   "description": "Tania Giannouli, klassisch ausgebildet und versiert in erweiterten Spielweisen, lotet das klangliche Spektrum des Flügels mit großer Sensibilität aus – von feinen Resonanzen bis zu ungewohnten Texturen. Molvær erweitert diese Klangwelt mit Trompete, Atem, Raum und Elektronik, die seit seinem bahnbrechenden Album Khmer ein zentrales Element seines Schaffens ist.",
+   "description": "Wie poetisch. Ein koreanisches Musik-Magazin urteilte so über das Gespann Tania Giannouli und Nils Petter Molvær: Ihre Musik lädt den Zuhörer dazu ein, von der Ewigkeit zu träumen...Eigentlich kommen die Zwei aus verschiedenen Welten. Doch gemeinsam erschließen sie sich ein neues Universum, erschaffen sie faszinierende Klanglandschaften und eine raue, aber auch unwirklich schöne Natur, die das Publikum mit gespitzten Ohren und geschärften Sinnen durchmessen kann.",
    "recurrence": null,
    "dates": [],
    "tags": [],

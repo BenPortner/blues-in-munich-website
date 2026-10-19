@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-10-18T10:43:00+00:00",
+ "scraped_at": "2026-10-19T08:24:47+00:00",
  "status": {
   "id": "village-habach",
   "name": "Village Habach",
   "url": "https://www.village-habach.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 50
+  "found": 49
  },
  "events": [
-  {
-   "title": "Ben Poole (GBR)",
-   "type": "concert",
-   "start": "2026-10-18T20:15",
-   "end": null,
-   "url": "https://village-habach.de/programm/?single=a0bb1c36d2d69f5fc700d565dd7853c8",
-   "venue": "Village Habach",
-   "address": "Obermühle 1, 82392 Habach",
-   "description": "Mischung aus Blues, Rock und Soul BEN POOLE international anerkannter, preisgekrönter Gitarrist, Sänger und Songwriter. Nominiert als einer der „Besten Blues-Gitarristen der Welt“ ist er an der Spitze der talentierten Blues-/Rockszene auf weltweiter Ebene. Bereits in jungen Jahren machte er...",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Carl Verheyen (USA)",
    "type": "concert",

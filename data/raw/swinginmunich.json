@@ -1,80 +1,14 @@
 {
- "scraped_at": "2026-10-18T08:35:04+00:00",
+ "scraped_at": "2026-10-19T08:29:58+00:00",
  "status": {
   "id": "swinginmunich",
   "name": "SwinginMunich.de",
   "url": "https://www.swinginmunich.de/en",
   "kind": "aggregator",
   "status": "ok",
-  "found": 40
+  "found": 37
  },
  "events": [
-  {
-   "title": "Sunday Swing beim Höhensteiger",
-   "type": "social",
-   "start": "2026-10-18T15:00",
-   "end": null,
-   "url": "https://www.rosyhoppers.de/events",
-   "venue": "Gasthof Höhensteiger",
-   "address": "Westerndorfer Straße 101 , 83024 Rosenheim",
-   "description": "Die Rosy Hoppers laden ein zum Sunday Swing mit Live Musik. Eintritt frei, Spenden für die Band. Bewirtung vor Ort. Eine Swing-Combo aus München wird für uns zum Tanz aufspielen. Im letzten Set gibt es eine offene Jam-Session, bei der man mit eigenem Instrument direkt mit einsteigen kann.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Social Dance / Live"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Swinging Sunday in Ebersberg",
-   "type": "social",
-   "start": "2026-10-18T18:00",
-   "end": null,
-   "url": "https://kultur-in-ebersberg.de/programm/swinging-sunday-13/",
-   "venue": "altes kino",
-   "address": "Eberhardstraße 3, 85560 Ebersberg",
-   "description": "It’s Swinging Sunday again! Im Anschluss an einen Swing-Tanzkurs öffnet das wunderschöne alte kino von 18 bis 21 Uhr bei freiem Eintritt zum „Social Dance“. Egal ob man das Tanzbein schwingen, einfach mal reinschnuppern, nur zuschauen oder etwas trinken und gute Swing-Musik hören will (die Bar des alten kinos hat geöffnet), egal ob Anfänger oder Profi, Tänzerin oder Nicht-Tänzer – zum Social Dance sind alle willkommen! Achtung: An diesem Swinging Sunday ist das Bayerische Fernsehen zu Gast und dreht vor Ort für eine TV-Dokumentation über Lindy Hop.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Social Dance / DJ"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Fifties Record Hop",
-   "type": "social",
-   "start": "2026-10-18T19:15",
-   "end": null,
-   "url": "http://www.vintage-club.de",
-   "venue": "Vintage Club",
-   "address": "Sonnenstr. 12b, 80331 München",
-   "description": "You are never to old to Rock ’n’ Roll! Die 50er Jahre Traditionsveranstaltung! Seit 1972 jeden Sonntag Fifties Record Hop mit wechselnden DJs. Rock'n'Roll, Boogie Woogie, Rockabilly, Jive, Bop, Rhythm'n'Blues, Western Swing, Neoswing, Soul-Cha-Cha etc. – alles ist dabei! 19:15 – 23:15 Uhr DJ-Musik Eintritt: 10 €",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Social Dance / DJ"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "MBSW-Balboa & Shag Party \"Start Cheering\"",
    "type": "social",

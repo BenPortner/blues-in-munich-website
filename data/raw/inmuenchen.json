@@ -1,14 +1,80 @@
 {
- "scraped_at": "2026-10-18T08:35:21+00:00",
+ "scraped_at": "2026-10-19T08:30:19+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 162
+  "found": 164
  },
  "events": [
+  {
+   "title": "AllachArt: Allacher Kunst und Performance",
+   "type": "concert",
+   "start": "2026-11-08T14:00",
+   "end": "2026-11-08T19:00",
+   "url": "https://www.in-muenchen.de/events/allachart-allacher-kunst-und-performance.html",
+   "venue": "Allacher Schießstätte",
+   "address": "Servetstr. 1, 80999 München",
+   "description": "Ausstellung, Tanz und Livemusik gegen den Novemberblues: Die Künstlergruppe AllachArt zeigt im Podium Allach Werke von elf Kunstschaffenden, dazu gibt es Linedance, bulgarische Tänze, eigene Songs und Jazz und Blues.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Kunst & Performance"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Rad Gumbo & Günter Grünwald",
+   "type": "concert",
+   "start": "2027-03-05T20:00",
+   "end": "2027-03-05T22:30",
+   "url": "https://www.in-muenchen.de/events/rad-gumbo-gunter-grunwald.html",
+   "venue": "Spektakel im Postsaal Schäftlarn",
+   "address": "Wolfratshauser Straße 45, 82067 Schäftlarn",
+   "description": "Bayerisches Kabarett und Southern Blues verschmelzen zu einem unterhaltsamen Abend. Mit bayerischem Humor und groovigem Blues-Rock erzeugen Günter Grünwald und RAD GUMBO einen musikalisch-komödiantischen Cocktail. Grünwald an der Sologitarre, gefolgt von Kabaretteinlagen, schafft eine überraschende und kurzweilige Atmosphäre.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Kabarett"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Riserva 17",
+   "type": "concert",
+   "start": "2026-11-19T19:30",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/riserva-17-lacanto-live.html",
+   "venue": "Lacanto",
+   "address": "Vöttinger Str. 40, 85354 Freising",
+   "description": "Eine Stimme, die unter die Haut geht, und fünf Musiker mit unterschiedlichstem Hintergrund. Die Freisinger Band Riserva 17 um Sängerin Anja Reja kreiert eine groovende Mischung aus Jazz, Blues, Latin, Funk und Pop, die in die Beine geht und im Ohr bleibt.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Jazz-Pop-Fusion"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
   {
    "title": "Hollie Rogers + Alma Naidu",
    "type": "concert",
@@ -1110,7 +1176,7 @@
    "id": ""
   },
   {
-   "title": "Blaimer – Wechseljahre",
+   "title": "Blaimer - Wechseljahre",
    "type": "concert",
    "start": "2026-10-29T20:00",
    "end": "2026-10-29T22:00",
@@ -1350,7 +1416,7 @@
    "id": ""
   },
   {
-   "title": "Das „frühe“ Frauenfest",
+   "title": "Das \"frühe\" Frauenfest",
    "type": "concert",
    "start": "2026-11-06T18:00",
    "end": "2026-11-06T23:00",
@@ -1416,7 +1482,7 @@
    "id": ""
   },
   {
-   "title": "Ü30 Party – einfach legendär",
+   "title": "Ü30 Party - einfach legendär",
    "type": "social",
    "start": "2026-11-07T20:30",
    "end": null,
@@ -1768,7 +1834,7 @@
    "id": ""
   },
   {
-   "title": "Stephan Zinner – Großstadtblues",
+   "title": "Stephan Zinner - Großstadtblues",
    "type": "concert",
    "start": "2027-04-24T19:30",
    "end": "2027-04-24T22:30",
@@ -1856,7 +1922,7 @@
    "id": ""
   },
   {
-   "title": "Heiner Lauterbach – Like a Hobo",
+   "title": "Heiner Lauterbach - Like a Hobo",
    "type": "concert",
    "start": "2027-02-05T20:00",
    "end": null,
@@ -1900,7 +1966,7 @@
    "id": ""
   },
   {
-   "title": "Martin Schmitt – Schmitt happens",
+   "title": "Martin Schmitt - Schmitt happens",
    "type": "concert",
    "start": "2027-01-28T20:00",
    "end": "2027-01-28T22:00",
@@ -1922,7 +1988,7 @@
    "id": ""
   },
   {
-   "title": "Stephan Zinner – Großstadtblues",
+   "title": "Stephan Zinner - Großstadtblues",
    "type": "concert",
    "start": "2027-01-26T20:00",
    "end": "2027-01-26T23:00",
@@ -2076,7 +2142,7 @@
    "id": ""
   },
   {
-   "title": "Mathias Kellner – Can you BOARISCH, please?",
+   "title": "Mathias Kellner - Can you BOARISCH, please?",
    "type": "concert",
    "start": "2026-12-07T20:00",
    "end": "2026-12-07T23:00",
@@ -2170,7 +2236,7 @@
    "end": "2026-10-30T22:00",
    "url": "https://www.in-muenchen.de/events/werner-meier-echt.html",
    "venue": "Kulturwerkstatt am Olchinger Mühlbach – KOM",
-   "address": "Hauptstr. 68, 82140 Olching",
+   "address": "Hauptstraße 68, 82140 Olching",
    "description": "Im Zentrum des Abends steht Werner Meier, der mit seinem feinsinnigen bayerischen Musik-Kabarett gesellschaftliche Fragen und den Blues unserer Zeit aufgreift. Untermalt von grooviger Gitarre lädt er zu einem Streifzug durch analoge Zufluchtsorte im digitalen Alltagswahnsinn ein.",
    "recurrence": null,
    "dates": [],
@@ -2426,7 +2492,7 @@
    "id": ""
   },
   {
-   "title": "13. American Bar Night – „Midlife or Crisis?“ & Friends",
+   "title": "13. American Bar Night - „Midlife or Crisis?“ & Friends",
    "type": "concert",
    "start": "2026-12-19T18:00",
    "end": null,
@@ -2536,7 +2602,7 @@
    "id": ""
   },
   {
-   "title": "Willy Michl – Isarindianer-Weihnacht",
+   "title": "Willy Michl - Isarindianer-Weihnacht",
    "type": "concert",
    "start": "2026-12-25T20:00",
    "end": "2026-12-25T23:00",
@@ -2558,7 +2624,7 @@
    "id": ""
   },
   {
-   "title": "Andrea Limmer – Flintenweib",
+   "title": "Andrea Limmer - Flintenweib",
    "type": "concert",
    "start": "2026-11-29T19:00",
    "end": null,
@@ -2888,7 +2954,7 @@
    "id": ""
   },
   {
-   "title": "Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich",
+   "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
    "type": "concert",
    "start": "2026-12-01T20:00",
    "end": null,
@@ -2998,7 +3064,7 @@
    "id": ""
   },
   {
-   "title": "Bin I Kini?! – Der Prinzregenten-Blues",
+   "title": "Bin I Kini?! - Der Prinzregenten-Blues",
    "type": "concert",
    "start": "2026-11-17T20:00",
    "end": null,
@@ -3020,7 +3086,7 @@
    "id": ""
   },
   {
-   "title": "Martin Schmitt – Schmitt happens",
+   "title": "Martin Schmitt - Schmitt happens",
    "type": "concert",
    "start": "2026-11-26T20:00",
    "end": "2026-11-26T23:00",
@@ -3086,7 +3152,7 @@
    "id": ""
   },
   {
-   "title": "Da Huawa und I – Schokoladenseit’n",
+   "title": "Da Huawa und I - Schokoladenseit'n",
    "type": "concert",
    "start": "2026-11-20T20:00",
    "end": "2026-11-20T23:00",
@@ -3120,28 +3186,6 @@
    "dates": [],
    "tags": [
     "Tribute-Show"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Henrik Freischlader",
-   "type": "concert",
-   "start": "2026-10-18T20:00",
-   "end": "2026-10-18T23:00",
-   "url": "https://www.in-muenchen.de/events/henrik-freischlader.html",
-   "venue": "Muffatwerk / Ampere",
-   "address": "Zellstraße 4, 81667 München",
-   "description": "Henrik Freischlader präsentiert mit seiner neu formierten Band eine Mischung aus Blues-Rock, Soul, Groove und atmosphärischer Tiefe. Die Besetzung mit Dave Warmerdam an den Keyboards, Gregor Sonnenberg am Bass und Leon Mucke am Schlagzeug verspricht eine dynamische Liveperformance voller Interaktion und Improvisation.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Bluesrock"
    ],
    "source_id": "",
    "source_name": "",
@@ -3555,7 +3599,7 @@
    "url": "https://www.in-muenchen.de/events/die-montagsmorder.html",
    "venue": "Theater … und so fort",
    "address": "Hinterbärenbadstraße 2, 81373 München",
-   "description": "Enthüllen Sie den Mörder in einem improvisierten Krimi-Abend!",
+   "description": "Enthüllen Sie den Mörder in einem improvisierten Krimi-Abend! Das Ensemble spielt diesen Fall nur einmal und das Publikum bestimmt u.a. Mordwaffe und Täter*innen.",
    "recurrence": null,
    "dates": [],
    "tags": [

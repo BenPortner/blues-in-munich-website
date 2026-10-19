@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T19:17:49+00:00",
+  "generated_at": "2026-10-19T08:30:19+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -2821,7 +2821,7 @@
       "id": "ff05effc904f"
     },
     {
-      "title": "Bin I Kini?! – Der Prinzregenten-Blues",
+      "title": "Bin I Kini?! - Der Prinzregenten-Blues",
       "type": "concert",
       "start": "2026-11-17T20:00",
       "end": null,
@@ -3202,7 +3202,7 @@
       "id": "127efe9843d6"
     },
     {
-      "title": "Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich",
+      "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
       "type": "concert",
       "start": "2026-12-01T20:00",
       "end": null,
@@ -3368,7 +3368,7 @@
       "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "venue": "Rheinpfalz Schwabing",
       "address": "Kurfürstenstraße 35, 80801 München",
-      "description": "Die Band spielt cross over, alles was Stimmung macht, die fünf Musiker heizen ordentlich ein. Ihr Special ist eine Blues Brother Show im zweiten Set. Wir freuen uns auf die Band, bitte Hut nicht vergessen.",
+      "description": "Die „Munich Rhythm and Blues Band“ begeistert mit einer Mischung aus Funk, Soul, Blues, Rock und Jazz. Songs von Etta James bis Johnny Cash mit Schwerpunkt Blues Brothers sorgen für energiegeladene Shows. Die Band spielt alles, was Stimmung macht, die fünf Musiker heizen ordentlich ein. Ihr „Special“ ist eine Blues Brother’s Show im zweiten Set. Wir freuen uns auf die Band, bitte Hut nicht vergessen.",
       "recurrence": null,
       "dates": [],
       "tags": [],
@@ -3531,7 +3531,7 @@
       "id": "62c8b6e8743a"
     },
     {
-      "title": "13. American Bar Night – „Midlife or Crisis?“ & Friends",
+      "title": "13. American Bar Night - „Midlife or Crisis?“ & Friends",
       "type": "concert",
       "start": "2026-12-19T18:00",
       "end": null,
@@ -3789,7 +3789,7 @@
       "id": "bab14bcaa9e9"
     },
     {
-      "title": "Stephan Zinner – Großstadtblues",
+      "title": "Stephan Zinner - Großstadtblues",
       "type": "concert",
       "start": "2027-01-26T20:00",
       "end": "2027-01-26T23:00",
@@ -4300,7 +4300,7 @@
       "id": "338c64ebae1c"
     },
     {
-      "title": "Stephan Zinner – Großstadtblues",
+      "title": "Stephan Zinner - Großstadtblues",
       "type": "concert",
       "start": "2027-04-24T19:30",
       "end": "2027-04-24T22:30",
@@ -4566,7 +4566,7 @@
       "url": "https://www.vintage-club.de/",
       "kind": "school",
       "status": "ok",
-      "found": 106,
+      "found": 54,
       "kept": 9
     },
     {
@@ -4575,7 +4575,7 @@
       "url": "https://www.boogie-baeren.de/",
       "kind": "school",
       "status": "ok",
-      "found": 96,
+      "found": 75,
       "kept": 13
     },
     {
@@ -4656,7 +4656,7 @@
       "url": "https://www.village-habach.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 50,
+      "found": 49,
       "kept": 25
     },
     {
@@ -4665,7 +4665,7 @@
       "url": "https://www.swinginmunich.de/en",
       "kind": "aggregator",
       "status": "ok",
-      "found": 40,
+      "found": 37,
       "kept": 2
     },
     {
@@ -4674,7 +4674,7 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 162,
+      "found": 164,
       "kept": 53
     },
     {

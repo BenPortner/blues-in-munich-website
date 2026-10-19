@@ -6,6 +6,7 @@ import json
 import os
 import re
 import shutil
+from collections import Counter
 from datetime import date, datetime, timedelta
 from itertools import groupby
 from pathlib import Path
@@ -172,6 +173,8 @@ def view_model(data: dict, today: date, highlights: Highlights) -> dict:
         # Last.fm's API terms want a credit wherever its data is used
         "lastfm_credit": any(e.artists or e.known_artists for e in events),
         "sources": data.get("sources", []),
+        # Per source, the upcoming events the page lists (its footer count; the filter also shows past ones)
+        "source_counts": Counter(e.source_id for e in upcoming),
         "generated": f"{generated.day} {generated.strftime('%b %Y, %H:%M')}",
         "repo_url": os.environ.get("REPO_URL") or (
             f"https://github.com/{os.environ['GITHUB_REPOSITORY']}" if os.environ.get("GITHUB_REPOSITORY") else None
@@ -213,6 +216,7 @@ def calendar_events(events: list[Event], highlights: Highlights | None = None) -
                 "url": e.url,
                 "extendedProps": {
                     "type": e.type,
+                    "source": e.source_id,
                     "label": TYPE_LABELS.get(e.type, e.type.title()),
                     "venue": e.venue,
                     "time": fmt_time(e),

@@ -33,7 +33,7 @@
         <h3 class="day-label"><time datetime="{{ day.day.isoformat() }}">{{ day.label }}</time>{% if day.is_today %} <em>today</em>{% endif %}</h3>
         <div class="cards">
           {% for c in day.cards %}{% set e = c.e %}
-          <article class="card type-{{ e.type }}{% if c.highlight %} highlight{% endif %}" data-type="{{ e.type }}"{% if c.highlight %} data-highlight{% endif %}{% if c.regional %} data-regional{% endif %}>
+          <article class="card type-{{ e.type }}{% if c.highlight %} highlight{% endif %}" data-type="{{ e.type }}" data-source="{{ e.source_id }}"{% if c.highlight %} data-highlight{% endif %}{% if c.regional %} data-regional{% endif %}>
             <p class="meta">
               <span class="badge">{{ c.label }}</span>
               {% if c.highlight %}<span class="star">★ Highlight</span>{% endif %}
@@ -68,6 +68,8 @@
     {% if total or past_total %}
     <nav class="filters" aria-label="Filter by type">
       <div class="chips">
+      {# Set from a source's event count in the footer; replaces the type chips' choice until cleared #}
+      <button type="button" class="chip source-chip" aria-pressed="true" hidden><span class="source-name"></span> <span aria-label="Show all sources">✕</span></button>
       {# data-counts: upcoming events without and with the events outside Munich; the page shows all #}
       <button type="button" class="chip" data-filter="all" aria-pressed="true" data-counts="{{ total_counts | join(' ') }}">All <span>{{ total_counts[1] }}</span></button>
       {% if highlight_chip %}<button type="button" class="chip" data-filter="highlight" aria-pressed="false" data-counts="{{ highlights | join(' ') }}">★ Highlights <span>{{ highlights[1] }}</span></button>{% endif %}
@@ -139,7 +141,9 @@
       {% for s in sources if s.kind != "manual" or s.kept %}
       <li>
         <a href="{{ s.url }}" rel="noopener">{{ s.name }}</a>
-        <span class="status status-{{ s.status }}">{% if s.status == "ok" %}{{ s.kept }} event{{ "" if s.kept == 1 else "s" }}{% elif s.status == "skipped" %}not active{% else %}update failed — showing last known{% endif %}</span>
+        {% set n = source_counts[s.id] %}
+        {% if s.status == "ok" and n %}<a class="status status-ok" href="#source/{{ s.id }}" data-source-link="{{ s.id }}" data-name="{{ s.name }}">{{ n }} event{{ "" if n == 1 else "s" }}</a>
+        {% else %}<span class="status status-{{ s.status }}">{% if s.status == "ok" %}0 events{% elif s.status == "skipped" %}not active{% else %}update failed — showing last known{% endif %}</span>{% endif %}
       </li>
       {% endfor %}
     </ul>

@@ -301,7 +301,7 @@ def test_calendar_events():
     assert (cal["f-0"]["end"], cal["f-0"]["allDay"]) == ("2026-10-26", True)  # exclusive end
     assert (cal["n-0"]["end"], cal["n-0"]["allDay"]) == ("2026-10-25T02:00", False)
     assert cal["l-0"]["end"] == "2026-11-01T00:00"  # mixed date/time stretches to end of day
-    assert cal["c-0"]["extendedProps"] == {"type": "class", "label": "Class", "venue": None, "time": "18:45–19:45"}
+    assert cal["c-0"]["extendedProps"] == {"type": "class", "source": "", "label": "Class", "venue": None, "time": "18:45–19:45"}
 
 
 def test_calendar_json_is_script_safe(tmp_path):

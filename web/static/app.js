@@ -8,6 +8,7 @@
 // URL hash keeps the state: "#concert", "#calendar", "#calendar/concert", "#concert/region". "highlight"
 // is a filter too (see highlights.yaml). Events outside Munich (data-regional) are left out everywhere
 // until the place menu is set to "Munich and region" ("region" at the end of the hash).
+// "#source/<id>" (the event counts in the Sources footer) lists one source's events, whatever the type or place.
 (function () {
   var chips = document.querySelectorAll(".chip[data-filter]");
   if (!chips.length) return;
@@ -21,7 +22,9 @@
   var placeButton = areas && areas.querySelector(".place-button");
   var placeMenu = areas && areas.querySelector(".place-menu");
   var areaButtons = document.querySelectorAll("[data-area]");
-  var state = { view: "list", type: "all", region: false };
+  var sourceChip = document.querySelector(".source-chip");
+  var emptyText = empty && empty.textContent;
+  var state = { view: "list", type: "all", region: false, source: null };
 
   var FC_SRC = "https://cdn.jsdelivr.net/npm/fullcalendar@6.1.22/index.global.min.js";
   var FC_SRI = "sha384-a9qx08ufzJ+0qbHzdqA+GYiSayQQB5BK2YGS/HQT9cxhQm+GhiXFj1ByVXa93ZRR";
@@ -30,7 +33,10 @@
 
   function readHash() {
     var parts = location.hash.slice(1).split("/");
+    state.view = "list";
     if (parts[0] === "calendar") { state.view = "calendar"; parts.shift(); }
+    state.source = null;
+    if (parts[0] === "source" && sourceLink(parts[1])) { state.source = parts[1]; parts.splice(0, 2); }
     state.region = !!areas && parts[parts.length - 1] === "region";
     if (state.region) parts.pop();
     var type = parts[0] || "all";
@@ -40,12 +46,18 @@
   function writeHash() {
     var parts = [];
     if (state.view === "calendar") parts.push("calendar");
-    if (state.type !== "all") parts.push(state.type);
+    if (state.source) parts.push("source", state.source);
+    else if (state.type !== "all") parts.push(state.type);
     if (state.region) parts.push("region");
     history.replaceState(null, "", parts.length ? "#" + parts.join("/") : location.pathname);
   }
 
-  function shown(type, highlight, regional) {
+  function sourceLink(id) {
+    return id && document.querySelector('[data-source-link="' + CSS.escape(id) + '"]');
+  }
+
+  function shown(type, highlight, regional, source) {
+    if (state.source) return source === state.source;
     if (regional && areas && !state.region) return false;
     if (state.type === "highlight") return highlight;
     return state.type === "all" || type === state.type;
@@ -53,7 +65,7 @@
 
   function applyList() {
     document.querySelectorAll(".card").forEach(function (card) {
-      card.hidden = !shown(card.dataset.type, "highlight" in card.dataset, "regional" in card.dataset);
+      card.hidden = !shown(card.dataset.type, "highlight" in card.dataset, "regional" in card.dataset, card.dataset.source);
     });
     // Hide days and months that have nothing left to show
     document.querySelectorAll(".day").forEach(function (day) {
@@ -68,7 +80,7 @@
       spotlight.querySelectorAll("li").forEach(function (li) {
         li.hidden = "regional" in li.dataset && !!areas && !state.region;
       });
-      spotlight.hidden = state.type !== "all" || !spotlight.querySelector("li:not([hidden])");
+      spotlight.hidden = state.type !== "all" || !!state.source || !spotlight.querySelector("li:not([hidden])");
     }
     // Whether any upcoming event is left; the past section doesn't count
     return !!document.querySelector("#upcoming .month:not([hidden])");
@@ -76,8 +88,10 @@
 
   function apply() {
     chips.forEach(function (chip) {
-      chip.setAttribute("aria-pressed", String(chip.dataset.filter === state.type));
+      chip.setAttribute("aria-pressed", String(!state.source && chip.dataset.filter === state.type));
     });
+    sourceChip.hidden = !state.source;
+    if (state.source) sourceChip.querySelector(".source-name").textContent = sourceLink(state.source).dataset.name;
     viewButtons.forEach(function (b) {
       b.setAttribute("aria-pressed", String(b.dataset.view === state.view));
     });
@@ -96,7 +110,10 @@
     var onCalendar = state.view === "calendar";
     listView.hidden = onCalendar;
     calView.hidden = !onCalendar;
-    if (empty) empty.hidden = onCalendar || anyVisible;
+    if (empty) {
+      empty.hidden = onCalendar || anyVisible;
+      empty.textContent = state.source ? "No upcoming events from this source — see past events below." : emptyText;
+    }
     if (onCalendar) showCalendar();
   }
 
@@ -177,7 +194,7 @@
       navLinkDayClick: function (date) { calendar.changeView(weekView, date); },
       events: function (info, success) {
         success(all.filter(function (e) {
-          return shown(e.extendedProps.type, !!e.extendedProps.highlight, !!e.extendedProps.regional);
+          return shown(e.extendedProps.type, !!e.extendedProps.highlight, !!e.extendedProps.regional, e.extendedProps.source);
         }).map(function (e) {
           var color = typeColor(e.extendedProps.type);
           return Object.assign({}, e, { backgroundColor: color, borderColor: color });
@@ -204,10 +221,28 @@
   chips.forEach(function (chip) {
     chip.addEventListener("click", function () {
       state.type = chip.dataset.filter;
+      state.source = null;
       writeHash();
       apply();
     });
   });
+  sourceChip.addEventListener("click", function () {
+    state.source = null;
+    writeHash();
+    apply();
+  });
+  document.querySelectorAll("[data-source-link]").forEach(function (link) {
+    link.addEventListener("click", function (e) {
+      e.preventDefault();
+      state.source = link.dataset.sourceLink;
+      state.type = "all";
+      writeHash();
+      apply();
+      document.querySelector("main").scrollIntoView({ behavior: "smooth" });
+    });
+  });
+  // Typed or pasted hashes, and back/forward
+  window.addEventListener("hashchange", function () { readHash(); apply(); });
   // --- place menu -----------------------------------------------------------
   function openMenu(open) {
     placeMenu.hidden = !open;

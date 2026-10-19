@@ -83,6 +83,14 @@ def test_failed_source_reuses_previous_events(make_ctx):
     assert "site down" in result["sources"][0]["error"]
 
 
+def test_failed_source_warns_in_ci(make_ctx, monkeypatch, capsys):
+    monkeypatch.setenv("GITHUB_ACTIONS", "true")
+    collect([src("down", "_test_broken")], make_ctx(), {"events": []})
+    assert capsys.readouterr().out == (
+        "::warning title=Source failed%3A down::ConnectionError: site down"
+        " — reusing 0 events from last scrape\n")
+
+
 def test_failed_source_keeps_its_last_scrape(make_ctx):
     ctx = make_ctx()
     ok = src("s", "_test_static", params={"events": [ev("Blues Night", "2026-11-01T20:00")]})

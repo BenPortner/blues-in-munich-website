@@ -7,6 +7,7 @@ from __future__ import annotations
 import argparse
 import json
 import logging
+import os
 import shutil
 import sys
 import tempfile
@@ -21,6 +22,16 @@ from .registry import Context, SkipSource, get_adapter
 __all__ = ["dedupe", "same_event", "scrape_source", "main", "ROOT"]
 
 log = logging.getLogger("scraper")
+
+
+def ci_warning(title: str, message: str) -> None:
+    """Annotate the GitHub Actions run, so a failure shows on its summary page."""
+    if os.environ.get("GITHUB_ACTIONS") != "true":
+        return
+    def esc(s: str) -> str:
+        return s.replace("%", "%25").replace("\r", "%0D").replace("\n", "%0A")
+    title = esc(title).replace(":", "%3A").replace(",", "%2C")
+    print(f"::warning title={title}::{esc(message)}", flush=True)
 
 
 def scrape_source(source: dict, ctx: Context, raw_dir: Path, previous: list[dict] = ()) -> dict:
@@ -44,6 +55,8 @@ def scrape_source(source: dict, ctx: Context, raw_dir: Path, previous: list[dict
         events = old["events"] if old else [e for e in previous if e["source_id"] == source["id"]]
         status.update(status="failed", error=f"{type(exc).__name__}: {exc}")
         log.warning("%-24s FAILED (%s); reusing %d events from last scrape", source["id"], exc, len(events))
+        ci_warning(f"Source failed: {source['id']}",
+                   f"{status['error']} — reusing {len(events)} events from last scrape")
     path = raw_path(raw_dir, source["id"])
     path.parent.mkdir(parents=True, exist_ok=True)
     scraped_at = old["scraped_at"] if old and status["status"] == "failed" else \

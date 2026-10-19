@@ -14,6 +14,7 @@ from . import (  # noqa: F401
     rheinpfalz_schwabing,
     swinginmunich,
     ticketmaster,
+    tollwood,
     unterfahrt,
     village,
     vintage_club,

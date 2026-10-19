@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:59:35+00:00",
+  "generated_at": "2026-10-19T16:15:46+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -3069,6 +3069,87 @@
       "id": "3330568fcd36"
     },
     {
+      "title": "Edwin Kimmler",
+      "type": "concert",
+      "start": "2026-11-24T16:30",
+      "end": "2026-11-24T18:00",
+      "url": "https://www.tollwood.de/veranstaltungen/2026/edwin-kimmler/",
+      "venue": "Tollwood – Hexenkessel",
+      "address": "Theresienwiese, 80336 München",
+      "description": "Blues, Soul, Boogie, Swing & Calypso Er musiziert nicht nur mit verschiedenen Instrumenten, sondern auch Musikrichtungen. Edwin Kimmler ist mal mit dem Piano, mal mit der Gitarre oder der Mundharmonika zu sehen. Mal spielt er Blues, mal Soul, Boogie Woogie oder Swing. Seine erfahrene Stimme steht gleichberechtig neben seinen Instrumenten. Seit 1978 ist Edwin Kimmler europaweit mit seiner Musik unterwegs und ist mi t viel Spielfreude und Bühnenpower dabei. Neben seinen Klassikern hat er auch viele neue Stücke erstmals mit dabei. Der Musiker stellt auf Tollwood sein neues Album „Pearls“ vor.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues, Soul, Boogie, Swing & Calypso"
+      ],
+      "source_id": "tollwood",
+      "source_name": "Tollwood",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Edwin Kimmler",
+          "url": "https://www.last.fm/music/Edwin+Kimmler"
+        }
+      ],
+      "known_artists": [],
+      "id": "9199cb9d9603"
+    },
+    {
+      "title": "Black Patti",
+      "type": "concert",
+      "start": "2026-11-25T16:30",
+      "end": "2026-11-25T18:00",
+      "url": "https://www.tollwood.de/veranstaltungen/2026/black-patti-2/",
+      "venue": "Tollwood – Hexenkessel",
+      "address": "Theresienwiese, 80336 München",
+      "description": "American Blues & Roots-Music Das Blues- und Roots-Duo, bestehend aus Peter Crow C. (Gitarre/Gesang) und Ferdinand „Jelly Roll“ Kraemer (Gitarre/Gesang/Mandoline), erzählt seit über zehn Jahren mit ihrem zweistimmigen Gesang Geschichten, die das Leben schreibt. Inspiriert sind die beiden von den ländlichen Musikstilen der USA. Dabei reicht ihr breites Repertoire von Delta Blues und Ragtime bis hin zu beseelten Spirituals.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "American Blues & Roots-Music"
+      ],
+      "source_id": "tollwood",
+      "source_name": "Tollwood",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Black Patti",
+          "url": "https://www.last.fm/music/Black+Patti"
+        }
+      ],
+      "known_artists": [],
+      "id": "0a7033e7e1da"
+    },
+    {
+      "title": "Dr. Will & The Wizards",
+      "type": "concert",
+      "start": "2026-11-25T19:30",
+      "end": "2026-11-25T22:00",
+      "url": "https://www.tollwood.de/veranstaltungen/2026/dr-will-the-wizards-2/",
+      "venue": "Tollwood – Hexenkessel",
+      "address": "Theresienwiese, 80336 München",
+      "description": "Voodoo Blues Seit über 20 Jahren bespielt dieser „Wahnsinn auf acht Beinen“ Bühnen in ganz Europa. Das Quartett um Dr. Will, den „schrägsten Bunt-Vogel“ der europäischen Blues Szene, mixt zur Feier im Andechser Zelt seinen Zaubertrank aus Blues mit New Orleans-Feeling, Rootsmusic, Rock und einer kräftigen Portion Humor. Aufgepasst, dieser Trank entfacht seine Wirkung augenblicklich! Die höllisch gute Band, in der alle einen kleinen „Hackenschuss“ haben, bietet einen schrägen Auftritt und macht Spaß.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Voodoo Blues"
+      ],
+      "source_id": "tollwood",
+      "source_name": "Tollwood",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Dr. Will & The Wizards",
+          "url": "https://www.last.fm/music/Dr.+Will+%26+The+Wizards"
+        }
+      ],
+      "known_artists": [],
+      "id": "45f22a65cf01"
+    },
+    {
       "title": "The Official Blues Brothers Revue",
       "type": "concert",
       "start": "2026-11-25T20:00",
@@ -3148,6 +3229,28 @@
       ],
       "known_artists": [],
       "id": "c1147d2ff7a1"
+    },
+    {
+      "title": "Heels & Bones",
+      "type": "concert",
+      "start": "2026-11-27T19:30",
+      "end": "2026-11-27T22:00",
+      "url": "https://www.tollwood.de/veranstaltungen/2026/heels-bones-2/",
+      "venue": "Tollwood – Hexenkessel",
+      "address": "Theresienwiese, 80336 München",
+      "description": "Rock, Indie & Blues Eine musikalische Zeitreise durch die vergangenen 50 Jahre Rock ’n’ `Roll bietet die Band Heels & Bones. Sie ist jedoch keine gewöhnliche Cover-Band, denn sie interpretiert viele Songs mit ihren eigenen Noten und ihrer tollen Liveperformance.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Rock, Indie & Blues"
+      ],
+      "source_id": "tollwood",
+      "source_name": "Tollwood",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "498f6365f37d"
     },
     {
       "title": "Jakarta Blues Band",
@@ -3406,6 +3509,33 @@
       "id": "852d5a086710"
     },
     {
+      "title": "Kozmic Blue",
+      "type": "concert",
+      "start": "2026-12-09T19:30",
+      "end": "2026-12-09T22:00",
+      "url": "https://www.tollwood.de/veranstaltungen/2026/kozmic-blue/",
+      "venue": "Tollwood – Hexenkessel",
+      "address": "Theresienwiese, 80336 München",
+      "description": "Kosmischer Blues & Rock",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Kosmischer Blues & Rock"
+      ],
+      "source_id": "tollwood",
+      "source_name": "Tollwood",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Kozmic Blue",
+          "url": "https://www.last.fm/music/Kozmic+Blue"
+        }
+      ],
+      "known_artists": [],
+      "id": "b8a763b93f9f"
+    },
+    {
       "title": "Baby Kreuzberg",
       "type": "concert",
       "start": "2026-12-09T20:30",
@@ -3486,6 +3616,28 @@
       "id": "c95393ea1ae8"
     },
     {
+      "title": "Boogiemen’s Friends",
+      "type": "concert",
+      "start": "2026-12-12T16:00",
+      "end": "2026-12-12T18:00",
+      "url": "https://www.tollwood.de/veranstaltungen/2026/boogiemens-friends/",
+      "venue": "Tollwood – Hexenkessel",
+      "address": "Theresienwiese, 80336 München",
+      "description": "Boogie Woogie & Blues der 20er & 30er Jahre",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Boogie Woogie & Blues der 20er & 30er Jahre"
+      ],
+      "source_id": "tollwood",
+      "source_name": "Tollwood",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "94ec8e22c740"
+    },
+    {
       "title": "Starnberg Bluesrock",
       "type": "concert",
       "start": "2026-12-12T20:15",
@@ -3551,6 +3703,33 @@
       "artists": [],
       "known_artists": [],
       "id": "64fcbc3ac2b0"
+    },
+    {
+      "title": "Muddy What?",
+      "type": "concert",
+      "start": "2026-12-22T19:30",
+      "end": "2026-12-22T22:00",
+      "url": "https://www.tollwood.de/veranstaltungen/2026/muddy-what-3/",
+      "venue": "Tollwood – Hexenkessel",
+      "address": "Theresienwiese, 80336 München",
+      "description": "New Blues",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "New Blues"
+      ],
+      "source_id": "tollwood",
+      "source_name": "Tollwood",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Muddy What",
+          "url": "https://www.last.fm/music/Muddy+What"
+        }
+      ],
+      "known_artists": [],
+      "id": "5e5edfb8d418"
     },
     {
       "title": "AL JONES BLUES BAND",
@@ -4658,6 +4837,15 @@
       "status": "ok",
       "found": 49,
       "kept": 25
+    },
+    {
+      "id": "tollwood",
+      "name": "Tollwood",
+      "url": "https://www.tollwood.de/",
+      "kind": "venue",
+      "status": "ok",
+      "found": 64,
+      "kept": 7
     },
     {
       "id": "swinginmunich",

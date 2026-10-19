@@ -13,7 +13,7 @@
 #                          glockenbachwerkstatt, misterbs, swinginmunich, ticketmaster,
 #                          inmuenchen,
 #                          oksanapavlova, rheinpfalz_schwabing, gansamwasser,
-#                          village, hepcat
+#                          village, hepcat, tollwood
 #   enabled       false to keep an entry without scraping it
 #   default_type  class | workshop | social | concert (when not inferable)
 #   filter        blues        keep events mentioning blues (title/description/tags)
@@ -139,6 +139,15 @@ sources:
     enabled: true
     default_type: concert
     filter: blues          # blues club near Murnau (~60 km out); also rock, funk, reggae nights and a monthly open session
+
+  - id: tollwood
+    name: Tollwood
+    kind: venue
+    url: https://www.tollwood.de/
+    adapter: tollwood      # season calendar from the home page; its calendar is empty between festivals
+    enabled: true
+    default_type: concert
+    filter: blues_title    # festival: free Hexenkessel bands of every genre; the billed genre is a tag
 
   # --- Aggregators ---------------------------------------------------------
   - id: swinginmunich

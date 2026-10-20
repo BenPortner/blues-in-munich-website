@@ -1,14 +1,80 @@
 {
- "scraped_at": "2026-10-19T09:15:01+00:00",
+ "scraped_at": "2026-10-20T08:53:52+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 164
+  "found": 167
  },
  "events": [
+  {
+   "title": "Das „frühe“ Frauenfest",
+   "type": "concert",
+   "start": "2026-12-04T18:00",
+   "end": "2026-12-04T23:00",
+   "url": "https://www.in-muenchen.de/events/das-fruhe-frauenfest-mint-club.html",
+   "venue": "Mint Club",
+   "address": "Leopoldstraße 25, 80802 München",
+   "description": "In entspannter Atmosphäre direkt am U-Bahn-Halt Giselastraße laden DJane Eléni und DJ Blues zum „frühen“ Frauenfest ein. Von 18 bis 23 Uhr stehen Abschalten, Tanzen und Genießen im Vordergrund. Das Motto „come together – talk & dance“ fördert den persönlichen Austausch in einer Zeit, die oft von virtuellen Begegnungen bestimmt wird.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Elektronische Musik"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Sandra Chatterjee: # Rights to Rites – Songs of Memory and Resistance",
+   "type": "concert",
+   "start": "2026-11-14T20:00",
+   "end": "2026-11-14T22:00",
+   "url": "https://www.in-muenchen.de/events/sandra-chatterjee-rights-to-rites-songs-of-memory-and-resistance.html",
+   "venue": "Einstein Kultur",
+   "address": "Einsteinstraße 42, 81675 München",
+   "description": "Musik, Tanz, Sprache und Duft werden zum Erinnerungsraum: ein Abend über Migration, Kolonialismus und Widerstand.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Tanz / Performance"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Swing Manouche: Sébastien Giniaux & Joris Visquenel // Aurore Voilqué Trio",
+   "type": "concert",
+   "start": "2026-10-21T20:00",
+   "end": "2026-10-21T22:30",
+   "url": "https://www.in-muenchen.de/events/swing-manouche-sebastien-giniaux-joris-visquenel-aurore-voilque-trio.html",
+   "venue": "Einstein Kultur",
+   "address": "Einsteinstraße 42, 81675 München",
+   "description": "Ein Doppelabend mit französischem Gypsy Swing: zwei Gitarristen im Duo, danach die Geigerin und Sängerin Aurore Voilqué mit Trio.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Swing Manouche"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
   {
    "title": "AllachArt: Allacher Kunst und Performance",
    "type": "concert",
@@ -373,7 +439,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Blues-Rock"
+    "Blues, Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -989,7 +1055,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Blues-Rock"
+    "Blues, Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -1011,7 +1077,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Blues-Rock"
+    "Blues, Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -2252,28 +2318,6 @@
    "id": ""
   },
   {
-   "title": "Black Patti",
-   "type": "concert",
-   "start": "2026-10-19T19:30",
-   "end": "2026-10-19T22:30",
-   "url": "https://www.in-muenchen.de/events/black-patti.html",
-   "venue": "Vereinsheim",
-   "address": "Occamstraße 8, 80802 München",
-   "description": "Black Patti präsentiert ein facettenreiches Programm ländlicher Blues- und Roots-Musik. Das Duo Peter Crow C. und Ferdinand „Jelly Roll“ Kraemer entführt das Publikum mit Songs zwischen Delta Blues, Ragtime und Spirituals in eine vergangene Zeit. Ihre Musik, zweistimmig und handgemacht, erzählt authentische Lebensgeschichten.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Blues"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Merry Jazzmas! Swingende Weihnachtsmusik",
    "type": "concert",
    "start": "2026-12-19T17:00",
@@ -2437,7 +2481,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Blues-Rock"
+    "Blues, Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -2503,7 +2547,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Blues-Rock"
+    "Blues, Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -2921,7 +2965,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Blues-Rock"
+    "Blues, Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -3009,7 +3053,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Blues-Rock"
+    "Blues, Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -3207,7 +3251,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Blues-Rock"
+    "Blues, Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -3582,6 +3626,28 @@
    "dates": [],
    "tags": [
     "Jazz"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Midnightbazar Nachtflohmarkt",
+   "type": "concert",
+   "start": "2026-10-23T17:00",
+   "end": "2026-10-23T23:00",
+   "url": "https://www.in-muenchen.de/events/midnightbazar-nachtflohmarkt.html",
+   "venue": "Alte Paketposthalle – Pineapple Park",
+   "address": "Arnulfstraße 195, 80634 München",
+   "description": "Großflächiger Event-Flohmarkt im Pineapple Park mit Clubkultur, Drinks, internationalem Streetfood & Live-Musik (Samstag mit Ticket) – für Nachteulen, Musikfans, Schnäppchenjäger*innen. (Freitag Eintritt frei)",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Nachtflohmarkt"
    ],
    "source_id": "",
    "source_name": "",

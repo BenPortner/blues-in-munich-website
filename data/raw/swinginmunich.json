@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-10-19T09:14:49+00:00",
+ "scraped_at": "2026-10-20T08:53:39+00:00",
  "status": {
   "id": "swinginmunich",
   "name": "SwinginMunich.de",
   "url": "https://www.swinginmunich.de/en",
   "kind": "aggregator",
   "status": "ok",
-  "found": 37
+  "found": 51
  },
  "events": [
   {
@@ -692,6 +692,28 @@
    "id": ""
   },
   {
+   "title": "Maratonga . Balboa/Shag Night",
+   "type": "social",
+   "start": "2026-12-24T20:00",
+   "end": null,
+   "url": "http://www.maratonga.de",
+   "venue": "Maratonga",
+   "address": "Innere Wiener Straße 19, 81667 München",
+   "description": "Balboa & Shag im Maratonga! Im UG des Hofbräukellers . U4/U5 Max-Weber-Platz 20-23 Uhr",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Social Dance / DJ"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "Fifties Record Hop",
    "type": "social",
    "start": "2026-12-27T19:15",
@@ -758,6 +780,28 @@
    "id": ""
   },
   {
+   "title": "Maratonga . Balboa/Shag Night",
+   "type": "social",
+   "start": "2027-01-21T20:00",
+   "end": null,
+   "url": "http://www.maratonga.de",
+   "venue": "Maratonga",
+   "address": "Innere Wiener Straße 19, 81667 München",
+   "description": "Balboa & Shag im Maratonga! Im UG des Hofbräukellers . U4/U5 Max-Weber-Platz 20-23 Uhr",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Social Dance / DJ"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "New Years Swing beim Höhensteiger",
    "type": "social",
    "start": "2027-01-24T15:00",
@@ -770,6 +814,28 @@
    "dates": [],
    "tags": [
     "Social Dance / Live"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Maratonga . Balboa/Shag Night",
+   "type": "social",
+   "start": "2027-02-18T20:00",
+   "end": null,
+   "url": "http://www.maratonga.de",
+   "venue": "Maratonga",
+   "address": "Innere Wiener Straße 19, 81667 München",
+   "description": "Balboa & Shag im Maratonga! Im UG des Hofbräukellers . U4/U5 Max-Weber-Platz 20-23 Uhr",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Social Dance / DJ"
    ],
    "source_id": "",
    "source_name": "",
@@ -814,6 +880,248 @@
    "dates": [],
    "tags": [
     "Social Dance / Live"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Maratonga . Balboa/Shag Night",
+   "type": "social",
+   "start": "2027-03-18T20:00",
+   "end": null,
+   "url": "http://www.maratonga.de",
+   "venue": "Maratonga",
+   "address": "Innere Wiener Straße 19, 81667 München",
+   "description": "Balboa & Shag im Maratonga! Im UG des Hofbräukellers . U4/U5 Max-Weber-Platz 20-23 Uhr",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Social Dance / DJ"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Maratonga . Balboa/Shag Night",
+   "type": "social",
+   "start": "2027-04-15T20:00",
+   "end": null,
+   "url": "http://www.maratonga.de",
+   "venue": "Maratonga",
+   "address": "Innere Wiener Straße 19, 81667 München",
+   "description": "Balboa & Shag im Maratonga! Im UG des Hofbräukellers . U4/U5 Max-Weber-Platz 20-23 Uhr",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Social Dance / DJ"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Maratonga . Balboa/Shag Night",
+   "type": "social",
+   "start": "2027-05-13T20:00",
+   "end": null,
+   "url": "http://www.maratonga.de",
+   "venue": "Maratonga",
+   "address": "Innere Wiener Straße 19, 81667 München",
+   "description": "Balboa & Shag im Maratonga! Im UG des Hofbräukellers . U4/U5 Max-Weber-Platz 20-23 Uhr",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Social Dance / DJ"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Maratonga . Balboa/Shag Night",
+   "type": "social",
+   "start": "2027-06-10T20:00",
+   "end": null,
+   "url": "http://www.maratonga.de",
+   "venue": "Maratonga",
+   "address": "Innere Wiener Straße 19, 81667 München",
+   "description": "Balboa & Shag im Maratonga! Im UG des Hofbräukellers . U4/U5 Max-Weber-Platz 20-23 Uhr",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Social Dance / DJ"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Maratonga . Balboa/Shag Night",
+   "type": "social",
+   "start": "2027-07-08T20:00",
+   "end": null,
+   "url": "http://www.maratonga.de",
+   "venue": "Maratonga",
+   "address": "Innere Wiener Straße 19, 81667 München",
+   "description": "Balboa & Shag im Maratonga! Im UG des Hofbräukellers . U4/U5 Max-Weber-Platz 20-23 Uhr",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Social Dance / DJ"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Maratonga . Balboa/Shag Night",
+   "type": "social",
+   "start": "2027-08-05T20:00",
+   "end": null,
+   "url": "http://www.maratonga.de",
+   "venue": "Maratonga",
+   "address": "Innere Wiener Straße 19, 81667 München",
+   "description": "Balboa & Shag im Maratonga! Im UG des Hofbräukellers . U4/U5 Max-Weber-Platz 20-23 Uhr",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Social Dance / DJ"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Maratonga . Balboa/Shag Night",
+   "type": "social",
+   "start": "2027-09-02T20:00",
+   "end": null,
+   "url": "http://www.maratonga.de",
+   "venue": "Maratonga",
+   "address": "Innere Wiener Straße 19, 81667 München",
+   "description": "Balboa & Shag im Maratonga! Im UG des Hofbräukellers . U4/U5 Max-Weber-Platz 20-23 Uhr",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Social Dance / DJ"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Maratonga . Balboa/Shag Night",
+   "type": "social",
+   "start": "2027-09-30T20:00",
+   "end": null,
+   "url": "http://www.maratonga.de",
+   "venue": "Maratonga",
+   "address": "Innere Wiener Straße 19, 81667 München",
+   "description": "Balboa & Shag im Maratonga! Im UG des Hofbräukellers . U4/U5 Max-Weber-Platz 20-23 Uhr",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Social Dance / DJ"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Maratonga . Balboa/Shag Night",
+   "type": "social",
+   "start": "2027-10-28T20:00",
+   "end": null,
+   "url": "http://www.maratonga.de",
+   "venue": "Maratonga",
+   "address": "Innere Wiener Straße 19, 81667 München",
+   "description": "Balboa & Shag im Maratonga! Im UG des Hofbräukellers . U4/U5 Max-Weber-Platz 20-23 Uhr",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Social Dance / DJ"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Maratonga . Balboa/Shag Night",
+   "type": "social",
+   "start": "2027-11-25T20:00",
+   "end": null,
+   "url": "http://www.maratonga.de",
+   "venue": "Maratonga",
+   "address": "Innere Wiener Straße 19, 81667 München",
+   "description": "Balboa & Shag im Maratonga! Im UG des Hofbräukellers . U4/U5 Max-Weber-Platz 20-23 Uhr",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Social Dance / DJ"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Maratonga . Balboa/Shag Night",
+   "type": "social",
+   "start": "2027-12-23T20:00",
+   "end": null,
+   "url": "http://www.maratonga.de",
+   "venue": "Maratonga",
+   "address": "Innere Wiener Straße 19, 81667 München",
+   "description": "Balboa & Shag im Maratonga! Im UG des Hofbräukellers . U4/U5 Max-Weber-Platz 20-23 Uhr",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Social Dance / DJ"
    ],
    "source_id": "",
    "source_name": "",

@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-10-19T09:09:19+00:00",
+ "scraped_at": "2026-10-20T08:44:11+00:00",
  "status": {
   "id": "rheinpfalz-schwabing",
   "name": "Rheinpfalz Schwabing",
   "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
   "kind": "venue",
   "status": "ok",
-  "found": 16
+  "found": 17
  },
  "events": [
   {
@@ -157,7 +157,7 @@
    "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
    "venue": "Rheinpfalz Schwabing",
    "address": "Kurfürstenstraße 35, 80801 München",
-   "description": "Fabulous, original, just wonderful Fabulous, original, just wonderful Sie sind wieder bei uns: unglaublich, legendär und without limits. Sie spielen: Oldies, Rockn‘ Roll und alles, was das Herz begehrt: Wer gerne Stones, Yardbirds, Doors, Fleetwood Mac, Jethro Tull, Beatles & Co hört, ist bei den legendären Beatstones bestens aufgehoben. Es ist immer etwas Besonderes, wenn die Band in der Rheinpfalz aufspuit. Rasende Riffs und sanfte Klangteppiche legen sich über die Kneipe. Aus der Presse: „Munichs oldest Oldie-Band (…) frisch, wild und ungestüm“. „Wilder Rock und weiche Balladen: die besten Oldies, gespielt von herausragenden Musikern.“ Dirk Ziebolz: leadvoc, guitar Woff Lauter: drums, voc James Jacobs : keyboard, voc Siegi Lang: guitar Bertel: basss, voc Unbedingt früh kommen, wer einen Platz möchte. Wir erbitten für die Band einen Beitrag von 15-20 Euro! Sie san’s uns absolut wert",
+   "description": "Fabulous, original, just wonderful Sie sind wieder bei uns: unglaublich, legendär und without limits. Sie spielen: Oldies, Rockn‘ Roll und alles, was das Herz begehrt: Wer gerne Stones, Yardbirds, Doors, Fleetwood Mac, Jethro Tull, Beatles & Co hört, ist bei den legendären Beatstones bestens aufgehoben. Es ist immer etwas Besonderes, wenn die Band in der Rheinpfalz aufspuit. Rasende Riffs und sanfte Klangteppiche legen sich über die Kneipe. Tanzen erlaubt, Mitsingen sowieso… Aus der Presse: „Munichs oldest Oldie-Band (…) frisch, wild und ungestüm“. „Wilder Rock und weiche Balladen: die besten Oldies, gespielt von herausragenden Musikern.“ Dirk Ziebolz: leadvoc, guitar Woff Lauter: drums, voc James Jacobs : keyboard, voc Siegi Lang: guitar Bertel: basss, voc Unbedingt früh kommen, wer einen Platz möchte. Wir erbitten für die Band einen Beitrag von 15-20 Euro! Sie san’s uns absolut wert",
    "recurrence": null,
    "dates": [],
    "tags": [],
@@ -198,6 +198,26 @@
    "venue": "Rheinpfalz Schwabing",
    "address": "Kurfürstenstraße 35, 80801 München",
    "description": "Ali and Friends spielen eine Mixtur aus Swing, Latin, Gipsy und eigenen Stücken. Hier machen phantastische Musiker phantastische Musik. Besetzung: Heinz Lebermann – Bass Josef Köttl – Sax. Christian Linne – dr. Ali Zynda – guit. Geöffnet ab 18:00 Uhr. Bitte kommt zeitig, es gibt eine größere Fangemeinde. Wir freuen uns auf einen atmosphärischen Abend … Euer Rheinpfalz-Team (und der Hut) freuen sich schon!",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Ten Dollar Jazzband",
+   "type": "concert",
+   "start": "2026-11-27T20:00",
+   "end": null,
+   "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
+   "venue": "Rheinpfalz Schwabing",
+   "address": "Kurfürstenstraße 35, 80801 München",
+   "description": "Dixieland at its best Es wird immer ein wunderbarer Abend, wenn diese grandiose Dixieland-Band in der Rheinpfalz aufspielt. Gute Stimmung mit viel Humor garantiert. Dauerbrenner wie „All of me“, „shake that thing“ sind hervorragend gespielt, von hervorragenden Musikern. Wir freuen uns auf einen wunderbaren Abend. Die Red. Norbert Möller (tp, voc.) Markus Krämer (tr) Tino Rossmann (p) Torsten Plagenz (cl) Hannes Maxfeldt (sax) Dieter Eckermann (bj) Christoph Möhle (tb) Jochen Mayer (dr) und ganz wichtig: Helmut Hertl (banjo) spezial guest: Hannes Braun (pos) Die Besetzung kann variieren. Ein großügiger Beitrag wird die Band sicher freuen.",
    "recurrence": null,
    "dates": [],
    "tags": [],

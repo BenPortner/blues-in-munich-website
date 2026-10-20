@@ -1,58 +1,14 @@
 {
- "scraped_at": "2026-10-19T09:09:27+00:00",
+ "scraped_at": "2026-10-20T08:44:20+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 62
+  "found": 65
  },
  "events": [
-  {
-   "title": "HARMEN FRAANJE",
-   "type": "concert",
-   "start": "2026-10-19T19:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=14758",
-   "venue": "Einstein Kultur",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Dieses Konzert der Reihe Einsteins Piano findet im Einstein statt. Das Internet-Portal AllAboutJazz hat den Niederländer Harmen Fraanje mal zu den eindrucksvollsten jungen europäischen Pianisten der letzten Dekade gezählt. Warum wohl? Vielleicht, weil dieser Virtuose so wandelbar ist, stets über den Horizont hinaus denkt und ständig auf der Suche nach neuen Inspirationsquellen und Ausdrucksmitteln ist. Die Vielseitigkeit des grundneugierigen Harmen Fraanje sollte aber niemand mit Beliebigkeit verwechseln. Die Klangwelt dieses Klavierspielers ist so bunt wie homogen.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Einstein Kultur"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "DUSKO GOYKOVICH BIG BAND",
-   "type": "concert",
-   "start": "2026-10-19T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11669",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Die Jazzstadt München verdankt ihren guten Ruf auch einem Mann, der lange in ihr lebte und wirkte: dem Trompeter und Bandleader Dusko Goykovich. Bereits 1968 gründete er das Dusko Goykovich Munich Jazz Orchestra, das über seinen Tod (2023) hinaus aktiv bleibt und Mingas ältestes Big Band-Unternehmen ist. Das aktuelle Programm From Rio to Belgrade stützt sich auf Klassiker Goykovichs, aber auch auf seine letzte Schaffensphase.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Bigband Night"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "BARENCIA",
    "type": "concert",
@@ -555,6 +511,26 @@
    "id": ""
   },
   {
+   "title": "ALEXANDER RUESS TRIO",
+   "type": "concert",
+   "start": "2026-11-10T20:30",
+   "end": null,
+   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11691",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstraße 42, 81675 München",
+   "description": "Debut prangt ganz lapidar auf dem Erstlingswerk des Gitarristen Alexander Rueß, das kürzlich in der Reihe Jazz thing Next Generation erschien. Doch die dazugehörige Musik ist weit fantasievoller als ihr Titel. Rueß versteht es, binnen weniger Takte Spannung aufzubauen und nutzt zur musikalischen Ausgestaltung eine Vielzahl an Sounds und stilistischen Mitteln. Mal tönt seine von der Ikone Frank Möbus produzierte Musik nach Americana, mal so, als sei sie in den einsamen Landschaften des hohen Nordens entstanden. Fans von Gitarristen wie Bill Frisell oder Julian Lage kommen mit der Ästhetik des Alexander Rueß voll auf ihre Kosten.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "BOBBY SPARKS II",
    "type": "concert",
    "start": "2026-11-11T20:30",
@@ -664,7 +640,7 @@
    "url": "https://www.unterfahrt.de/programm-detail.php?dateID=14382",
    "venue": "Einstein Kultur",
    "address": "Einsteinstraße 42, 81675 München",
-   "description": "Dieses Konzert der Reihe Einsteins Piano findet in der Halle 4 des Einstein statt. Kürzlich erst haben Jazz-Kritiker aus aller Herren Länder für das amerikanische Magazin Down Beat die Besten der Besten in ihren Kategorien gewählt. Wie schon so oft schaffte es Gerald Clayton bei dieser Kritiker-Umfrage in der Sparte Piano unter die Top Twenty – sein Name liest sich Seit an Seit mit vielen Klavierlegenden. Diese Position hat er sich redlich verdient, mit einem Spiel, in dem Herz und Verstand im ständigen Austausch sind, mit Musik, die Charakter hat und das Zeug, die Gegenwart weit zu überdauern.",
+   "description": "Sold out. Dieses Konzert der Reihe Einsteins Piano findet in der Halle 4 des Einstein statt. Kürzlich erst haben Jazz-Kritiker aus aller Herren Länder für das amerikanische Magazin Down Beat die Besten der Besten in ihren Kategorien gewählt. Wie schon so oft schaffte es Gerald Clayton bei dieser Kritiker-Umfrage in der Sparte Piano unter die Top Twenty – sein Name liest sich Seit an Seit mit vielen Klavierlegenden. Diese Position hat er sich redlich verdient, mit einem Spiel, in dem Herz und Verstand im ständigen Austausch sind, mit Musik, die Charakter hat und das Zeug, die Gegenwart weit zu überdauern.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -907,6 +883,26 @@
    "id": ""
   },
   {
+   "title": "JAM SESSION",
+   "type": "concert",
+   "start": "2026-11-29T20:30",
+   "end": null,
+   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11710",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstraße 42, 81675 München",
+   "description": "Die gerade frisch mit dem BMW Young Artist Jazz Award ausgezeichnete Kontrabassistin Ida Koch studiert an der Hochschule für Musik und Theater bei Henning Sieverts. Als fester Bestandteil der Jungen Münchner Jazz Szene sieht man sie in den verschiedensten Formationen; unter anderem im Trio des Gitarristen Elias Prinz, an der Seite von Pianist Pablo Struff oder mit ihrem kürzlich eigens gegründeten Quartett. Bei unseren Jam Sessions im November wird sie von dieser Vielseitigkeit eine Kostprobe geben. Jeden Sonntag mit einer anderen Besetzung, von Bebop über Django Reinhardt bis zu lyrischem Vocal Jazz und modernen Eigenkompositiotnen - und auf jeden Fall immer mit Groove!",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "MUNICH COMPOSERS COLLECTIVE",
    "type": "concert",
    "start": "2026-11-30T20:30",
@@ -1057,6 +1053,28 @@
    "id": ""
   },
   {
+   "title": "THE MUNICH LAB BAND",
+   "type": "concert",
+   "start": "2026-12-14T20:30",
+   "end": null,
+   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11725",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstraße 42, 81675 München",
+   "description": "Wenn kraftvolle Bigband-Sounds auf filigrane Klangwelten treffen, entsteht der unverwechselbare Sound der Munich Lab Band. Unter der Leitung der Komponisten und Bandleader Felix Ecke und Vincent Eberle verbindet das Ensemble modernen Jazz mit Einflüssen aus der klassischen Musik und erschafft einen spannenden Klangkosmos voller Energie und musikalischer Freiheit.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Bigband Night"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "TINEKE POSTMA GROUP FEAT. THEO BLECKMANN",
    "type": "concert",
    "start": "2026-12-15T20:30",
@@ -1125,6 +1143,26 @@
    "venue": "Jazzclub Unterfahrt",
    "address": "Einsteinstraße 42, 81675 München",
    "description": "Da steckt drin was drüber steht: Pianist Claus Raible präsentiert in Quintett-Besetzung sein heftig swingendes, in der Unterfahrt für die Ewigkeit dokumentiertes Programm Groove, Grooved, Groovin` - eine Sammlung von Nummern aus dem Bebop-Idiom, die Raible und seine vier Freunde dem Publikum mit Inbrunst, ja fast Besessenheit, mit Traditionsbewusstsein wie modernistischem Flair anbieten.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "LISA WAHLANDT",
+   "type": "concert",
+   "start": "2026-12-19T20:30",
+   "end": null,
+   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11730",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstraße 42, 81675 München",
+   "description": "Es hat sich bewährt, dass uns die Sängerin Lisa Wahlandt auf das bevorstehende Fest der Liebe einstimmt. Vier Tage vor Heilig Abend versüßt uns Lisa das Warten aufs Christkind mit Weihnachtsliedern, Christmas Songs und solchen, die es werden sollen. In ihrem herzerwärmenden, aber auch von manchem Zwinkern durchsetzten, Programm finden sich Cindy Laupers magisch-verträumtes Lied December Child und eine himmlische Zimtstern-Variante von AC/DCs Highway to Hell.",
    "recurrence": null,
    "dates": [],
    "tags": [],
@@ -1210,6 +1248,28 @@
    "recurrence": null,
    "dates": [],
    "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "MUNICH UPTOWN JAZZ ORCHESTRA",
+   "type": "concert",
+   "start": "2027-01-04T20:30",
+   "end": null,
+   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11016",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstraße 42, 81675 München",
+   "description": "Das vom Trompeter Franz Weyerer geleitete Munich Uptown Jazz Orchestra orientiert sich musikalisch an der stolzen Big-Band-Geschichte, am Sound der klassischen Jazzorchester, wie sie etwa von Duke Ellington oder Thad Jones, aber auch von Kenny Clark und Francy Boland geleitet wurden. Weyerer setzt auf forschen unwiderstehlichen Swing, auf die Wirkung des großen Klangkörpers und den kreativen Input seiner handverlesenen Solisten, die allesamt zu den bekanntesten Spielern der Münchner Jazz-Szene gehören.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Bigband Night"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,

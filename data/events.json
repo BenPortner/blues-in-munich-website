@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T16:15:46+00:00",
+  "generated_at": "2026-10-20T08:53:52+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -1991,7 +1991,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues-Rock"
+        "Blues, Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -2045,7 +2045,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues-Rock"
+        "Blues, Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -2555,7 +2555,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues-Rock"
+        "Blues, Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -3694,7 +3694,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues-Rock"
+        "Blues, Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -3788,7 +3788,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues-Rock"
+        "Blues, Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -4056,7 +4056,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues-Rock"
+        "Blues, Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -4567,7 +4567,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues-Rock"
+        "Blues, Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -4646,7 +4646,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues-Rock"
+        "Blues, Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -4790,7 +4790,7 @@
       "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "kind": "venue",
       "status": "ok",
-      "found": 16,
+      "found": 17,
       "kept": 7
     },
     {
@@ -4808,7 +4808,7 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 62,
+      "found": 65,
       "kept": 1
     },
     {
@@ -4853,7 +4853,7 @@
       "url": "https://www.swinginmunich.de/en",
       "kind": "aggregator",
       "status": "ok",
-      "found": 37,
+      "found": 51,
       "kept": 2
     },
     {
@@ -4862,7 +4862,7 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 164,
+      "found": 167,
       "kept": 53
     },
     {

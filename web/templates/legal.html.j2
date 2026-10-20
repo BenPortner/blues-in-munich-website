@@ -14,7 +14,7 @@
     {% if page == "impressum" %}
     <h1>Impressum <span lang="en">/ Legal notice</span></h1>
     <h2>Angaben gemäß § 5 DDG</h2>
-    <p>bluesinmunich — {{ legal.name }}<br>{{ legal.address | join("<br>"|safe) }}</p>
+    <p>Blues in Munich — {{ legal.name }}<br>{{ legal.address | join("<br>"|safe) }}</p>
     <h2>Kontakt</h2>
     <p>E-Mail: {{ legal.email | obfuscate }}<br>
       Zweiter Kontaktweg: <a href="{{ legal.second_contact }}" rel="noopener">{{ legal.second_contact }}</a></p>
@@ -30,7 +30,7 @@
     {% else %}
     <h1>Datenschutzerklärung <span lang="en">/ Privacy policy</span></h1>
     <h2>1. Verantwortlicher</h2>
-    <p>{{ legal.name }}, {{ legal.address | join(", ") }}, E-Mail: {{ legal.email | obfuscate }} (siehe auch <a href="impressum.html">Impressum</a>).</p>
+    <p>Blues in Munich — {{ legal.name }}, {{ legal.address | join(", ") }}, E-Mail: {{ legal.email | obfuscate }} (siehe auch <a href="impressum.html">Impressum</a>).</p>
     <h2>2. Kurzfassung</h2>
     <p>Diese Seite setzt keine Cookies, verwendet keine Analyse- oder Tracking-Dienste und hat keine Formulare. Wir speichern keine personenbezogenen Daten über dich.</p>
     <h2>3. Hosting (GitHub Pages)</h2>

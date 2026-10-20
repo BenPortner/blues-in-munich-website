@@ -27,7 +27,7 @@ SITE_HOST = "www.bluesinmunich.de"  # must match the CNAME written by .github/wo
 
 # Operator details for the legal pages, stored reversed so they don't sit in the source as plain text
 LEGAL = {
-    "name": "rentroP .W nimajneB"[::-1],
+    "name": "rentroP nimajneB"[::-1],
     "email": "ed.rentrop-nimajneb@hcinumniseulb"[::-1],
     # Impressum address service (online-impressum.de), not a home address
     "address": ["c/o Online-Impressum 12075", "Europaring 90", "53757 Sankt Augustin"],

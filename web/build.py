@@ -163,6 +163,7 @@ def view_model(data: dict, today: date, highlights: Highlights) -> dict:
         "past_months": group_months(past_cards, today),
         "past_total": len(past_cards),
         "calendar_json": calendar_json,
+        "site_url": f"https://{SITE_HOST}/",
         # webcal:// makes calendar apps subscribe (and keep polling) instead of importing a one-off copy
         "webcal_url": f"webcal://{SITE_HOST}/events.ics",
         # Android has no webcal:// handler and the Google Calendar app can't subscribe; its website can

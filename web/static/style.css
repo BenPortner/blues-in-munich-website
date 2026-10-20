@@ -79,6 +79,7 @@ h1 {
   letter-spacing: -.01em;
   line-height: 1.05;
 }
+h1 a { color: inherit; text-decoration: none; }
 .lede { max-width: 34em; margin: 14px 0 22px; color: var(--hero-muted); font-size: 18px; }
 .actions { display: flex; flex-wrap: wrap; gap: 10px; margin: 0; }
 .button {

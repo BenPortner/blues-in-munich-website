@@ -26,7 +26,14 @@ MUNICH = ZoneInfo("Europe/Berlin")
 SITE_HOST = "www.bluesinmunich.de"  # must match the CNAME written by .github/workflows/daily.yml
 
 # Operator details for the legal pages, stored reversed so they don't sit in the source as plain text
-LEGAL = {"name": "rentroP .W nimajneB"[::-1], "email": "ed.rentrop-nimajneb@retsambew"[::-1]}
+LEGAL = {
+    "name": "rentroP .W nimajneB"[::-1],
+    "email": "ed.rentrop-nimajneb@hcinumniseulb"[::-1],
+    # Impressum address service (online-impressum.de), not a home address
+    "address": ["c/o Online-Impressum 12075", "Europaring 90", "53757 Sankt Augustin"],
+    "second_contact": "https://mein.online-impressum.de/bluesinmunich/#zweiterkontaktweg",
+    "authority": "Bayerische Landeszentrale für neue Medien",
+}
 
 TYPE_LABELS = {
     "class": "Class", "workshop": "Workshop", "social": "Social",

@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-10-20T08:43:41+00:00",
+ "scraped_at": "2026-10-21T08:44:25+00:00",
  "status": {
   "id": "vintage-club",
   "name": "Vintage Club",
   "url": "https://www.vintage-club.de/",
   "kind": "school",
   "status": "ok",
-  "found": 54
+  "found": 55
  },
  "events": [
   {
@@ -1421,6 +1421,26 @@
    "venue": "Vintage Club",
    "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
    "description": "🎟️🎉 RESTTICKETS FÜR DIE PARTYS JETZT ERHÄLTLICH! 🎉🎟️ Du möchtest beim 20. Münchner Balboa & Shag Weekend vom 23. bis 25. Oktober 2026 dabei sein, ohne Workshops zu buchen? Kein Problem! 💃🕺 Ab sofort bis einschließlich 20. Oktober könnt ihr Tickets ausschließlich für die Abendpartys erwerben – ganz ohne Workshop-Anmeldung! 🎷 Freut euch auf mitreißende Live-Musik mit der fantastischen Hot Sugar Band aus Frankreich, jede Menge Swing und unvergessliche Tanzabende! ✨ Du möchtest auch an den Workshops teilnehmen? Es gibt noch freie Plätze! Sichert euch euren Platz, bevor es zu spät ist. Wir bieten dir wieder top internationale Trainer/innen in angenehmer, familiärer Umgebung. Verpasse nicht die Gelegenheit, deine Passion für Balboa und Shag zu entdecken, deine Fähigkeiten zu erweitern und viel Spaß mit Gleichgesinnten zu haben. Lass dich inspirieren von: Natalia Rueda (COL) & Mickey Fortanasce (USA) Olga Marina (SWE) & Jacob Wigger (USA) Fancy Dougherty & Jeremy Otth (USA) Bianca Yaghoobi & Hunter Krikac (USA) Saskia Loder (GER) & Andrew Wilson (CDN) Bärbl Kaufer & Marcus Koch (GER) Fanny Bartl (GER) & Domen Bohinc (SLO) Marion Forano (FRA) & Sergej Götz (GER) Ioanna Kakoulidou & Apostolos Zormpas (GRC) Zum Üben und Abtanzen gibt es Partys mit der fantastischen Hot Sugar Band (FRA) Wir freuen uns darauf, dich in München zu begrüßen und wünschen dir ein unvergessliches Wochenende mit viel Tanzen und vielen neuen Freunden. Alle wichtigen Infos und Updates findest du hier! --------------------",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Rock That Swing Festival 2027",
+   "type": "concert",
+   "start": "2027-02-08",
+   "end": null,
+   "url": "https://www.vintage-club.de/index.aspx",
+   "venue": "Vintage Club",
+   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+   "description": "Vom 4. bis 8. Februar 2027 heißt es wieder: Willkommen in München zum 20. Rock That Swing Festival! Zum 20. Mal feiern wir gemeinsam mit Gästen aus aller Welt die faszinierende Vielfalt der Tänze und Musik der Swing- und Rock’n’Roll-Ära von den 1920er- bis zu den 1950er-Jahren . Fünf Tage voller mitreißender Tanznächte, heißer Livemusik mit 16 internationalen Bands, spektakulärer Shows, spannender Turniere, über 300 Workshops und tanzbegeisterter Menschen aus aller Welt versprechen eine einzigartige, elektrisierende Festivalatmosphäre! Tagsüber erwartet euch das Rock That Swing Dance Camp mit 74 der besten Trainer weltweit und über 300 Workshops in Lindy Hop, Boogie Woogie, Charleston, Balboa, Shag, Rockabilly Jive, Authentic Jazz, Blues, Burlesque und vielen weiteren Tänzen. Vom Anfänger bis zum Profi ist für jeden etwas dabei. Abends sorgen 16 fantastische Bands und internationale Spitzenkünstler an außergewöhnlichen Locations mitten in der Münchner Innenstadt für unvergessliche Nächte. Freut euch unter anderem auf David Hermlin and His Swing Dance Orchestra, Si Cranstoun, The Jive Aces, Les Greene & Sean McDonald und viele weitere großartige Musiker. Zu den Höhepunkten gehören wieder zwei glamouröse Ballnächte in den prachtvollen Sälen des Deutschen Theaters . Ganz besonders freuen wir uns auf die amerikanischen Swing-Legenden Sonny Allen und Barbara Billups , die das Jubiläumsfestival als Ehrengäste bereichern werden. 20 Ausgaben Rock That Swing – das wollen wir mit euch feiern! Wir freuen uns darauf, alte Freunde wiederzusehen, neue Gäste willkommen zu heißen und gemeinsam eine der größten und spektakulärsten Swing-Partys des Jahres zu erleben! Der Start der Online-Anmeldung ist für Mitte November 2026 geplant. Der genaue Termin wird in Kürze bekannt gegeben. Programm, Infos & Anmeldung: www.rockthatswing.com --------------------",
    "recurrence": null,
    "dates": [],
    "tags": [],

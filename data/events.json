@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T08:53:52+00:00",
+  "generated_at": "2026-10-21T08:54:35+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -1918,68 +1918,6 @@
       "id": "634620ee0057"
     },
     {
-      "title": "Blues Open Level",
-      "type": "class",
-      "start": "2026-09-15T20:45",
-      "end": "2026-09-15T22:15",
-      "url": "https://www.boogie-baeren.de/training",
-      "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
-      "address": "Gneisenaustraße 16, 80992 München",
-      "description": "Teachers: Denise & Marcin. Club training for members: register for the cycle (14.09.–01.11.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
-      "recurrence": "Tuesdays 20:45–22:15",
-      "dates": [
-        "2026-09-15",
-        "2026-09-22",
-        "2026-09-29",
-        "2026-10-06",
-        "2026-10-13",
-        "2026-10-20",
-        "2026-10-27"
-      ],
-      "tags": [
-        "course block"
-      ],
-      "source_id": "boogie-baeren",
-      "source_name": "Boogie-Bären München",
-      "school_name": "Boogie-Bären München",
-      "school_url": "https://www.boogie-baeren.de/",
-      "artists": [],
-      "known_artists": [],
-      "id": "a473a482e0ed"
-    },
-    {
-      "title": "Blues 2 mit Clara",
-      "type": "class",
-      "start": "2026-10-06T19:35",
-      "end": "2026-10-06T20:35",
-      "url": "https://hepcatclub.com/",
-      "venue": "Hep Cat Club",
-      "address": "Viktoriastraße 3b, 86150 Augsburg",
-      "description": "",
-      "recurrence": "Tuesdays 19:35–20:35",
-      "dates": [
-        "2026-10-06",
-        "2026-10-13",
-        "2026-10-20",
-        "2026-10-27",
-        "2026-11-03",
-        "2026-11-10",
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15"
-      ],
-      "tags": [],
-      "source_id": "hepcat-club",
-      "source_name": "Hep Cat Club",
-      "school_name": "Hep Cat Club",
-      "school_url": "https://hepcatclub.com/",
-      "artists": [],
-      "known_artists": [],
-      "id": "bee1392c97b8"
-    },
-    {
       "title": "Sari Schorr",
       "type": "concert",
       "start": "2026-10-20T20:00",
@@ -2308,6 +2246,68 @@
       ],
       "known_artists": [],
       "id": "4aa7f8bc2b87"
+    },
+    {
+      "title": "Blues Open Level",
+      "type": "class",
+      "start": "2026-09-15T20:45",
+      "end": "2026-09-15T22:15",
+      "url": "https://www.boogie-baeren.de/training",
+      "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
+      "address": "Gneisenaustraße 16, 80992 München",
+      "description": "Teachers: Denise & Marcin. Club training for members: register for the cycle (14.09.–01.11.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+      "recurrence": "Tuesdays 20:45–22:15",
+      "dates": [
+        "2026-09-15",
+        "2026-09-22",
+        "2026-09-29",
+        "2026-10-06",
+        "2026-10-13",
+        "2026-10-20",
+        "2026-10-27"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "boogie-baeren",
+      "source_name": "Boogie-Bären München",
+      "school_name": "Boogie-Bären München",
+      "school_url": "https://www.boogie-baeren.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "a473a482e0ed"
+    },
+    {
+      "title": "Blues 2 mit Clara",
+      "type": "class",
+      "start": "2026-10-06T19:35",
+      "end": "2026-10-06T20:35",
+      "url": "https://hepcatclub.com/",
+      "venue": "Hep Cat Club",
+      "address": "Viktoriastraße 3b, 86150 Augsburg",
+      "description": "",
+      "recurrence": "Tuesdays 19:35–20:35",
+      "dates": [
+        "2026-10-06",
+        "2026-10-13",
+        "2026-10-20",
+        "2026-10-27",
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15"
+      ],
+      "tags": [],
+      "source_id": "hepcat-club",
+      "source_name": "Hep Cat Club",
+      "school_name": "Hep Cat Club",
+      "school_url": "https://hepcatclub.com/",
+      "artists": [],
+      "known_artists": [],
+      "id": "bee1392c97b8"
     },
     {
       "title": "Körber Krohn Fliegauf",
@@ -4745,7 +4745,7 @@
       "url": "https://www.vintage-club.de/",
       "kind": "school",
       "status": "ok",
-      "found": 54,
+      "found": 55,
       "kept": 9
     },
     {
@@ -4772,7 +4772,7 @@
       "url": "https://hepcatclub.com/",
       "kind": "school",
       "status": "ok",
-      "found": 214,
+      "found": 221,
       "kept": 3
     },
     {
@@ -4808,7 +4808,7 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 65,
+      "found": 66,
       "kept": 1
     },
     {
@@ -4862,7 +4862,7 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 167,
+      "found": 165,
       "kept": 53
     },
     {

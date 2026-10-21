@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-10-20T08:53:52+00:00",
+ "scraped_at": "2026-10-21T08:54:35+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 167
+  "found": 165
  },
  "events": [
   {
@@ -2756,28 +2756,6 @@
    "id": ""
   },
   {
-   "title": "Nacht der Gitarren",
-   "type": "concert",
-   "start": "2026-10-20T19:00",
-   "end": "2026-10-20T22:00",
-   "url": "https://www.in-muenchen.de/events/nacht-der-gitarren.html",
-   "venue": "Kleines Theater Haar",
-   "address": "Casinostraße 6, 85540 Haar",
-   "description": "Ein Gitarrenabend mit starken Sounds und Spielfreude bringt die Tradition der legendären ‚Guitar Night‘ zurück. Im modernen Konzertformat erklingen Stücke von Gitarrenlegenden und neue Eigenkompositionen aus Jazz-Rock, Fusion und Smooth Jazz.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Gitarrenfestival"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "The Last Internationale",
    "type": "concert",
    "start": "2026-11-17T20:00",
@@ -3240,28 +3218,6 @@
    "id": ""
   },
   {
-   "title": "Sari Schorr",
-   "type": "concert",
-   "start": "2026-10-20T20:00",
-   "end": "2026-10-20T23:00",
-   "url": "https://www.in-muenchen.de/events/sari-schorr.html",
-   "venue": "Backstage Club",
-   "address": "Reitknechtstr. 6, 80639 München",
-   "description": "Sari Schorr geht im Herbst mit ihrer Running Wild European Tour auf Tournee und präsentiert ihr neues Studioalbum, das soulige und bluesige Elemente mit kraftvollen Gitarrenarrangements verbindet.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Blues, Rock"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "John Scofield Combo 75",
    "type": "concert",
    "start": "2027-03-09T20:00",
@@ -3427,7 +3383,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Jam Session"
+    "Jam-Session"
    ],
    "source_id": "",
    "source_name": "",

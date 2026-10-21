@@ -1,36 +1,14 @@
 {
- "scraped_at": "2026-10-20T08:44:20+00:00",
+ "scraped_at": "2026-10-21T08:45:03+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 65
+  "found": 66
  },
  "events": [
-  {
-   "title": "BARENCIA",
-   "type": "concert",
-   "start": "2026-10-20T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11670",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Manchmal wird aus Imaginärem Realität. Schon mal von Barencia gehört? Diese Stadt, die zwischen Barcelona und Florenz liegen soll, die gibt es nicht wirklich. Doch ein gleichnamiges Quartett mit der preisgekrönten Tänzerin Karen Lugo, dem Pianisten Xavi Torres, dem Bassisten Michelangelo Scandroglio und dem Schlagzeuger Bernardo Guerra erweckt diesen Ort mit seinen pittoresken Gassen, seiner Aura, seiner florierenden Kunstszene zum Leben. Hier ist pure Lebenslust zuhause.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Spanish Nights"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "SÉBASTIEN GINIAUX & JORIS VISQUENEL // AURORE VOILQUÉ TRIO",
    "type": "concert",
@@ -1197,6 +1175,26 @@
    "id": ""
   },
   {
+   "title": "CHRISTMAS JAM",
+   "type": "concert",
+   "start": "2026-12-24T20:30",
+   "end": null,
+   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11735",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstraße 42, 81675 München",
+   "description": "Na, das gibt ja eine schöne Bescherung: nach dem Geschenke-Einkaufs-Marathon, dem Krippenspiel und der Messe ist unsere Christmas Jam Session genau das Richtige, um abzuschalten, aber auch, um die fette Weihnachtsgans, die leergefutterten Plätzchenteller und die schief vorgetragenen Weihnachtslieder unserer Lieben zu verdauen. Zwar wird auch in der Unterfahrt das Fest der Liebe gefeiert, das dann aber ohne allzu viel Pathos und Besinnlichkeit. Mit groovigen, jazzigen und swingenden Nummern lassen wir den Heilig Abend ausklingen. Die diesjährige Session leitet der Schlagzeuger Guido May. Inspirierte Einsteiger sind willkommen. Merry Christmas everyone!",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "AL JONES BLUES BAND",
    "type": "concert",
    "start": "2026-12-26T20:30",
@@ -1291,6 +1289,28 @@
    "dates": [],
    "tags": [
     "Einstein Kultur"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "MORITZ RENNER JAZZ ORCHESTRA",
+   "type": "concert",
+   "start": "2027-01-25T20:30",
+   "end": null,
+   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11037",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstraße 42, 81675 München",
+   "description": "Nach zwei fulminanten Debüt-Konzerten letzten Sommer kommt das Moritz Renner Jazz Orchestra an diesem Abend wieder zurück. Moritz Renners Großformation lebt vom Wechselspiel zwischen Tradition und Moderne, von der Formgestaltungsfantasie ihres Bandleaders, vom großartigen Umgang mit Texturen, Strukturen und Voicings.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Bigband Night"
    ],
    "source_id": "",
    "source_name": "",

@@ -13,7 +13,7 @@
 #                          glockenbachwerkstatt, misterbs, swinginmunich, ticketmaster,
 #                          inmuenchen,
 #                          oksanapavlova, rheinpfalz_schwabing, gansamwasser,
-#                          village, hepcat, tollwood
+#                          village, hepcat, tollwood, stragula
 #   enabled       false to keep an entry without scraping it
 #   default_type  class | workshop | social | concert (when not inferable)
 #   filter        blues        keep events mentioning blues (title/description/tags)
@@ -148,6 +148,15 @@ sources:
     enabled: true
     default_type: concert
     filter: blues_title    # festival: free Hexenkessel bands of every genre; the billed genre is a tag
+
+  - id: stragula
+    name: Stragula
+    kind: venue
+    url: https://stragula.de/
+    adapter: stragula
+    enabled: true
+    default_type: concert
+    filter: blues_title    # Westend restaurant stage, Saturday gigs of every genre; band blurbs mention blues in passing
 
   # --- Aggregators ---------------------------------------------------------
   - id: swinginmunich

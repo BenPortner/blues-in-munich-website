@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T08:54:35+00:00",
+  "generated_at": "2026-10-21T22:26:14+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -1945,33 +1945,6 @@
       "id": "880d3f25696b"
     },
     {
-      "title": "Blues · alle Level",
-      "type": "class",
-      "start": "2026-10-21T18:45",
-      "end": "2026-10-21T19:45",
-      "url": "https://www.vintage-club.de/classes.aspx",
-      "venue": "Vintage Club (VC Studio 2)",
-      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
-      "description": "Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen, wesentliche Schritte und Figuren, um dich auf der Tanzfläche sicher und wohl zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkundet, die zu verschiedenen Musikstilen getanzt werden können.",
-      "recurrence": "Wednesdays 18:45–19:45",
-      "dates": [
-        "2026-10-21",
-        "2026-10-28",
-        "2026-11-04",
-        "2026-11-11"
-      ],
-      "tags": [
-        "course block"
-      ],
-      "source_id": "vintage-club",
-      "source_name": "Vintage Club",
-      "school_name": "Vintage Club",
-      "school_url": "https://www.vintage-club.de/",
-      "artists": [],
-      "known_artists": [],
-      "id": "5b0f8477edc0"
-    },
-    {
       "title": "Christian Schwarzbach & Hans Pramberger – acoustic experience",
       "type": "concert",
       "start": "2026-10-21T19:00",
@@ -2308,6 +2281,33 @@
       "artists": [],
       "known_artists": [],
       "id": "bee1392c97b8"
+    },
+    {
+      "title": "Blues · alle Level",
+      "type": "class",
+      "start": "2026-10-21T18:45",
+      "end": "2026-10-21T19:45",
+      "url": "https://www.vintage-club.de/classes.aspx",
+      "venue": "Vintage Club (VC Studio 2)",
+      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+      "description": "Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen, wesentliche Schritte und Figuren, um dich auf der Tanzfläche sicher und wohl zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkundet, die zu verschiedenen Musikstilen getanzt werden können.",
+      "recurrence": "Wednesdays 18:45–19:45",
+      "dates": [
+        "2026-10-21",
+        "2026-10-28",
+        "2026-11-04",
+        "2026-11-11"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "vintage-club",
+      "source_name": "Vintage Club",
+      "school_name": "Vintage Club",
+      "school_url": "https://www.vintage-club.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "5b0f8477edc0"
     },
     {
       "title": "Körber Krohn Fliegauf",
@@ -2699,6 +2699,35 @@
       "artists": [],
       "known_artists": [],
       "id": "eaea2bbe8bbe"
+    },
+    {
+      "title": "Anni und Hans: Blues & Jazz",
+      "type": "concert",
+      "start": "2026-11-07T20:00",
+      "end": null,
+      "url": "https://stragula.de/events.html#:~:text=Anni%20und%20Hans%3A%20Blues%20%26%20Jazz",
+      "venue": "Stragula",
+      "address": "Bergmannstr. 66, 80339 München",
+      "description": "Der immerwährende Puls von Gospel und Blues treibt Anni & Hans an. Das Duo widmet sich der weiblichen Seite des Blues – denn die afroamerikanischen Frauen hatten verdammt viel zu sagen. Doch im Showbusiness konnten sich oft nur die „Artigen“ etablieren, die die Regeln „verstanden“ hatten. Ihre Geschichten erzählen von Talent und Ausbeutung, von Trotz und Tragödien. Auch Songs von Paul Simon, Jim Croce und Bob Dylan bekommen bei den beiden eine ganz eigene Note.Dazu kommen Eigenkompositionen, auf die Ihr gespannt sein dürft. Kommt vorbei und genießt mit uns den Abend! Wir freuen uns auf Euch. A",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "stragula",
+      "source_name": "Stragula",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Anni und Hans",
+          "url": "https://www.last.fm/music/Anni+und+Hans"
+        },
+        {
+          "name": "Blues & Jazz",
+          "url": "https://www.last.fm/music/Blues+&+Jazz"
+        }
+      ],
+      "known_artists": [],
+      "id": "38e0ddab4d56"
     },
     {
       "title": "Blue Traces",
@@ -3918,6 +3947,31 @@
       "id": "c2e2efe9ac56"
     },
     {
+      "title": "Jakarta Blues Band",
+      "type": "concert",
+      "start": "2027-01-16T20:00",
+      "end": null,
+      "url": "https://stragula.de/events.html#:~:text=Jakarta%20Blues%20Band",
+      "venue": "Stragula",
+      "address": "Bergmannstr. 66, 80339 München",
+      "description": "„Musik aus einer Zeit, als die Verstärker klein waren und die Autos noch Flossen hatten“ Wenn sie spielen, herrscht beste Stimmung. Kein Wunder, denn die sechs Musiker aus dem Münchner Umland beweisen in ihren Konzerten immer wieder, dass Blues Lebensfreude pur vermittelt. Richtig gelesen! Lebensfreude - nicht Melancholie. Bei der Jakarta Blues Band wechseln stramme Shuffles, schnelle Jump-Blues-Nummern, dramatischer Slow-Blues und groovige Ausflüge in den frühen Soul einander ab. Mit diesem abwechslungsreichen Programm hat sich die Jakarta Blues Band in Bayern einen erstklassigen Ruf erspielt",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "stragula",
+      "source_name": "Stragula",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Jakarta Blues Band",
+          "url": "https://www.last.fm/music/Jakarta+Blues+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "4ed7f30c5409"
+    },
+    {
       "title": "BLUES CARAVAN",
       "type": "concert",
       "start": "2027-01-22T20:15",
@@ -4846,6 +4900,15 @@
       "status": "ok",
       "found": 64,
       "kept": 7
+    },
+    {
+      "id": "stragula",
+      "name": "Stragula",
+      "url": "https://stragula.de/",
+      "kind": "venue",
+      "status": "ok",
+      "found": 27,
+      "kept": 2
     },
     {
       "id": "swinginmunich",

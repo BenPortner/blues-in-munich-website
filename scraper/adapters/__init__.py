@@ -12,6 +12,7 @@ from . import (  # noqa: F401
     misterbs,
     oksanapavlova,
     rheinpfalz_schwabing,
+    stragula,
     swinginmunich,
     ticketmaster,
     tollwood,

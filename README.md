@@ -26,6 +26,7 @@ The scrape targets are listed in [`sources.yaml`](sources.yaml). Currently enabl
 | Café Gans am Wasser | venue | culture programme of the Westpark beer garden (monthly pages, Herbstfest, Open Stages, Winterzauber), gigs that mention blues |
 | Village Habach | venue | programme of the blues club in the Kulturtal Obermühle near Murnau, gigs that mention blues |
 | Tollwood | venue | concerts in the summer and winter festival calendars whose billed genre is blues |
+| Stragula | venue | Saturday stage programme of the Westend restaurant, gigs billed as blues |
 | SwinginMunich.de | aggregator | swing dance calendar, filtered to events that mention blues |
 | IN München | aggregator | city magazine listings whose title or genre says blues (WordPress API) |
 | Ticketmaster | aggregator | genre "Blues" within 30 km of Munich (needs a free API key) |

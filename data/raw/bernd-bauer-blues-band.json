@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-10-21T08:44:58+00:00",
+ "scraped_at": "2026-10-22T08:47:19+00:00",
  "status": {
   "id": "bernd-bauer-blues-band",
   "name": "Bernd Bauer Blues Band",
   "url": "https://berndbauerbluesband.de/",
   "kind": "band",
   "status": "ok",
-  "found": 5
+  "found": 4
  },
  "events": [
-  {
-   "title": "Stormy Wednesday",
-   "type": "concert",
-   "start": "2026-10-21T20:00",
-   "end": null,
-   "url": "https://berndbauerbluesband.de/termine/",
-   "venue": "Kulturzentrum Giesinger Bahnhof",
-   "address": "Giesinger Bahnhofplatz 1, 81539  München",
-   "description": "Akustische offene Blues Session, Eintritt frei",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Stormy Wednesday",
    "type": "concert",

@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-10-21T08:54:35+00:00",
+ "scraped_at": "2026-10-22T08:50:35+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 165
+  "found": 162
  },
  "events": [
   {
@@ -44,28 +44,6 @@
    "dates": [],
    "tags": [
     "Tanz / Performance"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Swing Manouche: Sébastien Giniaux & Joris Visquenel // Aurore Voilqué Trio",
-   "type": "concert",
-   "start": "2026-10-21T20:00",
-   "end": "2026-10-21T22:30",
-   "url": "https://www.in-muenchen.de/events/swing-manouche-sebastien-giniaux-joris-visquenel-aurore-voilque-trio.html",
-   "venue": "Einstein Kultur",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Ein Doppelabend mit französischem Gypsy Swing: zwei Gitarristen im Duo, danach die Geigerin und Sängerin Aurore Voilqué mit Trio.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Swing Manouche"
    ],
    "source_id": "",
    "source_name": "",
@@ -439,7 +417,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Blues, Rock"
+    "Blues Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -594,28 +572,6 @@
    "dates": [],
    "tags": [
     "Classic Rock"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Louis Ville",
-   "type": "concert",
-   "start": "2026-10-21T20:30",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/louis-ville.html",
-   "venue": "Glockenbachwerkstatt",
-   "address": "Blumenstraße 7, 80331 München",
-   "description": "Louis Ville präsentiert eine Reise durch melancholische Klanglandschaften. Mit sinnlicher Stimme und virtuoser Gitarre entführt er das Publikum in sein sensibles Universum. Seine Musik, eine Mischung aus glühender Dunkelheit und fleischlicher Poesie, lädt zu einer phantasmagorischen Erkundung ein.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Singer-Songwriter"
    ],
    "source_id": "",
    "source_name": "",
@@ -1055,29 +1011,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Blues, Rock"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Christian Schwarzbach & Hans Pramberger – acoustic experience",
-   "type": "concert",
-   "start": "2026-10-21T19:00",
-   "end": "2026-10-21T22:00",
-   "url": "https://www.in-muenchen.de/events/christian-schwarzbach-hans-pramberger-acoustic-experience.html",
-   "venue": "Barschwein",
-   "address": "Franzstraße 3, 80802 München",
-   "description": "Die beiden lassen mit zwei Akustikgitarren Klassiker von Blues bis Rock neu erstrahlen. Ihr hypnotischer Groove, mitreißende Gitarrensoli und perfekter zweistimmiger Gesang begeistern. Von den Beatles bis ZZ-Top ist für jede*n etwas dabei.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Blues, Rock"
+    "Blues Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -1603,7 +1537,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Folk-Blues"
+    "Folk Blues"
    ],
    "source_id": "",
    "source_name": "",
@@ -1968,8 +1902,8 @@
   {
    "title": "Session Stormy Wednesday",
    "type": "concert",
-   "start": "2026-10-21T20:00",
-   "end": "2026-10-21T22:30",
+   "start": "2026-11-18T20:00",
+   "end": "2026-11-18T22:30",
    "url": "https://www.in-muenchen.de/events/session-stormy-wednesday.html",
    "venue": "Kulturzentrum Giesinger Bahnhof",
    "address": "Giesinger Bahnhofplatz 1, 81539 München",
@@ -2481,7 +2415,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Blues, Rock"
+    "Blues Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -2547,7 +2481,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Blues, Rock"
+    "Blues Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -2943,7 +2877,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Blues, Rock"
+    "Blues Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -3031,7 +2965,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Blues, Rock"
+    "Blues Rock"
    ],
    "source_id": "",
    "source_name": "",

@@ -5,8 +5,8 @@
   "name": "Glockenbachwerkstatt – Fish'n Blues",
   "url": "https://www.glockenbachwerkstatt.de/",
   "kind": "venue",
-  "status": "ok",
-  "found": 8
+  "status": "failed",
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://www.glockenbachwerkstatt.de/veranstaltungen/?date=&category=fishnblues"
  },
  "events": [
   {

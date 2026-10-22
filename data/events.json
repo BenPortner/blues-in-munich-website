@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T22:26:14+00:00",
+  "generated_at": "2026-10-22T08:50:36+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -2555,7 +2555,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues, Rock"
+        "Blues Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -2584,7 +2584,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Folk-Blues"
+        "Folk Blues"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -2875,7 +2875,7 @@
       "title": "Bernd Bauer Blues Band: Stormy Wednesday",
       "type": "concert",
       "start": "2026-11-18T20:00",
-      "end": null,
+      "end": "2026-11-18T22:30",
       "url": "https://berndbauerbluesband.de/termine/",
       "venue": "Kulturzentrum Giesinger Bahnhof",
       "address": "Giesinger Bahnhofplatz 1, 81539  München",
@@ -3723,7 +3723,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues, Rock"
+        "Blues Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -3817,7 +3817,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues, Rock"
+        "Blues Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -4110,7 +4110,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues, Rock"
+        "Blues Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -4621,7 +4621,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues, Rock"
+        "Blues Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -4700,7 +4700,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues, Rock"
+        "Blues Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -4808,7 +4808,7 @@
       "url": "https://www.boogie-baeren.de/",
       "kind": "school",
       "status": "ok",
-      "found": 75,
+      "found": 74,
       "kept": 13
     },
     {
@@ -4834,8 +4834,8 @@
       "name": "Glockenbachwerkstatt – Fish'n Blues",
       "url": "https://www.glockenbachwerkstatt.de/",
       "kind": "venue",
-      "status": "ok",
-      "found": 8,
+      "status": "failed",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.glockenbachwerkstatt.de/veranstaltungen/?date=&category=fishnblues",
       "kept": 43
     },
     {
@@ -4853,7 +4853,7 @@
       "url": "https://berndbauerbluesband.de/",
       "kind": "band",
       "status": "ok",
-      "found": 5,
+      "found": 4,
       "kept": 17
     },
     {
@@ -4898,7 +4898,7 @@
       "url": "https://www.tollwood.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 64,
+      "found": 101,
       "kept": 7
     },
     {
@@ -4915,8 +4915,8 @@
       "name": "SwinginMunich.de",
       "url": "https://www.swinginmunich.de/en",
       "kind": "aggregator",
-      "status": "ok",
-      "found": 51,
+      "status": "failed",
+      "error": "RetryError: HTTPSConnectionPool(host='www.swinginmunich.de', port=443): Max retries exceeded with url: /de/kalender (Caused by ResponseError('too many 500 error responses'))",
       "kept": 2
     },
     {
@@ -4925,7 +4925,7 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 165,
+      "found": 162,
       "kept": 53
     },
     {

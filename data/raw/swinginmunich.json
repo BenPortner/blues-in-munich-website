@@ -5,8 +5,8 @@
   "name": "SwinginMunich.de",
   "url": "https://www.swinginmunich.de/en",
   "kind": "aggregator",
-  "status": "ok",
-  "found": 51
+  "status": "failed",
+  "error": "RetryError: HTTPSConnectionPool(host='www.swinginmunich.de', port=443): Max retries exceeded with url: /de/kalender (Caused by ResponseError('too many 500 error responses'))"
  },
  "events": [
   {

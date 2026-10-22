@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-10-21T08:46:43+00:00",
+ "scraped_at": "2026-10-22T08:50:12+00:00",
  "status": {
   "id": "tollwood",
   "name": "Tollwood",
   "url": "https://www.tollwood.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 64
+  "found": 101
  },
  "events": [
   {
@@ -492,6 +492,28 @@
    "id": ""
   },
   {
+   "title": "Elvis Presley-Special mit Evan King",
+   "type": "concert",
+   "start": "2026-12-04T19:30",
+   "end": "2026-12-04T22:00",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/elvis-presley-special-mit-evan-king/",
+   "venue": "Tollwood – Hexenkessel",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Best of Elvis aus den 50s & frühen 60s",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Best of Elvis aus den 50s & frühen 60s"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "Totus Gaudeo",
    "type": "concert",
    "start": "2026-12-05T16:00",
@@ -624,6 +646,28 @@
    "id": ""
   },
   {
+   "title": "Alphornbläser vom Olympiapark",
+   "type": "concert",
+   "start": "2026-12-07T18:00",
+   "end": "2026-12-07T18:30",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/alphornblaeser-vom-olympiapark/202612071800/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Nicht auf den Bergen, aber in der Höhe über dem Festival tönen aus drei Alphörnern neben alpenländischen Klängen auch Polka, Walzer und konzertante Musik.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "Schein",
    "type": "concert",
    "start": "2026-12-07T19:30",
@@ -636,6 +680,28 @@
    "dates": [],
    "tags": [
     "Funk-Rock"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Alphornbläser vom Olympiapark",
+   "type": "concert",
+   "start": "2026-12-07T19:30",
+   "end": "2026-12-07T20:00",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/alphornblaeser-vom-olympiapark/202612071930/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Nicht auf den Bergen, aber in der Höhe über dem Festival tönen aus drei Alphörnern neben alpenländischen Klängen auch Polka, Walzer und konzertante Musik.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
    ],
    "source_id": "",
    "source_name": "",
@@ -790,6 +856,50 @@
    "dates": [],
    "tags": [
     "Lateinamerikanische Musik vom kolumbianischen Meister"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Alphornbläser vom Olympiapark",
+   "type": "concert",
+   "start": "2026-12-10T19:30",
+   "end": "2026-12-10T20:00",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/alphornblaeser-vom-olympiapark/202612101930/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Nicht auf den Bergen, aber in der Höhe über dem Festival tönen aus drei Alphörnern neben alpenländischen Klängen auch Polka, Walzer und konzertante Musik.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Alphornbläser vom Olympiapark",
+   "type": "concert",
+   "start": "2026-12-10T20:30",
+   "end": "2026-12-10T21:00",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/alphornblaeser-vom-olympiapark/202612102030/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Nicht auf den Bergen, aber in der Höhe über dem Festival tönen aus drei Alphörnern neben alpenländischen Klängen auch Polka, Walzer und konzertante Musik.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
    ],
    "source_id": "",
    "source_name": "",
@@ -1108,6 +1218,28 @@
    "id": ""
   },
   {
+   "title": "Alphornbläser vom Olympiapark",
+   "type": "concert",
+   "start": "2026-12-17T18:30",
+   "end": "2026-12-17T19:00",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/alphornblaeser-vom-olympiapark/202612171830/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Nicht auf den Bergen, aber in der Höhe über dem Festival tönen aus drei Alphörnern neben alpenländischen Klängen auch Polka, Walzer und konzertante Musik.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "The Sweet Simones",
    "type": "concert",
    "start": "2026-12-17T19:30",
@@ -1120,6 +1252,28 @@
    "dates": [],
    "tags": [
     "Swing, Jazz & Jive"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Alphornbläser vom Olympiapark",
+   "type": "concert",
+   "start": "2026-12-17T21:30",
+   "end": "2026-12-17T22:00",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/alphornblaeser-vom-olympiapark/202612172130/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Nicht auf den Bergen, aber in der Höhe über dem Festival tönen aus drei Alphörnern neben alpenländischen Klängen auch Polka, Walzer und konzertante Musik.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
    ],
    "source_id": "",
    "source_name": "",
@@ -1152,6 +1306,94 @@
    "id": ""
   },
   {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-18T16:00",
+   "end": "2026-12-18T16:10",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612181600/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-18T17:00",
+   "end": "2026-12-18T17:10",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612181700/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-18T18:00",
+   "end": "2026-12-18T18:10",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612181800/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-18T19:00",
+   "end": "2026-12-18T19:10",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612181900/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "Timerunner",
    "type": "concert",
    "start": "2026-12-18T19:30",
@@ -1164,6 +1406,28 @@
    "dates": [],
    "tags": [
     "Rockgiganten live on stage"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-18T21:00",
+   "end": "2026-12-18T21:10",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612182100/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
    ],
    "source_id": "",
    "source_name": "",
@@ -1196,6 +1460,94 @@
    "id": ""
   },
   {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-19T16:00",
+   "end": "2026-12-19T16:00",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612191600/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-19T17:00",
+   "end": "2026-12-19T17:10",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612191700/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-19T18:00",
+   "end": "2026-12-19T18:10",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612191800/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-19T19:00",
+   "end": "2026-12-19T19:10",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612191900/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "Gerry & Gary",
    "type": "concert",
    "start": "2026-12-19T19:30",
@@ -1208,6 +1560,28 @@
    "dates": [],
    "tags": [
     "Welthit-Covers von den Münchner Originalen"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-19T21:00",
+   "end": "2026-12-19T21:10",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612192100/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
    ],
    "source_id": "",
    "source_name": "",
@@ -1240,6 +1614,28 @@
    "id": ""
   },
   {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-20T15:00",
+   "end": "2026-12-20T15:10",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612201500/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "Ammer Brass Company",
    "type": "concert",
    "start": "2026-12-20T15:30",
@@ -1252,6 +1648,50 @@
    "dates": [],
    "tags": [
     "Moderne & groovige Bläsermusik"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-20T16:00",
+   "end": "2026-12-20T16:10",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612201600/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-20T17:00",
+   "end": "2026-12-20T17:10",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612201700/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
    ],
    "source_id": "",
    "source_name": "",
@@ -1284,6 +1724,72 @@
    "id": ""
   },
   {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-20T19:30",
+   "end": "2026-12-20T19:40",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612201930/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-20T21:00",
+   "end": "2026-12-20T21:00",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612202100/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-21T16:00",
+   "end": "2026-12-21T16:10",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612211600/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "Grace Nelly",
    "type": "concert",
    "start": "2026-12-21T16:30",
@@ -1296,6 +1802,116 @@
    "dates": [],
    "tags": [
     "Pop, Jazz & D ’n‘ B"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-21T17:00",
+   "end": "2026-12-21T17:10",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612211700/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-21T18:00",
+   "end": "2026-12-21T18:10",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612211800/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-21T19:00",
+   "end": "2026-12-21T19:10",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612211900/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-21T21:00",
+   "end": "2026-12-21T21:10",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612212100/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-22T16:00",
+   "end": "2026-12-22T16:00",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612221600/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
    ],
    "source_id": "",
    "source_name": "",
@@ -1350,6 +1966,72 @@
    "id": ""
   },
   {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-22T17:00",
+   "end": "2026-12-22T17:10",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612221700/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-22T18:00",
+   "end": "2026-12-22T18:10",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612221800/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-22T19:00",
+   "end": "2026-12-22T19:00",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612221900/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "Muddy What?",
    "type": "concert",
    "start": "2026-12-22T19:30",
@@ -1362,6 +2044,28 @@
    "dates": [],
    "tags": [
     "New Blues"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-22T21:00",
+   "end": "2026-12-22T21:00",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612222100/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
    ],
    "source_id": "",
    "source_name": "",
@@ -1394,6 +2098,72 @@
    "id": ""
   },
   {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-23T16:00",
+   "end": "2026-12-23T16:10",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612231600/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-23T17:00",
+   "end": "2026-12-23T17:10",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612231700/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-23T18:00",
+   "end": "2026-12-23T18:10",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612231800/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "LiaB – Lost in a Bar",
    "type": "concert",
    "start": "2026-12-23T19:00",
@@ -1406,6 +2176,50 @@
    "dates": [],
    "tags": [
     "Jazz, Soul & a LiaBe Weihnachtsg’schicht"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-23T19:00",
+   "end": "2026-12-23T19:10",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612231900/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kunstpfeifer Sirus Madjderey",
+   "type": "concert",
+   "start": "2026-12-23T21:00",
+   "end": "2026-12-23T21:10",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/kunstpfeifer-sirus-madjderey/202612232100/",
+   "venue": "Tollwood – Cube",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Alle Termine Der österreichische Kunstpfeifer Sirus Madjderey hält den Weltrekord für den höchsten je gepfiffenen Ton. Was bei manchen nach einem einfachen Pfiff klingt, wird bei ihm zur Kunst. Mit Lippen, Zunge und Zähnen lässt er komplexe Melodien erklingen und zeigt, wie virtuos und vielseitig Pfeifen sein kann.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Alle Termine"
    ],
    "source_id": "",
    "source_name": "",

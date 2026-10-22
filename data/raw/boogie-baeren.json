@@ -1,36 +1,14 @@
 {
- "scraped_at": "2026-10-21T08:44:30+00:00",
+ "scraped_at": "2026-10-22T08:46:51+00:00",
  "status": {
   "id": "boogie-baeren",
   "name": "Boogie-Bären München",
   "url": "https://www.boogie-baeren.de/",
   "kind": "school",
   "status": "ok",
-  "found": 75
+  "found": 74
  },
  "events": [
-  {
-   "title": "ZAP Balboa",
-   "type": "social",
-   "start": "2026-10-21",
-   "end": null,
-   "url": "https://www.boogie-baeren.de/eventleser/zap-balboa-oktober-2026",
-   "venue": "Boogie-Bären Vereinsheim",
-   "address": "Gneisenaustraße 16, 80992 München",
-   "description": "19:00 Uhr levelübergreifendes Balboa Training 20:00 Uhr ZAP - Offenes Balboa Training mit Social Dance für alle Level",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Vereinsheim"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "HUI Tag 10.26",
    "type": "social",

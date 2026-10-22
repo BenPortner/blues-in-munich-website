@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-10-21T08:45:03+00:00",
+ "scraped_at": "2026-10-22T08:47:23+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
@@ -9,48 +9,6 @@
   "found": 66
  },
  "events": [
-  {
-   "title": "SÉBASTIEN GINIAUX & JORIS VISQUENEL // AURORE VOILQUÉ TRIO",
-   "type": "concert",
-   "start": "2026-10-21T20:00",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=16658",
-   "venue": "Einstein Kultur",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Das Konzert der Reihe Swing Manouche findet im Einstein Kultur statt. Dieses Doppel-Konzert findet unter dem Motto Swing Manouche meets Gypsy Jazz Tage im Einstein Kultur statt. Für den ersten Teil des Abends kündigt sich Besuch aus der pulsierenden Metropole Paris an: Sébastien Giniaux und Joris Visquenel stehen für ausgelassene Dialoge, ganz im Geiste Django Reinhardts. In der zweiten Programmhälfte gönnt uns die ebenfalls aus Frankreich stammende Geigerin und Sängerin Aurore Voilqué eine Charme-Offensive der besonderen Art.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Einstein Kultur"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "RABIH ABOU-KHALIL",
-   "type": "concert",
-   "start": "2026-10-21T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11671",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Sold out. In seiner Musik reichen sich Orient und Okzident die Hand die Hand, treffen arabische Skalen und Metren sowie die reiche Ornamentik des Morgenlands auf klassische Formen und die Freiheit und Mentalität des Jazz. Wenige haben bislang so eindringlich zwischen musikalischen Kulturen vermitteln können wie der libanesische Knickhalslauten-Virtuose Rabih Abou-Khalil. Nicht nur mit seiner Oud versteht er sich als Geschichten-Erzähler – seine Ansagen sind geradezu legendär. Sie klingen, als würde einer Kapitel aus tausendundeiner Nacht mit heutigen Kabarett-Pointen würzen.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "MACIEJ OBARA QUARTET FEAT. MATHIAS EICK",
    "type": "concert",
@@ -286,7 +244,7 @@
    "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11682",
    "venue": "Jazzclub Unterfahrt",
    "address": "Einsteinstraße 42, 81675 München",
-   "description": "Die gerade frisch mit dem BMW Young Artist Jazz Award ausgezeichnete Kontrabassistin Ida Koch studiert an der Hochschule für Musik und Theater bei Henning Sieverts. Als fester Bestandteil der Jungen Münchner Jazz Szene sieht man sie in den verschiedensten Formationen; unter anderem im Trio des Gitarristen Elias Prinz, an der Seite von Pianist Pablo Struff oder mit ihrem kürzlich eigens gegründeten Quartett. Bei unseren Jam Sessions im November wird sie von dieser Vielseitigkeit eine Kostprobe geben. Jeden Sonntag mit einer anderen Besetzung, von Bebop über Django Reinhardt bis zu lyrischem Vocal Jazz und modernen Eigenkompositiotnen - und auf jeden Fall immer mit Groove!",
+   "description": "Für unsere November-Sessions übernimmt die Bassistin Ida Koch die Verantwortung. Inspirierte Einsteiger sind wie immer herzlich willkommen. Gerade erst wurde die junge Musikerin mit dem wohl dotierten BMW Young Artist Jazz Award prämiert. In der Begründung der Jury heißt es: Die Bassistin Ida Koch überzeugt durch musikalische Vielseitigkeit, klangliche Sensibilität und einen ausgeprägten Gestaltungswillen...Die Auszeichnung ist die folgerichtige Würdigung ihres großen Talents und ihrer leidenschaftlichen Hingabe.",
    "recurrence": null,
    "dates": [],
    "tags": [],
@@ -454,7 +412,7 @@
    "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11689",
    "venue": "Jazzclub Unterfahrt",
    "address": "Einsteinstraße 42, 81675 München",
-   "description": "Die gerade frisch mit dem BMW Young Artist Jazz Award ausgezeichnete Kontrabassistin Ida Koch studiert an der Hochschule für Musik und Theater bei Henning Sieverts. Als fester Bestandteil der Jungen Münchner Jazz Szene sieht man sie in den verschiedensten Formationen; unter anderem im Trio des Gitarristen Elias Prinz, an der Seite von Pianist Pablo Struff oder mit ihrem kürzlich eigens gegründeten Quartett. Bei unseren Jam Sessions im November wird sie von dieser Vielseitigkeit eine Kostprobe geben. Jeden Sonntag mit einer anderen Besetzung, von Bebop über Django Reinhardt bis zu lyrischem Vocal Jazz und modernen Eigenkompositiotnen - und auf jeden Fall immer mit Groove!",
+   "description": "Für unsere November-Sessions übernimmt die Bassistin Ida Koch die Verantwortung. Inspirierte Einsteiger sind wie immer herzlich willkommen. Gerade erst wurde die junge Musikerin mit dem wohl dotierten BMW Young Artist Jazz Award prämiert. In der Begründung der Jury heißt es: Die Bassistin Ida Koch überzeugt durch musikalische Vielseitigkeit, klangliche Sensibilität und einen ausgeprägten Gestaltungswillen...Die Auszeichnung ist die folgerichtige Würdigung ihres großen Talents und ihrer leidenschaftlichen Hingabe.",
    "recurrence": null,
    "dates": [],
    "tags": [],
@@ -598,7 +556,7 @@
    "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11696",
    "venue": "Jazzclub Unterfahrt",
    "address": "Einsteinstraße 42, 81675 München",
-   "description": "Die gerade frisch mit dem BMW Young Artist Jazz Award ausgezeichnete Kontrabassistin Ida Koch studiert an der Hochschule für Musik und Theater bei Henning Sieverts. Als fester Bestandteil der Jungen Münchner Jazz Szene sieht man sie in den verschiedensten Formationen; unter anderem im Trio des Gitarristen Elias Prinz, an der Seite von Pianist Pablo Struff oder mit ihrem kürzlich eigens gegründeten Quartett. Bei unseren Jam Sessions im November wird sie von dieser Vielseitigkeit eine Kostprobe geben. Jeden Sonntag mit einer anderen Besetzung, von Bebop über Django Reinhardt bis zu lyrischem Vocal Jazz und modernen Eigenkompositiotnen - und auf jeden Fall immer mit Groove!",
+   "description": "Für unsere November-Sessions übernimmt die Bassistin Ida Koch die Verantwortung. Inspirierte Einsteiger sind wie immer herzlich willkommen. Gerade erst wurde die junge Musikerin mit dem wohl dotierten BMW Young Artist Jazz Award prämiert. In der Begründung der Jury heißt es: Die Bassistin Ida Koch überzeugt durch musikalische Vielseitigkeit, klangliche Sensibilität und einen ausgeprägten Gestaltungswillen...Die Auszeichnung ist die folgerichtige Würdigung ihres großen Talents und ihrer leidenschaftlichen Hingabe.",
    "recurrence": null,
    "dates": [],
    "tags": [],
@@ -868,7 +826,7 @@
    "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11710",
    "venue": "Jazzclub Unterfahrt",
    "address": "Einsteinstraße 42, 81675 München",
-   "description": "Die gerade frisch mit dem BMW Young Artist Jazz Award ausgezeichnete Kontrabassistin Ida Koch studiert an der Hochschule für Musik und Theater bei Henning Sieverts. Als fester Bestandteil der Jungen Münchner Jazz Szene sieht man sie in den verschiedensten Formationen; unter anderem im Trio des Gitarristen Elias Prinz, an der Seite von Pianist Pablo Struff oder mit ihrem kürzlich eigens gegründeten Quartett. Bei unseren Jam Sessions im November wird sie von dieser Vielseitigkeit eine Kostprobe geben. Jeden Sonntag mit einer anderen Besetzung, von Bebop über Django Reinhardt bis zu lyrischem Vocal Jazz und modernen Eigenkompositiotnen - und auf jeden Fall immer mit Groove!",
+   "description": "Für unsere November-Sessions übernimmt die Bassistin Ida Koch die Verantwortung. Inspirierte Einsteiger sind wie immer herzlich willkommen. Gerade erst wurde die junge Musikerin mit dem wohl dotierten BMW Young Artist Jazz Award prämiert. In der Begründung der Jury heißt es: Die Bassistin Ida Koch überzeugt durch musikalische Vielseitigkeit, klangliche Sensibilität und einen ausgeprägten Gestaltungswillen...Die Auszeichnung ist die folgerichtige Würdigung ihres großen Talents und ihrer leidenschaftlichen Hingabe.",
    "recurrence": null,
    "dates": [],
    "tags": [],
@@ -957,6 +915,28 @@
    "dates": [],
    "tags": [
     "Einstein Kultur"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "EBE-JAZZ BIG BAND",
+   "type": "concert",
+   "start": "2026-12-07T20:30",
+   "end": null,
+   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11718",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstraße 42, 81675 München",
+   "description": "An Abwechslung mangelt es nie wenn die EBE-Jazz Big Band unter der Leitung des Trompeters Mathias Engl aufspielt: die 20köpfige Ebersberger Truppe punktet mit knalligem Funk, federndem Swing, pointiertem Hardbop und hat so manche prachtvoll ausgestaltete Ballade im Repertoire, die so richtig unter die Haut geht. Big Band-Tradition geht in diesem Orchester mit modernen Ansätzen einher.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Bigband Night"
    ],
    "source_id": "",
    "source_name": "",
@@ -1175,6 +1155,28 @@
    "id": ""
   },
   {
+   "title": "AZOLIA",
+   "type": "concert",
+   "start": "2026-12-22T20:30",
+   "end": null,
+   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11733",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstraße 42, 81675 München",
+   "description": "In einer Woche, am 29. Dezember also, jährt sich der Todestag von Rainer Maria Rilke zum 100. Mal. Das Quartett Azolia, das sich seit fünfzehn Jahren die Aufgabe stellt, Poesie in feinsinnige Kammermusik zu übersetzen, verneigt sich vor diesem Dichter, der mit seinen Texten, mit seinen Versen Generationen prägte. Laut eigener Aussage versuchen die belgische Sängerin Sophie Tassignon, die deutsch-amerikanische Klarinettistin/ Altsaxofonistin Susanne Folk, der deutsche Bassklarinettist/ Sopransaxofonist Lothar Ohlmeier und der Schweizer Bassist Andreas Waelti Tiefgehendes spürbar und hörbar zu machen.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Vocal Jazz"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "CHRISTMAS JAM",
    "type": "concert",
    "start": "2026-12-24T20:30",
@@ -1306,7 +1308,7 @@
    "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11037",
    "venue": "Jazzclub Unterfahrt",
    "address": "Einsteinstraße 42, 81675 München",
-   "description": "Nach zwei fulminanten Debüt-Konzerten letzten Sommer kommt das Moritz Renner Jazz Orchestra an diesem Abend wieder zurück. Moritz Renners Großformation lebt vom Wechselspiel zwischen Tradition und Moderne, von der Formgestaltungsfantasie ihres Bandleaders, vom großartigen Umgang mit Texturen, Strukturen und Voicings.",
+   "description": "Der Posaunist und Komponist Moritz Renner bringt die Szene seit einiger Zeit zum Raunen und Staunen: mal präsentiert er sich im feinsinnigen kammermusikalischen Kontext, mal mit Renner, dem stürmischen gemeinsamen Trio mit Bruder Valentin, oder mit seinem Jazz Orchestra, das nach zwei Debüt-Konzerten jetzt wieder die Unterfahrt-Bühne ausfüllt. Die Musik, die Moritz für dieses Großensemble geschrieben hat, ist hörbar von zwei Jahrhundert-Komponisten inspiriert: Igor Strawinsky (1882 – 1971) und Olivier Messiaen (1908 – 1992). Renners Feststellung: Deren Vorstellung von musikalischer Farbgestaltung und Formensprache verträgt sich bestens mit der reichen Klangwelt des Jazz.",
    "recurrence": null,
    "dates": [],
    "tags": [

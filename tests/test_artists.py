@@ -3,7 +3,7 @@ from datetime import timedelta
 
 import requests
 
-from scraper.artists import API, Artist, LastFm, enrich, find_artists
+from scraper.artists import API, Artist, LastFm, act_keys, enrich, find_artists
 
 from .conftest import TODAY
 
@@ -44,6 +44,15 @@ def test_find_artists_lists_and_programme_titles():
     assert [a.name for a in find_artists(title, known)] == ["Abi Wallenstein", "Ludwig Seuss"]
     assert asked("Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich") == ["Stephan Zinner"]
     assert asked("Bernd Bauer Blues Band: Live-Konzert") == ["Bernd Bauer Blues Band", "Bernd Bauer Blues"]
+
+
+def test_act_keys():
+    assert act_keys("Günter Grünwald & Rad Gumbo") == {"gunter-grunwald-and-rad-gumbo", "gunter-grunwald", "rad-gumbo"}
+    assert {"gunter-grunwald", "rad-gumbo"} <= act_keys("Rad Gumbo und Günter Grünwald")
+    assert "ludwig-seuss" in act_keys("Ludwig Seuss & Band") & act_keys("Ludwig Seuss Band")
+    assert "munich-rhythm-and-blues-band" in act_keys("Munich Rhythm & Blues Band")
+    assert act_keys("Stephan Zinner – Großstadtblues") == {"stephan-zinner"}
+    assert act_keys("Blues Band") == set()  # too generic to link two listings
 
 
 def test_find_artists_skips_event_words_and_single_names():

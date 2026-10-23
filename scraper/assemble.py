@@ -17,7 +17,7 @@ from pathlib import Path
 
 import yaml
 
-from .artists import enrich
+from .artists import act_keys, enrich
 from .filters import keep
 from .models import EVENT_TYPES, Event, slug
 
@@ -144,38 +144,51 @@ def dedupe(events: list[Event]) -> list[Event]:
     return result
 
 
-def source_events(source: dict, raw_dir: Path, previous: dict) -> tuple[list[Event], dict | None]:
-    """A source's listed events and status from its raw file. Before its first scrape into data/raw,
-    its events and status from the last events.json stand in; a source never scraped has neither."""
+def source_events(source: dict, raw_dir: Path, previous: dict) -> tuple[list[Event], dict | None, list[Event]]:
+    """A source's listed events, status and the events its filter dropped, from its raw file. Before its
+    first scrape into data/raw, its events and status from the last events.json stand in; a source never
+    scraped has neither."""
     raw = load_raw(raw_dir, source["id"])
     if raw is None:
         events = [Event.from_dict(e) for e in previous.get("events", []) if e["source_id"] == source["id"]]
         status = next((s for s in previous.get("sources", []) if s["id"] == source["id"]), None)
-        return events, status and dict(status)
+        return events, status and dict(status), []
     events = [Event.from_dict(e).finalize(source) for e in raw["events"]]
-    events = [e for e in events if keep(e, source.get("filter", "blues"), source.get("exclude"))]
+    kept = [e for e in events if keep(e, source.get("filter", "blues"), source.get("exclude"))]
     # Name and link may have changed in sources.yaml since the scrape
     status = {**raw["status"], "id": source["id"], "name": source["name"], "url": source["url"],
               "kind": source["kind"]}
-    return events, status
+    return kept, status, [e for e in events if e not in kept]
+
+
+def same_artist_gigs(kept: list[Event], dropped: list[Event]) -> list[Event]:
+    """Dropped concerts by an act that has a kept concert: one artist, one verdict, whichever venue's
+    listing happens to say blues."""
+    blues_acts = set().union(*(act_keys(e.title) for e in kept if e.type == "concert"))
+    return [e for e in dropped if e.type == "concert" and blues_acts & act_keys(e.title)]
 
 
 def assemble(sources: list[dict], raw_dir: Path, previous: dict, today: date,
              archive: dict | None = None) -> dict:
-    events, statuses = [], []
+    events, statuses, dropped = [], [], []
     for source in sources:
         if not source.get("enabled", True):
             continue
-        found, status = source_events(source, raw_dir, previous)
+        found, status, filtered_out = source_events(source, raw_dir, previous)
         events.extend(found)
+        dropped.extend(filtered_out)
         if status:
             statuses.append(status)
 
     iso_today = today.isoformat()
     # Sites drop courses once they're over: keep archived ones from the last run (fresh copies win in dedupe)
     listed = {s["id"] for s in statuses}
-    events.extend(e for e in map(Event.from_dict, previous.get("events", []))
-                  if e.source_id in listed and e.last_date < iso_today)
+    past = [e for e in map(Event.from_dict, previous.get("events", []))
+            if e.source_id in listed and e.last_date < iso_today]
+    # A past gig still vouches for the artist after its site took it down; only past ones, so a gig
+    # kept this way can't vouch for itself on the next run
+    events.extend(same_artist_gigs(events + past, dropped))
+    events.extend(past)
     events = [e for e in dedupe(events) if is_listed(e, iso_today, archive)]
     events.sort(key=lambda e: (e.next_date(today), e.start, e.title))
     for status in statuses:  # count what is actually listed (upcoming + archived, deduplicated)

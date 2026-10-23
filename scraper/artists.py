@@ -81,6 +81,24 @@ def _variants(name: str, ignore: set[str]) -> list[str]:
     return out
 
 
+# Act names too generic to tie two listings to one artist
+_GENERIC_ACT = {"blues", "band", "the", "and", "his", "her", "friends"}
+
+
+def act_keys(title: str, ignore: set[str] = frozenset()) -> set[str]:
+    """Keys for every name a concert title may hold (each act, without "Band"/"Trio", and each half
+    of a duo; "&"/"und" read as "and"), to find one artist's gigs across listings without Last.fm."""
+    names = []
+    for part in _COLON.split(_TAIL.split(title, maxsplit=1)[0]):
+        for act in _ACTS.split(part):
+            names.extend(_variants(act, ignore))
+            duo = [p for p in _DUO.split(act) if len(p.split()) > 1]
+            if len(duo) > 1:
+                names.extend(v for p in duo for v in _variants(p, ignore))
+    keys = {slug(_DUO.sub(" and ", n)) for n in names}
+    return {k for k in keys if not set(k.split("-")) <= _GENERIC_ACT}
+
+
 def _first(lookup: Callable[[str], Artist | None], names: list[str]) -> Artist | None:
     for name in names:
         if hit := lookup(name):

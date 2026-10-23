@@ -111,6 +111,40 @@ def test_assemble_without_raw_file_uses_last_events_json(tmp_path):
     assert result["sources"][0]["status"] == "ok"
 
 
+def test_artist_with_a_blues_gig_keeps_all_its_gigs(make_ctx):
+    sources = [
+        src("a", "_test_static", filter="blues_title", params={"events": [
+            ev("Günter Grünwald & Rad Gumbo", "2026-10-20T20:00", tags=["Blues"]),
+            ev("Ludwig Seuss Band", "2026-10-21T20:00", tags=["Blues"]),
+            ev("Jazz Trio", "2026-10-22T20:00"),
+        ]}),
+        src("b", "_test_static", filter="blues_title", params={"events": [
+            ev("Rad Gumbo & Günter Grünwald", "2026-11-05T20:00", tags=["Kabarett"]),  # same duo, other way round
+            ev("Ludwig Seuss & Band", "2026-11-06T20:00", tags=["Funk"]),
+            ev("Lisa Trio", "2026-11-07T20:00"),                      # nobody from a kept gig
+            ev("Ludwig Seuss Piano Workshop", "2026-11-08T20:00", type="workshop"),  # only concerts
+        ]}),
+    ]
+    result = collect(sources, make_ctx(), {"events": []})
+    assert [e["title"] for e in result["events"]] == [
+        "Günter Grünwald & Rad Gumbo", "Ludwig Seuss Band", "Rad Gumbo & Günter Grünwald", "Ludwig Seuss & Band"]
+
+
+def test_past_blues_gig_still_vouches_for_the_artist(make_ctx):
+    def old(title, start, **kw):
+        return Event(title=title, type="concert", start=start, source_id="a", source_name="A", id=title, **kw).to_dict()
+    previous = {"events": [
+        old("Günter Grünwald & Rad Gumbo", "2026-10-01T20:00"),   # kept last run, gone from the site now
+        old("Lisa Trio", "2026-11-07T20:00"),                       # upcoming: was only kept because of a rescue
+    ]}
+    source = src("a", "_test_static", filter="blues_title", params={"events": [
+        ev("Rad Gumbo & Günter Grünwald", "2026-11-05T20:00", tags=["Kabarett"]),
+        ev("Lisa Trio & Max Muster", "2026-11-08T20:00"),
+    ]})
+    result = collect([source], make_ctx(), previous, {"since": "2026-01-01", "types": ["concert"]})
+    assert [e["title"] for e in result["events"]] == ["Günter Grünwald & Rad Gumbo", "Rad Gumbo & Günter Grünwald"]
+
+
 def test_assemble_reapplies_filters_without_scraping(make_ctx):
     ctx = make_ctx()
     source = src("s", "_test_static", params={"events": [ev("Blues Jam", "2026-10-20T20:00"),

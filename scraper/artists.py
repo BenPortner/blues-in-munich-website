@@ -51,6 +51,9 @@ _ENSEMBLE = re.compile(r"\s+(?:(?:&|and|und)\s+(?:his\s+|seine\s+)?band|trio|qua
 _NOT_A_NAME = re.compile(
     r"^\d+\.|\b\d{4}\b|festival|konzert|concert|bluesnacht|bluestage|blues night|session|\blive\b|"
     r"unplugged|frühschoppen|matinee|\bjam\b|open stage|tribute", re.I)
+# Names made only of these are a programme ("Anni und Hans: Blues & Jazz"), not an act
+_GENRE_WORDS = {"blues", "jazz", "rock", "roll", "n", "soul", "funk", "swing", "boogie", "woogie", "folk",
+                "country", "gospel", "pop", "rhythm", "r", "b", "and", "und", "more", "mehr"}
 _APOSTROPHE = re.compile(r"['’`´]")
 _GENERIC = {"friends", "band", "guests", "special-guests", "special-guest", "support", "trio", "and-friends"}
 
@@ -75,7 +78,7 @@ def _variants(name: str, ignore: set[str]) -> list[str]:
     bases = (name, _ENSEMBLE.sub("", name))
     for variant in (v for base in bases for v in (base, _APOSTROPHE.sub("", base))):
         key = slug(variant)
-        if (len(key) >= 3 and key not in _GENERIC and key not in ignore
+        if (len(key) >= 3 and key not in _GENERIC and key not in ignore and not set(key.split("-")) <= _GENRE_WORDS
                 and not _NOT_A_NAME.search(variant) and variant not in out):
             out.append(variant)
     return out

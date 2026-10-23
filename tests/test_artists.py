@@ -55,6 +55,12 @@ def test_act_keys():
     assert act_keys("Blues Band") == set()  # too generic to link two listings
 
 
+def test_find_artists_skips_genre_names():
+    assert asked("Anni und Hans: Blues & Jazz") == ["Anni und Hans"]
+    assert asked("Rock 'n' Roll & Boogie") == []
+    assert asked("Blues Pills") == ["Blues Pills"]  # one real word is enough
+
+
 def test_find_artists_skips_event_words_and_single_names():
     assert asked("Inninger Bluestage 2026") == []
     assert asked("Session Stormy Wednesday") == []

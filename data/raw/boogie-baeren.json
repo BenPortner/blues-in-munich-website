@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-10-22T08:46:51+00:00",
+ "scraped_at": "2026-10-23T08:42:41+00:00",
  "status": {
   "id": "boogie-baeren",
   "name": "Boogie-Bären München",
@@ -230,28 +230,6 @@
    "id": ""
   },
   {
-   "title": "HUI Tag 11.26",
-   "type": "social",
-   "start": "2026-11-14",
-   "end": null,
-   "url": "https://www.boogie-baeren.de/eventleser/hui-tag-november-2026",
-   "venue": "Boogie-Bären Vereinsheim",
-   "address": "Gneisenaustraße 16, 80992 München",
-   "description": "Haus- und Inventar Tag",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Vereinsheim"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Boogie Party - Fly'n'dance Freising",
    "type": "social",
    "start": "2026-11-14",
@@ -286,6 +264,28 @@
    "dates": [],
    "tags": [
     "Übungsabend"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "HUI Tag 11.26",
+   "type": "social",
+   "start": "2026-11-21",
+   "end": null,
+   "url": "https://www.boogie-baeren.de/eventleser/hui-tag-november-2026",
+   "venue": "Boogie-Bären Vereinsheim",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Haus- und Inventar Tag",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Vereinsheim"
    ],
    "source_id": "",
    "source_name": "",

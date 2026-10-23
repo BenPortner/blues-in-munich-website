@@ -1,76 +1,14 @@
 {
- "scraped_at": "2026-10-22T08:47:31+00:00",
+ "scraped_at": "2026-10-23T08:43:34+00:00",
  "status": {
   "id": "gans-am-wasser",
   "name": "Café Gans am Wasser",
   "url": "https://www.gansamwasser.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 15
+  "found": 12
  },
  "events": [
-  {
-   "title": "Herbstfest",
-   "type": "concert",
-   "start": "2026-10-17",
-   "end": null,
-   "url": "https://www.gansamwasser.de/kulturprogramm/programm-oktober/",
-   "venue": "Café Gans am Wasser",
-   "address": "Mollsee im Westpark, 81373 München",
-   "description": "",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Familienprogramm: Reisebericht Amazonas (Brasilien)",
-   "type": "concert",
-   "start": "2026-10-18T12:00",
-   "end": "2026-10-18T13:00",
-   "url": "https://www.gansamwasser.de/kulturprogramm/programm-oktober/",
-   "venue": "Café Gans am Wasser",
-   "address": "Mollsee im Westpark, 81373 München",
-   "description": "Oi, tudo bem? Wir sind eine vierköpfige Familie aus München. Unser jüngster Sohn musiziert gerne, während sein älterer Bruder fleißig Kung Fu trainiert. Als Familie engagieren wir uns für den Schutz des Amazonas-Regenwaldes und für krebskranke Kinder. Im August 2025 reisten wir individuell durch Brasilien, dem Heimatland von Mutter Thatianny, weit abseits der touristischen Hotspots. Wir fuhren fast 5.000 km durch den Bundesstaat Pará bis zum mittleren Amazonas und wieder zurück nach Fortaleza – größtenteils über die unbefestigte Transamazônica, die durch Abholzung und Sojaplantagen führt. Wir übernachteten in einfachen Hütten und Hängematten am Fluss und im Regenwald, begegneten Affen, Aras, Faultieren, Tukanen und sogar einer Vogelspinne und schwammen im Tapajós mit Flussdelfinen. Unsere Kinder spielten mit einheimischen Kindern Fußball, besuchten Schulen und Philip musizierte gemeinsam mit einer indigenen Frauengruppe aus Karuanas – für uns alle ein ganz besonderer Moment. Gerne möchten wir unsere Reise mit Bildern und Musik teilen und anderen Kindern und Familien die Schönheit, aber auch die dringende Notwendigkeit des Schutzes des Amazonas-Regenwaldes näherbringen. Der Eintritt ist frei. Wir freuen uns über Spenden zugunsten von ProAmazonia Konstanz .",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Parkoustics",
-   "type": "concert",
-   "start": "2026-10-18T14:00",
-   "end": "2026-10-18T16:00",
-   "url": "https://www.gansamwasser.de/kulturprogramm/programm-oktober/",
-   "venue": "Café Gans am Wasser",
-   "address": "Mollsee im Westpark, 81373 München",
-   "description": "Parkoustics macht Akustikmusik in Parks, zumindest fing so damals Alles an. Durch ihre harmonischen Duette oder auch dreistimmigem Gesang, den intensiven Einsatz von Gitarre und Cajon und dem groovenden Kontrabass schaffen sie eine einzigartige Klanglandschaft. Ihre Musik bewegt sich zwischen Akustik‐Pop und ‐Rock, weist sanfte Folk‐Einflüsse auf und begeistert mit gefühlvollen Melodien und rhythmischen Beats jedes Live‐Publikum. Überwiegend eigene Songs werden mit Covers ausgewählter Stücke ergänzt. Instagram Hörprobe",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Livemusik"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Triple Snap",
    "type": "concert",

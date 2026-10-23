@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-10-22T08:47:16+00:00",
+ "scraped_at": "2026-10-23T08:43:20+00:00",
  "status": {
   "id": "rheinpfalz-schwabing",
   "name": "Rheinpfalz Schwabing",
   "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
   "kind": "venue",
   "status": "ok",
-  "found": 17
+  "found": 16
  },
  "events": [
-  {
-   "title": "Vollmer Brothers Organ Trio feat. Donniele Graves",
-   "type": "concert",
-   "start": "2026-10-22T20:00",
-   "end": null,
-   "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
-   "venue": "Rheinpfalz Schwabing",
-   "address": "Kurfürstenstraße 35, 80801 München",
-   "description": "Ausnahme: am Donnerstag Funk, Gospel, Groove – ein Sound voller Energie, Seele und Spielfreude. Das Vollmer Organ Trio steht für ein mitreißendes Live-Erlebnis zwischen Blues, Jazz, Funk und Gospel. Mit Hammond-Orgel, Gitarre, Drums und einer kraftvollen Soulstimme verbindet die Band Virtuosität mit emotionaler Tiefe und unmittelbarer Bühnenenergie. Seele und Spielfreude. Wenn warme Hammond-Klänge den Raum füllen, Gitarrenlinien Geschichten erzählen und ein Groove einsetzt, der sich nicht mehr abschütteln lässt, beginnt die Welt des Vollmer Organ Trios. Ihre Musik atmet den Geist des Blues, die Freiheit des Jazz, die Kraft des Funk und die Seele des Gospel. Sie ist rau und elegant zugleich, erdig und doch voller Leuchtkraft. Elias Vollmer lässt die Hammond-Orgel singen, flirren und aufleuchten, während Titus Vollmers Gitarre zwischen Intimität und Energie wandert. Getragen wird das Ganze von den pulsierenden Rhythmen Steven Mosers: präzise, lebendig, unaufhaltsam. Und dann ist da noch diese Stimme: Donniele Graves. Tief verwurzelt im Soul und Gospel, voller Ausdruck und Gefühl – eine Stimme, die nicht nur gehört, sondern gespürt wird. Ein Sound, der groovt, berührt, bleibt … Vollmer Organ Trio: Elias Vollmer (Hammond Orgel) Victor Vollmer (Gitarre und Gesang) Steven Moser (Schlagzeug) Gesang: Donniele Graves",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Back To Zero",
    "type": "concert",

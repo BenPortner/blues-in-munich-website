@@ -1,37 +1,14 @@
 {
- "scraped_at": "2026-10-21T08:44:50+00:00",
+ "scraped_at": "2026-10-23T08:43:03+00:00",
  "status": {
   "id": "glockenbachwerkstatt",
   "name": "Glockenbachwerkstatt – Fish'n Blues",
   "url": "https://www.glockenbachwerkstatt.de/",
   "kind": "venue",
-  "status": "failed",
-  "error": "HTTPError: 404 Client Error: Not Found for url: https://www.glockenbachwerkstatt.de/veranstaltungen/?date=&category=fishnblues"
+  "status": "ok",
+  "found": 7
  },
  "events": [
-  {
-   "title": "Louis Ville",
-   "type": "concert",
-   "start": "2026-10-21T20:30",
-   "end": null,
-   "url": "https://www.glockenbachwerkstatt.de/events/fishnblues-louis-ville1026/",
-   "venue": "Glockenbachwerkstatt",
-   "address": "Blumenstraße 7, 80331 München",
-   "description": "Fisch: 19:00 Uhr · kostenfrei",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Fish'n Blues",
-    "Konzert"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Leonie singt!",
    "type": "concert",

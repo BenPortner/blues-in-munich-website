@@ -1,37 +1,14 @@
 {
- "scraped_at": "2026-10-22T08:47:23+00:00",
+ "scraped_at": "2026-10-23T08:43:27+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 66
+  "found": 65
  },
  "events": [
-  {
-   "title": "MACIEJ OBARA QUARTET FEAT. MATHIAS EICK",
-   "type": "concert",
-   "start": "2026-10-22T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11672",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Es gibt da diese Andeutung von slawischer Schwermut, Anspielungen auf nordische Mystik in der Musik des polnischen Altsaxofonisten Maciej Obara. Doch Melancholie und Geheimnis weichen nach der Vorstellung tragender Melodien meist der unbändigen Lebenslust, einem durch weite Bögen rauschenden Auf und Ab. Die Spielintensität, die sich in Obaras polnisch-norwegischer Allstar-Band entwickelt, ist fast vergleichslos. Zu seinem bewährten Quartett stößt jetzt einer der herausragenden Trompeter des europäischen Jazz: Mathias Eick.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "European Jazz",
-    "ECM artist in concert"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "MIRNA BOGDANOVIĆ GROUP",
    "type": "concert",

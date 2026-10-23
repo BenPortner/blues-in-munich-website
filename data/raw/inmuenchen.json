@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-10-22T08:50:35+00:00",
+ "scraped_at": "2026-10-23T08:46:16+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
@@ -9,6 +9,28 @@
   "found": 162
  },
  "events": [
+  {
+   "title": "Live im Lihotzky – mit Berhard Klier",
+   "type": "concert",
+   "start": "2026-11-27T20:00",
+   "end": "2026-11-27T22:00",
+   "url": "https://www.in-muenchen.de/events/live-im-lihotzky-mit-berhard-klier.html",
+   "venue": "Das Lihotzky",
+   "address": "Fritz-Winter-Str. 10, 80807 München",
+   "description": "Deutscher Ukulelesongs und virtuose Gitarrenklänge schaffen eine warme Atmosphäre. Intime Songs und überraschende Facetten laden zum Zuhören und Entdecken ein. Verschiedene Stile von Blues bis Classic Rock vereinen sich in einem Abend voller Musik und Begegnung.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Fingerstyle"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
   {
    "title": "Das „frühe“ Frauenfest",
    "type": "concert",
@@ -594,28 +616,6 @@
    "dates": [],
    "tags": [
     "Blues"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Vollmer Trio",
-   "type": "concert",
-   "start": "2026-10-22T20:15",
-   "end": "2026-10-22T23:00",
-   "url": "https://www.in-muenchen.de/events/vollmer-trio.html",
-   "venue": "Rheinpfalz Schwabing",
-   "address": "Kurfürstenstraße 35, 80801 München",
-   "description": "Ein Sound voller Energie, Seele und Spielfreude. Zwischen Blues, Jazz, Funk und Gospel entsteht ein mitreißendes Live-Erlebnis. Mit Hammond-Orgel, Gitarre, Drums und kraftvoller Soulstimme verbindet die Band Virtuosität mit emotionaler Tiefe.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Blues Jazz Funk Gospel"
    ],
    "source_id": "",
    "source_name": "",
@@ -3113,9 +3113,9 @@
    "start": "2026-11-20T20:00",
    "end": "2026-11-20T23:00",
    "url": "https://www.in-muenchen.de/events/da-huawa-und-i-schokoladenseitn.html",
-   "venue": "Schlachthof",
+   "venue": "Schlachthof – Ox",
    "address": "Zenettistraße 9, 80337 München",
-   "description": "Christian Maier alias da Huawa entführt mit bayerischem Charme in eine Welt voller Musik und Humor.",
+   "description": "Bekannt als „da Huawa“ des Kulttrios „Da Huawa, da Meier und I“, zeigt der Musikkabarettist Christian Maier in seinem 10. Bühnenprogramm bayrische Gelassenheit und interpretiert mitreißende Lieder.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -3335,7 +3335,7 @@
    "url": "https://www.in-muenchen.de/events/lichterkinder.html",
    "venue": "Circus Krone",
    "address": "Marsstr. 43, 80335 München",
-   "description": "Lichterkinder präsentieren ihre große Familienparty mit Hits, Tanz und Spaß für alle Altersgruppen. Die 7-köpfige Liveband und die Charaktere Liki und Lumi sorgen für eine mitreißende Show.",
+   "description": "Große Familienparty mit Hits, Tanz und Spaß für alle Altersgruppen. Die 7-köpfige Liveband und die Charaktere Liki und Lumi sorgen für eine mitreißende Show. (Zugang ab 2 Jahren)",
    "recurrence": null,
    "dates": [],
    "tags": [

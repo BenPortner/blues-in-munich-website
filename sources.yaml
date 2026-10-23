@@ -227,3 +227,12 @@ sources:
 #      the event pages are individual. Not worth an adapter; add to manual_events.yaml each year.
 #  - Inninger Bluestage / Wolfratshauser Blues Festival (autumn festivals, Ammersee/Isartal) —
 #      found 2026-10-17. Organizers' own sites not identified; already covered through IN München.
+#  - mvp.de / Münchner Veranstaltungs-Programm (ticket listing with a "Konzert - Jazz & Blues" category) —
+#      https://www.mvp.de/muenchen/veranstaltungen/konzert-jazz/
+#      found 2026-10-23. Static HTML (~40 dates per page, one line "Wochentag, Datum - Venue - Ort - Titel"),
+#      so scrapable, but every blues gig seen there (Münchner Bluesnacht, Gautinger Bluesnacht, Kai Strauss,
+#      Blues Brothers Revue, All That Blues Ottobrunn) is already in IN München. Not worth an adapter for now.
+#  - Interim / Bürgertreff Laim (hosts the Jazzclub München jam and occasional blues bands, e.g. Blue52) —
+#      https://interim-kultur.de/Programm/
+#      found 2026-10-23. Programme is loaded by JavaScript (empty in the HTML); mostly jazz/theatre, no upcoming
+#      blues dates seen. Its listings appear on IN München, which catches blues-titled ones.

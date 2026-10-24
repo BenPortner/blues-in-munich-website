@@ -1,0 +1,5183 @@
+{
+  "generated_at": "2026-10-24T08:20:46+00:00",
+  "events": [
+    {
+      "title": "Mateo Navarro & Friends",
+      "type": "concert",
+      "start": "2026-01-07T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/fish-n-bluesmateo-novmbert25-3/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fish'n Blues Konzert · Fisch 19:00 Uhr · Eintritt: kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Mateo Navarro",
+          "url": "https://www.last.fm/music/Mateo+Navarro"
+        }
+      ],
+      "known_artists": [],
+      "id": "f0a96f942f44"
+    },
+    {
+      "title": "Drug Stop",
+      "type": "concert",
+      "start": "2026-01-14T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/drug-stop/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Drug Stop",
+          "url": "https://www.last.fm/music/Drug+Stop"
+        }
+      ],
+      "known_artists": [],
+      "id": "cc3d5798c3ad"
+    },
+    {
+      "title": "Bernd Bauer Blues Band: Stormy Wednesday",
+      "type": "concert",
+      "start": "2026-01-21",
+      "end": null,
+      "url": "https://berndbauerbluesband.de/termine/",
+      "venue": "Kulturzentrum Giesinger Bahnhof",
+      "address": "Giesinger Bahnhofsplatz 1, 81539 München",
+      "description": "Akustische offene Blues Session, Eintritt frei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "bernd-bauer-blues-band",
+      "source_name": "Bernd Bauer Blues Band",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "f5898d11e7f8"
+    },
+    {
+      "title": "CHRIS VOID & THE INCREDIBLY STRANGE ......",
+      "type": "concert",
+      "start": "2026-01-21T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/chris-void-the-incredibly-strange-creatures-2026/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Chris Void",
+          "url": "https://www.last.fm/music/Chris+Void"
+        }
+      ],
+      "known_artists": [],
+      "id": "5aee2d5411bc"
+    },
+    {
+      "title": "Blues Explorers · alle Level",
+      "type": "class",
+      "start": "2026-01-07T17:30",
+      "end": "2026-01-07T18:30",
+      "url": "https://www.vintage-club.de/classes.aspx",
+      "venue": "Vintage Club (VC Studio 2)",
+      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+      "description": "Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen, wesentliche Schritte und Figuren, um dich auf der Tanzfläche sicher und wohl zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkundet, die zu verschiedenen Musikstilen getanzt werden können.",
+      "recurrence": "Wednesdays 17:30–18:30",
+      "dates": [
+        "2026-01-07",
+        "2026-01-14",
+        "2026-01-21",
+        "2026-01-28"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "vintage-club",
+      "source_name": "Vintage Club",
+      "school_name": "Vintage Club",
+      "school_url": "https://www.vintage-club.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "628aec196400"
+    },
+    {
+      "title": "Blues Nerds · ab Aufsteiger",
+      "type": "class",
+      "start": "2026-01-07T18:45",
+      "end": "2026-01-07T19:45",
+      "url": "https://www.vintage-club.de/classes.aspx",
+      "venue": "Vintage Club (VC Studio 2)",
+      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+      "description": "",
+      "recurrence": "Wednesdays 18:45–19:45",
+      "dates": [
+        "2026-01-07",
+        "2026-01-14",
+        "2026-01-21",
+        "2026-01-28"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "vintage-club",
+      "source_name": "Vintage Club",
+      "school_name": "Vintage Club",
+      "school_url": "https://www.vintage-club.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "b0cd0aad5b83"
+    },
+    {
+      "title": "Neu! ***Lindy & Blues for Fun · alle Level",
+      "type": "class",
+      "start": "2026-01-07T21:10",
+      "end": "2026-01-07T22:10",
+      "url": "https://www.vintage-club.de/classes.aspx",
+      "venue": "Vintage Club (VC Studio 1)",
+      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+      "description": "Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen, wesentliche Schritte und Figuren, um dich auf der Tanzfläche sicher und wohl zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkundet, die zu verschiedenen Musikstilen getanzt werden können.",
+      "recurrence": "Wednesdays 21:10–22:10",
+      "dates": [
+        "2026-01-07",
+        "2026-01-14",
+        "2026-01-21",
+        "2026-01-28"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "vintage-club",
+      "source_name": "Vintage Club",
+      "school_name": "Vintage Club",
+      "school_url": "https://www.vintage-club.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "439d92ccd9be"
+    },
+    {
+      "title": "m ö b e l k r ö g e r",
+      "type": "concert",
+      "start": "2026-01-28T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/m-oe-b-e-l-k-r-oe-g-e-r/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "6e68cab9c7d6"
+    },
+    {
+      "title": "Boris Ruge & Band",
+      "type": "concert",
+      "start": "2026-02-04T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/boris-ruge-band/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Boris Ruge & Band",
+          "url": "https://www.last.fm/music/Boris+Ruge+%26+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "12000e578b1d"
+    },
+    {
+      "title": "Bootleg Twins",
+      "type": "concert",
+      "start": "2026-02-11T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/bootleg-twins/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "7a26d161093a"
+    },
+    {
+      "title": "Blues Fundamentals (Open)",
+      "type": "class",
+      "start": "2026-01-06T20:45",
+      "end": "2026-01-06T22:15",
+      "url": "https://www.boogie-baeren.de/training",
+      "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
+      "address": "Gneisenaustraße 16, 80992 München",
+      "description": "Teachers: Alice & Marcin. Start ab 13.1. Club training for members: register for the cycle (05.01.–22.02.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+      "recurrence": "Tuesdays 20:45–22:15",
+      "dates": [
+        "2026-01-06",
+        "2026-01-13",
+        "2026-01-20",
+        "2026-01-27",
+        "2026-02-03",
+        "2026-02-10",
+        "2026-02-17"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "boogie-baeren",
+      "source_name": "Boogie-Bären München",
+      "school_name": "Boogie-Bären München",
+      "school_url": "https://www.boogie-baeren.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "57ae7cd890a0"
+    },
+    {
+      "title": "Bernd Bauer Blues Band: Stormy Wednesday",
+      "type": "concert",
+      "start": "2026-02-18",
+      "end": null,
+      "url": "https://berndbauerbluesband.de/termine/",
+      "venue": "Kulturzentrum Giesinger Bahnhof",
+      "address": "Giesinger Bahnhofsplatz 1, 81539 München",
+      "description": "Akustische offene Blues Session, Eintritt frei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "bernd-bauer-blues-band",
+      "source_name": "Bernd Bauer Blues Band",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "274324853af1"
+    },
+    {
+      "title": "Son of the Velvet Rat",
+      "type": "concert",
+      "start": "2026-02-18T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/son-of-the-velvet-rat-2/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Son Of The Velvet Rat",
+          "url": "https://www.last.fm/music/Son+Of+The+Velvet+Rat"
+        }
+      ],
+      "known_artists": [],
+      "id": "7cc4b5875cea"
+    },
+    {
+      "title": "All Levels Training: Balboa / Lindy / Blues",
+      "type": "class",
+      "start": "2026-01-09T19:00",
+      "end": "2026-01-09T20:30",
+      "url": "https://www.boogie-baeren.de/training",
+      "venue": "Boogie-Bären Vereinsheim (Erdgeschoss klein)",
+      "address": "Gneisenaustraße 16, 80992 München",
+      "description": "Teachers: wechselnd. 1. Fr (im Monat) = BALBOA, 2. Fr = LINDY, 3. Fr. = BLUES, 4. Fr. = LINDY Club training for members: register for the cycle (05.01.–22.02.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+      "recurrence": "Fridays 19:00–20:30",
+      "dates": [
+        "2026-01-09",
+        "2026-01-16",
+        "2026-01-23",
+        "2026-01-30",
+        "2026-02-06",
+        "2026-02-13",
+        "2026-02-20"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "boogie-baeren",
+      "source_name": "Boogie-Bären München",
+      "school_name": "Boogie-Bären München",
+      "school_url": "https://www.boogie-baeren.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "65f384802908"
+    },
+    {
+      "title": "🎷💃 STILL SWINGIN’ – The Rock That Swing Afterparty! 🕺🎶",
+      "type": "social",
+      "start": "2026-02-21",
+      "end": null,
+      "url": "https://www.vintage-club.de/parties.aspx",
+      "venue": "Vintage Club",
+      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+      "description": "Swing • Boogie • Blues • Jump Blues • Rhythm & Groove Das Festival ist vorbei, aber der Groove geht weiter! DJ Hunter aus Los Angeles bringt 4 Stunden Swing, Boogie, Blues und mehr – Tanzschuhe an, Stimmung an! ✨ 📅 20–24 Uhr | 10 € | DJ Hunter 💥 Swing, Rhythm & Groove – sei dabei und lass die goldenen Zeiten wieder aufleben! 🎩👠 ✨ Entzugserscheinungen vom Tanzen? Kein Problem – hier kommt dein Swing-Revival! 🎩👠 Seid dabei, lasst euch treiben und erlebt echtes Rock-That-Swing-Feeling! --------------------",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "vintage-club",
+      "source_name": "Vintage Club",
+      "school_name": "Vintage Club",
+      "school_url": "https://www.vintage-club.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "c306bf5aba74"
+    },
+    {
+      "title": "Zither-Manä",
+      "type": "concert",
+      "start": "2026-02-25T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/fishnblues-zither-manae-2026/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fish'n Blues Konzert · Fisch 19:00 Uhr · Eintritt: kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Zither-Manä",
+          "url": "https://www.last.fm/music/Zither-Man%C3%A4"
+        }
+      ],
+      "known_artists": [],
+      "id": "4ff77649b049"
+    },
+    {
+      "title": "Blues Explorer · ab 18.02.2026: **Electro Swing alle Level",
+      "type": "class",
+      "start": "2026-02-04T17:30",
+      "end": "2026-02-04T18:30",
+      "url": "https://www.vintage-club.de/classes.aspx",
+      "venue": "Vintage Club (VC Studio 2)",
+      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+      "description": "",
+      "recurrence": "Wednesdays 17:30–18:30",
+      "dates": [
+        "2026-02-04",
+        "2026-02-18",
+        "2026-02-25",
+        "2026-03-04"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "vintage-club",
+      "source_name": "Vintage Club",
+      "school_name": "Vintage Club",
+      "school_url": "https://www.vintage-club.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "be8ca52e65f9"
+    },
+    {
+      "title": "Blues Nerds · ab 18.02.2026: **California Blues Aufsteiger",
+      "type": "class",
+      "start": "2026-02-04T18:45",
+      "end": "2026-02-04T19:45",
+      "url": "https://www.vintage-club.de/classes.aspx",
+      "venue": "Vintage Club (VC Studio 2)",
+      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+      "description": "",
+      "recurrence": "Wednesdays 18:45–19:45",
+      "dates": [
+        "2026-02-04",
+        "2026-02-18",
+        "2026-02-25",
+        "2026-03-04"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "vintage-club",
+      "source_name": "Vintage Club",
+      "school_name": "Vintage Club",
+      "school_url": "https://www.vintage-club.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "18c743a2fe49"
+    },
+    {
+      "title": "Neu! ***Lindy & Blues for Fun · alle Level",
+      "type": "class",
+      "start": "2026-02-04T21:10",
+      "end": "2026-02-04T22:10",
+      "url": "https://www.vintage-club.de/classes.aspx",
+      "venue": "Vintage Club (VC Studio 1)",
+      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+      "description": "Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen, wesentliche Schritte und Figuren, um dich auf der Tanzfläche sicher und wohl zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkundet, die zu verschiedenen Musikstilen getanzt werden können.",
+      "recurrence": "Wednesdays 21:10–22:10",
+      "dates": [
+        "2026-02-04",
+        "2026-02-18",
+        "2026-02-25",
+        "2026-03-04"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "vintage-club",
+      "source_name": "Vintage Club",
+      "school_name": "Vintage Club",
+      "school_url": "https://www.vintage-club.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "f4e3777fc106"
+    },
+    {
+      "title": "LATE",
+      "type": "concert",
+      "start": "2026-03-04T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/late2026/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Late",
+          "url": "https://www.last.fm/music/Late"
+        }
+      ],
+      "known_artists": [],
+      "id": "85d6674dccb9"
+    },
+    {
+      "title": "Blues Workshop am 07. März 2026 von 16:00 bis 19:00",
+      "type": "workshop",
+      "start": "2026-03-07T16:00",
+      "end": "2026-03-07T19:00",
+      "url": "https://oksanapavlova.de/aktuelles/blues-workshop/",
+      "venue": null,
+      "address": null,
+      "description": "Liebe Blues Lovers, Ich biete am 7. März von 16:00 bis 19:00 Uhr einen dreistündigen Blues-Workshop für leicht Fortgeschrittene an (einige Vorkenntnisses im Blues oder Swing sind erforderlich). Der Schwerpunkt liegt auf Ballroomin’Stil von Blues mit dynamischen Figuren und Dips und Elementen aus dem Slow Drag. Bei Interesse meldet euch bitte per Email oder direkt bei mir (Siehe unter „Kontakte“).",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "oksana-pavlova",
+      "source_name": "Oksana Pavlova",
+      "school_name": "Oksana Pavlova",
+      "school_url": "https://oksanapavlova.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "a93814e85526"
+    },
+    {
+      "title": "David Howald",
+      "type": "concert",
+      "start": "2026-03-11T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/david-howald/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "David Howald",
+          "url": "https://www.last.fm/music/David+Howald"
+        }
+      ],
+      "known_artists": [],
+      "id": "11562c0ed01f"
+    },
+    {
+      "title": "Bernd Bauer Blues Band: Stormy Wednesday",
+      "type": "concert",
+      "start": "2026-03-18",
+      "end": null,
+      "url": "https://berndbauerbluesband.de/termine/",
+      "venue": "Kulturzentrum Giesinger Bahnhof",
+      "address": "Giesinger Bahnhofsplatz 1, 81539 München",
+      "description": "Akustische offene Blues Session, Eintritt frei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "bernd-bauer-blues-band",
+      "source_name": "Bernd Bauer Blues Band",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "b62b881245b3"
+    },
+    {
+      "title": "Paul Holland",
+      "type": "concert",
+      "start": "2026-03-18T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/paul-holland/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Paul Holland",
+          "url": "https://www.last.fm/music/Paul+Holland"
+        }
+      ],
+      "known_artists": [],
+      "id": "1b8201c5b563"
+    },
+    {
+      "title": "PG Petricca",
+      "type": "concert",
+      "start": "2026-03-25T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/pg-petricca/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Pg Petricca",
+          "url": "https://www.last.fm/music/Pg+Petricca"
+        }
+      ],
+      "known_artists": [],
+      "id": "7b92bcaf4543"
+    },
+    {
+      "title": "Mateo Navarro & Friends",
+      "type": "concert",
+      "start": "2026-04-01T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/fish-n-bluesmateo-08-04-26/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch 19:00 Uhr · kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Mateo Navarro",
+          "url": "https://www.last.fm/music/Mateo+Navarro"
+        }
+      ],
+      "known_artists": [],
+      "id": "3c2cafeb10eb"
+    },
+    {
+      "title": "Solo Blues (open level)",
+      "type": "class",
+      "start": "2026-02-24T20:45",
+      "end": "2026-02-24T22:15",
+      "url": "https://www.boogie-baeren.de/training",
+      "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
+      "address": "Gneisenaustraße 16, 80992 München",
+      "description": "Teachers: Denise & Marcin. Club training for members: register for the cycle (23.02.–12.04.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+      "recurrence": "Tuesdays 20:45–22:15",
+      "dates": [
+        "2026-02-24",
+        "2026-03-03",
+        "2026-03-10",
+        "2026-03-17",
+        "2026-03-24",
+        "2026-03-31",
+        "2026-04-07"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "boogie-baeren",
+      "source_name": "Boogie-Bären München",
+      "school_name": "Boogie-Bären München",
+      "school_url": "https://www.boogie-baeren.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "08de3ac02f06"
+    },
+    {
+      "title": "Osono",
+      "type": "concert",
+      "start": "2026-04-08T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/fishnblues-osono-oktober-25/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fish'n Blues Konzert · Fisch: 19:00 Uhr · Eintritt: kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Osono",
+          "url": "https://www.last.fm/music/Osono"
+        }
+      ],
+      "known_artists": [],
+      "id": "8de476016cee"
+    },
+    {
+      "title": "Bernd Bauer Blues Band: Stormy Wednesday",
+      "type": "concert",
+      "start": "2026-04-15",
+      "end": null,
+      "url": "https://berndbauerbluesband.de/termine/",
+      "venue": "Kulturzentrum Giesinger Bahnhof",
+      "address": "Giesinger Bahnhofsplatz 1, 81539 München",
+      "description": "Akustische offene Blues Session, Eintritt frei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "bernd-bauer-blues-band",
+      "source_name": "Bernd Bauer Blues Band",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "a9eb292f5bed"
+    },
+    {
+      "title": "The Ghost and the Machine | Conny Ochs",
+      "type": "concert",
+      "start": "2026-04-15T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/fishnblues-the-ghost-and-the-machine/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fish'n Blues Konzert · Fisch: 19:00 Uhr · Eintritt: kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "The Ghost And The Machine",
+          "url": "https://www.last.fm/music/The+Ghost+And+The+Machine"
+        }
+      ],
+      "known_artists": [],
+      "id": "9eedc2774dbd"
+    },
+    {
+      "title": "Blues Skies | Party mit Live Band",
+      "type": "social",
+      "start": "2026-04-18",
+      "end": null,
+      "url": "https://www.boogie-baeren.de/eventleser/blues-skies-party-mit-live-band",
+      "venue": "Boogie-Bären Vereinsheim",
+      "address": "Gneisenaustraße 16, 80992 München",
+      "description": "Social Dance am Samstag mit Live Musik von The Mooners b",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Vereinsheim"
+      ],
+      "source_id": "boogie-baeren",
+      "source_name": "Boogie-Bären München",
+      "school_name": "Boogie-Bären München",
+      "school_url": "https://www.boogie-baeren.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "c0fb6b54eaf3"
+    },
+    {
+      "title": "Phonoboy",
+      "type": "concert",
+      "start": "2026-04-22T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/fishnblues-phonoby/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fish'n Blues Konzert · Fisch: 19:00 Uhr · Eintritt: kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Phonoboy",
+          "url": "https://www.last.fm/music/Phonoboy"
+        }
+      ],
+      "known_artists": [],
+      "id": "ca5833014b97"
+    },
+    {
+      "title": "Slow Bal & Blues | Übungsabend",
+      "type": "social",
+      "start": "2026-04-25",
+      "end": null,
+      "url": "https://www.boogie-baeren.de/eventleser/slow-bal-blues-social-dance",
+      "venue": "Boogie-Bären Vereinsheim",
+      "address": "Gneisenaustraße 16, 80992 München",
+      "description": "At this (and every) Übungsabend, all Boogie Bären members are welcome, as well as those interested in getting to know the association.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Vereinsheim"
+      ],
+      "source_id": "boogie-baeren",
+      "source_name": "Boogie-Bären München",
+      "school_name": "Boogie-Bären München",
+      "school_url": "https://www.boogie-baeren.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "729a870dff16"
+    },
+    {
+      "title": "Bärely Moving, Deeply Grooving",
+      "type": "workshop",
+      "start": "2026-04-25",
+      "end": "2026-04-26",
+      "url": "https://www.boogie-baeren.de/eventleser/baerely-moving-deeply-grooving",
+      "venue": "Boogie-Bären Vereinsheim",
+      "address": "Gneisenaustraße 16, 80992 München",
+      "description": "Bärely Moving, Deeply Grooving | Blues and Slow Balboa Workshop Who says we need a lot of movement for a lot of fun? This workshop explores two styles that, while coming from different traditions, meet beautifully in their emphasis on listening, subtlety, and human connection: Blues & Slow Bal Blues and Slow Bal both invite dancers to move with intention rather than speed. Instead of flashy patterns, they focus on weight shifts, timing, and the feeling of the music. In both dances, the partnership is central: you’re not just executing steps, you’re responding to each other moment by moment. Th",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Vereinsheim"
+      ],
+      "source_id": "boogie-baeren",
+      "source_name": "Boogie-Bären München",
+      "school_name": "Boogie-Bären München",
+      "school_url": "https://www.boogie-baeren.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "ea5f2ff1855c"
+    },
+    {
+      "title": "taxi yéyé",
+      "type": "concert",
+      "start": "2026-04-29T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/taxi-yeye/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "3b461f3f50f0"
+    },
+    {
+      "title": "TITANIC ORCHESTER",
+      "type": "concert",
+      "start": "2026-05-06T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/titanic-orchester/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Titanic Orchester",
+          "url": "https://www.last.fm/music/Titanic+Orchester"
+        }
+      ],
+      "known_artists": [],
+      "id": "1edd96adede3"
+    },
+    {
+      "title": "GÖTZ MILDENBERGER",
+      "type": "concert",
+      "start": "2026-05-13T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/goetz-mildenberger/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19.00 Uhr · kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "b5c1a03178f6"
+    },
+    {
+      "title": "Blues & Boogie Clubabend",
+      "type": "social",
+      "start": "2026-05-15",
+      "end": null,
+      "url": "https://www.boogie-baeren.de/eventleser/blues-boogie-clubabend-15052026",
+      "venue": "Boogie-Bären Vereinsheim",
+      "address": "Gneisenaustraße 16, 80992 München",
+      "description": "Am Freitagabend bieten wir euch im Anschluss an das reguläre Training ab 20:30 Uhr einen Clubabend an. Hier haben Tänzer:innen jeden Niveaus, Gelegenheit das Erlernte auszuprobieren, andere Tänzer:innen kennenzulernen und gemeinsam Spaß zu haben. Es geht dabei nicht nur um das Tanzen, sondern auch um das gemeinschaftliche Erlebnis, bei dem du die Möglichkeit hast, auch Tänzer:innen außerhalb deines eigenen Trainings und von anderen Tanzsparten kennenzulernen. Im EG lädt euch die Swing-Sparte zum Blues Social Dance ein. Parallel findet im UG der Boogie Woogie der Clubabend statt. Das Kleingeld ",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Clubabend"
+      ],
+      "source_id": "boogie-baeren",
+      "source_name": "Boogie-Bären München",
+      "school_name": "Boogie-Bären München",
+      "school_url": "https://www.boogie-baeren.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "df78c5b293ce"
+    },
+    {
+      "title": "Blues Workshop am 16. Mai 2026",
+      "type": "workshop",
+      "start": "2026-05-16T16:00",
+      "end": "2026-05-16T19:00",
+      "url": "https://oksanapavlova.de/aktuelles/blues-workshop-am-16-mai-2026/",
+      "venue": null,
+      "address": "Arnulfstr. 195, 1.OG, München",
+      "description": "Im Mai bieten wir am Samstag, 16. Mai von 16:00 bis 19:00 Uhr wieder einen dreistündigen Blues-Workshop für leicht Fortgeschrittene an (einige Vorkenntnisse im Blues oder Swing sind erforderlich). Der Schwerpunkt liegt auf Ballroomin‘ Stil von Blues mit dynamischen Figuren und Dips und Elementen aus dem Slow Drag. Aber nicht nur das! Dieses Mal findet im Anschluss an den Workshop von 19:30 bis 22:30 Uhr die Bluesnight statt. Die Workshop-Teilnehmer erhalten 50 % Ermäßigung auf den Eintritt zur Bluesnight. Adresse: Arnulfstr. 195, 1.OG, München Preis: 50 EUR (55 EUR mit Bluesnight) Bei Interess",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "oksana-pavlova",
+      "source_name": "Oksana Pavlova",
+      "school_name": "Oksana Pavlova",
+      "school_url": "https://oksanapavlova.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "3ce42d219494"
+    },
+    {
+      "title": "Bernd Bauer Blues Band: Stormy Wednesday",
+      "type": "concert",
+      "start": "2026-05-20",
+      "end": null,
+      "url": "https://berndbauerbluesband.de/termine/",
+      "venue": "Kulturzentrum Giesinger Bahnhof",
+      "address": "Giesinger Bahnhofsplatz 1, 81539 München",
+      "description": "Akustische offene Blues Session, Eintritt frei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "bernd-bauer-blues-band",
+      "source_name": "Bernd Bauer Blues Band",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "c11e81f0a6c0"
+    },
+    {
+      "title": "Hochzeitskapelle",
+      "type": "concert",
+      "start": "2026-05-20T20:00",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/hochzeitskapelle/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · Eintritt frei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Hochzeitskapelle",
+          "url": "https://www.last.fm/music/Hochzeitskapelle"
+        }
+      ],
+      "known_artists": [],
+      "id": "d872c97d3477"
+    },
+    {
+      "title": "Mateo Navarro & Friends",
+      "type": "concert",
+      "start": "2026-05-27T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/fish-n-bluesmateo-05-26/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch 19:00 Uhr · kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Mateo Navarro",
+          "url": "https://www.last.fm/music/Mateo+Navarro"
+        }
+      ],
+      "known_artists": [],
+      "id": "7a1f457b1df1"
+    },
+    {
+      "title": "Blues Open Practice",
+      "type": "class",
+      "start": "2026-04-14T20:45",
+      "end": "2026-04-14T22:15",
+      "url": "https://www.boogie-baeren.de/training",
+      "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
+      "address": "Gneisenaustraße 16, 80992 München",
+      "description": "ungeführt Club training for members: register for the cycle (13.04.–07.06.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+      "recurrence": "Tuesdays 20:45–22:15",
+      "dates": [
+        "2026-04-14",
+        "2026-04-21",
+        "2026-04-28",
+        "2026-05-05",
+        "2026-05-12",
+        "2026-05-19",
+        "2026-05-26",
+        "2026-06-02"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "boogie-baeren",
+      "source_name": "Boogie-Bären München",
+      "school_name": "Boogie-Bären München",
+      "school_url": "https://www.boogie-baeren.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "f995411d3cca"
+    },
+    {
+      "title": "Bernd Bauer Blues Band: Fish’n’Blues",
+      "type": "concert",
+      "start": "2026-06-03",
+      "end": null,
+      "url": "https://berndbauerbluesband.de/termine/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "bernd-bauer-blues-band",
+      "source_name": "Bernd Bauer Blues Band",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "46cc8e7fe474"
+    },
+    {
+      "title": "Blues & Boogie Clubabend",
+      "type": "social",
+      "start": "2026-06-05",
+      "end": null,
+      "url": "https://www.boogie-baeren.de/eventleser/blues-boogie-clubabend-19062026",
+      "venue": "Boogie-Bären Vereinsheim",
+      "address": "Gneisenaustraße 16, 80992 München",
+      "description": "Am Freitagabend bieten wir euch im Anschluss an das reguläre Training ab 20:30 Uhr einen Clubabend an. Hier haben Tänzer:innen jeden Niveaus, Gelegenheit das Erlernte auszuprobieren, andere Tänzer:innen kennenzulernen und gemeinsam Spaß zu haben. Es geht dabei nicht nur um das Tanzen, sondern auch um das gemeinschaftliche Erlebnis, bei dem du die Möglichkeit hast, auch Tänzer:innen außerhalb deines eigenen Trainings und von anderen Tanzsparten kennenzulernen. Im EG lädt euch die Swing-Sparte zum Blues Social Dance ein. Parallel findet im UG der Boogie Woogie der Clubabend statt. Das Kleingeld ",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Clubabend"
+      ],
+      "source_id": "boogie-baeren",
+      "source_name": "Boogie-Bären München",
+      "school_name": "Boogie-Bären München",
+      "school_url": "https://www.boogie-baeren.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "9be1a5c28a3d"
+    },
+    {
+      "title": "Mama’s Greens",
+      "type": "concert",
+      "start": "2026-06-10T20:00",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/mamas-greens/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenfrei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "451e190c8db2"
+    },
+    {
+      "title": "Blues Übungsabend",
+      "type": "social",
+      "start": "2026-06-13",
+      "end": null,
+      "url": "https://www.boogie-baeren.de/eventleser/uebungsabend_blues_juni_2026",
+      "venue": "Boogie-Bären Vereinsheim",
+      "address": "Gneisenaustraße 16, 80992 München",
+      "description": "Am Samstagabend ab 20:00 Uhr laden wir euch zu einem Blues Übungsabend ein. Kommt zahlreich und zeitig - eine Überraschung erwartet euch! Ansprechpartner: Marcin über marcin.stankiewicz@boogie-baeren.de Das Kleingeld für die Getränke nicht vergessen, unsere Barhelfer:innen werden es euch danken.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Übungsabend"
+      ],
+      "source_id": "boogie-baeren",
+      "source_name": "Boogie-Bären München",
+      "school_name": "Boogie-Bären München",
+      "school_url": "https://www.boogie-baeren.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "997d371a1d66"
+    },
+    {
+      "title": "Bernd Bauer Blues Band: Stormy Wednesday",
+      "type": "concert",
+      "start": "2026-06-17",
+      "end": null,
+      "url": "https://berndbauerbluesband.de/termine/",
+      "venue": "Kulturzentrum Giesinger Bahnhof",
+      "address": "Giesinger Bahnhofsplatz 1, 81539 München",
+      "description": "Akustische offene Blues Session, Eintritt frei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "bernd-bauer-blues-band",
+      "source_name": "Bernd Bauer Blues Band",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "d7b635577239"
+    },
+    {
+      "title": "Romeo Hall & The Wildfire",
+      "type": "concert",
+      "start": "2026-06-17T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/fishnblues-romeo-hall-the-wildfire-17-06-26/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "The Wildfire",
+          "url": "https://www.last.fm/music/The+Wildfire"
+        }
+      ],
+      "known_artists": [],
+      "id": "9a1ecf1e5eb4"
+    },
+    {
+      "title": "G. Rag y los Hermanos Patchekos",
+      "type": "concert",
+      "start": "2026-06-24T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/fishnblues-los-patchekos24-06-26/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch 19.00 Uhr · kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "G. Rag y Los Hermanos Patchekos",
+          "url": "https://www.last.fm/music/G.+Rag+y+Los+Hermanos+Patchekos"
+        }
+      ],
+      "known_artists": [],
+      "id": "0600021d6313"
+    },
+    {
+      "title": "Leonie singt Duo! & the reload club",
+      "type": "concert",
+      "start": "2026-07-01T20:00",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/leonie-singt-duo-the-reload-club/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · Eintritt frei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "The Reload Club",
+          "url": "https://www.last.fm/music/The+Reload+Club"
+        }
+      ],
+      "known_artists": [],
+      "id": "c1cd97a35408"
+    },
+    {
+      "title": "Robespiespierre",
+      "type": "concert",
+      "start": "2026-07-08T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/robespiespierre/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenfrei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "c4dfaf5626ec"
+    },
+    {
+      "title": "Blues Workshop am 11.07.2026",
+      "type": "workshop",
+      "start": "2026-07-11T12:00",
+      "end": "2026-07-11T15:00",
+      "url": "https://oksanapavlova.de/aktuelles/blues-workshop-am-11-07-2026/",
+      "venue": null,
+      "address": "Arnulfstr. 195, 1. OG",
+      "description": "Liebe Tänzer, der Blues sollte nicht in der Sommerhitze dahinschmelzen – und wir sollten auch keinen ganzen Monat ohne Blues-Workshop verbringen. Lasst uns also diesen Juli den Blues lebendig halten … und in Bewegung bleiben. Ich möchte alle Blues-Liebhaber herzlich zum nächsten Blues-Dance-Workshop einladen. Geleitet wird er von Oksana, diesmal gemeinsam mit David C. Tritel, einem Swing- und Blues-Tanzlehrer aus den USA. ✨ In diesem dreistündigen Workshop behandeln wir zwei Themen: „The 8 Directional Slide“ und „Oppositional Steps“. Bei beiden Themen geht es darum, neue Ideen zu erkunden und ",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "oksana-pavlova",
+      "source_name": "Oksana Pavlova",
+      "school_name": "Oksana Pavlova",
+      "school_url": "https://oksanapavlova.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "5dc7c34cd502"
+    },
+    {
+      "title": "Bernd Bauer Blues Band: Stormy Wednesday",
+      "type": "concert",
+      "start": "2026-07-15T20:00",
+      "end": null,
+      "url": "https://berndbauerbluesband.de/termine/",
+      "venue": "Kulturzentrum Giesinger Bahnhof",
+      "address": "Giesinger Bahnhofplatz 1, 81539  München",
+      "description": "Akustische offene Blues Session, Eintritt frei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "bernd-bauer-blues-band",
+      "source_name": "Bernd Bauer Blues Band",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "a148ef8d36bd"
+    },
+    {
+      "title": "Charles M. Mailer & Magic McVern",
+      "type": "concert",
+      "start": "2026-07-15T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/charles-m-mailer-magic-mcvern26/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenfrei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Charles M. Mailer",
+          "url": "https://www.last.fm/music/Charles+M.+Mailer"
+        }
+      ],
+      "known_artists": [],
+      "id": "ec19876f55ff"
+    },
+    {
+      "title": "Hansi Schneider | SIZE no MATTER",
+      "type": "concert",
+      "start": "2026-07-22T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/hansi-schneider-size-no-matter/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenfrei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "41035485891f"
+    },
+    {
+      "title": "Bernd Bauer Blues Band: Auf ins Hexenhaus",
+      "type": "concert",
+      "start": "2026-07-25",
+      "end": null,
+      "url": "https://berndbauerbluesband.de/termine/",
+      "venue": "Kulturcafé Gans Woanders",
+      "address": "Pilgersheimerstr. 13, 81543 München",
+      "description": "",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "bernd-bauer-blues-band",
+      "source_name": "Bernd Bauer Blues Band",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "fdde5325e1a4"
+    },
+    {
+      "title": "Blues Open Level",
+      "type": "class",
+      "start": "2026-06-09T20:45",
+      "end": "2026-06-09T22:15",
+      "url": "https://www.boogie-baeren.de/training",
+      "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
+      "address": "Gneisenaustraße 16, 80992 München",
+      "description": "Teachers: Denise & Marcin. Club training for members: register for the cycle (08.06.–02.08.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+      "recurrence": "Tuesdays 20:45–22:15",
+      "dates": [
+        "2026-06-09",
+        "2026-06-16",
+        "2026-06-23",
+        "2026-06-30",
+        "2026-07-07",
+        "2026-07-14",
+        "2026-07-21",
+        "2026-07-28"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "boogie-baeren",
+      "source_name": "Boogie-Bären München",
+      "school_name": "Boogie-Bären München",
+      "school_url": "https://www.boogie-baeren.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "1c52d9f69bcf"
+    },
+    {
+      "title": "Dr. Will & The Wizards",
+      "type": "concert",
+      "start": "2026-07-29T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/dr-will-the-wizards26/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenfrei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Dr. Will & The Wizards",
+          "url": "https://www.last.fm/music/Dr.+Will+%26+The+Wizards"
+        }
+      ],
+      "known_artists": [],
+      "id": "22f2ec2f340c"
+    },
+    {
+      "title": "Black Patti",
+      "type": "concert",
+      "start": "2026-08-05T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/black-patti/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenfrei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Black Patti",
+          "url": "https://www.last.fm/music/Black+Patti"
+        }
+      ],
+      "known_artists": [],
+      "id": "4943347daf2d"
+    },
+    {
+      "title": "Osono & Mateo Navarro",
+      "type": "concert",
+      "start": "2026-08-12T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/osono-mateo-navarro/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenfrei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Mateo Navarro",
+          "url": "https://www.last.fm/music/Mateo+Navarro"
+        }
+      ],
+      "known_artists": [],
+      "id": "4a98e9cf0ce1"
+    },
+    {
+      "title": "Bernd Bauer Blues Band: Giesinger Bahnhofsfest",
+      "type": "concert",
+      "start": "2026-09-13T12:00",
+      "end": null,
+      "url": "https://berndbauerbluesband.de/termine/",
+      "venue": "Kulturzentrum Giesinger Bahnhof",
+      "address": "Giesinger Bahnhofplatz 1, 81539  München",
+      "description": "",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "bernd-bauer-blues-band",
+      "source_name": "Bernd Bauer Blues Band",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "d563f536411e"
+    },
+    {
+      "title": "Bernd Bauer Blues Band: Stormy Wednesday",
+      "type": "concert",
+      "start": "2026-09-16T20:00",
+      "end": null,
+      "url": "https://berndbauerbluesband.de/termine/",
+      "venue": "Kulturzentrum Giesinger Bahnhof",
+      "address": "Giesinger Bahnhofplatz 1, 81539  München",
+      "description": "Akustische offene Blues Session, Eintritt frei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "bernd-bauer-blues-band",
+      "source_name": "Bernd Bauer Blues Band",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "bd8e5c147020"
+    },
+    {
+      "title": "The Caboose",
+      "type": "concert",
+      "start": "2026-09-16T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/the-caboose/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fish: 19:00 Uhr · kostenfrei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "The Caboose",
+          "url": "https://www.last.fm/music/The+Caboose"
+        }
+      ],
+      "known_artists": [],
+      "id": "b6162373816d"
+    },
+    {
+      "title": "Bernd Bauer Blues Band: Live-Konzert",
+      "type": "concert",
+      "start": "2026-09-18T20:00",
+      "end": null,
+      "url": "https://berndbauerbluesband.de/termine/",
+      "venue": "Kultur-Etage Messestadt",
+      "address": "Mittelbau Riem Arcaden, Seiteneingang 19, 3.OG, Erika-Cremer-Str. 8, 81829 München",
+      "description": "",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "bernd-bauer-blues-band",
+      "source_name": "Bernd Bauer Blues Band",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "b198a98f481f"
+    },
+    {
+      "title": "Veranda Music | the reload club",
+      "type": "concert",
+      "start": "2026-09-23T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/veranda-music-the-reload-club/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenfrei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Veranda Music",
+          "url": "https://www.last.fm/music/Veranda+Music"
+        }
+      ],
+      "known_artists": [],
+      "id": "b2fd85a2e1c7"
+    },
+    {
+      "title": "Degurutieni",
+      "type": "concert",
+      "start": "2026-09-30T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/degurutieni30-09-26/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenfrei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Degurutieni",
+          "url": "https://www.last.fm/music/Degurutieni"
+        }
+      ],
+      "known_artists": [],
+      "id": "ef501198ad6f"
+    },
+    {
+      "title": "Blues Intensive | Jukin' & Ballroomin' with Eva & Sergio",
+      "type": "workshop",
+      "start": "2026-10-10",
+      "end": "2026-10-11",
+      "url": "https://www.boogie-baeren.de/eventleser/blues-intensive-jukin-ballroomin-with-eva-sergio",
+      "venue": "Boogie-Bären Vereinsheim",
+      "address": "Gneisenaustraße 16, 80992 München",
+      "description": "We are thrilled to welcome Eva & Sergio from Spain to Munich for an intensive Blues workshop weekeend focused on Jukin' and Ballroomin'. If you can make it for one day only, tick the respective box in the registration form! Contact Venetia Bazioti for all workshop-related questions: venetia.bazioti@boogie-baeren.de",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Workshop"
+      ],
+      "source_id": "boogie-baeren",
+      "source_name": "Boogie-Bären München",
+      "school_name": "Boogie-Bären München",
+      "school_url": "https://www.boogie-baeren.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "95993cb1c271"
+    },
+    {
+      "title": "California Blues · alle Level",
+      "type": "class",
+      "start": "2026-09-23T18:45",
+      "end": "2026-09-23T19:45",
+      "url": "https://www.vintage-club.de/classes.aspx",
+      "venue": "Vintage Club (VC Studio 2)",
+      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+      "description": "Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen, wesentliche Schritte und Figuren, um dich auf der Tanzfläche sicher und wohl zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkundet, die zu verschiedenen Musikstilen getanzt werden können. Advance registration by email required.",
+      "recurrence": "Wednesdays 18:45–19:45",
+      "dates": [
+        "2026-09-23",
+        "2026-09-30",
+        "2026-10-07",
+        "2026-10-14"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "vintage-club",
+      "source_name": "Vintage Club",
+      "school_name": "Vintage Club",
+      "school_url": "https://www.vintage-club.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "be36aa3ae5cc"
+    },
+    {
+      "title": "Stefan Berchtold & The Deed",
+      "type": "concert",
+      "start": "2026-10-14T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/fish-n-blues-deed-26/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch 19:00 Uhr · kostenfrei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "The Deed",
+          "url": "https://www.last.fm/music/The+Deed"
+        }
+      ],
+      "known_artists": [],
+      "id": "45262f822c94"
+    },
+    {
+      "title": "Adrenalines",
+      "type": "concert",
+      "start": "2026-10-17T14:00",
+      "end": "2026-10-17T16:00",
+      "url": "https://www.gansamwasser.de/kulturprogramm/herbstfest/",
+      "venue": "Café Gans am Wasser",
+      "address": "Mollsee im Westpark, 81373 München",
+      "description": "Die ADRENALINES sind seit 2020 in ganz Süddeutschland unterwegs, haben eine Vielzahl von umjubelten Gigs in Clubs, Kneipen und auf Stadtfesten gespielt und konnten sich dadurch eine solide Fanbase erarbeiten. Mit neuem Repertoire aus Blues-Rock-Soul und dabei vielen tanzbaren Songs, sorgen die ADRENALINES richtig für Partystimmung! Alle Songs werden mit viel Emotion und Leidenschaft zelebriert, dabei immer präsent sind Spielfreude, der ansteckende Groove, das brillante Wechselspiel zwischen Gitarre und Keyboards sowie der unverwechselbare Sound der Band. Die ausdrucksstarken Lead-Vocals und de",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Livemusik"
+      ],
+      "source_id": "gans-am-wasser",
+      "source_name": "Café Gans am Wasser",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Adrenalines",
+          "url": "https://www.last.fm/music/Adrenalines"
+        }
+      ],
+      "known_artists": [],
+      "id": "bb00070c6ab9"
+    },
+    {
+      "title": "Inninger Bluestage 2026: Chris Kramer & Beat Box’n‘ Blues + Al Jones Band",
+      "type": "concert",
+      "start": "2026-10-17T19:30",
+      "end": "2026-10-17T23:00",
+      "url": "https://www.in-muenchen.de/events/chris-kramer-beat-boxn-blues-al-jones-band.html",
+      "venue": "Alte Brauerei Stegen",
+      "address": "Landsberger Straße 57, 82266 Inning am Ammersee",
+      "description": "Die Inninger Bluestage 2026 präsentiert zwei herausragende Blues-Bands. Chris Kramer & Beat Box’n’ Blues vereinen Blues mit Beatbox-Sounds. Al Jones Band bietet authentische Blues-Geschichten.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Chris Kramer",
+          "url": "https://www.last.fm/music/Chris+Kramer"
+        },
+        {
+          "name": "Al Jones Band",
+          "url": "https://www.last.fm/music/Al+Jones+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "25459613cfc6"
+    },
+    {
+      "title": "Bayoogie Masters – die Meister aus Blues & Boogie",
+      "type": "concert",
+      "start": "2026-10-17T20:00",
+      "end": "2026-10-17T22:30",
+      "url": "https://www.in-muenchen.de/events/bayoogie-masters-die-meister-aus-blues-boogie.html",
+      "venue": "Hofspielhaus",
+      "address": "Falkenturmstraße 8, 80331 München",
+      "description": "Im Hofspielhaus Theater München präsentiert Christian Christl am Konzertflügel die renommierten Blueskünstler Georg Schroeter und Marc Breitfelder. Schroeter am Piano und Breitfelder an der Bluesharp bieten einen Abend voller handgemachter Musik, geprägt von jahrzehntelanger Erfahrung auf internationalen Bühnen.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "fa6f6db21fcd"
+    },
+    {
+      "title": "Henrik Freischlader",
+      "type": "concert",
+      "start": "2026-10-18T20:00",
+      "end": "2026-10-18T23:00",
+      "url": "https://www.in-muenchen.de/events/henrik-freischlader.html",
+      "venue": "Muffatwerk / Ampere",
+      "address": "Zellstraße 4, 81667 München",
+      "description": "Henrik Freischlader präsentiert mit seiner neu formierten Band eine Mischung aus Blues-Rock, Soul, Groove und atmosphärischer Tiefe. Die Besetzung mit Dave Warmerdam an den Keyboards, Gregor Sonnenberg am Bass und Leon Mucke am Schlagzeug verspricht eine dynamische Liveperformance voller Interaktion und Improvisation.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Bluesrock"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Henrik Freischlader",
+          "url": "https://www.last.fm/music/Henrik+Freischlader"
+        }
+      ],
+      "known_artists": [
+        "Henrik Freischlader"
+      ],
+      "id": "d3f28b38d0c8"
+    },
+    {
+      "title": "Ben Poole (GBR)",
+      "type": "concert",
+      "start": "2026-10-18T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=a0bb1c36d2d69f5fc700d565dd7853c8",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Mischung aus Blues, Rock und Soul BEN POOLE international anerkannter, preisgekrönter Gitarrist, Sänger und Songwriter. Nominiert als einer der „Besten Blues-Gitarristen der Welt“ ist er an der Spitze der talentierten Blues-/Rockszene auf weltweiter Ebene. Bereits in jungen Jahren machte er...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Ben Poole",
+          "url": "https://www.last.fm/music/Ben+Poole"
+        }
+      ],
+      "known_artists": [],
+      "id": "62b82f04589e"
+    },
+    {
+      "title": "Black Patti",
+      "type": "concert",
+      "start": "2026-10-19T19:30",
+      "end": "2026-10-19T22:30",
+      "url": "https://www.in-muenchen.de/events/black-patti.html",
+      "venue": "Vereinsheim",
+      "address": "Occamstraße 8, 80802 München",
+      "description": "Black Patti präsentiert ein facettenreiches Programm ländlicher Blues- und Roots-Musik. Das Duo Peter Crow C. und Ferdinand „Jelly Roll“ Kraemer entführt das Publikum mit Songs zwischen Delta Blues, Ragtime und Spirituals in eine vergangene Zeit. Ihre Musik, zweistimmig und handgemacht, erzählt authentische Lebensgeschichten.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Black Patti",
+          "url": "https://www.last.fm/music/Black+Patti"
+        }
+      ],
+      "known_artists": [],
+      "id": "634620ee0057"
+    },
+    {
+      "title": "Sari Schorr",
+      "type": "concert",
+      "start": "2026-10-20T20:00",
+      "end": "2026-10-20T23:00",
+      "url": "https://www.in-muenchen.de/events/sari-schorr.html",
+      "venue": "Backstage Club",
+      "address": "Reitknechtstr. 6, 80639 München",
+      "description": "Sari Schorr geht im Herbst mit ihrer Running Wild European Tour auf Tournee und präsentiert ihr neues Studioalbum, das soulige und bluesige Elemente mit kraftvollen Gitarrenarrangements verbindet.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues, Rock"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Sari Schorr",
+          "url": "https://www.last.fm/music/Sari+Schorr"
+        }
+      ],
+      "known_artists": [],
+      "id": "880d3f25696b"
+    },
+    {
+      "title": "Christian Schwarzbach & Hans Pramberger – acoustic experience",
+      "type": "concert",
+      "start": "2026-10-21T19:00",
+      "end": "2026-10-21T22:00",
+      "url": "https://www.in-muenchen.de/events/christian-schwarzbach-hans-pramberger-acoustic-experience.html",
+      "venue": "Barschwein",
+      "address": "Franzstraße 3, 80802 München",
+      "description": "Die beiden lassen mit zwei Akustikgitarren Klassiker von Blues bis Rock neu erstrahlen. Ihr hypnotischer Groove, mitreißende Gitarrensoli und perfekter zweistimmiger Gesang begeistern. Von den Beatles bis ZZ-Top ist für jede*n etwas dabei.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues, Rock"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Christian Schwarzbach",
+          "url": "https://www.last.fm/music/Christian+Schwarzbach"
+        }
+      ],
+      "known_artists": [],
+      "id": "a4ba40b1de99"
+    },
+    {
+      "title": "Bernd Bauer Blues Band: Stormy Wednesday",
+      "type": "concert",
+      "start": "2026-10-21T20:00",
+      "end": "2026-10-21T22:30",
+      "url": "https://berndbauerbluesband.de/termine/",
+      "venue": "Kulturzentrum Giesinger Bahnhof",
+      "address": "Giesinger Bahnhofplatz 1, 81539  München",
+      "description": "Akustische offene Blues Session, Eintritt frei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "bernd-bauer-blues-band",
+      "source_name": "Bernd Bauer Blues Band",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "b0270a701912"
+    },
+    {
+      "title": "Louis Ville",
+      "type": "concert",
+      "start": "2026-10-21T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/fishnblues-louis-ville1026/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenfrei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Louis Ville",
+          "url": "https://www.last.fm/music/Louis+Ville"
+        }
+      ],
+      "known_artists": [],
+      "id": "9d13687e50d5"
+    },
+    {
+      "title": "Vollmer Brothers Organ Trio feat. Donniele Graves",
+      "type": "concert",
+      "start": "2026-10-22T20:00",
+      "end": "2026-10-22T23:00",
+      "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
+      "venue": "Rheinpfalz Schwabing",
+      "address": "Kurfürstenstraße 35, 80801 München",
+      "description": "Ausnahme: am Donnerstag Funk, Gospel, Groove – ein Sound voller Energie, Seele und Spielfreude. Das Vollmer Organ Trio steht für ein mitreißendes Live-Erlebnis zwischen Blues, Jazz, Funk und Gospel. Mit Hammond-Orgel, Gitarre, Drums und einer kraftvollen Soulstimme verbindet die Band Virtuosität mit emotionaler Tiefe und unmittelbarer Bühnenenergie. Seele und Spielfreude. Wenn warme Hammond-Klänge den Raum füllen, Gitarrenlinien Geschichten erzählen und ein Groove einsetzt, der sich nicht mehr abschütteln lässt, beginnt die Welt des Vollmer Organ Trios. Ihre Musik atmet den Geist des Blues, di",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "rheinpfalz-schwabing",
+      "source_name": "Rheinpfalz Schwabing",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "d070fb212e3a"
+    },
+    {
+      "title": "3. Wolfratshauser Blues Festival",
+      "type": "concert",
+      "start": "2026-10-23T19:30",
+      "end": "2026-10-23T23:00",
+      "url": "https://www.in-muenchen.de/events/3-wolfratshauser-blues-festival.html",
+      "venue": "Ehemalige Disko Turm",
+      "address": "Hans-Urmiller-Ring 54, 82515 Wolfratshausen",
+      "description": "Mehrere Blues-Bands sorgen über zwei Tage für coole Grooves und beste Musik. Das Vollmer Organ Trio verbindet Blues, Jazz, Funk und Gospel zu einem modernen Sound voller Groove. Auch Connor Selby, bekannt von Dire Straits und The Who, präsentiert seine Musik.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "77611c838a5b"
+    },
+    {
+      "title": "Inninger Bluestage 2026: Manu Lanvin + Cecilya & The Candy Kings",
+      "type": "concert",
+      "start": "2026-10-23T19:30",
+      "end": "2026-10-23T23:00",
+      "url": "https://www.in-muenchen.de/events/manu-lanvin-cecilya-the-candy-kings.html",
+      "venue": "Alte Brauerei Stegen",
+      "address": "Landsberger Straße 57, 82266 Inning am Ammersee",
+      "description": "Im Zentrum des Abends stehen zwei außergewöhnliche Blues-Acts. Manu Lanvin präsentiert seine kraftvolle Stimme und energiegeladenen Auftritte. Cecilya & The Candy Kings entführen mit ihrem Retro-Cocktail aus Rhythm & Blues und modernen Twists in eine andere Zeit. Ein Abend voll authentischer, handgemachter Bluesmusik.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Bluesrock"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Manu Lanvin",
+          "url": "https://www.last.fm/music/Manu+Lanvin"
+        },
+        {
+          "name": "Cecilya & The Candy Kings",
+          "url": "https://www.last.fm/music/Cecilya+%26+The+Candy+Kings"
+        }
+      ],
+      "known_artists": [],
+      "id": "b445d9b85dd1"
+    },
+    {
+      "title": "Back To Zero",
+      "type": "concert",
+      "start": "2026-10-23T20:00",
+      "end": null,
+      "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
+      "venue": "Rheinpfalz Schwabing",
+      "address": "Kurfürstenstraße 35, 80801 München",
+      "description": "BACK TO ZERO ist eine Münchner Rock-, Blues- und Gefühlsband, erstmals 1985 am Start. Sie spielen: Blues, Rock, Oldies und Soul… from the Sixties till now … Schon 1985 fanden Sänger Axel und Bassist Oliver, in der damals gegründeten Formation BACK TO ZERO, zusammen. Mit einem Mix aus Eigenkompositionen von Axel und bekannten oder weniger bekannten Rock- und Blues-Nummern, begeisterten sie schon damals mit ihrem Programm in Münchner Musikkneipen und auf Privatfesten. Nach einer längeren Pause und Erfahrung in zahlreichen anderen Formationen fanden wir wieder zusammen, seit vielen Jahren wird di",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "rheinpfalz-schwabing",
+      "source_name": "Rheinpfalz Schwabing",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Back to Zero",
+          "url": "https://www.last.fm/music/Back+to+Zero"
+        }
+      ],
+      "known_artists": [],
+      "id": "79117f226e9d"
+    },
+    {
+      "title": "3. Wolfratshauser Blues Festival",
+      "type": "concert",
+      "start": "2026-10-24T19:30",
+      "end": "2026-10-24T23:00",
+      "url": "https://www.in-muenchen.de/events/3-wolfratshauser-blues-festival.html",
+      "venue": "Ehemalige Disko Turm",
+      "address": "Hans-Urmiller-Ring 54, 82515 Wolfratshausen",
+      "description": "Mehrere Blues-Bands sorgen über zwei Tage für coole Grooves und beste Musik. Das Vollmer Organ Trio verbindet Blues, Jazz, Funk und Gospel zu einem modernen Sound voller Groove. Auch Connor Selby, bekannt von Dire Straits und The Who, präsentiert seine Musik.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "545ea022d36a"
+    },
+    {
+      "title": "Inninger Bluestage 2026: Young Fast Running Man + Sir Oliver Mally & Peter Schneider",
+      "type": "concert",
+      "start": "2026-10-24T19:30",
+      "end": "2026-10-24T23:00",
+      "url": "https://www.in-muenchen.de/events/young-fast-running-man-sir-oliver-mally-peter-schneider.html",
+      "venue": "Alte Brauerei Stegen",
+      "address": "Landsberger Straße 57, 82266 Inning am Ammersee",
+      "description": "Inninger Bluestage 2026 präsentiert zwei Bands: Young Fast Running Man und das Duo Sir Oliver Mally & Peter Schneider. Ein vielseitiges Programm mit Folkrock und energiegeladenem Blues.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Bluesrock"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Young Fast Running Man",
+          "url": "https://www.last.fm/music/Young+Fast+Running+Man"
+        },
+        {
+          "name": "Sir Oliver Mally & Peter Schneider",
+          "url": "https://www.last.fm/music/Sir+Oliver+Mally+%26+Peter+Schneider"
+        }
+      ],
+      "known_artists": [],
+      "id": "0814eca48dc0"
+    },
+    {
+      "title": "London Blues Collective",
+      "type": "concert",
+      "start": "2026-10-24T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/london-blues-collective.html",
+      "venue": "Wolf-Ferrari-Haus Ottobrunn",
+      "address": "Rathausplatz 2, 85521 Ottobrunn",
+      "description": "Das 9. JAZZFEST OTTOBRUNN widmet sich dem Blues mit dem LONDON BLUES COLLECTIVE, GREG COULSON, JESS HAYES und CONNOR SELBY.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "8ece850d2bb7"
+    },
+    {
+      "title": "William’s Wetsox",
+      "type": "concert",
+      "start": "2026-10-24T20:00",
+      "end": "2026-10-24T23:00",
+      "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
+      "venue": "Rheinpfalz Schwabing",
+      "address": "Kurfürstenstraße 35, 80801 München",
+      "description": "Williams Fändrich, auch „da Wetsox“ genannt, gehört seit den 1990ern zu den profiliertesten Bluesmusikern im deutschsprachigen Raum. In den Liedern, die er mit einzigartiger Stimme singt, geht es um das Leben in Bayern, sie handeln von Liebesfreud und Liebesleid, vom verantwortungslosen Umgang mit der Umwelt, aber auch von der Schönheit des Ammertales. Der Blues vom Gipfelkreuz zum Jammertal, vom Abendrot bis zum Morgengrauen. Mario Fix spielt zu den Akkorden noch den Bass auf der Orgel, Alex Bartl bearbeitet die Drums.Beide junge Musikanten aus Peißenberg sind solide Könner auf Ihrem Instrume",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "rheinpfalz-schwabing",
+      "source_name": "Rheinpfalz Schwabing",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Williams Wetsox",
+          "url": "https://www.last.fm/music/Williams+Wetsox"
+        }
+      ],
+      "known_artists": [],
+      "id": "feaca20e6e34"
+    },
+    {
+      "title": "Carl Verheyen (USA)",
+      "type": "concert",
+      "start": "2026-10-24T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=806dba4f8bf0641e877db2ca27b1586a",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "\"LIGHT SHINE TOUR\" Rock, Blues, Jazz CARL VERHEYEN, wurde vom Guitar Magazine als „einer der zehn besten Gitarristen der Welt“ und vom Classic Rock Magazine als „einer der 100 besten Gitarristen aller Zeiten“ bezeichnet. Carl ist seit 1985 Mitglied der erfolgreichen britischen Rockgruppe S...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Carl Verheyen",
+          "url": "https://www.last.fm/music/Carl+Verheyen"
+        }
+      ],
+      "known_artists": [],
+      "id": "4aa7f8bc2b87"
+    },
+    {
+      "title": "Blues Open Level",
+      "type": "class",
+      "start": "2026-09-15T20:45",
+      "end": "2026-09-15T22:15",
+      "url": "https://www.boogie-baeren.de/training",
+      "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
+      "address": "Gneisenaustraße 16, 80992 München",
+      "description": "Teachers: Denise & Marcin. Club training for members: register for the cycle (14.09.–01.11.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+      "recurrence": "Tuesdays 20:45–22:15",
+      "dates": [
+        "2026-09-15",
+        "2026-09-22",
+        "2026-09-29",
+        "2026-10-06",
+        "2026-10-13",
+        "2026-10-20",
+        "2026-10-27"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "boogie-baeren",
+      "source_name": "Boogie-Bären München",
+      "school_name": "Boogie-Bären München",
+      "school_url": "https://www.boogie-baeren.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "a473a482e0ed"
+    },
+    {
+      "title": "Blues 2 mit Clara",
+      "type": "class",
+      "start": "2026-10-06T19:35",
+      "end": "2026-10-06T20:35",
+      "url": "https://hepcatclub.com/",
+      "venue": "Hep Cat Club",
+      "address": "Viktoriastraße 3b, 86150 Augsburg",
+      "description": "",
+      "recurrence": "Tuesdays 19:35–20:35",
+      "dates": [
+        "2026-10-06",
+        "2026-10-13",
+        "2026-10-20",
+        "2026-10-27",
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15"
+      ],
+      "tags": [],
+      "source_id": "hepcat-club",
+      "source_name": "Hep Cat Club",
+      "school_name": "Hep Cat Club",
+      "school_url": "https://hepcatclub.com/",
+      "artists": [],
+      "known_artists": [],
+      "id": "bee1392c97b8"
+    },
+    {
+      "title": "Blues · alle Level",
+      "type": "class",
+      "start": "2026-10-21T18:45",
+      "end": "2026-10-21T19:45",
+      "url": "https://www.vintage-club.de/classes.aspx",
+      "venue": "Vintage Club (VC Studio 2)",
+      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+      "description": "Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen, wesentliche Schritte und Figuren, um dich auf der Tanzfläche sicher und wohl zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkundet, die zu verschiedenen Musikstilen getanzt werden können.",
+      "recurrence": "Wednesdays 18:45–19:45",
+      "dates": [
+        "2026-10-21",
+        "2026-10-28",
+        "2026-11-04",
+        "2026-11-11"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "vintage-club",
+      "source_name": "Vintage Club",
+      "school_name": "Vintage Club",
+      "school_url": "https://www.vintage-club.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "5b0f8477edc0"
+    },
+    {
+      "title": "Körber Krohn Fliegauf",
+      "type": "concert",
+      "start": "2026-10-28T19:00",
+      "end": "2026-10-28T22:00",
+      "url": "https://www.in-muenchen.de/events/koerber-krohn-fliegauf.html",
+      "venue": "Barschwein",
+      "address": "Franzstraße 3, 80802 München",
+      "description": "Eine groovende Reise durch Blues und Americana erwartet die Zuhörer. Zwei akustische Gitarren, Blues-Harp und Gesang entführen in unbekannte Ecken des Songbooks. Von den Allmann Brothers bis John Mayall reichen die musikalischen Inspirationen.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues-Americana"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "6dcc458bad87"
+    },
+    {
+      "title": "Leonie singt!",
+      "type": "concert",
+      "start": "2026-10-28T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/leonie-singt/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenfrei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Leonie Singt",
+          "url": "https://www.last.fm/music/Leonie+Singt"
+        }
+      ],
+      "known_artists": [],
+      "id": "5dca22179cc6"
+    },
+    {
+      "title": "That Friday Feeling",
+      "type": "concert",
+      "start": "2026-10-29T19:30",
+      "end": "2026-10-29T21:00",
+      "url": "https://www.in-muenchen.de/events/that-friday-feeling.html",
+      "venue": "Wirtshaus Tannengarten",
+      "address": "Pfeuferstr. 32, 81373 München",
+      "description": "Zwei Gitarren, zwei Stimmen und jede Menge Groove – das Duo THAT FRIDAY FEELING präsentiert eine Mischung aus Blues und Folk mit eigenen Songs und Cover-Versionen. Die Musik spannt einen Bogen von humorvollen Alltagssorgen bis hin zu politischen Protestsongs.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues Folk"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "That Friday Feeling",
+          "url": "https://www.last.fm/music/That+Friday+Feeling"
+        }
+      ],
+      "known_artists": [],
+      "id": "d8d47a3e15e0"
+    },
+    {
+      "title": "Ludwig Seuss Band",
+      "type": "concert",
+      "start": "2026-10-29T20:00",
+      "end": "2026-10-29T23:00",
+      "url": "https://www.in-muenchen.de/events/ludwig-seuss-band-kupferhaus-planegg.html",
+      "venue": "Kupferhaus Planegg",
+      "address": "Feodor-Lynen-Straße 5, 82152 Planegg",
+      "description": "Mit klassischem Piano-Boogie, Jump-Blues und Louisiana-R&B verschmelzen die Klänge der Ludwig Seuss Band zu einem extrem tanzbaren Sound. Der Münchner Blues- und Boogiepianist Ludwig Seuss, bekannt für seine Arbeit mit der Spider Murphy Gang, vermischt diese Stile mit Zydeco aus New Orleans. Die Band, unterstützt von herausragenden Musikern, erzeugt eine unwiderstehliche Groove-Atmosphäre.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues, Zydeco"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Ludwig Seuss Band",
+          "url": "https://www.last.fm/music/Ludwig+Seuss+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "2a3ee4cfd49e"
+    },
+    {
+      "title": "Andreas Diehlmann Band",
+      "type": "concert",
+      "start": "2026-10-30T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/andreas-diehlmann-band.html",
+      "venue": "Backstage Club",
+      "address": "Reitknechtstr. 6, 80639 München",
+      "description": "Die Andreas Diehlmann Band, Gewinner des German Blues Awards, präsentiert einen kraftvollen Bluesrock-Sound. Die Eigenkompositionen der Band sind traditionell verwurzelt, aber modern und eigenständig. Jörg Sebald am Bass und Martin Gunkel an den Drums bilden das rhythmische Fundament des Powertrios um den Gitarristen Andreas Diehlmann.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Bluesrock"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Andreas Diehlmann Band",
+          "url": "https://www.last.fm/music/Andreas+Diehlmann+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "38d642aa4e71"
+    },
+    {
+      "title": "Aynsley Lister (GBR)",
+      "type": "concert",
+      "start": "2026-10-30T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=9ca1ac1692d324ae3fecaefe254b423e",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Mischung aus Blues, Rock und Soul Freut euch auf einen Abend, der rockt, groovt und berührt! Wenn Aynsley Lister und seine Band loslegen, wird klar, warum sie zu den besten Acts der internationalen Bluesrock-Szene gehören. Mit seiner einzigartigen Mischung aus packenden Gitarrenriffs, ehrlichem ...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Aynsley Lister",
+          "url": "https://www.last.fm/music/Aynsley+Lister"
+        }
+      ],
+      "known_artists": [
+        "Aynsley Lister"
+      ],
+      "id": "d3bc8fac1751"
+    },
+    {
+      "title": "San2 unplugged",
+      "type": "concert",
+      "start": "2026-10-31T20:00",
+      "end": "2026-10-31T22:00",
+      "url": "https://www.in-muenchen.de/events/san2-unplugged.html",
+      "venue": "Pasinger Fabrik – Kleine Bühne",
+      "address": "August-Exter-Straße 1, 81245 München",
+      "description": "San2 präsentiert ein akustisches Live-Programm mit außergewöhnlichen Musikern. Sebastian Schwarzenberger, bekannt für sein virtuoses Gitarrenspiel, und Ludwig Seuss, Münchens Boogie Woogie-Meister, begleiten San2. Der Abend verspricht Gänsehaut-Momente durch dreistimmigen Gesang und beeindruckende Soli.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "55d7afc2b862"
+    },
+    {
+      "title": "Aynsley Lister (GBR)",
+      "type": "concert",
+      "start": "2026-10-31T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=33d2ad8dc5b40e819e2eb23c4921ea2f",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Mischung aus Blues, Rock und Soul Freut euch auf einen Abend, der rockt, groovt und berührt! Wenn Aynsley Lister und seine Band loslegen, wird klar, warum sie zu den besten Acts der internationalen Bluesrock-Szene gehören. Mit seiner einzigartigen Mischung aus packenden Gitarrenriffs, ehrlichem ...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Aynsley Lister",
+          "url": "https://www.last.fm/music/Aynsley+Lister"
+        }
+      ],
+      "known_artists": [
+        "Aynsley Lister"
+      ],
+      "id": "067b264860b7"
+    },
+    {
+      "title": "Frühschoppen mit Williams Wetsox Trio",
+      "type": "concert",
+      "start": "2026-11-01T11:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/fruhschoppen-mit-williams-wetsox-trio.html",
+      "venue": "Fraunhofer Theater",
+      "address": "Fraunhoferstr. 9, 80469 München",
+      "description": "Bayerischer Blues vom Trio mit Gesang, Gitarre, Orgel und Schlagzeug.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Williams Wetsox Trio",
+          "url": "https://www.last.fm/music/Williams+Wetsox+Trio"
+        }
+      ],
+      "known_artists": [],
+      "id": "2b490c7cd538"
+    },
+    {
+      "title": "The Temperance Movement",
+      "type": "concert",
+      "start": "2026-11-03T20:00",
+      "end": "2026-11-03T23:00",
+      "url": "https://www.in-muenchen.de/events/the-temperance-movement-let-it-all-out-tour-backstage-werk.html",
+      "venue": "Backstage Werk",
+      "address": "Reitknechtstr. 6, 80639 München",
+      "description": "Die Let It All Out Tour 2025 von The Temperance Movement zeigt die Rückkehr der Band nach fünf Jahren Pause. Die Tournee begann als Testlauf und entwickelte sich zu einer großen Veranstaltungsreihe in Großbritannien und Europa.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues Rock"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "The Temperance Movement",
+          "url": "https://www.last.fm/music/The+Temperance+Movement"
+        }
+      ],
+      "known_artists": [
+        "The Temperance Movement"
+      ],
+      "id": "714b17e73942"
+    },
+    {
+      "title": "Eric Bibb",
+      "type": "concert",
+      "start": "2026-11-04T20:00",
+      "end": "2026-11-04T22:30",
+      "url": "https://www.in-muenchen.de/events/eric-bibb.html",
+      "venue": "Bayerischer Hof Night Club",
+      "address": "Promenadeplatz 2-6, 80333 München",
+      "description": "In einer bemerkenswerten Fusion von Blues, Folk und Jazz präsentiert sich ein Abend voller musikalischer Tiefe und Vielfalt. Im Zentrum stehen die eindringlichen Geschichten und kraftvollen Klänge von ERIC BIBB. Seine Gitarrenarbeit und Stimme verschmelzen zu einem einzigartigen Klangerlebnis.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Folk Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://www.last.fm/music/Eric+Bibb"
+        }
+      ],
+      "known_artists": [
+        "Eric Bibb"
+      ],
+      "id": "9bd3abe604be"
+    },
+    {
+      "title": "The Secret Songwriter's Union",
+      "type": "concert",
+      "start": "2026-11-04T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/the-secret-songwriters-union/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "NIGHTBIRD (FIN) & MÄKKELÄ (FIN/D) & FRIEDER GRAEF (D) · kostenfrei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "af1c431aa2e9"
+    },
+    {
+      "title": "Montack & The Ultimate Silverbeet",
+      "type": "concert",
+      "start": "2026-11-05T19:30",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/montack-the-ultimate-silverbeet.html",
+      "venue": "Drehleier – Szenerie",
+      "address": "Rosenheimer Str. 123, 81667 München",
+      "description": "Ein spannungsgeladener Abend, an dem Blues, Rock und Funk auf alternativen Heavy Rock treffen. Zwischen den Klängen entsteht eine einzigartige Atmosphäre, die das Publikum mitreißt. Die Kombination der Stile verspricht einen abwechslungsreichen und energiegeladenen Konzertabend.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues, Rock, Funk, Alternative"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "The Ultimate Silverbeet",
+          "url": "https://www.last.fm/music/The+Ultimate+Silverbeet"
+        }
+      ],
+      "known_artists": [],
+      "id": "213d535e9210"
+    },
+    {
+      "title": "Uli Wunner & John Brunton",
+      "type": "concert",
+      "start": "2026-11-05T20:00",
+      "end": "2026-11-05T22:00",
+      "url": "https://www.in-muenchen.de/events/from-new-orleans-to-brasil-and-beyond.html",
+      "venue": "Galli Theater",
+      "address": "in der Amalienpassage 86, 80799 München",
+      "description": "Eine bunte Mischung aus Jazz und Blues mit Gefühl und Virtuosität, verwoben mit britisch-bayrischem Humor, verspricht einen außergewöhnlichen Musikabend. Die Reise führt von New Orleans über Brasilien bis in die Ferne, musikalisch begleitet von zwei Ausnahmekünstlern.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Jazz und Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "John Brunton",
+          "url": "https://www.last.fm/music/John+Brunton"
+        }
+      ],
+      "known_artists": [],
+      "id": "fe5c0be8d1c1"
+    },
+    {
+      "title": "Downtown Blues Session",
+      "type": "concert",
+      "start": "2026-11-06T21:30",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/downtown-blues-session.html",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Offene Blues-Session mit Marc Tepelmann: Zuhören oder selbst mitspielen, bei freiem Eintritt.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "eaea2bbe8bbe"
+    },
+    {
+      "title": "Anni und Hans: Blues & Jazz",
+      "type": "concert",
+      "start": "2026-11-07T20:00",
+      "end": null,
+      "url": "https://stragula.de/events.html#:~:text=Anni%20und%20Hans%3A%20Blues%20%26%20Jazz",
+      "venue": "Stragula",
+      "address": "Bergmannstr. 66, 80339 München",
+      "description": "Der immerwährende Puls von Gospel und Blues treibt Anni & Hans an. Das Duo widmet sich der weiblichen Seite des Blues – denn die afroamerikanischen Frauen hatten verdammt viel zu sagen. Doch im Showbusiness konnten sich oft nur die „Artigen“ etablieren, die die Regeln „verstanden“ hatten. Ihre Geschichten erzählen von Talent und Ausbeutung, von Trotz und Tragödien. Auch Songs von Paul Simon, Jim Croce und Bob Dylan bekommen bei den beiden eine ganz eigene Note.Dazu kommen Eigenkompositionen, auf die Ihr gespannt sein dürft. Kommt vorbei und genießt mit uns den Abend! Wir freuen uns auf Euch. A",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "stragula",
+      "source_name": "Stragula",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Anni und Hans",
+          "url": "https://www.last.fm/music/Anni+und+Hans"
+        }
+      ],
+      "known_artists": [],
+      "id": "38e0ddab4d56"
+    },
+    {
+      "title": "Blue Traces",
+      "type": "concert",
+      "start": "2026-11-07T20:00",
+      "end": null,
+      "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
+      "venue": "Rheinpfalz Schwabing",
+      "address": "Kurfürstenstraße 35, 80801 München",
+      "description": "Die „blue traces“ wurden 2011 als Blues- und Rockband gegründet. Seitdem spielen die Münchner Musiker Michael Drescher (voc + git), Viktor Magdolen (keys), Fritz Winbeck (drums), Markus Roithmaier (bass) und Sven Kesselring (git) unverändert in dieser Besetzung. Michi Dreschers unverkennbare Stimme prägt den Sound der Band, seine Vorbilder Eric Burdon, Joe Cocker und Tom Waits haben ganz sicher ihre „Spuren“ (engl. traces) hinterlassen. Das gilt auch für den Rest der Band. Ihr ehrlicher und geradliniger Sound trägt den Gesang und begeistert durch mitreißende Spielfreude. Immer wieder aufs Neue",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "rheinpfalz-schwabing",
+      "source_name": "Rheinpfalz Schwabing",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "772de2d31887"
+    },
+    {
+      "title": "Yasi Hofer",
+      "type": "concert",
+      "start": "2026-11-07T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=6bcade06e6a5f77374db050e3a3d20a1",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Rock, Blues und Progressive Rock, mit Einflüssen aus Fusion und Instrumental Rock BEST OF TOUR 2026 Nach über einem Jahrzehnt gemeinsamer Bühnenpräsenz und vier erfolgreichen Studioalben ist es Zeit, die musikalische Reise zu feiern. Yasi Hofer zählt heute zu den renommiertesten Gitarri...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Yasi Hofer",
+          "url": "https://www.last.fm/music/Yasi+Hofer"
+        }
+      ],
+      "known_artists": [],
+      "id": "b7e79af2bc23"
+    },
+    {
+      "title": "Sundog & Monomanic",
+      "type": "concert",
+      "start": "2026-11-08T19:30",
+      "end": "2026-11-08T23:00",
+      "url": "https://www.in-muenchen.de/events/sundog-monomanic.html",
+      "venue": "Import Export",
+      "address": "Schwere-Reiter-Str. 2h, 80636 München",
+      "description": "Mit der Intensität eines rituellen Tanzes huldigen Sundog und Monomanic einer instinktiven und ominösen Manifestation von Rock und Blues. Rau, laut und ekstatisch entführen die Bands in eine Welt aus Bewegung, Chaos und Schmerz. Sundog präsentiert sein erstes Album, während Monomanic mit brachialen Riffs und hypnotischen Synths für atmosphärische Tiefe sorgt.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Bluesrock"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "6b74202bf1dd"
+    },
+    {
+      "title": "Lonesome Andy & his One Man Band",
+      "type": "concert",
+      "start": "2026-11-11T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/lonesome-andy-his-one-man-band/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenfrei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Lonesome Andy & His One Man Band",
+          "url": "https://www.last.fm/music/Lonesome+Andy+%26+His+One+Man+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "bfec1062fced"
+    },
+    {
+      "title": "RO CLAUSMAN BAND",
+      "type": "concert",
+      "start": "2026-11-13T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=ff1aac155a9d69f17f09ea96504f37f3",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "grooviger Blues, soulige Balladen, fetziger Rock ’n’ Roll und jazzig angehauchter Southern Rock Die 6-köpfige Bluesrock-Band um den virtuosen Penzberger Profi-Gitarristen und Sänger RO CLAUSMAN gehört zum Feinsten, was man in diesem Genre im oberbayerischen Voralpenland hören kann. Hier jage...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Ro Clausman",
+          "url": "https://www.last.fm/music/Ro+Clausman"
+        }
+      ],
+      "known_artists": [],
+      "id": "ff05effc904f"
+    },
+    {
+      "title": "Bin I Kini?! - Der Prinzregenten-Blues",
+      "type": "concert",
+      "start": "2026-11-17T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/prinzregenten-blues-iberl-buhne.html",
+      "venue": "Iberl Bühne",
+      "address": "Herzogspitalstr. 6, 80331 München",
+      "description": "In einer Komödie voller Verwechslungen und Intrigen verschlägt es den Prinzregenten Johann der III. versehentlich in die bayerische Provinz. Dort gerät er in ein spaßiges Katz-und-Maus-Spiel, als er seine Identität verliert und als Knecht arbeiten muss. Eine turbulente Jagd nach der Wahrheit beginnt.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Verwechslungskomödie"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "20bf1470443b"
+    },
+    {
+      "title": "Bernd Bauer Blues Band: Stormy Wednesday",
+      "type": "concert",
+      "start": "2026-11-18T20:00",
+      "end": "2026-11-18T22:30",
+      "url": "https://berndbauerbluesband.de/termine/",
+      "venue": "Kulturzentrum Giesinger Bahnhof",
+      "address": "Giesinger Bahnhofplatz 1, 81539  München",
+      "description": "Akustische offene Blues Session, Eintritt frei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "bernd-bauer-blues-band",
+      "source_name": "Bernd Bauer Blues Band",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "452a2e69429c"
+    },
+    {
+      "title": "Sepp Eisele Trio",
+      "type": "concert",
+      "start": "2026-11-18T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/sepp-eisele-trio/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenfrei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "2af7cf23e9c5"
+    },
+    {
+      "title": "Bluesverschwörung Nr. 149",
+      "type": "social",
+      "start": "2026-11-19T20:30",
+      "end": null,
+      "url": "https://kongressbar.de/events-live-bands-djs/",
+      "venue": "Kongress Bar",
+      "address": "Theresienhöhe 15, 80339 München",
+      "description": "Einzig aus Liebe zum Bluestanzen verschworen sie sich, diese traurige und heitere, mitreißende und verführerische, leichte und schwere Musik zu spielen, um noch viele anzustiften, sich den Blues in die Gehörgänge, durch die Glieder und bisweilen in Herz und Verstand fahren zu lassen. Zu Rhythm & Blues fühlt das schmeichelnde Parkett unter Euren Sohlen, schmiegt Euch an das rote Leder, schaut tief in die Gläser und umgarnt diesen magischen Ort. Mit einer Musikauswahl von Herrn Klein und Fräulein Lehn. Eintritt frei!",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Social Dance / DJ"
+      ],
+      "source_id": "swinginmunich",
+      "source_name": "SwinginMunich.de",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "de42368a5691"
+    },
+    {
+      "title": "30. Münchner Bluesnacht mit Zither Manä, Abi Wallenstein, Ludwig Seuss & Band",
+      "type": "concert",
+      "start": "2026-11-20T20:00",
+      "end": "2026-11-20T23:00",
+      "url": "https://www.in-muenchen.de/events/30-munchner-bluesnacht-mit-zither-mana-abi-wallenstein-ludwig-seuss-band.html",
+      "venue": "Schlachthof – Saal",
+      "address": "Zenettistraße 9, 80337 München",
+      "description": "Zwischen Chicago-Sound und Roots präsentiert die Münchner Bluesnacht eine Auswahl handgemachter Blues-Acts. Zither-Manä und die Ludwig Seuss Band zelebrieren den Groove und die Vielseitigkeit des Blues. In intimer Clubatmosphäre entfaltet sich das Zusammenspiel von Szenegrößen und Jam-Sessions.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Zither-Manä",
+          "url": "https://www.last.fm/music/Zither-Man%C3%A4"
+        },
+        {
+          "name": "Abi Wallenstein",
+          "url": "https://www.last.fm/music/Abi+Wallenstein"
+        },
+        {
+          "name": "Ludwig Seuss Band",
+          "url": "https://www.last.fm/music/Ludwig+Seuss+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "db7a3849a2d1"
+    },
+    {
+      "title": "Bootleg Twins feat. Schorsch Hampel & Hubert Hofherr",
+      "type": "concert",
+      "start": "2026-11-20T20:00",
+      "end": "2026-11-20T22:30",
+      "url": "https://www.in-muenchen.de/events/bootleg-twins-feat-schorsch-hampel-hubert-hofherr.html",
+      "venue": "Kulturhaus Neuperlach – KulturBunt",
+      "address": "Albert-Schweitzer-Straße 62, 81735 München",
+      "description": "Auf der Bühne treffen Blues-Tradition und moderne Klänge aufeinander. Mario Spelthan, Schorsch Hampel und Hubert Hofherr entführen das Publikum in die Welt des Blues der 20er und 30er Jahre, Chicago Blues, Boogie und Folksongs. Ein Abend voller musikalischer Vielfalt und gefühlvoller Darbietungen.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Schorsch Hampel",
+          "url": "https://www.last.fm/music/Schorsch+Hampel"
+        }
+      ],
+      "known_artists": [],
+      "id": "8ee51229236f"
+    },
+    {
+      "title": "Blues Night",
+      "type": "concert",
+      "start": "2026-11-21T19:30",
+      "end": "2026-11-21T22:30",
+      "url": "https://www.in-muenchen.de/events/blues-night.html",
+      "venue": "Bürgerhaus Garching",
+      "address": "Bürgerplatz 9, 85748 Garching bei München",
+      "description": "Die Garchinger Blues Night präsentiert eine Nacht voller treibender Sounds und virtuoser Riffs. Im Zentrum des Abends stehen die einzigartigen Künstler der Blues, Soul und Rock’n’Roll Szene. Das Blues Duo Oliver Mally und Peter Schneider ziehen das Publikum von der ersten Note an in ihren Bann. Der 2 Meter große Blues Riese Michael van Merwyk feiert sein 40-jähriges Bühnenjubiläum mit einer tiefen Verbindung zu den Wurzeln des Blues. Als krönender Abschluss tritt Kai Strauss auf, ein Aushängeschild der deutschen Blues-Szene.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "5eb683876302"
+    },
+    {
+      "title": "Band of Friends (GBR)",
+      "type": "concert",
+      "start": "2026-11-21T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=3f973176a9e5e35f9280760b08fa0de3",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Blues-Rock, Eine Hommage an Rory Gallagher Freut euch auf ein Konzert, das die Musik von Rory Gallagher lebendig hält! Die Band of Friends ist weit mehr als eine Tribute-Band. Gerry McAvoy – langjähriger Bassist von Rory Gallagher - ist zurück mit neuer Besetzung. Zusammen mit seinen beiden n...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Band of Friends",
+          "url": "https://www.last.fm/music/Band+of+Friends"
+        }
+      ],
+      "known_artists": [],
+      "id": "cef9587e254f"
+    },
+    {
+      "title": "Stephan Zinner",
+      "type": "concert",
+      "start": "2026-11-22T19:00",
+      "end": "2026-11-22T22:00",
+      "url": "https://www.in-muenchen.de/events/stephan-zinner-der-teufel-das-madchen-der-blues-und-ich.html",
+      "venue": "Theater Leo17",
+      "address": "Leopoldstraße 17, 80802 München",
+      "description": "Stephan Zinner begibt sich auf eine musikalische Reise zu den Wurzeln des Blues, unterstützt von Peter Pichler, mit einer Mischung aus Blues, Gospel und Tanz.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Stephan Zinner",
+          "url": "https://www.last.fm/music/Stephan+Zinner"
+        }
+      ],
+      "known_artists": [],
+      "id": "3aeb4ae6df11"
+    },
+    {
+      "title": "Greg Black & The Bad Notion (SLO)",
+      "type": "concert",
+      "start": "2026-11-22T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=9867bbbcc2f8d385e843cb84f6a2423d",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Blues, Rock,Soul Greg Black & The Bad Notions ist eine energiegeladene Band, die Blues, Rock und Soul zu einem kraftvollen, zeitgemäßen Sound verbindet. Im Mittelpunkt steht Sänger und Gitarrist Greg Black, dessen markante Stimme und dynamisches Gitarrenspiel den musikalischen Kern der Gruppe b...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Greg Black & The Bad Notion",
+          "url": "https://www.last.fm/music/Greg+Black+&+The+Bad+Notion"
+        }
+      ],
+      "known_artists": [],
+      "id": "3330568fcd36"
+    },
+    {
+      "title": "Edwin Kimmler",
+      "type": "concert",
+      "start": "2026-11-24T16:30",
+      "end": "2026-11-24T18:00",
+      "url": "https://www.tollwood.de/veranstaltungen/2026/edwin-kimmler/",
+      "venue": "Tollwood – Hexenkessel",
+      "address": "Theresienwiese, 80336 München",
+      "description": "Blues, Soul, Boogie, Swing & Calypso Er musiziert nicht nur mit verschiedenen Instrumenten, sondern auch Musikrichtungen. Edwin Kimmler ist mal mit dem Piano, mal mit der Gitarre oder der Mundharmonika zu sehen. Mal spielt er Blues, mal Soul, Boogie Woogie oder Swing. Seine erfahrene Stimme steht gleichberechtig neben seinen Instrumenten. Seit 1978 ist Edwin Kimmler europaweit mit seiner Musik unterwegs und ist mi t viel Spielfreude und Bühnenpower dabei. Neben seinen Klassikern hat er auch viele neue Stücke erstmals mit dabei. Der Musiker stellt auf Tollwood sein neues Album „Pearls“ vor.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues, Soul, Boogie, Swing & Calypso"
+      ],
+      "source_id": "tollwood",
+      "source_name": "Tollwood",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Edwin Kimmler",
+          "url": "https://www.last.fm/music/Edwin+Kimmler"
+        }
+      ],
+      "known_artists": [],
+      "id": "9199cb9d9603"
+    },
+    {
+      "title": "Black Patti",
+      "type": "concert",
+      "start": "2026-11-25T16:30",
+      "end": "2026-11-25T18:00",
+      "url": "https://www.tollwood.de/veranstaltungen/2026/black-patti-2/",
+      "venue": "Tollwood – Hexenkessel",
+      "address": "Theresienwiese, 80336 München",
+      "description": "American Blues & Roots-Music Das Blues- und Roots-Duo, bestehend aus Peter Crow C. (Gitarre/Gesang) und Ferdinand „Jelly Roll“ Kraemer (Gitarre/Gesang/Mandoline), erzählt seit über zehn Jahren mit ihrem zweistimmigen Gesang Geschichten, die das Leben schreibt. Inspiriert sind die beiden von den ländlichen Musikstilen der USA. Dabei reicht ihr breites Repertoire von Delta Blues und Ragtime bis hin zu beseelten Spirituals.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "American Blues & Roots-Music"
+      ],
+      "source_id": "tollwood",
+      "source_name": "Tollwood",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Black Patti",
+          "url": "https://www.last.fm/music/Black+Patti"
+        }
+      ],
+      "known_artists": [],
+      "id": "0a7033e7e1da"
+    },
+    {
+      "title": "Dr. Will & The Wizards",
+      "type": "concert",
+      "start": "2026-11-25T19:30",
+      "end": "2026-11-25T22:00",
+      "url": "https://www.tollwood.de/veranstaltungen/2026/dr-will-the-wizards-2/",
+      "venue": "Tollwood – Hexenkessel",
+      "address": "Theresienwiese, 80336 München",
+      "description": "Voodoo Blues Seit über 20 Jahren bespielt dieser „Wahnsinn auf acht Beinen“ Bühnen in ganz Europa. Das Quartett um Dr. Will, den „schrägsten Bunt-Vogel“ der europäischen Blues Szene, mixt zur Feier im Andechser Zelt seinen Zaubertrank aus Blues mit New Orleans-Feeling, Rootsmusic, Rock und einer kräftigen Portion Humor. Aufgepasst, dieser Trank entfacht seine Wirkung augenblicklich! Die höllisch gute Band, in der alle einen kleinen „Hackenschuss“ haben, bietet einen schrägen Auftritt und macht Spaß.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Voodoo Blues"
+      ],
+      "source_id": "tollwood",
+      "source_name": "Tollwood",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Dr. Will & The Wizards",
+          "url": "https://www.last.fm/music/Dr.+Will+%26+The+Wizards"
+        }
+      ],
+      "known_artists": [],
+      "id": "45f22a65cf01"
+    },
+    {
+      "title": "The Official Blues Brothers Revue",
+      "type": "concert",
+      "start": "2026-11-25T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/the-official-blues-brothers-revue.html",
+      "venue": "Prinzregententheater",
+      "address": "Prinzregentenplatz 12, 81675 München",
+      "description": "Ein multimediales interaktives Erlebnis mit Kieron Lafferty (Elwood) & Wayne Catania (Jake), unterstützt von der All-Star-Intercontinental Rhythm & Blues Band. Klassiker wie „Soul Man“ und „Gimme Some Lovin“ feiern den Kult, den John Belushi & Dan Aykroyd erstmals 1978 entfachten.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Tribute-Show"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "a1f4c6335782"
+    },
+    {
+      "title": "Pete Gavin",
+      "type": "concert",
+      "start": "2026-11-25T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/pete-gavin2026/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenfrei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Pete Gavin",
+          "url": "https://www.last.fm/music/Pete+Gavin"
+        }
+      ],
+      "known_artists": [],
+      "id": "6cc61d6bc73f"
+    },
+    {
+      "title": "Meena Cryle & Chris Fillmore",
+      "type": "concert",
+      "start": "2026-11-26T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/meena-cryle-chris-fillmore.html",
+      "venue": "Veranstaltungsforum Fürstenfeld",
+      "address": "Fürstenfeld 12, 82256 Fürstenfeldbruck",
+      "description": "Meena Cryle und Chris Fillmore feiern auf ihrer 30. Jubiläumstour ihr seltenes und intimes Zusammenspiel. Die beiden österreichischen Blues- und Rootskünstler, bekannt für ihre leidenschaftlichen Auftritte, begeistern mit ihrer einzigartigen Stimme und Gitarrenkunst. Ihr Talent wurde auch vom renommierten Produzenten Jim Gaines gewürdigt.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Meena Cryle",
+          "url": "https://www.last.fm/music/Meena+Cryle"
+        },
+        {
+          "name": "Chris Fillmore",
+          "url": "https://www.last.fm/music/Chris+Fillmore"
+        }
+      ],
+      "known_artists": [],
+      "id": "c1147d2ff7a1"
+    },
+    {
+      "title": "Johnny & The Yooahoos",
+      "type": "concert",
+      "start": "2026-11-27T16:00",
+      "end": "2026-11-27T18:00",
+      "url": "https://www.tollwood.de/veranstaltungen/2026/johnny-the-yooahoos/",
+      "venue": "Tollwood – Hexenkessel",
+      "address": "Theresienwiese, 80336 München",
+      "description": "Folk & Bluegrass",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Folk & Bluegrass"
+      ],
+      "source_id": "tollwood",
+      "source_name": "Tollwood",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Johnny & the Yooahoos",
+          "url": "https://www.last.fm/music/Johnny+%26+the+Yooahoos"
+        }
+      ],
+      "known_artists": [],
+      "id": "858ed4412cb8"
+    },
+    {
+      "title": "Heels & Bones",
+      "type": "concert",
+      "start": "2026-11-27T19:30",
+      "end": "2026-11-27T22:00",
+      "url": "https://www.tollwood.de/veranstaltungen/2026/heels-bones-2/",
+      "venue": "Tollwood – Hexenkessel",
+      "address": "Theresienwiese, 80336 München",
+      "description": "Rock, Indie & Blues Eine musikalische Zeitreise durch die vergangenen 50 Jahre Rock ’n’ `Roll bietet die Band Heels & Bones. Sie ist jedoch keine gewöhnliche Cover-Band, denn sie interpretiert viele Songs mit ihren eigenen Noten und ihrer tollen Liveperformance.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Rock, Indie & Blues"
+      ],
+      "source_id": "tollwood",
+      "source_name": "Tollwood",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "498f6365f37d"
+    },
+    {
+      "title": "Welebeat",
+      "type": "concert",
+      "start": "2026-11-28T17:30",
+      "end": "2026-11-28T19:30",
+      "url": "https://www.gansamwasser.de/kulturprogramm/programm-november/",
+      "venue": "Café Gans am Wasser",
+      "address": "Mollsee im Westpark, 81373 München",
+      "description": "Welebeat bringt authentischen Country Rock, Rock- und Blues-Klassiker live auf die Bühne! Mit viel Leidenschaft, groovigen Rhythmen und jeder Menge Spielfreude sorgt die Band für gute Stimmung und einen musikalischen Abend voller Energie. Ob bekannte Klassiker oder echte Country-Vibes – Welebeat steht für handgemachte Live-Musik! Webseite Instagram",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Livemusik"
+      ],
+      "source_id": "gans-am-wasser",
+      "source_name": "Café Gans am Wasser",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "425e68ac0733"
+    },
+    {
+      "title": "Jakarta Blues Band",
+      "type": "concert",
+      "start": "2026-11-28T20:00",
+      "end": null,
+      "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
+      "venue": "Rheinpfalz Schwabing",
+      "address": "Kurfürstenstraße 35, 80801 München",
+      "description": "Chicago Blues: ein musikalischer Leckerbissen! Mit höchster Spielfreude zelebriert die Jakarta Blues Band aus dem Münchner Umland alle Facetten des Chicago Blues und widerlegt immer wieder aufs Neue, dass Blues nur für Melancholiker geeignet ist. Die sechs Musiker bieten perfekte handgemachte Musik, bei der man einfach nicht stillhalten kann. Sie leben jede Note, so dass die Kraft und Emotionalität dieser Musik regelmäßig auf die Zuhörer überspringen und jede(r) mitwippt oder tanzt. Dabei ist kaum eine Formation ist so nah dran am Sound der Originale. Kaum ein Gitarrist pflegt den Stil so auth",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "rheinpfalz-schwabing",
+      "source_name": "Rheinpfalz Schwabing",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Jakarta Blues Band",
+          "url": "https://www.last.fm/music/Jakarta+Blues+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "02cad5d9c1f8"
+    },
+    {
+      "title": "Mojo Blues Band – Jazz & Beyond",
+      "type": "concert",
+      "start": "2026-12-01T20:00",
+      "end": "2026-12-01T22:30",
+      "url": "https://www.in-muenchen.de/events/mojo-blues-band-jazz-beyond.html",
+      "venue": "Bayerischer Hof Night Club",
+      "address": "Promenadeplatz 2-6, 80333 München",
+      "description": "Chicago-Blues mit Humor: Die Wiener Mojo Blues Band spielt seit 1977 handgemachten Blues und gastiert im Night Club des Bayerischen Hofs.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Mojo Blues Band",
+          "url": "https://www.last.fm/music/Mojo+Blues+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "127efe9843d6"
+    },
+    {
+      "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
+      "type": "concert",
+      "start": "2026-12-01T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/stephan-zinner-der-teufel-das-madchen-der-blues-und-ich-schlachthof.html",
+      "venue": "Schlachthof",
+      "address": "Zenettistraße 9, 80337 München",
+      "description": "Stephan Zinner begibt sich auf eine musikalische Reise zu den Wurzeln des Blues, die er nicht nur im Mississippi-Delta, sondern auch in Trostberg in Oberbayern findet. Mit Gitarre und der Unterstützung von Peter Pichler präsentiert er eine Mischung aus Blues, Gospel und Tanz.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Stephan Zinner",
+          "url": "https://www.last.fm/music/Stephan+Zinner"
+        }
+      ],
+      "known_artists": [],
+      "id": "a88fdd380af0"
+    },
+    {
+      "title": "Kai Strauss & The Electric Blues All Stars",
+      "type": "concert",
+      "start": "2026-12-02T20:00",
+      "end": "2026-12-02T23:00",
+      "url": "https://www.in-muenchen.de/events/kai-strauss-the-electric-blues-all-stars-backstage-club.html",
+      "venue": "Bayerischer Hof Night Club",
+      "address": "Promenadeplatz 2-6, 80333 München",
+      "description": "Kai Strauss, bekannt für seine kraftvolle Gitarre und Gesang, präsentiert mit seiner internationalen Band The Electric Blues All Stars einen zeitgenössischen Sound, der Blues mit Funk und Soul verbindet.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Kai Strauss & The Electric Blues All Stars",
+          "url": "https://www.last.fm/music/Kai+Strauss+%26+The+Electric+Blues+All+Stars"
+        }
+      ],
+      "known_artists": [],
+      "id": "de57b62b9df1"
+    },
+    {
+      "title": "Dr. Will & Saschmo Bibergeil",
+      "type": "concert",
+      "start": "2026-12-02T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/fishnblues-dr-will-saschmo-bibergeil2026/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch 19:00 Uhr · kostenfrei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Dr. Will",
+          "url": "https://www.last.fm/music/Dr.+Will"
+        }
+      ],
+      "known_artists": [],
+      "id": "985e54d88dfa"
+    },
+    {
+      "title": "Bluesverschwörung Nr. 150",
+      "type": "social",
+      "start": "2026-12-03T20:30",
+      "end": null,
+      "url": "https://kongressbar.de/events-live-bands-djs/",
+      "venue": "Kongress Bar",
+      "address": "Theresienhöhe 15, 80339 München",
+      "description": "Einzig aus Liebe zum Bluestanzen verschworen sie sich, diese traurige und heitere, mitreißende und verführerische, leichte und schwere Musik zu spielen, um noch viele anzustiften, sich den Blues in die Gehörgänge, durch die Glieder und bisweilen in Herz und Verstand fahren zu lassen. Zu Rhythm & Blues fühlt das schmeichelnde Parkett unter Euren Sohlen, schmiegt Euch an das rote Leder, schaut tief in die Gläser und umgarnt diesen magischen Ort. Mit einer Musikauswahl von Herrn Klein und Fräulein Lehn. Eintritt frei!",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Social Dance / DJ"
+      ],
+      "source_id": "swinginmunich",
+      "source_name": "SwinginMunich.de",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "6bf5e0a1048f"
+    },
+    {
+      "title": "Bernd Bauer Blues Band: Live-Konzert",
+      "type": "concert",
+      "start": "2026-12-04T17:30",
+      "end": null,
+      "url": "https://berndbauerbluesband.de/termine/",
+      "venue": "Café Gans am Wasser",
+      "address": "81373 München",
+      "description": "Mollsee im Westpark",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "bernd-bauer-blues-band",
+      "source_name": "Bernd Bauer Blues Band",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "290e34f6a579"
+    },
+    {
+      "title": "Henry Heggen & Titus Vollmer + San2 & His Soul Patrol",
+      "type": "concert",
+      "start": "2026-12-04T19:30",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/henry-heggen-titus-vollmer-san2-his-soul-patrol.html",
+      "venue": "bosco Bürger- und Kulturhaus",
+      "address": "Oberer Kirchenweg 1, 82131 Gauting",
+      "description": "In der 11. Gautinger Bluesnacht begeistern Henry Heggen und Titus Vollmer mit erstklassigem Mundharmonika-Sound und herausragender Bluesstimme. Gemeinsam mit San2 und seiner Soul Patrol entführen sie das Publikum in eine Welt voller Blues und Soul. Die Bühnenshow von San2, bekannter Hohner Botschafter, ist eine leidenschaftliche Darbietung, bei der jeder Ton zelebriert wird.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Henry Heggen",
+          "url": "https://www.last.fm/music/Henry+Heggen"
+        },
+        {
+          "name": "Titus Vollmer",
+          "url": "https://www.last.fm/music/Titus+Vollmer"
+        },
+        {
+          "name": "San2 & his Soul Patrol",
+          "url": "https://www.last.fm/music/San2+%26+his+Soul+Patrol"
+        }
+      ],
+      "known_artists": [],
+      "id": "65d26019d8af"
+    },
+    {
+      "title": "Munich Rhythm & Blues Band",
+      "type": "concert",
+      "start": "2026-12-04T20:00",
+      "end": null,
+      "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
+      "venue": "Rheinpfalz Schwabing",
+      "address": "Kurfürstenstraße 35, 80801 München",
+      "description": "Die „Munich Rhythm and Blues Band“ begeistert mit einer Mischung aus Funk, Soul, Blues, Rock und Jazz. Songs von Etta James bis Johnny Cash mit Schwerpunkt Blues Brothers sorgen für energiegeladene Shows. Die Band spielt alles, was Stimmung macht, die fünf Musiker heizen ordentlich ein. Ihr „Special“ ist eine Blues Brother’s Show im zweiten Set. Wir freuen uns auf die Band, bitte Hut nicht vergessen.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "rheinpfalz-schwabing",
+      "source_name": "Rheinpfalz Schwabing",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Blues Band",
+          "url": "https://www.last.fm/music/+noredirect/Blues+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "3f394472cac9"
+    },
+    {
+      "title": "Bernd Bauer Blues Band: Live-Konzert im Märchenbazar",
+      "type": "concert",
+      "start": "2026-12-07T19:30",
+      "end": null,
+      "url": "https://berndbauerbluesband.de/termine/",
+      "venue": "Märchenbazar",
+      "address": "Spiridon-Louis-Ring 100, 80809 München",
+      "description": "Olympiapark Süd",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "bernd-bauer-blues-band",
+      "source_name": "Bernd Bauer Blues Band",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "852d5a086710"
+    },
+    {
+      "title": "Kozmic Blue",
+      "type": "concert",
+      "start": "2026-12-09T19:30",
+      "end": "2026-12-09T22:00",
+      "url": "https://www.tollwood.de/veranstaltungen/2026/kozmic-blue/",
+      "venue": "Tollwood – Hexenkessel",
+      "address": "Theresienwiese, 80336 München",
+      "description": "Kosmischer Blues & Rock",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Kosmischer Blues & Rock"
+      ],
+      "source_id": "tollwood",
+      "source_name": "Tollwood",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Kozmic Blue",
+          "url": "https://www.last.fm/music/Kozmic+Blue"
+        }
+      ],
+      "known_artists": [],
+      "id": "b8a763b93f9f"
+    },
+    {
+      "title": "Baby Kreuzberg",
+      "type": "concert",
+      "start": "2026-12-09T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/baby-kreuzberg/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenfrei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Baby Kreuzberg",
+          "url": "https://www.last.fm/music/Baby+Kreuzberg"
+        }
+      ],
+      "known_artists": [],
+      "id": "e63fc74695b6"
+    },
+    {
+      "title": "Saschmo",
+      "type": "concert",
+      "start": "2026-12-11T19:30",
+      "end": "2026-12-11T21:00",
+      "url": "https://www.in-muenchen.de/events/saschmo.html",
+      "venue": "ars musica – Der Musikladen",
+      "address": "Lindwurmstr. 201, 80337 München",
+      "description": "Saschmo präsentiert sein neues Vinylalbum ‚Same Old Story‘. Zwischen Indie-Pop, Singer-Songwriter und Blues-Sessions mit Lagerfeuer-Flair entsteht ein minimalistischer, gitarrenlastiger und leicht melancholischer Sound. Begleitet wird er von Jürgen Reiter am Kontrabass.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues-Pop"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Saschmo",
+          "url": "https://www.last.fm/music/Saschmo"
+        }
+      ],
+      "known_artists": [],
+      "id": "5173476bd77a"
+    },
+    {
+      "title": "Black Patti",
+      "type": "concert",
+      "start": "2026-12-11T20:00",
+      "end": null,
+      "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
+      "venue": "Rheinpfalz Schwabing",
+      "address": "Kurfürstenstraße 35, 80801 München",
+      "description": "Black Patti – das sind Peter Crow C. und Ferdinand „Jelly Roll“ Kraemer. Seit über 10 Jahren sind die zwei Blues & Roots Musiker auf internationalen Bühnen und Festivals gemeinsam unterwegs. Zweistimmig, handgemacht und unzensiert erzählt das mehrfach prämierte Duo in seinen Songs Geschichten, die das Leben schreibt. Musikalisch orientiert sich Black Patti an der einzigartigen Mischung der vor dem zweiten Weltkrieg in den USA entstandenen, ländlichen Stile. Mit ihrem äußerst abwechslungsreichen Repertoire präsentieren die Süddeutschen filigran-kunstvolle und berührende Roots-Musik: zwischen ti",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "rheinpfalz-schwabing",
+      "source_name": "Rheinpfalz Schwabing",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Black Patti",
+          "url": "https://www.last.fm/music/Black+Patti"
+        }
+      ],
+      "known_artists": [],
+      "id": "c95393ea1ae8"
+    },
+    {
+      "title": "Boogiemen’s Friends",
+      "type": "concert",
+      "start": "2026-12-12T16:00",
+      "end": "2026-12-12T18:00",
+      "url": "https://www.tollwood.de/veranstaltungen/2026/boogiemens-friends/",
+      "venue": "Tollwood – Hexenkessel",
+      "address": "Theresienwiese, 80336 München",
+      "description": "Boogie Woogie & Blues der 20er & 30er Jahre",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Boogie Woogie & Blues der 20er & 30er Jahre"
+      ],
+      "source_id": "tollwood",
+      "source_name": "Tollwood",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "94ec8e22c740"
+    },
+    {
+      "title": "Starnberg Bluesrock",
+      "type": "concert",
+      "start": "2026-12-12T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=4bfafdb01f59d26aeb179d63ee1dc695",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Klassiker aus Blues, Rock, Reggae und Soul Starnberg Bluesrock steht für mitreißende Bühnenpräsenz und eine abwechslungsreiche Mischung von Klassikern aus Blues, Rock, Reggae und Soul. Hierbei greift die Band auf alte Meister wie Jimi Hendrix, Eric Clapton, Stevie Ray Vaughan, Joe Cocker, Bill...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "1454ac8628c6"
+    },
+    {
+      "title": "Ludwig Seuss Band",
+      "type": "concert",
+      "start": "2026-12-18T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=d08785a7a1f1c7ebe881aa0c95cf77f6",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Klassischer Piano-Boogie mit Jump-Blues und Louisiana-Rock’n‘Roll Ludwig Seuss – bekannt als Keyboarder der Spider Murphy Band, kommt mit seiner herausragenden Allstarbesetzung. Mit unzähligen Konzerten ist seine eigene Band in den letzten Jahrzehnten zu einer der interessantesten und begehrtes...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Ludwig Seuss Band",
+          "url": "https://www.last.fm/music/Ludwig+Seuss+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "62c8b6e8743a"
+    },
+    {
+      "title": "13. American Bar Night – „Midlife or Crisis?“ & Friends",
+      "type": "concert",
+      "start": "2026-12-19T18:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/13-american-bar-night-midlife-or-crisis-friends.html",
+      "venue": "Lindenkeller Freising",
+      "address": "Veitsmüllerweg 2, 85354 Freising",
+      "description": "Im Lindenkeller erwartet Besucher eine musikalische Reise durch die USA. Zwischen Folk und Country über Rock ’n‘ Roll bis hin zu Blues-Rock versprechen vier Live-Acts einen abwechslungsreichen Abend. Die Atmosphäre einer ‚good old American Bar‘, begleitet von Live-Videoprojektionen und einer USA-Slideshow, taucht das Publikum in amerikanische Stimmung.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues Rock"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "64fcbc3ac2b0"
+    },
+    {
+      "title": "Axel Zwingenberger",
+      "type": "concert",
+      "start": "2026-12-20T19:30",
+      "end": "2026-12-20T23:00",
+      "url": "https://www.in-muenchen.de/events/axel-zwingenberger-lustspielhaus.html",
+      "venue": "Lustspielhaus",
+      "address": "Occamstr. 8, 80802 München",
+      "description": "Auf der Bühne steht ein Mann am Klavier und verzaubert das Publikum mit Boogie-Woogie. Rollende Bässe und sehnsuchtsvolle Bluesklänge evozieren Erinnerungen. Axel Zwingenberger begeistert seit fast 50 Jahren Fans weltweit mit seiner Hingabe zu Blues und Boogie.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Boogie-Woogie"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Axel Zwingenberger",
+          "url": "https://www.last.fm/music/Axel+Zwingenberger"
+        }
+      ],
+      "known_artists": [],
+      "id": "87948ef2c27b"
+    },
+    {
+      "title": "Muddy What?",
+      "type": "concert",
+      "start": "2026-12-22T19:30",
+      "end": "2026-12-22T22:00",
+      "url": "https://www.tollwood.de/veranstaltungen/2026/muddy-what-3/",
+      "venue": "Tollwood – Hexenkessel",
+      "address": "Theresienwiese, 80336 München",
+      "description": "New Blues",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "New Blues"
+      ],
+      "source_id": "tollwood",
+      "source_name": "Tollwood",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Muddy What",
+          "url": "https://www.last.fm/music/Muddy+What"
+        }
+      ],
+      "known_artists": [],
+      "id": "5e5edfb8d418"
+    },
+    {
+      "title": "AL JONES BLUES BAND",
+      "type": "concert",
+      "start": "2026-12-26T20:30",
+      "end": null,
+      "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11737",
+      "venue": "Jazzclub Unterfahrt",
+      "address": "Einsteinstraße 42, 81675 München",
+      "description": "In der staden Zeit fühlt manch einer den Blues. Der Gitarrist und Sänger Al Jones hat ihn eigentlich immer und will mit seiner Variante trübe Gedanken jeglicher Art vertreiben. Sein Blues steckt voller Kraft und Leidenschaft, will aufbauend und belebend sein - trotz der mitunter durchaus ernsten Texte, die sich auch schon mal mit Niederlagen auseinandersetzen, mit Aspekten des Seins, die nicht ganz so schön sind. Al Jones geht gegen die Schattenseiten an - mit einer umwerfenden Lebenslust, Energie und einer positiven Einstellung.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "unterfahrt",
+      "source_name": "Jazzclub Unterfahrt",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Al Jones Blues Band",
+          "url": "https://www.last.fm/music/Al+Jones+Blues+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "28d33149086a"
+    },
+    {
+      "title": "Vorsilvesterparty mit Village Affair und anschließender Session",
+      "type": "concert",
+      "start": "2026-12-30T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=4d5a8c2e2f41c28b7d621bc00f649c46",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Mit Village Affair versammelt Urgestein D.D. Blues vier außergewöhnliche Musiker um sich und verbindet unterschiedliche Stilrichtungen zu Rhythm Groove und Soul. Dieter Uebler D.D. Blues (g) Sebastian Schimmelpfennig (keyb, g, voc, chapmanstick), Claus Zöllner (b, voc), Hannes Schweiger (pe...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "f10ddc8015b6"
+    },
+    {
+      "title": "Zwoa Bier",
+      "type": "concert",
+      "start": "2027-01-02T19:30",
+      "end": "2027-01-02T22:30",
+      "url": "https://www.in-muenchen.de/events/zwoa-bier.html",
+      "venue": "Vereinsheim",
+      "address": "Occamstraße 8, 80802 München",
+      "description": "Zwoa Bier, das Duo Michi Schauer und Sepp Bastl, präsentiert bayerischen Blues und Rock mit schwarzem Humor und saufatrigen Texten. Ihre Musik spiegelt den Alltag und die Politik Bayerns wider.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues Rock"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Zwoa Bier",
+          "url": "https://www.last.fm/music/Zwoa+Bier"
+        }
+      ],
+      "known_artists": [],
+      "id": "e4e4dba56531"
+    },
+    {
+      "title": "Saltbrennt",
+      "type": "concert",
+      "start": "2027-01-07T20:00",
+      "end": "2027-01-07T23:00",
+      "url": "https://www.in-muenchen.de/events/saltbrennt.html",
+      "venue": "Schlachthof – Ox",
+      "address": "Zenettistraße 9, 80337 München",
+      "description": "Die Tiroler Band Saltbrennt präsentiert eine Mischung aus Alpengroove und Blues. Mit Tuba, Mundharmonika, Schlagzeug, Gitarre, Bass, Piano und vierstimmigem Gesang entführen sie in eine Welt ungeschminkten und ehrlichen Klangs. Herzhafte Texte mit österreichischem Schmäh sorgen für eine besondere Atmosphäre.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Alpengrooveblues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Saltbrennt",
+          "url": "https://www.last.fm/music/Saltbrennt"
+        }
+      ],
+      "known_artists": [],
+      "id": "904656d24c18"
+    },
+    {
+      "title": "Ludwig Seuss & Band",
+      "type": "concert",
+      "start": "2027-01-09T20:00",
+      "end": "2027-01-09T23:00",
+      "url": "https://www.in-muenchen.de/events/ludwig-seuss-band.html",
+      "venue": "Lustspielhaus",
+      "address": "Occamstr. 8, 80802 München",
+      "description": "Eine Mischung aus Funky Boogaloos und Mellow Slow Drags bildet den musikalischen Rahmen des Abends. Die Band um Ludwig Seuss präsentiert eine facettenreiche Performance, die Stile und Stimmungen nahtlos verbindet.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Funk"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Ludwig Seuss Band",
+          "url": "https://www.last.fm/music/Ludwig+Seuss+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "0cc75a5b208a"
+    },
+    {
+      "title": "Blues 2 mit Clara",
+      "type": "class",
+      "start": "2027-01-12T19:35",
+      "end": "2027-01-12T20:35",
+      "url": "https://hepcatclub.com/",
+      "venue": "Hep Cat Club",
+      "address": "Viktoriastraße 3b, 86150 Augsburg",
+      "description": "",
+      "recurrence": "Tuesdays 19:35–20:35",
+      "dates": [
+        "2027-01-12",
+        "2027-01-19",
+        "2027-01-26",
+        "2027-02-02",
+        "2027-02-09",
+        "2027-02-16",
+        "2027-02-23",
+        "2027-03-02",
+        "2027-03-09",
+        "2027-03-16"
+      ],
+      "tags": [],
+      "source_id": "hepcat-club",
+      "source_name": "Hep Cat Club",
+      "school_name": "Hep Cat Club",
+      "school_url": "https://hepcatclub.com/",
+      "artists": [],
+      "known_artists": [],
+      "id": "df3112d1a1c0"
+    },
+    {
+      "title": "Sir Oliver Mally Group & Peter Schneider",
+      "type": "concert",
+      "start": "2027-01-14T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/sir-oliver-mally-group-peter-schneider.html",
+      "venue": "Veranstaltungsforum Fürstenfeld",
+      "address": "Fürstenfeld 12, 82256 Fürstenfeldbruck",
+      "description": "Mit seiner markanten Stimme und kompromisslos ehrlicher Songschreibkunst präsentiert die Sir Oliver Mally Group eine Verschmelzung von Blues und Singer/Songwriter-Elementen. Der Münchner Ausnahmegitarrist Peter Schneider ergänzt das Ensemble perfekt. Neben Franz Kreimer am Keyboard und Thomas Feldmann an Saxophon und Mundharmonika erwartet das Publikum eine besondere Klangerfahrung.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Sir Oliver Mally Group",
+          "url": "https://www.last.fm/music/Sir+Oliver+Mally+Group"
+        },
+        {
+          "name": "Peter Schneider",
+          "url": "https://www.last.fm/music/Peter+Schneider"
+        }
+      ],
+      "known_artists": [],
+      "id": "d7d20598c716"
+    },
+    {
+      "title": "Morblus (I) - Dieter feiert seinen Geburtstag",
+      "type": "concert",
+      "start": "2027-01-15T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=739340afb3393d61b171c7d1ecf98795",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Gefühlvoller Blues, melodiöser Soul und energiegeladener Bluesrock sind der Sound, für den MORBLUS seit 30 Jahren steht und mit der die Band internationale Erfolge feiert. Getrieben von Talent und Leidenschaft, hat der charismatischen Bandleader Roberto Morbioli seinen ganz eigenen Stil gefunden...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Morblus",
+          "url": "https://www.last.fm/music/Morblus"
+        }
+      ],
+      "known_artists": [],
+      "id": "c2e2efe9ac56"
+    },
+    {
+      "title": "Jakarta Blues Band",
+      "type": "concert",
+      "start": "2027-01-16T20:00",
+      "end": null,
+      "url": "https://stragula.de/events.html#:~:text=Jakarta%20Blues%20Band",
+      "venue": "Stragula",
+      "address": "Bergmannstr. 66, 80339 München",
+      "description": "„Musik aus einer Zeit, als die Verstärker klein waren und die Autos noch Flossen hatten“ Wenn sie spielen, herrscht beste Stimmung. Kein Wunder, denn die sechs Musiker aus dem Münchner Umland beweisen in ihren Konzerten immer wieder, dass Blues Lebensfreude pur vermittelt. Richtig gelesen! Lebensfreude - nicht Melancholie. Bei der Jakarta Blues Band wechseln stramme Shuffles, schnelle Jump-Blues-Nummern, dramatischer Slow-Blues und groovige Ausflüge in den frühen Soul einander ab. Mit diesem abwechslungsreichen Programm hat sich die Jakarta Blues Band in Bayern einen erstklassigen Ruf erspielt",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "stragula",
+      "source_name": "Stragula",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Jakarta Blues Band",
+          "url": "https://www.last.fm/music/Jakarta+Blues+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "4ed7f30c5409"
+    },
+    {
+      "title": "BLUES CARAVAN",
+      "type": "concert",
+      "start": "2027-01-22T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=ed70dfed0a28191f40db988a163af514",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "++++INFOS FOLGEN++++ Karten: reservierung@village-habach.de Einlass: 19:00 Konzertbeginn: 20:15 Eintritt: €28 / *€25 *reduzierter Preis – keine Angabe von Gründen notwendig",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Blues Caravan",
+          "url": "https://www.last.fm/music/Blues+Caravan"
+        }
+      ],
+      "known_artists": [],
+      "id": "22d7b353aef7"
+    },
+    {
+      "title": "UNDER ATTIC",
+      "type": "concert",
+      "start": "2027-01-23T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=4c2a1e43fb78c040dac70b178b80a8d6",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Energiegeladenen Alternative Blues Rock mit Einflüssen aus Indie, Classic Rock und Funk. Die fünfköpfige Band aus Oberbayern verbindet markante Gitarrenriffs, gefühlvolle Soli und eine charakterstarke, raue Stimme zu einem mitreißenden Livesound. Mit zahlreichen Auftritten auf Festivals, in Clu...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Under Attic",
+          "url": "https://www.last.fm/music/Under+Attic"
+        }
+      ],
+      "known_artists": [],
+      "id": "bab14bcaa9e9"
+    },
+    {
+      "title": "Stephan Zinner – Großstadtblues",
+      "type": "concert",
+      "start": "2027-01-26T20:00",
+      "end": "2027-01-26T23:00",
+      "url": "https://www.in-muenchen.de/events/stephan-zinner-grossstadtblues.html",
+      "venue": "Lustspielhaus",
+      "address": "Occamstr. 8, 80802 München",
+      "description": "Stephan Zinner nimmt sein Publikum auf eine musikalisch-satirische Reise durch den modernen Großstadtalltag mit. Mit Gitarre und pointierten Texten erzählt er vom ewigen Kampf mit Updates, optimierter Freizeit und der Sehnsucht nach einem einfacheren Leben.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Musikalisches Kabarett"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Stephan Zinner",
+          "url": "https://www.last.fm/music/Stephan+Zinner"
+        }
+      ],
+      "known_artists": [],
+      "id": "90ae7942419f"
+    },
+    {
+      "title": "Sean Athens Band",
+      "type": "concert",
+      "start": "2027-01-29T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=1e8198f7d25cf5b734bf4c999441e19a",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Klassischer Blues, kraftvoller Rock mit modernen Einflüssen Was bekommt man, wenn man eine ordentliche Portion BB King, eine Prise Gary Moore und die Energie von Joe Bonamassa mischt? Die Antwort: den unverwechselbaren, modernen und kraftvollen Sound der Sean Athens Band. Vier Musiker, die mi...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Sean Athens",
+          "url": "https://www.last.fm/music/Sean+Athens"
+        }
+      ],
+      "known_artists": [],
+      "id": "db9403c7a399"
+    },
+    {
+      "title": "The Hamburg Blues Band (D/UK/US/PL)",
+      "type": "concert",
+      "start": "2027-01-31T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=925a74515fc3f19f3e479036a949b80f",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Feat. Gert Lange, Krissy Matthews, Frank Itt, Eddie Filipp - Special guest: Will Wilde Blues-Rock mit Soul, Psychedelic, Rhythm und Boogie vermengt City-Heat Tour 2027 Im Rahmen ihrer \"City Heat\"-Tour präsentiert die Hamburg Blues Band mit dem Hamburger Rockshouter & Bandleader Gert Lang...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "The Hamburg Blues Band",
+          "url": "https://www.last.fm/music/The+Hamburg+Blues+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "93fbd681843b"
+    },
+    {
+      "title": "Jared James Nichols",
+      "type": "concert",
+      "start": "2027-02-05T20:00",
+      "end": "2027-02-05T23:00",
+      "url": "https://www.in-muenchen.de/events/jared-james-nichols.html",
+      "venue": "Strom",
+      "address": "Lindwurmstr. 88, 80337 München",
+      "description": "Die Blues-Rock-Szene bekommt einen neuen Star: Jared James Nichols begeistert mit seiner virtuosen Gitarrentechnik und kraftvollen Bühnenpräsenz. Der charismatische Performer verbindet schwindelig schnelle Arpeggios mit einem einzigartigen, artistischen Spielstil. Seine Shows sind eine Reise durch die Blues-Rock-Geschichte, voller Groove, Herz und Seele.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues Rock"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Jared James Nichols",
+          "url": "https://www.last.fm/music/Jared+James+Nichols"
+        }
+      ],
+      "known_artists": [],
+      "id": "8116283823fc"
+    },
+    {
+      "title": "Johnny & The Yooahoos",
+      "type": "concert",
+      "start": "2027-02-06T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/johnny-the-yooahoos-support-black-patti.html",
+      "venue": "Lindenkeller Freising",
+      "address": "Veitsmüllerweg 2, 85354 Freising",
+      "description": "Ein Konzertabend voller musikalischer Leidenschaft und Spielfreude wartet auf das Publikum. Johnny & the Yooahoos und Black Patti zelebrieren gemeinsam traditionelles Bluegrass, Folk und erdigen Blues. Mit Banjo, Mandoline, Gitarre und mehrstimmigem Gesang entführen die Musiker die Zuhörer in eine Welt handgemachter Klänge und authentischer Roots-Musik.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Bluegrass, Folk, Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Johnny & the Yooahoos",
+          "url": "https://www.last.fm/music/Johnny+%26+the+Yooahoos"
+        }
+      ],
+      "known_artists": [],
+      "id": "77d8a5116d55"
+    },
+    {
+      "title": "Danny Bryant",
+      "type": "concert",
+      "start": "2027-02-10T20:00",
+      "end": "2027-02-10T23:00",
+      "url": "https://www.in-muenchen.de/events/danny-bryant.html",
+      "venue": "Backstage Club",
+      "address": "Reitknechtstr. 6, 80639 München",
+      "description": "Mit neuem Album und unbändiger Energie präsentiert Danny Bryant einen Abend voller Blues, Rock und emotionaler Tiefe. Unterstützt von seiner herausragenden Band, bietet er Gitarrenriffs, intensive Songs und eine besondere Nähe zum Publikum.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Bluesrock"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Danny Bryant",
+          "url": "https://www.last.fm/music/Danny+Bryant"
+        }
+      ],
+      "known_artists": [],
+      "id": "482710393fcb"
+    },
+    {
+      "title": "Kai Strauss & The Electric Blues Allstars (GER/USA/UK)",
+      "type": "concert",
+      "start": "2027-02-11T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=b67b1eb86d5c44e0ec6ced133eda1fb7",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Moderner soulig-funkiger Blues Schon als Teenager war er von der Magie eines Buddy Guy, Albert King oder der Vaughan Brothers infiziert. Nachdem er viele Jahre mit dem in Texas, USA, geborenen Sänger Memo Gonzalez unterwegs war, startete er seine Solokarriere und nun zählt Kai Strauss zählt zu...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Kai Strauss",
+          "url": "https://www.last.fm/music/Kai+Strauss"
+        }
+      ],
+      "known_artists": [],
+      "id": "0d127aedfcdd"
+    },
+    {
+      "title": "Günter Grünwald & Rad Gumbo",
+      "type": "concert",
+      "start": "2027-02-13T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/gunter-grunwald-rad-gumbo-pasinger-fabrik-wagenhalle.html",
+      "venue": "Pasinger Fabrik – Wagenhalle",
+      "address": "August-Exter-Straße 1, 81245 München",
+      "description": "Bayerisches Kabarett trifft auf Southern Blues. Günter Grünwald, bekannter Kabarettist, präsentiert sich als Gitarrist mit RAD GUMBO. Die Show bietet eine Mischung aus Musik und Humor mit kabarettistischen Einlagen nach jedem Song. RAD GUMBO spielt Zydeco-Blues und New Orleans-Soul.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Günter Grünwald",
+          "url": "https://www.last.fm/music/G%C3%BCnter+Gr%C3%BCnwald"
+        },
+        {
+          "name": "Rad Gumbo",
+          "url": "https://www.last.fm/music/Rad+Gumbo"
+        }
+      ],
+      "known_artists": [],
+      "id": "377eb1e7f92e"
+    },
+    {
+      "title": "Schwarzenberger Band",
+      "type": "concert",
+      "start": "2027-02-13T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=564c2b48f910ed0b8036edb18ffc85ed",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Bluesrock mit Einflüssen aus Jazz & Fusion Zwischen Bluesrock á la Joe Bonamassa und den jazzigen Einflüssen eines Oz Noy verbindet der Ausnahmegitarrist Spielfreude und Virtuosität zu einer brodelnd-treibenden Mischung, die fasziniert, fesselt und mitreißt. Bekannt als Gitarrist von „San2 & ...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Schwarzenberger",
+          "url": "https://www.last.fm/music/Schwarzenberger"
+        }
+      ],
+      "known_artists": [],
+      "id": "b0e1c8042be8"
+    },
+    {
+      "title": "Meena Cryle & Chris Fillmore Band (AUT)",
+      "type": "concert",
+      "start": "2027-02-21T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=749acc015261720a44f80eb0dc5d5cd9",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Meena Cryle & Chris Fillmore zählen seit vielen Jahren zu den erfolgreichsten österreichischen Musikexporten in der internationalen Blues 'n' Roots Szene und sind alte Bekannte im Village. Sie waren von Beginn an eine musikalische Einheit und dass das nach mehr als fünfzehn Jahren immer noch so ...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Meena Cryle & Chris Fillmore Band",
+          "url": "https://www.last.fm/music/Meena+Cryle+&+Chris+Fillmore+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "c51b24d38c6e"
+    },
+    {
+      "title": "Bluedög and the Hardcore Bluesband",
+      "type": "concert",
+      "start": "2027-02-27T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=8b7365c31aa31e9628d6b206981e9ba9",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Blues, Bluesrock Man muss den „Blues-Hexenmeister“ Philipp „Bluedög“ Gerber nicht beschreiben, nein, man muss ihn sehen, hören und fühlen! Seine Art, die Saiten seiner Gitarre zu bearbeiten, ist legendär. Kaum einer fühlt und spürt den Blues so wie er, ein Mann, der die feinen Töne zerbrechlich ...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "the hardcore bluesband",
+          "url": "https://www.last.fm/music/the+hardcore+bluesband"
+        }
+      ],
+      "known_artists": [],
+      "id": "77ee9b5e552f"
+    },
+    {
+      "title": "Raphael Wressnig & Soul Gift",
+      "type": "concert",
+      "start": "2027-03-04T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/raphael-wressnig-soul-gift.html",
+      "venue": "Veranstaltungsforum Fürstenfeld",
+      "address": "Fürstenfeld 12, 82256 Fürstenfeldbruck",
+      "description": "Zwischen wuchtigem Hammond-Sound und rohen Roots-Klängen entfaltet sich ein Abend voll Soul, Blues und Jazz. Raphael Wressnig und seine Band, verstärkt durch die charismatische Gisele Jackson, entführen das Publikum in eine Welt aus Groove und Energie.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Raphael Wressnig",
+          "url": "https://www.last.fm/music/Raphael+Wressnig"
+        }
+      ],
+      "known_artists": [],
+      "id": "e9d1b0b9f4ea"
+    },
+    {
+      "title": "Rad Gumbo & Günter Grünwald",
+      "type": "concert",
+      "start": "2027-03-05T20:00",
+      "end": "2027-03-05T22:30",
+      "url": "https://www.in-muenchen.de/events/rad-gumbo-gunter-grunwald.html",
+      "venue": "Spektakel im Postsaal Schäftlarn",
+      "address": "Wolfratshauser Straße 45, 82067 Schäftlarn",
+      "description": "Bayerisches Kabarett und Southern Blues verschmelzen zu einem unterhaltsamen Abend. Mit bayerischem Humor und groovigem Blues-Rock erzeugen Günter Grünwald und RAD GUMBO einen musikalisch-komödiantischen Cocktail. Grünwald an der Sologitarre, gefolgt von Kabaretteinlagen, schafft eine überraschende und kurzweilige Atmosphäre.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Kabarett"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Rad Gumbo",
+          "url": "https://www.last.fm/music/Rad+Gumbo"
+        },
+        {
+          "name": "Günter Grünwald",
+          "url": "https://www.last.fm/music/G%C3%BCnter+Gr%C3%BCnwald"
+        }
+      ],
+      "known_artists": [],
+      "id": "7195272235ac"
+    },
+    {
+      "title": "Norman Beaker Trio (UK, IT)",
+      "type": "concert",
+      "start": "2027-03-05T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=623417b5aec562ac5e8ba1aeb497e45d",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Blues und Bluesrock mit Einflüssen aus Soul, Jazz und Rhythm & Blues Norman Beaker gehört zu den prägenden Persönlichkeiten der britischen Blues-Szene und blickt auf eine außergewöhnliche Karriere zurück. Als Gitarrist, Sänger, Bandleader und Produzent stand er mit zahlreichen Größen des Blues u...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Norman Beaker Trio",
+          "url": "https://www.last.fm/music/Norman+Beaker+Trio"
+        }
+      ],
+      "known_artists": [],
+      "id": "71f2b05a60d5"
+    },
+    {
+      "title": "Allen Forrester Band (USA)",
+      "type": "concert",
+      "start": "2027-03-12T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=f56eb306e617a2d6425f5291ebe207c3",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Blues Rock / Southern Rock Die ALLEN-FORRESTER BAND ist ein gemeinsames Projekt der beiden New Yorker Gitarristen Ben Forrester und Josh Allen. Geprägt von den Pionieren des Southern Rock wie der Allman Brothers Band, Lynyrd Skynyrd, Black Crowes, und Blackberry Smoke, verpassen die beiden dem...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "9232375ffb47"
+    },
+    {
+      "title": "Graveyard + Blues Pills",
+      "type": "concert",
+      "start": "2027-03-13T19:00",
+      "end": "2027-03-13T23:00",
+      "url": "https://www.in-muenchen.de/events/graveyard-blues-pills.html",
+      "venue": "Muffatwerk / Muffathalle",
+      "address": "Zellstr. 4, 81667 München",
+      "description": "Die Bühne bebt, wenn Graveyard und Blues Pills aufspielen. Unterstützt werden sie von Spiders, die den Abend mit rockigen Klängen eröffnen. Zu hören sind intensive Riffs und kraftvolle Stimmen, die die Geschichte des Blues neu interpretieren.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Rock"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Graveyard",
+          "url": "https://www.last.fm/music/Graveyard"
+        },
+        {
+          "name": "Blues Pills",
+          "url": "https://www.last.fm/music/Blues+Pills"
+        }
+      ],
+      "known_artists": [
+        "Graveyard",
+        "Blues Pills"
+      ],
+      "id": "8b0fe5e4c983"
+    },
+    {
+      "title": "Günter Grünwald & Rad Gumbo",
+      "type": "concert",
+      "start": "2027-03-21T19:30",
+      "end": "2027-03-21T23:00",
+      "url": "https://www.in-muenchen.de/events/gunter-grunwald-rad-gumbo.html",
+      "venue": "Lustspielhaus",
+      "address": "Occamstr. 8, 80802 München",
+      "description": "Bayerisches Kabarett und Southern Blues verschmelzen in einem Programm, das Humor und Musik vereint. Gezeigt werden Comedy und Songs, die Traditionen und Kulturen vereinen.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Kabarett"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Günter Grünwald",
+          "url": "https://www.last.fm/music/G%C3%BCnter+Gr%C3%BCnwald"
+        },
+        {
+          "name": "Rad Gumbo",
+          "url": "https://www.last.fm/music/Rad+Gumbo"
+        }
+      ],
+      "known_artists": [],
+      "id": "0379893f5324"
+    },
+    {
+      "title": "Devon Allman Blues Summit feat. Jimmy Hall, Claudette King, Bernard Allison",
+      "type": "concert",
+      "start": "2027-03-27T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/the-devon-allman-blues-summit-feat-jimmy-hall-claudette-king-bernard-allison.html",
+      "venue": "Muffatwerk / Ampere",
+      "address": "Zellstraße 4, 81667 München",
+      "description": "Die Show vereint den amerikanischen Blues-Spirit mit einer All-Star-Besetzung. Devon Allman, Jimmy Hall, Bernard Allison und Claudette King bringen ihre einzigartigen Stile und Geschichten auf die Bühne. Die Atmosphäre ist eine Mischung aus tief groovendem Blues, Southern Soul und gitarrengetriebenem Rock.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Devon Allman",
+          "url": "https://www.last.fm/music/Devon+Allman"
+        },
+        {
+          "name": "Jimmy Hall",
+          "url": "https://www.last.fm/music/Jimmy+Hall"
+        },
+        {
+          "name": "Claudette King",
+          "url": "https://www.last.fm/music/Claudette+King"
+        },
+        {
+          "name": "Bernard Allison",
+          "url": "https://www.last.fm/music/Bernard+Allison"
+        }
+      ],
+      "known_artists": [
+        "Bernard Allison"
+      ],
+      "id": "c780e652c65f"
+    },
+    {
+      "title": "Ash Grunwald",
+      "type": "concert",
+      "start": "2027-04-03T20:00",
+      "end": "2027-04-03T23:00",
+      "url": "https://www.in-muenchen.de/events/ash-grunwald.html",
+      "venue": "Milla",
+      "address": "Holzstraße 28, 80469 München",
+      "description": "Der australische Bluesmusiker Ash Grunwald präsentiert sein energiegeladenes Programm. Mit einer Vielzahl von Gitarren und einer stampfenden Klanggewalt begeistert er das Publikum. Seine Musik, eine Mischung aus Blues und Storytelling, zieht Fans weltweit in ihren Bann.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Ash Grunwald",
+          "url": "https://www.last.fm/music/Ash+Grunwald"
+        }
+      ],
+      "known_artists": [
+        "Ash Grunwald"
+      ],
+      "id": "09c6aca9c076"
+    },
+    {
+      "title": "Blues 2 mit Clara",
+      "type": "class",
+      "start": "2027-04-06T19:35",
+      "end": "2027-04-06T20:35",
+      "url": "https://hepcatclub.com/",
+      "venue": "Hep Cat Club",
+      "address": "Viktoriastraße 3b, 86150 Augsburg",
+      "description": "",
+      "recurrence": "Tuesdays 19:35–20:35",
+      "dates": [
+        "2027-04-06",
+        "2027-04-13",
+        "2027-04-20",
+        "2027-04-27",
+        "2027-05-04",
+        "2027-05-11",
+        "2027-05-25",
+        "2027-06-01",
+        "2027-06-08",
+        "2027-06-15",
+        "2027-06-22",
+        "2027-06-29",
+        "2027-07-06",
+        "2027-07-13",
+        "2027-07-20",
+        "2027-07-27",
+        "2027-08-03",
+        "2027-08-10",
+        "2027-08-17",
+        "2027-08-24",
+        "2027-08-31",
+        "2027-09-07",
+        "2027-09-14",
+        "2027-09-21",
+        "2027-09-28"
+      ],
+      "tags": [],
+      "source_id": "hepcat-club",
+      "source_name": "Hep Cat Club",
+      "school_name": "Hep Cat Club",
+      "school_url": "https://hepcatclub.com/",
+      "artists": [],
+      "known_artists": [],
+      "id": "338c64ebae1c"
+    },
+    {
+      "title": "Sari Schorr (USA)",
+      "type": "concert",
+      "start": "2027-04-09T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=6815ffb2333d886064f457e15d409bda",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "+++INFOS FOLGEN+++",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Sari Schorr",
+          "url": "https://www.last.fm/music/Sari+Schorr"
+        }
+      ],
+      "known_artists": [],
+      "id": "03c5839afbdb"
+    },
+    {
+      "title": "Stephan Zinner – Großstadtblues",
+      "type": "concert",
+      "start": "2027-04-24T19:30",
+      "end": "2027-04-24T22:30",
+      "url": "https://www.in-muenchen.de/events/stephan-zinner-grossstadtblues-circus-krone.html",
+      "venue": "Circus Krone",
+      "address": "Marsstr. 43, 80335 München",
+      "description": "Mit Gitarre und pointierten Texten nimmt Stephan Zinner das Publikum auf eine musikalisch-satirische Reise durch den Wahnsinn des modernen Alltags mit. Zwischen Updates, die keiner braucht, und der Sehnsucht nach einem einfacheren Leben zeigt er die Absurditäten unserer Zeit.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Musikalisches Kabarett"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Stephan Zinner",
+          "url": "https://www.last.fm/music/Stephan+Zinner"
+        }
+      ],
+      "known_artists": [],
+      "id": "8dd5958aa3f3"
+    },
+    {
+      "title": "Miller Anderson Band (GBR)",
+      "type": "concert",
+      "start": "2027-04-25T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=b3b5c8ef0089e8b35bd82054e03d76bf",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Blues und Rock mit deutlichen Einflüssen aus Folk- und Glam-Rock MILLER ANDERSON noch einmal im Village hautnah sehen und hören zu dürfen und damit einem echten Woodstock Veteranen direkt gegenüber zu stehen, so viele Gelegenheiten gibt es da nicht mehr …. Die versierte Slide-Arbeit und der k...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Miller Anderson Band",
+          "url": "https://www.last.fm/music/Miller+Anderson+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "70f1eb4e43ad"
+    },
+    {
+      "title": "Cliff Stevens (CAN)",
+      "type": "concert",
+      "start": "2027-04-30T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=02d8713c8feacf37a5c62b43e6e7a0d2",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Mischung aus Blues, Classic Rock Kratziger, ergreifender Gesang und überzeugendes Songwriting á la Eric Clapton, Stevie Ray Vaughan und John Mayer. Musikalisch reicht die Spanne von treibendem Blues-Rock, über Slow Classic Blues bis zu Acoustic Country Blues. Cliff Stevens’ markante Stimme und ...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Cliff Stevens",
+          "url": "https://www.last.fm/music/Cliff+Stevens"
+        }
+      ],
+      "known_artists": [],
+      "id": "106cff2017c0"
+    },
+    {
+      "title": "Krissy Matthews",
+      "type": "concert",
+      "start": "2027-05-04T20:00",
+      "end": "2027-05-04T23:00",
+      "url": "https://www.in-muenchen.de/events/krissy-matthews.html",
+      "venue": "Backstage Halle",
+      "address": "Reitknechtstraße 6, 80639 München",
+      "description": "Auf der Bühne präsentiert sich der talentierte Gitarrist Krissy Matthews mit seinem außergewöhnlichen Blues-Rock-Sound. Im Zentrum des Abends stehen virtuose Gitarrenriffs und kraftvolle Melodien, die das Publikum in ihren Bann ziehen. Matthews‘ Spiel verbindet klassisch-bluesige Elemente mit rockigen Klängen.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues Rock"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Krissy Matthews",
+          "url": "https://www.last.fm/music/Krissy+Matthews"
+        }
+      ],
+      "known_artists": [],
+      "id": "206dda01cf64"
+    },
+    {
+      "title": "RO CLAUSMAN BAND",
+      "type": "concert",
+      "start": "2027-05-08T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=1a484a7f15622e0d90ac55d097f7d2d2",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Grooviger Blues, soulige Balladen, fetziger Rock ’n’ Roll und jazzig angehauchter Southern Rock Die 6-köpfige Bluesrock-Band um den virtuosen Penzberger Profi-Gitarristen und Sänger RO CLAUSMAN gehört zum Feinsten, was man in diesem Genre im oberbayerischen Voralpenland hören kann. Hier jage...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Ro Clausman",
+          "url": "https://www.last.fm/music/Ro+Clausman"
+        }
+      ],
+      "known_artists": [],
+      "id": "e6727bdbcd82"
+    },
+    {
+      "title": "Hans Theessink",
+      "type": "concert",
+      "start": "2027-05-20T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/hans-theessink.html",
+      "venue": "Veranstaltungsforum Fürstenfeld",
+      "address": "Fürstenfeld 12, 82256 Fürstenfeldbruck",
+      "description": "Im Mittelpunkt des Abends steht Hans Theessink, eine Institution der Rootsmusik. Seine gefühlvollen Interpretationen des solo acoustic Blues, begleitet von seiner sonoren Stimme und seinem unverkennbaren Gitarrenstil, versprechen eine Nacht voller Musik und Emotionen.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Hans Theessink",
+          "url": "https://www.last.fm/music/Hans+Theessink"
+        }
+      ],
+      "known_artists": [],
+      "id": "1ccbf127a0ff"
+    },
+    {
+      "title": "Munich Rhythm and Blues Band",
+      "type": "concert",
+      "start": "2027-06-05T19:30",
+      "end": null,
+      "url": "https://stragula.de/events.html#:~:text=Munich%20Rhythm%20and%20Blues%20Band",
+      "venue": "Stragula",
+      "address": "Bergmannstr. 66, 80339 München",
+      "description": "Die Munich Rhythm and Blues Band begeistert mit einer Mischung aus Funk, Soul, Pop; Rock und R&B Musik. Wir präsentieren viele Musikstile wie Rhythm and Blues, Funk, Soul, Blues von Aretha Franklin über Blues Brothers bis Johnny Cash. Unser Repertoire beinhaltet Stücke wie Sweet Home Chicago, Mustang Sally, Ring of Fire, Summertime aber auch modernere Stücke wie Haunted Heart von Christina Aguilera. Unsere Bandmitglieder haben sich durch jahrelange Liveerfahrungen auch in anderen Bands zu Spitzenmusikern gesteigert. · Eintritt: Frei (Hutspende)",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "stragula",
+      "source_name": "Stragula",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Blues Band",
+          "url": "https://www.last.fm/music/+noredirect/Blues+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "dabed20b6d51"
+    },
+    {
+      "title": "Joe Bonamassa",
+      "type": "concert",
+      "start": "2027-07-12T19:00",
+      "end": "2027-07-12T23:00",
+      "url": "https://www.in-muenchen.de/events/joe-bonamassa.html",
+      "venue": "Olympiapark München / Tollwood Sommerfestival",
+      "address": "Spiridon-Louis-Ring, 80809 München",
+      "description": "Blues-Rock-Fans dürfen sich auf einen Abend mit Joe Bonamassa freuen. Der Ausnahmegitarrist präsentiert sein facettenreiches Spiel, das Bluestradition mit Rock, Soul und Americana vereint. Als Special Guest begeistert Marc Broussard mit souliger Stimme und Südstaaten-Blues.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues Rock"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://www.last.fm/music/Joe+Bonamassa"
+        }
+      ],
+      "known_artists": [
+        "Joe Bonamassa"
+      ],
+      "id": "3ede1066ee72"
+    },
+    {
+      "title": "B.B. & The Blues Shacks",
+      "type": "concert",
+      "start": "2027-07-15T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/b-b-the-blues-shacks.html",
+      "venue": "Veranstaltungsforum Fürstenfeld",
+      "address": "Fürstenfeld 12, 82256 Fürstenfeldbruck",
+      "description": "Die Bluesband B. B. & The Blues Shacks präsentiert ihre einzigartige Mischung aus Rhythm & Blues und Sixty Soul. Mit über 36 Jahren Tourerfahrung und zahlreichen Auszeichnungen wie dem German Blues Award begeistert die Band ihr Publikum weltweit. Frontmann Michael Arlt, sein Bruder Andreas Arlt, Fabian Fritz, Henning Hauerken und Andre Werkmeister garantieren einen außergewöhnlichen Drive und Groove.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "B.B. & The Blues Shacks",
+          "url": "https://www.last.fm/music/B.B.+%26+The+Blues+Shacks"
+        }
+      ],
+      "known_artists": [],
+      "id": "9ede35c84290"
+    },
+    {
+      "title": "Bernd Bauer Blues Band: Fish’n’Blues",
+      "type": "concert",
+      "start": "2027-07-21T20:00",
+      "end": null,
+      "url": "https://berndbauerbluesband.de/termine/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstr. 7, 80331 München",
+      "description": "",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "bernd-bauer-blues-band",
+      "source_name": "Bernd Bauer Blues Band",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "e89cd8f357c1"
+    },
+    {
+      "title": "Axel Zwingenberger",
+      "type": "concert",
+      "start": "2027-10-13T20:00",
+      "end": "2027-10-13T23:00",
+      "url": "https://www.in-muenchen.de/events/axel-zwingenberger.html",
+      "venue": "Prinzregententheater",
+      "address": "Prinzregentenplatz 12, 81675 München",
+      "description": "Ein Abend voller Blues und Boogie Woogie. Axel Zwingenberger präsentiert sein außergewöhnliches Klavierspiel in einem Solokonzert. Die Musik entführt das Publikum in eine Welt kraftvoller Klänge und rhythmischer Melodien.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Axel Zwingenberger",
+          "url": "https://www.last.fm/music/Axel+Zwingenberger"
+        }
+      ],
+      "known_artists": [],
+      "id": "129fb11f2680"
+    }
+  ],
+  "sources": [
+    {
+      "id": "vintage-club",
+      "name": "Vintage Club",
+      "url": "https://www.vintage-club.de/",
+      "kind": "school",
+      "status": "ok",
+      "found": 55,
+      "kept": 9
+    },
+    {
+      "id": "boogie-baeren",
+      "name": "Boogie-Bären München",
+      "url": "https://www.boogie-baeren.de/",
+      "kind": "school",
+      "status": "ok",
+      "found": 74,
+      "kept": 13
+    },
+    {
+      "id": "oksana-pavlova",
+      "name": "Oksana Pavlova",
+      "url": "https://oksanapavlova.de/",
+      "kind": "school",
+      "status": "ok",
+      "found": 16,
+      "kept": 3
+    },
+    {
+      "id": "hepcat-club",
+      "name": "Hep Cat Club",
+      "url": "https://hepcatclub.com/",
+      "kind": "school",
+      "status": "ok",
+      "found": 221,
+      "kept": 3
+    },
+    {
+      "id": "glockenbachwerkstatt",
+      "name": "Glockenbachwerkstatt – Fish'n Blues",
+      "url": "https://www.glockenbachwerkstatt.de/",
+      "kind": "venue",
+      "status": "ok",
+      "found": 7,
+      "kept": 43
+    },
+    {
+      "id": "rheinpfalz-schwabing",
+      "name": "Rheinpfalz Schwabing",
+      "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
+      "kind": "venue",
+      "status": "ok",
+      "found": 15,
+      "kept": 7
+    },
+    {
+      "id": "bernd-bauer-blues-band",
+      "name": "Bernd Bauer Blues Band",
+      "url": "https://berndbauerbluesband.de/",
+      "kind": "band",
+      "status": "ok",
+      "found": 4,
+      "kept": 17
+    },
+    {
+      "id": "unterfahrt",
+      "name": "Jazzclub Unterfahrt",
+      "url": "https://www.unterfahrt.de/",
+      "kind": "venue",
+      "status": "ok",
+      "found": 63,
+      "kept": 1
+    },
+    {
+      "id": "misterbs",
+      "name": "Mister B's",
+      "url": "https://mister-bs.bar/",
+      "kind": "venue",
+      "status": "ok",
+      "found": 11,
+      "kept": 0
+    },
+    {
+      "id": "gans-am-wasser",
+      "name": "Café Gans am Wasser",
+      "url": "https://www.gansamwasser.de/",
+      "kind": "venue",
+      "status": "ok",
+      "found": 17,
+      "kept": 2
+    },
+    {
+      "id": "village-habach",
+      "name": "Village Habach",
+      "url": "https://www.village-habach.de/",
+      "kind": "venue",
+      "status": "ok",
+      "found": 49,
+      "kept": 26
+    },
+    {
+      "id": "tollwood",
+      "name": "Tollwood",
+      "url": "https://www.tollwood.de/",
+      "kind": "venue",
+      "status": "ok",
+      "found": 101,
+      "kept": 8
+    },
+    {
+      "id": "stragula",
+      "name": "Stragula",
+      "url": "https://stragula.de/",
+      "kind": "venue",
+      "status": "ok",
+      "found": 27,
+      "kept": 3
+    },
+    {
+      "id": "swinginmunich",
+      "name": "SwinginMunich.de",
+      "url": "https://www.swinginmunich.de/en",
+      "kind": "aggregator",
+      "status": "failed",
+      "error": "RetryError: HTTPSConnectionPool(host='www.swinginmunich.de', port=443): Max retries exceeded with url: /de/kalender (Caused by ResponseError('too many 500 error responses'))",
+      "kept": 2
+    },
+    {
+      "id": "inmuenchen",
+      "name": "IN München",
+      "url": "https://www.in-muenchen.de/",
+      "kind": "aggregator",
+      "status": "ok",
+      "found": 164,
+      "kept": 58
+    },
+    {
+      "id": "ticketmaster",
+      "name": "Ticketmaster (genre Blues)",
+      "url": "https://www.ticketmaster.de/",
+      "kind": "aggregator",
+      "status": "ok",
+      "found": 0,
+      "kept": 0
+    },
+    {
+      "id": "manual",
+      "name": "Curated",
+      "url": "https://github.com/",
+      "kind": "manual",
+      "status": "ok",
+      "found": 0,
+      "kept": 0
+    }
+  ]
+}

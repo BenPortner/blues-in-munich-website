@@ -1,0 +1,3663 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Blues in Munich//events//EN
+X-WR-CALNAME:Blues in Munich
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+COMMENT:This timezone only works from 1970-01-01 to 2038-01-01.
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:CET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19800406T030000
+RDATE:19810329T030000,19820328T030000,19830327T030000,19840325T030000,1985
+ 0331T030000,19860330T030000,19870329T030000,19880327T030000,19890326T03000
+ 0,19900325T030000,19910331T030000,19920329T030000,19930328T030000,19940327
+ T030000,19950326T030000,19960331T030000,19970330T030000,19980329T030000,19
+ 990328T030000,20000326T030000,20010325T030000,20020331T030000,20030330T030
+ 000,20040328T030000,20050327T030000,20060326T030000,20070325T030000,200803
+ 30T030000,20090329T030000,20100328T030000,20110327T030000,20120325T030000,
+ 20130331T030000,20140330T030000,20150329T030000,20160327T030000,20170326T0
+ 30000,20180325T030000,20190331T030000,20200329T030000,20210328T030000,2022
+ 0327T030000,20230326T030000,20240331T030000,20250330T030000,20260329T03000
+ 0,20270328T030000,20280326T030000,20290325T030000,20300331T030000,20310330
+ T030000,20320328T030000,20330327T030000,20340326T030000,20350325T030000,20
+ 360330T030000,20370329T030000
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19800928T030000
+RDATE:19810927T030000,19820926T030000,19830925T030000,19840930T030000,1985
+ 0929T030000,19860928T030000,19870927T030000,19880925T030000,19890924T03000
+ 0,19900930T030000,19910929T030000,19920927T030000,19930926T030000,19940925
+ T030000,19950924T030000,19961027T030000,19971026T030000,19981025T030000,19
+ 991031T030000,20001029T030000,20011028T030000,20021027T030000,20031026T030
+ 000,20041031T030000,20051030T030000,20061029T030000,20071028T030000,200810
+ 26T030000,20091025T030000,20101031T030000,20111030T030000,20121028T030000,
+ 20131027T030000,20141026T030000,20151025T030000,20161030T030000,20171029T0
+ 30000,20181028T030000,20191027T030000,20201025T030000,20211031T030000,2022
+ 1030T030000,20231029T030000,20241027T030000,20251026T030000,20261025T03000
+ 0,20271031T030000,20281029T030000,20291028T030000,20301027T030000,20311026
+ T030000,20321031T030000,20331030T030000,20341029T030000,20351028T030000,20
+ 361026T030000,20371025T030000
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Mateo Navarro & Friends
+DTSTART;TZID=Europe/Berlin:20260107T203000
+DTSTAMP:20261024T082051Z
+UID:f0a96f942f44-0@blues-in-munich
+DESCRIPTION:Fish'n Blues Konzert · Fisch 19:00 Uhr · Eintritt: kostenlos
+ \nhttps://www.glockenbachwerkstatt.de/events/fish-n-bluesmateo-novmbert25-
+ 3/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/fish-n-bluesmateo-novmbert2
+ 5-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drug Stop
+DTSTART;TZID=Europe/Berlin:20260114T203000
+DTSTAMP:20261024T082051Z
+UID:cc3d5798c3ad-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenlos\nhttps://www.glockenbachwerkstat
+ t.de/events/drug-stop/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/drug-stop/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bernd Bauer Blues Band: Stormy Wednesday
+DTSTART;VALUE=DATE:20260121
+DTSTAMP:20261024T082051Z
+UID:f5898d11e7f8-0@blues-in-munich
+DESCRIPTION:Akustische offene Blues Session\, Eintritt frei\nhttps://bernd
+ bauerbluesband.de/termine/
+LOCATION:Kulturzentrum Giesinger Bahnhof\, Giesinger Bahnhofsplatz 1\, 815
+ 39 München
+URL:https://berndbauerbluesband.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHRIS VOID & THE INCREDIBLY STRANGE ......
+DTSTART;TZID=Europe/Berlin:20260121T203000
+DTSTAMP:20261024T082051Z
+UID:5aee2d5411bc-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenlos\nhttps://www.glockenbachwerkstat
+ t.de/events/chris-void-the-incredibly-strange-creatures-2026/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/chris-void-the-incredibly-s
+ trange-creatures-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Explorers · alle Level
+DTSTART;TZID=Europe/Berlin:20260107T173000
+DTEND;TZID=Europe/Berlin:20260107T183000
+DTSTAMP:20261024T082051Z
+UID:628aec196400-0@blues-in-munich
+DESCRIPTION:Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen\, wes
+ entliche Schritte und Figuren\, um dich auf der Tanzfläche sicher und woh
+ l zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkund
+ et\, die zu verschiedenen Musikstilen getanzt werden können.\nhttps://www
+ .vintage-club.de/classes.aspx\nhttps://www.vintage-club.de/
+LOCATION:Vintage Club (VC Studio 2)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Explorers · alle Level
+DTSTART;TZID=Europe/Berlin:20260114T173000
+DTEND;TZID=Europe/Berlin:20260114T183000
+DTSTAMP:20261024T082051Z
+UID:628aec196400-1@blues-in-munich
+DESCRIPTION:Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen\, wes
+ entliche Schritte und Figuren\, um dich auf der Tanzfläche sicher und woh
+ l zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkund
+ et\, die zu verschiedenen Musikstilen getanzt werden können.\nhttps://www
+ .vintage-club.de/classes.aspx\nhttps://www.vintage-club.de/
+LOCATION:Vintage Club (VC Studio 2)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Explorers · alle Level
+DTSTART;TZID=Europe/Berlin:20260121T173000
+DTEND;TZID=Europe/Berlin:20260121T183000
+DTSTAMP:20261024T082051Z
+UID:628aec196400-2@blues-in-munich
+DESCRIPTION:Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen\, wes
+ entliche Schritte und Figuren\, um dich auf der Tanzfläche sicher und woh
+ l zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkund
+ et\, die zu verschiedenen Musikstilen getanzt werden können.\nhttps://www
+ .vintage-club.de/classes.aspx\nhttps://www.vintage-club.de/
+LOCATION:Vintage Club (VC Studio 2)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Explorers · alle Level
+DTSTART;TZID=Europe/Berlin:20260128T173000
+DTEND;TZID=Europe/Berlin:20260128T183000
+DTSTAMP:20261024T082051Z
+UID:628aec196400-3@blues-in-munich
+DESCRIPTION:Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen\, wes
+ entliche Schritte und Figuren\, um dich auf der Tanzfläche sicher und woh
+ l zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkund
+ et\, die zu verschiedenen Musikstilen getanzt werden können.\nhttps://www
+ .vintage-club.de/classes.aspx\nhttps://www.vintage-club.de/
+LOCATION:Vintage Club (VC Studio 2)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Nerds · ab Aufsteiger
+DTSTART;TZID=Europe/Berlin:20260107T184500
+DTEND;TZID=Europe/Berlin:20260107T194500
+DTSTAMP:20261024T082051Z
+UID:b0cd0aad5b83-0@blues-in-munich
+DESCRIPTION:https://www.vintage-club.de/classes.aspx\nhttps://www.vintage-
+ club.de/
+LOCATION:Vintage Club (VC Studio 2)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Nerds · ab Aufsteiger
+DTSTART;TZID=Europe/Berlin:20260114T184500
+DTEND;TZID=Europe/Berlin:20260114T194500
+DTSTAMP:20261024T082051Z
+UID:b0cd0aad5b83-1@blues-in-munich
+DESCRIPTION:https://www.vintage-club.de/classes.aspx\nhttps://www.vintage-
+ club.de/
+LOCATION:Vintage Club (VC Studio 2)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Nerds · ab Aufsteiger
+DTSTART;TZID=Europe/Berlin:20260121T184500
+DTEND;TZID=Europe/Berlin:20260121T194500
+DTSTAMP:20261024T082051Z
+UID:b0cd0aad5b83-2@blues-in-munich
+DESCRIPTION:https://www.vintage-club.de/classes.aspx\nhttps://www.vintage-
+ club.de/
+LOCATION:Vintage Club (VC Studio 2)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Nerds · ab Aufsteiger
+DTSTART;TZID=Europe/Berlin:20260128T184500
+DTEND;TZID=Europe/Berlin:20260128T194500
+DTSTAMP:20261024T082051Z
+UID:b0cd0aad5b83-3@blues-in-munich
+DESCRIPTION:https://www.vintage-club.de/classes.aspx\nhttps://www.vintage-
+ club.de/
+LOCATION:Vintage Club (VC Studio 2)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neu! ***Lindy & Blues for Fun · alle Level
+DTSTART;TZID=Europe/Berlin:20260107T211000
+DTEND;TZID=Europe/Berlin:20260107T221000
+DTSTAMP:20261024T082051Z
+UID:439d92ccd9be-0@blues-in-munich
+DESCRIPTION:Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen\, wes
+ entliche Schritte und Figuren\, um dich auf der Tanzfläche sicher und woh
+ l zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkund
+ et\, die zu verschiedenen Musikstilen getanzt werden können.\nhttps://www
+ .vintage-club.de/classes.aspx\nhttps://www.vintage-club.de/
+LOCATION:Vintage Club (VC Studio 1)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neu! ***Lindy & Blues for Fun · alle Level
+DTSTART;TZID=Europe/Berlin:20260114T211000
+DTEND;TZID=Europe/Berlin:20260114T221000
+DTSTAMP:20261024T082051Z
+UID:439d92ccd9be-1@blues-in-munich
+DESCRIPTION:Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen\, wes
+ entliche Schritte und Figuren\, um dich auf der Tanzfläche sicher und woh
+ l zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkund
+ et\, die zu verschiedenen Musikstilen getanzt werden können.\nhttps://www
+ .vintage-club.de/classes.aspx\nhttps://www.vintage-club.de/
+LOCATION:Vintage Club (VC Studio 1)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neu! ***Lindy & Blues for Fun · alle Level
+DTSTART;TZID=Europe/Berlin:20260121T211000
+DTEND;TZID=Europe/Berlin:20260121T221000
+DTSTAMP:20261024T082051Z
+UID:439d92ccd9be-2@blues-in-munich
+DESCRIPTION:Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen\, wes
+ entliche Schritte und Figuren\, um dich auf der Tanzfläche sicher und woh
+ l zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkund
+ et\, die zu verschiedenen Musikstilen getanzt werden können.\nhttps://www
+ .vintage-club.de/classes.aspx\nhttps://www.vintage-club.de/
+LOCATION:Vintage Club (VC Studio 1)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neu! ***Lindy & Blues for Fun · alle Level
+DTSTART;TZID=Europe/Berlin:20260128T211000
+DTEND;TZID=Europe/Berlin:20260128T221000
+DTSTAMP:20261024T082051Z
+UID:439d92ccd9be-3@blues-in-munich
+DESCRIPTION:Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen\, wes
+ entliche Schritte und Figuren\, um dich auf der Tanzfläche sicher und woh
+ l zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkund
+ et\, die zu verschiedenen Musikstilen getanzt werden können.\nhttps://www
+ .vintage-club.de/classes.aspx\nhttps://www.vintage-club.de/
+LOCATION:Vintage Club (VC Studio 1)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:m ö b e l k r ö g e r
+DTSTART;TZID=Europe/Berlin:20260128T203000
+DTSTAMP:20261024T082051Z
+UID:6e68cab9c7d6-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenlos\nhttps://www.glockenbachwerkstat
+ t.de/events/m-oe-b-e-l-k-r-oe-g-e-r/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/m-oe-b-e-l-k-r-oe-g-e-r/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boris Ruge & Band
+DTSTART;TZID=Europe/Berlin:20260204T203000
+DTSTAMP:20261024T082051Z
+UID:12000e578b1d-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenlos\nhttps://www.glockenbachwerkstat
+ t.de/events/boris-ruge-band/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/boris-ruge-band/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bootleg Twins
+DTSTART;TZID=Europe/Berlin:20260211T203000
+DTSTAMP:20261024T082051Z
+UID:7a26d161093a-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenlos\nhttps://www.glockenbachwerkstat
+ t.de/events/bootleg-twins/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/bootleg-twins/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Fundamentals (Open)
+DTSTART;TZID=Europe/Berlin:20260106T204500
+DTEND;TZID=Europe/Berlin:20260106T221500
+DTSTAMP:20261024T082051Z
+UID:57ae7cd890a0-0@blues-in-munich
+DESCRIPTION:Teachers: Alice & Marcin. Start ab 13.1. Club training for mem
+ bers: register for the cycle (05.01.–22.02.2026). Newcomers can try clas
+ ses during the first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/tra
+ ining\nhttps://www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Fundamentals (Open)
+DTSTART;TZID=Europe/Berlin:20260113T204500
+DTEND;TZID=Europe/Berlin:20260113T221500
+DTSTAMP:20261024T082051Z
+UID:57ae7cd890a0-1@blues-in-munich
+DESCRIPTION:Teachers: Alice & Marcin. Start ab 13.1. Club training for mem
+ bers: register for the cycle (05.01.–22.02.2026). Newcomers can try clas
+ ses during the first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/tra
+ ining\nhttps://www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Fundamentals (Open)
+DTSTART;TZID=Europe/Berlin:20260120T204500
+DTEND;TZID=Europe/Berlin:20260120T221500
+DTSTAMP:20261024T082051Z
+UID:57ae7cd890a0-2@blues-in-munich
+DESCRIPTION:Teachers: Alice & Marcin. Start ab 13.1. Club training for mem
+ bers: register for the cycle (05.01.–22.02.2026). Newcomers can try clas
+ ses during the first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/tra
+ ining\nhttps://www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Fundamentals (Open)
+DTSTART;TZID=Europe/Berlin:20260127T204500
+DTEND;TZID=Europe/Berlin:20260127T221500
+DTSTAMP:20261024T082051Z
+UID:57ae7cd890a0-3@blues-in-munich
+DESCRIPTION:Teachers: Alice & Marcin. Start ab 13.1. Club training for mem
+ bers: register for the cycle (05.01.–22.02.2026). Newcomers can try clas
+ ses during the first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/tra
+ ining\nhttps://www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Fundamentals (Open)
+DTSTART;TZID=Europe/Berlin:20260203T204500
+DTEND;TZID=Europe/Berlin:20260203T221500
+DTSTAMP:20261024T082051Z
+UID:57ae7cd890a0-4@blues-in-munich
+DESCRIPTION:Teachers: Alice & Marcin. Start ab 13.1. Club training for mem
+ bers: register for the cycle (05.01.–22.02.2026). Newcomers can try clas
+ ses during the first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/tra
+ ining\nhttps://www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Fundamentals (Open)
+DTSTART;TZID=Europe/Berlin:20260210T204500
+DTEND;TZID=Europe/Berlin:20260210T221500
+DTSTAMP:20261024T082051Z
+UID:57ae7cd890a0-5@blues-in-munich
+DESCRIPTION:Teachers: Alice & Marcin. Start ab 13.1. Club training for mem
+ bers: register for the cycle (05.01.–22.02.2026). Newcomers can try clas
+ ses during the first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/tra
+ ining\nhttps://www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Fundamentals (Open)
+DTSTART;TZID=Europe/Berlin:20260217T204500
+DTEND;TZID=Europe/Berlin:20260217T221500
+DTSTAMP:20261024T082051Z
+UID:57ae7cd890a0-6@blues-in-munich
+DESCRIPTION:Teachers: Alice & Marcin. Start ab 13.1. Club training for mem
+ bers: register for the cycle (05.01.–22.02.2026). Newcomers can try clas
+ ses during the first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/tra
+ ining\nhttps://www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bernd Bauer Blues Band: Stormy Wednesday
+DTSTART;VALUE=DATE:20260218
+DTSTAMP:20261024T082051Z
+UID:274324853af1-0@blues-in-munich
+DESCRIPTION:Akustische offene Blues Session\, Eintritt frei\nhttps://bernd
+ bauerbluesband.de/termine/
+LOCATION:Kulturzentrum Giesinger Bahnhof\, Giesinger Bahnhofsplatz 1\, 815
+ 39 München
+URL:https://berndbauerbluesband.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Son of the Velvet Rat
+DTSTART;TZID=Europe/Berlin:20260218T203000
+DTSTAMP:20261024T082051Z
+UID:7cc4b5875cea-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenlos\nhttps://www.glockenbachwerkstat
+ t.de/events/son-of-the-velvet-rat-2/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/son-of-the-velvet-rat-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All Levels Training: Balboa / Lindy / Blues
+DTSTART;TZID=Europe/Berlin:20260109T190000
+DTEND;TZID=Europe/Berlin:20260109T203000
+DTSTAMP:20261024T082051Z
+UID:65f384802908-0@blues-in-munich
+DESCRIPTION:Teachers: wechselnd. 1. Fr (im Monat) = BALBOA\, 2. Fr = LINDY
+ \, 3. Fr. = BLUES\, 4. Fr. = LINDY Club training for members: register for
+  the cycle (05.01.–22.02.2026). Newcomers can try classes during the fir
+ st 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps://www
+ .boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Erdgeschoss klein)\, Gneisenaustraße 
+ 16\, 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All Levels Training: Balboa / Lindy / Blues
+DTSTART;TZID=Europe/Berlin:20260116T190000
+DTEND;TZID=Europe/Berlin:20260116T203000
+DTSTAMP:20261024T082051Z
+UID:65f384802908-1@blues-in-munich
+DESCRIPTION:Teachers: wechselnd. 1. Fr (im Monat) = BALBOA\, 2. Fr = LINDY
+ \, 3. Fr. = BLUES\, 4. Fr. = LINDY Club training for members: register for
+  the cycle (05.01.–22.02.2026). Newcomers can try classes during the fir
+ st 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps://www
+ .boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Erdgeschoss klein)\, Gneisenaustraße 
+ 16\, 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All Levels Training: Balboa / Lindy / Blues
+DTSTART;TZID=Europe/Berlin:20260123T190000
+DTEND;TZID=Europe/Berlin:20260123T203000
+DTSTAMP:20261024T082051Z
+UID:65f384802908-2@blues-in-munich
+DESCRIPTION:Teachers: wechselnd. 1. Fr (im Monat) = BALBOA\, 2. Fr = LINDY
+ \, 3. Fr. = BLUES\, 4. Fr. = LINDY Club training for members: register for
+  the cycle (05.01.–22.02.2026). Newcomers can try classes during the fir
+ st 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps://www
+ .boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Erdgeschoss klein)\, Gneisenaustraße 
+ 16\, 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All Levels Training: Balboa / Lindy / Blues
+DTSTART;TZID=Europe/Berlin:20260130T190000
+DTEND;TZID=Europe/Berlin:20260130T203000
+DTSTAMP:20261024T082051Z
+UID:65f384802908-3@blues-in-munich
+DESCRIPTION:Teachers: wechselnd. 1. Fr (im Monat) = BALBOA\, 2. Fr = LINDY
+ \, 3. Fr. = BLUES\, 4. Fr. = LINDY Club training for members: register for
+  the cycle (05.01.–22.02.2026). Newcomers can try classes during the fir
+ st 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps://www
+ .boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Erdgeschoss klein)\, Gneisenaustraße 
+ 16\, 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All Levels Training: Balboa / Lindy / Blues
+DTSTART;TZID=Europe/Berlin:20260206T190000
+DTEND;TZID=Europe/Berlin:20260206T203000
+DTSTAMP:20261024T082051Z
+UID:65f384802908-4@blues-in-munich
+DESCRIPTION:Teachers: wechselnd. 1. Fr (im Monat) = BALBOA\, 2. Fr = LINDY
+ \, 3. Fr. = BLUES\, 4. Fr. = LINDY Club training for members: register for
+  the cycle (05.01.–22.02.2026). Newcomers can try classes during the fir
+ st 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps://www
+ .boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Erdgeschoss klein)\, Gneisenaustraße 
+ 16\, 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All Levels Training: Balboa / Lindy / Blues
+DTSTART;TZID=Europe/Berlin:20260213T190000
+DTEND;TZID=Europe/Berlin:20260213T203000
+DTSTAMP:20261024T082051Z
+UID:65f384802908-5@blues-in-munich
+DESCRIPTION:Teachers: wechselnd. 1. Fr (im Monat) = BALBOA\, 2. Fr = LINDY
+ \, 3. Fr. = BLUES\, 4. Fr. = LINDY Club training for members: register for
+  the cycle (05.01.–22.02.2026). Newcomers can try classes during the fir
+ st 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps://www
+ .boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Erdgeschoss klein)\, Gneisenaustraße 
+ 16\, 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All Levels Training: Balboa / Lindy / Blues
+DTSTART;TZID=Europe/Berlin:20260220T190000
+DTEND;TZID=Europe/Berlin:20260220T203000
+DTSTAMP:20261024T082051Z
+UID:65f384802908-6@blues-in-munich
+DESCRIPTION:Teachers: wechselnd. 1. Fr (im Monat) = BALBOA\, 2. Fr = LINDY
+ \, 3. Fr. = BLUES\, 4. Fr. = LINDY Club training for members: register for
+  the cycle (05.01.–22.02.2026). Newcomers can try classes during the fir
+ st 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps://www
+ .boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Erdgeschoss klein)\, Gneisenaustraße 
+ 16\, 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎷💃 STILL SWINGIN’ – The Rock That Swing Afterparty! 🕺
+ 🎶
+DTSTART;VALUE=DATE:20260221
+DTSTAMP:20261024T082051Z
+UID:c306bf5aba74-0@blues-in-munich
+DESCRIPTION:Swing • Boogie • Blues • Jump Blues • Rhythm & Groove 
+ Das Festival ist vorbei\, aber der Groove geht weiter! DJ Hunter aus Los A
+ ngeles bringt 4 Stunden Swing\, Boogie\, Blues und mehr – Tanzschuhe an
+ \, Stimmung an! ✨ 📅 20–24 Uhr | 10 € | DJ Hunter 💥 Swing\, Rhy
+ thm & Groove – sei dabei und lass die goldenen Zeiten wieder aufleben! 
+ 🎩👠 ✨ Entzugserscheinungen vom Tanzen? Kein Problem – hier kommt 
+ dein Swing-Revival! 🎩👠 Seid dabei\, lasst euch treiben und erlebt ec
+ htes Rock-That-Swing-Feeling! --------------------\nhttps://www.vintage-cl
+ ub.de/parties.aspx\nhttps://www.vintage-club.de/
+LOCATION:Vintage Club\, Sonnenstraße 12b (Rückgebäude\, 3. OG)\, 80331 
+ München
+URL:https://www.vintage-club.de/parties.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zither-Manä
+DTSTART;TZID=Europe/Berlin:20260225T203000
+DTSTAMP:20261024T082051Z
+UID:4ff77649b049-0@blues-in-munich
+DESCRIPTION:Fish'n Blues Konzert · Fisch 19:00 Uhr · Eintritt: kostenlos
+ \nhttps://www.glockenbachwerkstatt.de/events/fishnblues-zither-manae-2026/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/fishnblues-zither-manae-202
+ 6/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Explorer · ab 18.02.2026: **Electro Swing alle Level
+DTSTART;TZID=Europe/Berlin:20260204T173000
+DTEND;TZID=Europe/Berlin:20260204T183000
+DTSTAMP:20261024T082051Z
+UID:be8ca52e65f9-0@blues-in-munich
+DESCRIPTION:https://www.vintage-club.de/classes.aspx\nhttps://www.vintage-
+ club.de/
+LOCATION:Vintage Club (VC Studio 2)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Explorer · ab 18.02.2026: **Electro Swing alle Level
+DTSTART;TZID=Europe/Berlin:20260218T173000
+DTEND;TZID=Europe/Berlin:20260218T183000
+DTSTAMP:20261024T082051Z
+UID:be8ca52e65f9-1@blues-in-munich
+DESCRIPTION:https://www.vintage-club.de/classes.aspx\nhttps://www.vintage-
+ club.de/
+LOCATION:Vintage Club (VC Studio 2)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Explorer · ab 18.02.2026: **Electro Swing alle Level
+DTSTART;TZID=Europe/Berlin:20260225T173000
+DTEND;TZID=Europe/Berlin:20260225T183000
+DTSTAMP:20261024T082051Z
+UID:be8ca52e65f9-2@blues-in-munich
+DESCRIPTION:https://www.vintage-club.de/classes.aspx\nhttps://www.vintage-
+ club.de/
+LOCATION:Vintage Club (VC Studio 2)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Explorer · ab 18.02.2026: **Electro Swing alle Level
+DTSTART;TZID=Europe/Berlin:20260304T173000
+DTEND;TZID=Europe/Berlin:20260304T183000
+DTSTAMP:20261024T082051Z
+UID:be8ca52e65f9-3@blues-in-munich
+DESCRIPTION:https://www.vintage-club.de/classes.aspx\nhttps://www.vintage-
+ club.de/
+LOCATION:Vintage Club (VC Studio 2)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Nerds · ab 18.02.2026: **California Blues Aufsteiger
+DTSTART;TZID=Europe/Berlin:20260204T184500
+DTEND;TZID=Europe/Berlin:20260204T194500
+DTSTAMP:20261024T082051Z
+UID:18c743a2fe49-0@blues-in-munich
+DESCRIPTION:https://www.vintage-club.de/classes.aspx\nhttps://www.vintage-
+ club.de/
+LOCATION:Vintage Club (VC Studio 2)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Nerds · ab 18.02.2026: **California Blues Aufsteiger
+DTSTART;TZID=Europe/Berlin:20260218T184500
+DTEND;TZID=Europe/Berlin:20260218T194500
+DTSTAMP:20261024T082051Z
+UID:18c743a2fe49-1@blues-in-munich
+DESCRIPTION:https://www.vintage-club.de/classes.aspx\nhttps://www.vintage-
+ club.de/
+LOCATION:Vintage Club (VC Studio 2)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Nerds · ab 18.02.2026: **California Blues Aufsteiger
+DTSTART;TZID=Europe/Berlin:20260225T184500
+DTEND;TZID=Europe/Berlin:20260225T194500
+DTSTAMP:20261024T082051Z
+UID:18c743a2fe49-2@blues-in-munich
+DESCRIPTION:https://www.vintage-club.de/classes.aspx\nhttps://www.vintage-
+ club.de/
+LOCATION:Vintage Club (VC Studio 2)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Nerds · ab 18.02.2026: **California Blues Aufsteiger
+DTSTART;TZID=Europe/Berlin:20260304T184500
+DTEND;TZID=Europe/Berlin:20260304T194500
+DTSTAMP:20261024T082051Z
+UID:18c743a2fe49-3@blues-in-munich
+DESCRIPTION:https://www.vintage-club.de/classes.aspx\nhttps://www.vintage-
+ club.de/
+LOCATION:Vintage Club (VC Studio 2)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neu! ***Lindy & Blues for Fun · alle Level
+DTSTART;TZID=Europe/Berlin:20260204T211000
+DTEND;TZID=Europe/Berlin:20260204T221000
+DTSTAMP:20261024T082051Z
+UID:f4e3777fc106-0@blues-in-munich
+DESCRIPTION:Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen\, wes
+ entliche Schritte und Figuren\, um dich auf der Tanzfläche sicher und woh
+ l zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkund
+ et\, die zu verschiedenen Musikstilen getanzt werden können.\nhttps://www
+ .vintage-club.de/classes.aspx\nhttps://www.vintage-club.de/
+LOCATION:Vintage Club (VC Studio 1)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neu! ***Lindy & Blues for Fun · alle Level
+DTSTART;TZID=Europe/Berlin:20260218T211000
+DTEND;TZID=Europe/Berlin:20260218T221000
+DTSTAMP:20261024T082051Z
+UID:f4e3777fc106-1@blues-in-munich
+DESCRIPTION:Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen\, wes
+ entliche Schritte und Figuren\, um dich auf der Tanzfläche sicher und woh
+ l zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkund
+ et\, die zu verschiedenen Musikstilen getanzt werden können.\nhttps://www
+ .vintage-club.de/classes.aspx\nhttps://www.vintage-club.de/
+LOCATION:Vintage Club (VC Studio 1)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neu! ***Lindy & Blues for Fun · alle Level
+DTSTART;TZID=Europe/Berlin:20260225T211000
+DTEND;TZID=Europe/Berlin:20260225T221000
+DTSTAMP:20261024T082051Z
+UID:f4e3777fc106-2@blues-in-munich
+DESCRIPTION:Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen\, wes
+ entliche Schritte und Figuren\, um dich auf der Tanzfläche sicher und woh
+ l zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkund
+ et\, die zu verschiedenen Musikstilen getanzt werden können.\nhttps://www
+ .vintage-club.de/classes.aspx\nhttps://www.vintage-club.de/
+LOCATION:Vintage Club (VC Studio 1)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neu! ***Lindy & Blues for Fun · alle Level
+DTSTART;TZID=Europe/Berlin:20260304T211000
+DTEND;TZID=Europe/Berlin:20260304T221000
+DTSTAMP:20261024T082051Z
+UID:f4e3777fc106-3@blues-in-munich
+DESCRIPTION:Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen\, wes
+ entliche Schritte und Figuren\, um dich auf der Tanzfläche sicher und woh
+ l zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkund
+ et\, die zu verschiedenen Musikstilen getanzt werden können.\nhttps://www
+ .vintage-club.de/classes.aspx\nhttps://www.vintage-club.de/
+LOCATION:Vintage Club (VC Studio 1)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LATE
+DTSTART;TZID=Europe/Berlin:20260304T203000
+DTSTAMP:20261024T082051Z
+UID:85d6674dccb9-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenlos\nhttps://www.glockenbachwerkstat
+ t.de/events/late2026/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/late2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Workshop am 07. März 2026 von 16:00 bis 19:00
+DTSTART;TZID=Europe/Berlin:20260307T160000
+DTEND;TZID=Europe/Berlin:20260307T190000
+DTSTAMP:20261024T082051Z
+UID:a93814e85526-0@blues-in-munich
+DESCRIPTION:Liebe Blues Lovers\, Ich biete am 7. März von 16:00 bis 19:00
+  Uhr einen dreistündigen Blues-Workshop für leicht Fortgeschrittene an (
+ einige Vorkenntnisses im Blues oder Swing sind erforderlich). Der Schwerpu
+ nkt liegt auf Ballroomin’Stil von Blues mit dynamischen Figuren und Dips
+  und Elementen aus dem Slow Drag. Bei Interesse meldet euch bitte per Emai
+ l oder direkt bei mir (Siehe unter „Kontakte“).\nhttps://oksanapavlova
+ .de/aktuelles/blues-workshop/\nhttps://oksanapavlova.de/
+URL:https://oksanapavlova.de/aktuelles/blues-workshop/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:David Howald
+DTSTART;TZID=Europe/Berlin:20260311T203000
+DTSTAMP:20261024T082051Z
+UID:11562c0ed01f-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenlos\nhttps://www.glockenbachwerkstat
+ t.de/events/david-howald/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/david-howald/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bernd Bauer Blues Band: Stormy Wednesday
+DTSTART;VALUE=DATE:20260318
+DTSTAMP:20261024T082051Z
+UID:b62b881245b3-0@blues-in-munich
+DESCRIPTION:Akustische offene Blues Session\, Eintritt frei\nhttps://bernd
+ bauerbluesband.de/termine/
+LOCATION:Kulturzentrum Giesinger Bahnhof\, Giesinger Bahnhofsplatz 1\, 815
+ 39 München
+URL:https://berndbauerbluesband.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paul Holland
+DTSTART;TZID=Europe/Berlin:20260318T203000
+DTSTAMP:20261024T082051Z
+UID:1b8201c5b563-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenlos\nhttps://www.glockenbachwerkstat
+ t.de/events/paul-holland/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/paul-holland/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PG Petricca
+DTSTART;TZID=Europe/Berlin:20260325T203000
+DTSTAMP:20261024T082051Z
+UID:7b92bcaf4543-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenlos\nhttps://www.glockenbachwerkstat
+ t.de/events/pg-petricca/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/pg-petricca/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mateo Navarro & Friends
+DTSTART;TZID=Europe/Berlin:20260401T203000
+DTSTAMP:20261024T082051Z
+UID:3c2cafeb10eb-0@blues-in-munich
+DESCRIPTION:Fisch 19:00 Uhr · kostenlos\nhttps://www.glockenbachwerkstatt
+ .de/events/fish-n-bluesmateo-08-04-26/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/fish-n-bluesmateo-08-04-26/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo Blues (open level)
+DTSTART;TZID=Europe/Berlin:20260224T204500
+DTEND;TZID=Europe/Berlin:20260224T221500
+DTSTAMP:20261024T082051Z
+UID:08de3ac02f06-0@blues-in-munich
+DESCRIPTION:Teachers: Denise & Marcin. Club training for members: register
+  for the cycle (23.02.–12.04.2026). Newcomers can try classes during the
+  first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps:/
+ /www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo Blues (open level)
+DTSTART;TZID=Europe/Berlin:20260303T204500
+DTEND;TZID=Europe/Berlin:20260303T221500
+DTSTAMP:20261024T082051Z
+UID:08de3ac02f06-1@blues-in-munich
+DESCRIPTION:Teachers: Denise & Marcin. Club training for members: register
+  for the cycle (23.02.–12.04.2026). Newcomers can try classes during the
+  first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps:/
+ /www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo Blues (open level)
+DTSTART;TZID=Europe/Berlin:20260310T204500
+DTEND;TZID=Europe/Berlin:20260310T221500
+DTSTAMP:20261024T082051Z
+UID:08de3ac02f06-2@blues-in-munich
+DESCRIPTION:Teachers: Denise & Marcin. Club training for members: register
+  for the cycle (23.02.–12.04.2026). Newcomers can try classes during the
+  first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps:/
+ /www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo Blues (open level)
+DTSTART;TZID=Europe/Berlin:20260317T204500
+DTEND;TZID=Europe/Berlin:20260317T221500
+DTSTAMP:20261024T082051Z
+UID:08de3ac02f06-3@blues-in-munich
+DESCRIPTION:Teachers: Denise & Marcin. Club training for members: register
+  for the cycle (23.02.–12.04.2026). Newcomers can try classes during the
+  first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps:/
+ /www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo Blues (open level)
+DTSTART;TZID=Europe/Berlin:20260324T204500
+DTEND;TZID=Europe/Berlin:20260324T221500
+DTSTAMP:20261024T082051Z
+UID:08de3ac02f06-4@blues-in-munich
+DESCRIPTION:Teachers: Denise & Marcin. Club training for members: register
+  for the cycle (23.02.–12.04.2026). Newcomers can try classes during the
+  first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps:/
+ /www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo Blues (open level)
+DTSTART;TZID=Europe/Berlin:20260331T204500
+DTEND;TZID=Europe/Berlin:20260331T221500
+DTSTAMP:20261024T082051Z
+UID:08de3ac02f06-5@blues-in-munich
+DESCRIPTION:Teachers: Denise & Marcin. Club training for members: register
+  for the cycle (23.02.–12.04.2026). Newcomers can try classes during the
+  first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps:/
+ /www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo Blues (open level)
+DTSTART;TZID=Europe/Berlin:20260407T204500
+DTEND;TZID=Europe/Berlin:20260407T221500
+DTSTAMP:20261024T082051Z
+UID:08de3ac02f06-6@blues-in-munich
+DESCRIPTION:Teachers: Denise & Marcin. Club training for members: register
+  for the cycle (23.02.–12.04.2026). Newcomers can try classes during the
+  first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps:/
+ /www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Osono
+DTSTART;TZID=Europe/Berlin:20260408T203000
+DTSTAMP:20261024T082051Z
+UID:8de476016cee-0@blues-in-munich
+DESCRIPTION:Fish'n Blues Konzert · Fisch: 19:00 Uhr · Eintritt: kostenlo
+ s\nhttps://www.glockenbachwerkstatt.de/events/fishnblues-osono-oktober-25/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/fishnblues-osono-oktober-25
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bernd Bauer Blues Band: Stormy Wednesday
+DTSTART;VALUE=DATE:20260415
+DTSTAMP:20261024T082051Z
+UID:a9eb292f5bed-0@blues-in-munich
+DESCRIPTION:Akustische offene Blues Session\, Eintritt frei\nhttps://bernd
+ bauerbluesband.de/termine/
+LOCATION:Kulturzentrum Giesinger Bahnhof\, Giesinger Bahnhofsplatz 1\, 815
+ 39 München
+URL:https://berndbauerbluesband.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Ghost and the Machine | Conny Ochs
+DTSTART;TZID=Europe/Berlin:20260415T203000
+DTSTAMP:20261024T082051Z
+UID:9eedc2774dbd-0@blues-in-munich
+DESCRIPTION:Fish'n Blues Konzert · Fisch: 19:00 Uhr · Eintritt: kostenlo
+ s\nhttps://www.glockenbachwerkstatt.de/events/fishnblues-the-ghost-and-the
+ -machine/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/fishnblues-the-ghost-and-th
+ e-machine/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Skies | Party mit Live Band
+DTSTART;VALUE=DATE:20260418
+DTSTAMP:20261024T082051Z
+UID:c0fb6b54eaf3-0@blues-in-munich
+DESCRIPTION:Social Dance am Samstag mit Live Musik von The Mooners b\nhttp
+ s://www.boogie-baeren.de/eventleser/blues-skies-party-mit-live-band\nhttps
+ ://www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim\, Gneisenaustraße 16\, 80992 München
+URL:https://www.boogie-baeren.de/eventleser/blues-skies-party-mit-live-ban
+ d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phonoboy
+DTSTART;TZID=Europe/Berlin:20260422T203000
+DTSTAMP:20261024T082051Z
+UID:ca5833014b97-0@blues-in-munich
+DESCRIPTION:Fish'n Blues Konzert · Fisch: 19:00 Uhr · Eintritt: kostenlo
+ s\nhttps://www.glockenbachwerkstatt.de/events/fishnblues-phonoby/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/fishnblues-phonoby/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slow Bal & Blues | Übungsabend
+DTSTART;VALUE=DATE:20260425
+DTSTAMP:20261024T082051Z
+UID:729a870dff16-0@blues-in-munich
+DESCRIPTION:At this (and every) Übungsabend\, all Boogie Bären members a
+ re welcome\, as well as those interested in getting to know the associatio
+ n.\nhttps://www.boogie-baeren.de/eventleser/slow-bal-blues-social-dance\nh
+ ttps://www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim\, Gneisenaustraße 16\, 80992 München
+URL:https://www.boogie-baeren.de/eventleser/slow-bal-blues-social-dance
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bärely Moving\, Deeply Grooving
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260427
+DTSTAMP:20261024T082051Z
+UID:ea5f2ff1855c-0@blues-in-munich
+DESCRIPTION:Bärely Moving\, Deeply Grooving | Blues and Slow Balboa Works
+ hop Who says we need a lot of movement for a lot of fun? This workshop exp
+ lores two styles that\, while coming from different traditions\, meet beau
+ tifully in their emphasis on listening\, subtlety\, and human connection: 
+ Blues & Slow Bal Blues and Slow Bal both invite dancers to move with inten
+ tion rather than speed. Instead of flashy patterns\, they focus on weight 
+ shifts\, timing\, and the feeling of the music. In both dances\, the partn
+ ership is central: you’re not just executing steps\, you’re responding
+  to each other moment by moment. Th\nhttps://www.boogie-baeren.de/eventles
+ er/baerely-moving-deeply-grooving\nhttps://www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim\, Gneisenaustraße 16\, 80992 München
+URL:https://www.boogie-baeren.de/eventleser/baerely-moving-deeply-grooving
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:taxi yéyé
+DTSTART;TZID=Europe/Berlin:20260429T203000
+DTSTAMP:20261024T082051Z
+UID:3b461f3f50f0-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenlos\nhttps://www.glockenbachwerkstat
+ t.de/events/taxi-yeye/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/taxi-yeye/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TITANIC ORCHESTER
+DTSTART;TZID=Europe/Berlin:20260506T203000
+DTSTAMP:20261024T082051Z
+UID:1edd96adede3-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenlos\nhttps://www.glockenbachwerkstat
+ t.de/events/titanic-orchester/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/titanic-orchester/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GÖTZ MILDENBERGER
+DTSTART;TZID=Europe/Berlin:20260513T203000
+DTSTAMP:20261024T082051Z
+UID:b5c1a03178f6-0@blues-in-munich
+DESCRIPTION:Fisch: 19.00 Uhr · kostenlos\nhttps://www.glockenbachwerkstat
+ t.de/events/goetz-mildenberger/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/goetz-mildenberger/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues & Boogie Clubabend
+DTSTART;VALUE=DATE:20260515
+DTSTAMP:20261024T082051Z
+UID:df78c5b293ce-0@blues-in-munich
+DESCRIPTION:Am Freitagabend bieten wir euch im Anschluss an das reguläre 
+ Training ab 20:30 Uhr einen Clubabend an. Hier haben Tänzer:innen jeden N
+ iveaus\, Gelegenheit das Erlernte auszuprobieren\, andere Tänzer:innen ke
+ nnenzulernen und gemeinsam Spaß zu haben. Es geht dabei nicht nur um das 
+ Tanzen\, sondern auch um das gemeinschaftliche Erlebnis\, bei dem du die M
+ öglichkeit hast\, auch Tänzer:innen außerhalb deines eigenen Trainings 
+ und von anderen Tanzsparten kennenzulernen. Im EG lädt euch die Swing-Spa
+ rte zum Blues Social Dance ein. Parallel findet im UG der Boogie Woogie de
+ r Clubabend statt. Das Kleingeld \nhttps://www.boogie-baeren.de/eventleser
+ /blues-boogie-clubabend-15052026\nhttps://www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim\, Gneisenaustraße 16\, 80992 München
+URL:https://www.boogie-baeren.de/eventleser/blues-boogie-clubabend-1505202
+ 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Workshop am 16. Mai 2026
+DTSTART;TZID=Europe/Berlin:20260516T160000
+DTEND;TZID=Europe/Berlin:20260516T190000
+DTSTAMP:20261024T082051Z
+UID:3ce42d219494-0@blues-in-munich
+DESCRIPTION:Im Mai bieten wir am Samstag\, 16. Mai von 16:00 bis 19:00 Uhr
+  wieder einen dreistündigen Blues-Workshop für leicht Fortgeschrittene a
+ n (einige Vorkenntnisse im Blues oder Swing sind erforderlich). Der Schwer
+ punkt liegt auf Ballroomin‘ Stil von Blues mit dynamischen Figuren und D
+ ips und Elementen aus dem Slow Drag. Aber nicht nur das! Dieses Mal findet
+  im Anschluss an den Workshop von 19:30 bis 22:30 Uhr die Bluesnight statt
+ . Die Workshop-Teilnehmer erhalten 50 % Ermäßigung auf den Eintritt zur 
+ Bluesnight. Adresse: Arnulfstr. 195\, 1.OG\, München Preis: 50 EUR (55 EU
+ R mit Bluesnight) Bei Interess\nhttps://oksanapavlova.de/aktuelles/blues-w
+ orkshop-am-16-mai-2026/\nhttps://oksanapavlova.de/
+LOCATION:Arnulfstr. 195\, 1.OG\, München
+URL:https://oksanapavlova.de/aktuelles/blues-workshop-am-16-mai-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bernd Bauer Blues Band: Stormy Wednesday
+DTSTART;VALUE=DATE:20260520
+DTSTAMP:20261024T082051Z
+UID:c11e81f0a6c0-0@blues-in-munich
+DESCRIPTION:Akustische offene Blues Session\, Eintritt frei\nhttps://bernd
+ bauerbluesband.de/termine/
+LOCATION:Kulturzentrum Giesinger Bahnhof\, Giesinger Bahnhofsplatz 1\, 815
+ 39 München
+URL:https://berndbauerbluesband.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochzeitskapelle
+DTSTART;TZID=Europe/Berlin:20260520T200000
+DTSTAMP:20261024T082051Z
+UID:d872c97d3477-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · Eintritt frei\nhttps://www.glockenbachwerk
+ statt.de/events/hochzeitskapelle/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/hochzeitskapelle/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mateo Navarro & Friends
+DTSTART;TZID=Europe/Berlin:20260527T203000
+DTSTAMP:20261024T082051Z
+UID:7a1f457b1df1-0@blues-in-munich
+DESCRIPTION:Fisch 19:00 Uhr · kostenlos\nhttps://www.glockenbachwerkstatt
+ .de/events/fish-n-bluesmateo-05-26/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/fish-n-bluesmateo-05-26/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Open Practice
+DTSTART;TZID=Europe/Berlin:20260414T204500
+DTEND;TZID=Europe/Berlin:20260414T221500
+DTSTAMP:20261024T082051Z
+UID:f995411d3cca-0@blues-in-munich
+DESCRIPTION:ungeführt Club training for members: register for the cycle (
+ 13.04.–07.06.2026). Newcomers can try classes during the first 3 weeks o
+ f a cycle.\nhttps://www.boogie-baeren.de/training\nhttps://www.boogie-baer
+ en.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Open Practice
+DTSTART;TZID=Europe/Berlin:20260421T204500
+DTEND;TZID=Europe/Berlin:20260421T221500
+DTSTAMP:20261024T082051Z
+UID:f995411d3cca-1@blues-in-munich
+DESCRIPTION:ungeführt Club training for members: register for the cycle (
+ 13.04.–07.06.2026). Newcomers can try classes during the first 3 weeks o
+ f a cycle.\nhttps://www.boogie-baeren.de/training\nhttps://www.boogie-baer
+ en.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Open Practice
+DTSTART;TZID=Europe/Berlin:20260428T204500
+DTEND;TZID=Europe/Berlin:20260428T221500
+DTSTAMP:20261024T082051Z
+UID:f995411d3cca-2@blues-in-munich
+DESCRIPTION:ungeführt Club training for members: register for the cycle (
+ 13.04.–07.06.2026). Newcomers can try classes during the first 3 weeks o
+ f a cycle.\nhttps://www.boogie-baeren.de/training\nhttps://www.boogie-baer
+ en.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Open Practice
+DTSTART;TZID=Europe/Berlin:20260505T204500
+DTEND;TZID=Europe/Berlin:20260505T221500
+DTSTAMP:20261024T082051Z
+UID:f995411d3cca-3@blues-in-munich
+DESCRIPTION:ungeführt Club training for members: register for the cycle (
+ 13.04.–07.06.2026). Newcomers can try classes during the first 3 weeks o
+ f a cycle.\nhttps://www.boogie-baeren.de/training\nhttps://www.boogie-baer
+ en.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Open Practice
+DTSTART;TZID=Europe/Berlin:20260512T204500
+DTEND;TZID=Europe/Berlin:20260512T221500
+DTSTAMP:20261024T082051Z
+UID:f995411d3cca-4@blues-in-munich
+DESCRIPTION:ungeführt Club training for members: register for the cycle (
+ 13.04.–07.06.2026). Newcomers can try classes during the first 3 weeks o
+ f a cycle.\nhttps://www.boogie-baeren.de/training\nhttps://www.boogie-baer
+ en.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Open Practice
+DTSTART;TZID=Europe/Berlin:20260519T204500
+DTEND;TZID=Europe/Berlin:20260519T221500
+DTSTAMP:20261024T082051Z
+UID:f995411d3cca-5@blues-in-munich
+DESCRIPTION:ungeführt Club training for members: register for the cycle (
+ 13.04.–07.06.2026). Newcomers can try classes during the first 3 weeks o
+ f a cycle.\nhttps://www.boogie-baeren.de/training\nhttps://www.boogie-baer
+ en.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Open Practice
+DTSTART;TZID=Europe/Berlin:20260526T204500
+DTEND;TZID=Europe/Berlin:20260526T221500
+DTSTAMP:20261024T082051Z
+UID:f995411d3cca-6@blues-in-munich
+DESCRIPTION:ungeführt Club training for members: register for the cycle (
+ 13.04.–07.06.2026). Newcomers can try classes during the first 3 weeks o
+ f a cycle.\nhttps://www.boogie-baeren.de/training\nhttps://www.boogie-baer
+ en.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Open Practice
+DTSTART;TZID=Europe/Berlin:20260602T204500
+DTEND;TZID=Europe/Berlin:20260602T221500
+DTSTAMP:20261024T082051Z
+UID:f995411d3cca-7@blues-in-munich
+DESCRIPTION:ungeführt Club training for members: register for the cycle (
+ 13.04.–07.06.2026). Newcomers can try classes during the first 3 weeks o
+ f a cycle.\nhttps://www.boogie-baeren.de/training\nhttps://www.boogie-baer
+ en.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bernd Bauer Blues Band: Fish’n’Blues
+DTSTART;VALUE=DATE:20260603
+DTSTAMP:20261024T082051Z
+UID:46cc8e7fe474-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenlos\nhttps://berndbauerbluesband.de/
+ termine/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://berndbauerbluesband.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues & Boogie Clubabend
+DTSTART;VALUE=DATE:20260605
+DTSTAMP:20261024T082051Z
+UID:9be1a5c28a3d-0@blues-in-munich
+DESCRIPTION:Am Freitagabend bieten wir euch im Anschluss an das reguläre 
+ Training ab 20:30 Uhr einen Clubabend an. Hier haben Tänzer:innen jeden N
+ iveaus\, Gelegenheit das Erlernte auszuprobieren\, andere Tänzer:innen ke
+ nnenzulernen und gemeinsam Spaß zu haben. Es geht dabei nicht nur um das 
+ Tanzen\, sondern auch um das gemeinschaftliche Erlebnis\, bei dem du die M
+ öglichkeit hast\, auch Tänzer:innen außerhalb deines eigenen Trainings 
+ und von anderen Tanzsparten kennenzulernen. Im EG lädt euch die Swing-Spa
+ rte zum Blues Social Dance ein. Parallel findet im UG der Boogie Woogie de
+ r Clubabend statt. Das Kleingeld \nhttps://www.boogie-baeren.de/eventleser
+ /blues-boogie-clubabend-19062026\nhttps://www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim\, Gneisenaustraße 16\, 80992 München
+URL:https://www.boogie-baeren.de/eventleser/blues-boogie-clubabend-1906202
+ 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mama’s Greens
+DTSTART;TZID=Europe/Berlin:20260610T200000
+DTSTAMP:20261024T082051Z
+UID:451e190c8db2-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenfrei\nhttps://www.glockenbachwerksta
+ tt.de/events/mamas-greens/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/mamas-greens/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Übungsabend
+DTSTART;VALUE=DATE:20260613
+DTSTAMP:20261024T082051Z
+UID:997d371a1d66-0@blues-in-munich
+DESCRIPTION:Am Samstagabend ab 20:00 Uhr laden wir euch zu einem Blues Üb
+ ungsabend ein. Kommt zahlreich und zeitig - eine Überraschung erwartet eu
+ ch! Ansprechpartner: Marcin über marcin.stankiewicz@boogie-baeren.de Das 
+ Kleingeld für die Getränke nicht vergessen\, unsere Barhelfer:innen werd
+ en es euch danken.\nhttps://www.boogie-baeren.de/eventleser/uebungsabend_b
+ lues_juni_2026\nhttps://www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim\, Gneisenaustraße 16\, 80992 München
+URL:https://www.boogie-baeren.de/eventleser/uebungsabend_blues_juni_2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bernd Bauer Blues Band: Stormy Wednesday
+DTSTART;VALUE=DATE:20260617
+DTSTAMP:20261024T082051Z
+UID:d7b635577239-0@blues-in-munich
+DESCRIPTION:Akustische offene Blues Session\, Eintritt frei\nhttps://bernd
+ bauerbluesband.de/termine/
+LOCATION:Kulturzentrum Giesinger Bahnhof\, Giesinger Bahnhofsplatz 1\, 815
+ 39 München
+URL:https://berndbauerbluesband.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romeo Hall & The Wildfire
+DTSTART;TZID=Europe/Berlin:20260617T203000
+DTSTAMP:20261024T082051Z
+UID:9a1ecf1e5eb4-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenlos\nhttps://www.glockenbachwerkstat
+ t.de/events/fishnblues-romeo-hall-the-wildfire-17-06-26/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/fishnblues-romeo-hall-the-w
+ ildfire-17-06-26/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:G. Rag y los Hermanos Patchekos
+DTSTART;TZID=Europe/Berlin:20260624T203000
+DTSTAMP:20261024T082051Z
+UID:0600021d6313-0@blues-in-munich
+DESCRIPTION:Fisch 19.00 Uhr · kostenlos\nhttps://www.glockenbachwerkstatt
+ .de/events/fishnblues-los-patchekos24-06-26/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/fishnblues-los-patchekos24-
+ 06-26/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leonie singt Duo! & the reload club
+DTSTART;TZID=Europe/Berlin:20260701T200000
+DTSTAMP:20261024T082051Z
+UID:c1cd97a35408-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · Eintritt frei\nhttps://www.glockenbachwerk
+ statt.de/events/leonie-singt-duo-the-reload-club/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/leonie-singt-duo-the-reload
+ -club/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robespiespierre
+DTSTART;TZID=Europe/Berlin:20260708T203000
+DTSTAMP:20261024T082051Z
+UID:c4dfaf5626ec-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenfrei\nhttps://www.glockenbachwerksta
+ tt.de/events/robespiespierre/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/robespiespierre/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Workshop am 11.07.2026
+DTSTART;TZID=Europe/Berlin:20260711T120000
+DTEND;TZID=Europe/Berlin:20260711T150000
+DTSTAMP:20261024T082051Z
+UID:5dc7c34cd502-0@blues-in-munich
+DESCRIPTION:Liebe Tänzer\, der Blues sollte nicht in der Sommerhitze dahi
+ nschmelzen – und wir sollten auch keinen ganzen Monat ohne Blues-Worksho
+ p verbringen. Lasst uns also diesen Juli den Blues lebendig halten … und
+  in Bewegung bleiben. Ich möchte alle Blues-Liebhaber herzlich zum nächs
+ ten Blues-Dance-Workshop einladen. Geleitet wird er von Oksana\, diesmal g
+ emeinsam mit David C. Tritel\, einem Swing- und Blues-Tanzlehrer aus den U
+ SA. ✨ In diesem dreistündigen Workshop behandeln wir zwei Themen: „Th
+ e 8 Directional Slide“ und „Oppositional Steps“. Bei beiden Themen g
+ eht es darum\, neue Ideen zu erkunden und \nhttps://oksanapavlova.de/aktue
+ lles/blues-workshop-am-11-07-2026/\nhttps://oksanapavlova.de/
+LOCATION:Arnulfstr. 195\, 1. OG
+URL:https://oksanapavlova.de/aktuelles/blues-workshop-am-11-07-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bernd Bauer Blues Band: Stormy Wednesday
+DTSTART;TZID=Europe/Berlin:20260715T200000
+DTSTAMP:20261024T082051Z
+UID:a148ef8d36bd-0@blues-in-munich
+DESCRIPTION:Akustische offene Blues Session\, Eintritt frei\nhttps://bernd
+ bauerbluesband.de/termine/
+LOCATION:Kulturzentrum Giesinger Bahnhof\, Giesinger Bahnhofplatz 1\, 8153
+ 9  München
+URL:https://berndbauerbluesband.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charles M. Mailer & Magic McVern
+DTSTART;TZID=Europe/Berlin:20260715T203000
+DTSTAMP:20261024T082051Z
+UID:ec19876f55ff-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenfrei\nhttps://www.glockenbachwerksta
+ tt.de/events/charles-m-mailer-magic-mcvern26/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/charles-m-mailer-magic-mcve
+ rn26/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hansi Schneider | SIZE no MATTER
+DTSTART;TZID=Europe/Berlin:20260722T203000
+DTSTAMP:20261024T082051Z
+UID:41035485891f-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenfrei\nhttps://www.glockenbachwerksta
+ tt.de/events/hansi-schneider-size-no-matter/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/hansi-schneider-size-no-mat
+ ter/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bernd Bauer Blues Band: Auf ins Hexenhaus
+DTSTART;VALUE=DATE:20260725
+DTSTAMP:20261024T082051Z
+UID:fdde5325e1a4-0@blues-in-munich
+DESCRIPTION:https://berndbauerbluesband.de/termine/
+LOCATION:Kulturcafé Gans Woanders\, Pilgersheimerstr. 13\, 81543 München
+URL:https://berndbauerbluesband.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Open Level
+DTSTART;TZID=Europe/Berlin:20260609T204500
+DTEND;TZID=Europe/Berlin:20260609T221500
+DTSTAMP:20261024T082051Z
+UID:1c52d9f69bcf-0@blues-in-munich
+DESCRIPTION:Teachers: Denise & Marcin. Club training for members: register
+  for the cycle (08.06.–02.08.2026). Newcomers can try classes during the
+  first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps:/
+ /www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Open Level
+DTSTART;TZID=Europe/Berlin:20260616T204500
+DTEND;TZID=Europe/Berlin:20260616T221500
+DTSTAMP:20261024T082051Z
+UID:1c52d9f69bcf-1@blues-in-munich
+DESCRIPTION:Teachers: Denise & Marcin. Club training for members: register
+  for the cycle (08.06.–02.08.2026). Newcomers can try classes during the
+  first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps:/
+ /www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Open Level
+DTSTART;TZID=Europe/Berlin:20260623T204500
+DTEND;TZID=Europe/Berlin:20260623T221500
+DTSTAMP:20261024T082051Z
+UID:1c52d9f69bcf-2@blues-in-munich
+DESCRIPTION:Teachers: Denise & Marcin. Club training for members: register
+  for the cycle (08.06.–02.08.2026). Newcomers can try classes during the
+  first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps:/
+ /www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Open Level
+DTSTART;TZID=Europe/Berlin:20260630T204500
+DTEND;TZID=Europe/Berlin:20260630T221500
+DTSTAMP:20261024T082051Z
+UID:1c52d9f69bcf-3@blues-in-munich
+DESCRIPTION:Teachers: Denise & Marcin. Club training for members: register
+  for the cycle (08.06.–02.08.2026). Newcomers can try classes during the
+  first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps:/
+ /www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Open Level
+DTSTART;TZID=Europe/Berlin:20260707T204500
+DTEND;TZID=Europe/Berlin:20260707T221500
+DTSTAMP:20261024T082051Z
+UID:1c52d9f69bcf-4@blues-in-munich
+DESCRIPTION:Teachers: Denise & Marcin. Club training for members: register
+  for the cycle (08.06.–02.08.2026). Newcomers can try classes during the
+  first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps:/
+ /www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Open Level
+DTSTART;TZID=Europe/Berlin:20260714T204500
+DTEND;TZID=Europe/Berlin:20260714T221500
+DTSTAMP:20261024T082051Z
+UID:1c52d9f69bcf-5@blues-in-munich
+DESCRIPTION:Teachers: Denise & Marcin. Club training for members: register
+  for the cycle (08.06.–02.08.2026). Newcomers can try classes during the
+  first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps:/
+ /www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Open Level
+DTSTART;TZID=Europe/Berlin:20260721T204500
+DTEND;TZID=Europe/Berlin:20260721T221500
+DTSTAMP:20261024T082051Z
+UID:1c52d9f69bcf-6@blues-in-munich
+DESCRIPTION:Teachers: Denise & Marcin. Club training for members: register
+  for the cycle (08.06.–02.08.2026). Newcomers can try classes during the
+  first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps:/
+ /www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Open Level
+DTSTART;TZID=Europe/Berlin:20260728T204500
+DTEND;TZID=Europe/Berlin:20260728T221500
+DTSTAMP:20261024T082051Z
+UID:1c52d9f69bcf-7@blues-in-munich
+DESCRIPTION:Teachers: Denise & Marcin. Club training for members: register
+  for the cycle (08.06.–02.08.2026). Newcomers can try classes during the
+  first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps:/
+ /www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dr. Will & The Wizards
+DTSTART;TZID=Europe/Berlin:20260729T203000
+DTSTAMP:20261024T082051Z
+UID:22f2ec2f340c-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenfrei\nhttps://www.glockenbachwerksta
+ tt.de/events/dr-will-the-wizards26/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/dr-will-the-wizards26/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Patti
+DTSTART;TZID=Europe/Berlin:20260805T203000
+DTSTAMP:20261024T082051Z
+UID:4943347daf2d-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenfrei\nhttps://www.glockenbachwerksta
+ tt.de/events/black-patti/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/black-patti/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Osono & Mateo Navarro
+DTSTART;TZID=Europe/Berlin:20260812T203000
+DTSTAMP:20261024T082051Z
+UID:4a98e9cf0ce1-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenfrei\nhttps://www.glockenbachwerksta
+ tt.de/events/osono-mateo-navarro/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/osono-mateo-navarro/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bernd Bauer Blues Band: Giesinger Bahnhofsfest
+DTSTART;TZID=Europe/Berlin:20260913T120000
+DTSTAMP:20261024T082051Z
+UID:d563f536411e-0@blues-in-munich
+DESCRIPTION:https://berndbauerbluesband.de/termine/
+LOCATION:Kulturzentrum Giesinger Bahnhof\, Giesinger Bahnhofplatz 1\, 8153
+ 9  München
+URL:https://berndbauerbluesband.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bernd Bauer Blues Band: Stormy Wednesday
+DTSTART;TZID=Europe/Berlin:20260916T200000
+DTSTAMP:20261024T082051Z
+UID:bd8e5c147020-0@blues-in-munich
+DESCRIPTION:Akustische offene Blues Session\, Eintritt frei\nhttps://bernd
+ bauerbluesband.de/termine/
+LOCATION:Kulturzentrum Giesinger Bahnhof\, Giesinger Bahnhofplatz 1\, 8153
+ 9  München
+URL:https://berndbauerbluesband.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Caboose
+DTSTART;TZID=Europe/Berlin:20260916T203000
+DTSTAMP:20261024T082051Z
+UID:b6162373816d-0@blues-in-munich
+DESCRIPTION:Fish: 19:00 Uhr · kostenfrei\nhttps://www.glockenbachwerkstat
+ t.de/events/the-caboose/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/the-caboose/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bernd Bauer Blues Band: Live-Konzert
+DTSTART;TZID=Europe/Berlin:20260918T200000
+DTSTAMP:20261024T082051Z
+UID:b198a98f481f-0@blues-in-munich
+DESCRIPTION:https://berndbauerbluesband.de/termine/
+LOCATION:Kultur-Etage Messestadt\, Mittelbau Riem Arcaden\, Seiteneingang 
+ 19\, 3.OG\, Erika-Cremer-Str. 8\, 81829 München
+URL:https://berndbauerbluesband.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veranda Music | the reload club
+DTSTART;TZID=Europe/Berlin:20260923T203000
+DTSTAMP:20261024T082051Z
+UID:b2fd85a2e1c7-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenfrei\nhttps://www.glockenbachwerksta
+ tt.de/events/veranda-music-the-reload-club/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/veranda-music-the-reload-cl
+ ub/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Degurutieni
+DTSTART;TZID=Europe/Berlin:20260930T203000
+DTSTAMP:20261024T082051Z
+UID:ef501198ad6f-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenfrei\nhttps://www.glockenbachwerksta
+ tt.de/events/degurutieni30-09-26/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/degurutieni30-09-26/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Intensive | Jukin' & Ballroomin' with Eva & Sergio
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+DTSTAMP:20261024T082051Z
+UID:95993cb1c271-0@blues-in-munich
+DESCRIPTION:We are thrilled to welcome Eva & Sergio from Spain to Munich f
+ or an intensive Blues workshop weekeend focused on Jukin' and Ballroomin'.
+  If you can make it for one day only\, tick the respective box in the regi
+ stration form! Contact Venetia Bazioti for all workshop-related questions:
+  venetia.bazioti@boogie-baeren.de\nhttps://www.boogie-baeren.de/eventleser
+ /blues-intensive-jukin-ballroomin-with-eva-sergio\nhttps://www.boogie-baer
+ en.de/
+LOCATION:Boogie-Bären Vereinsheim\, Gneisenaustraße 16\, 80992 München
+URL:https://www.boogie-baeren.de/eventleser/blues-intensive-jukin-ballroom
+ in-with-eva-sergio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:California Blues · alle Level
+DTSTART;TZID=Europe/Berlin:20260923T184500
+DTEND;TZID=Europe/Berlin:20260923T194500
+DTSTAMP:20261024T082051Z
+UID:be36aa3ae5cc-0@blues-in-munich
+DESCRIPTION:Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen\, wes
+ entliche Schritte und Figuren\, um dich auf der Tanzfläche sicher und woh
+ l zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkund
+ et\, die zu verschiedenen Musikstilen getanzt werden können. Advance regi
+ stration by email required.\nhttps://www.vintage-club.de/classes.aspx\nhtt
+ ps://www.vintage-club.de/
+LOCATION:Vintage Club (VC Studio 2)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:California Blues · alle Level
+DTSTART;TZID=Europe/Berlin:20260930T184500
+DTEND;TZID=Europe/Berlin:20260930T194500
+DTSTAMP:20261024T082051Z
+UID:be36aa3ae5cc-1@blues-in-munich
+DESCRIPTION:Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen\, wes
+ entliche Schritte und Figuren\, um dich auf der Tanzfläche sicher und woh
+ l zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkund
+ et\, die zu verschiedenen Musikstilen getanzt werden können. Advance regi
+ stration by email required.\nhttps://www.vintage-club.de/classes.aspx\nhtt
+ ps://www.vintage-club.de/
+LOCATION:Vintage Club (VC Studio 2)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:California Blues · alle Level
+DTSTART;TZID=Europe/Berlin:20261007T184500
+DTEND;TZID=Europe/Berlin:20261007T194500
+DTSTAMP:20261024T082051Z
+UID:be36aa3ae5cc-2@blues-in-munich
+DESCRIPTION:Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen\, wes
+ entliche Schritte und Figuren\, um dich auf der Tanzfläche sicher und woh
+ l zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkund
+ et\, die zu verschiedenen Musikstilen getanzt werden können. Advance regi
+ stration by email required.\nhttps://www.vintage-club.de/classes.aspx\nhtt
+ ps://www.vintage-club.de/
+LOCATION:Vintage Club (VC Studio 2)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:California Blues · alle Level
+DTSTART;TZID=Europe/Berlin:20261014T184500
+DTEND;TZID=Europe/Berlin:20261014T194500
+DTSTAMP:20261024T082051Z
+UID:be36aa3ae5cc-3@blues-in-munich
+DESCRIPTION:Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen\, wes
+ entliche Schritte und Figuren\, um dich auf der Tanzfläche sicher und woh
+ l zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkund
+ et\, die zu verschiedenen Musikstilen getanzt werden können. Advance regi
+ stration by email required.\nhttps://www.vintage-club.de/classes.aspx\nhtt
+ ps://www.vintage-club.de/
+LOCATION:Vintage Club (VC Studio 2)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stefan Berchtold & The Deed
+DTSTART;TZID=Europe/Berlin:20261014T203000
+DTSTAMP:20261024T082051Z
+UID:45262f822c94-0@blues-in-munich
+DESCRIPTION:Fisch 19:00 Uhr · kostenfrei\nhttps://www.glockenbachwerkstat
+ t.de/events/fish-n-blues-deed-26/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/fish-n-blues-deed-26/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adrenalines
+DTSTART;TZID=Europe/Berlin:20261017T140000
+DTEND;TZID=Europe/Berlin:20261017T160000
+DTSTAMP:20261024T082051Z
+UID:bb00070c6ab9-0@blues-in-munich
+DESCRIPTION:Die ADRENALINES sind seit 2020 in ganz Süddeutschland unterwe
+ gs\, haben eine Vielzahl von umjubelten Gigs in Clubs\, Kneipen und auf St
+ adtfesten gespielt und konnten sich dadurch eine solide Fanbase erarbeiten
+ . Mit neuem Repertoire aus Blues-Rock-Soul und dabei vielen tanzbaren Song
+ s\, sorgen die ADRENALINES richtig für Partystimmung! Alle Songs werden m
+ it viel Emotion und Leidenschaft zelebriert\, dabei immer präsent sind Sp
+ ielfreude\, der ansteckende Groove\, das brillante Wechselspiel zwischen G
+ itarre und Keyboards sowie der unverwechselbare Sound der Band. Die ausdru
+ cksstarken Lead-Vocals und de\nhttps://www.gansamwasser.de/kulturprogramm/
+ herbstfest/
+LOCATION:Café Gans am Wasser\, Mollsee im Westpark\, 81373 München
+URL:https://www.gansamwasser.de/kulturprogramm/herbstfest/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inninger Bluestage 2026: Chris Kramer & Beat Box’n‘ Blues + Al
+  Jones Band
+DTSTART;TZID=Europe/Berlin:20261017T193000
+DTEND;TZID=Europe/Berlin:20261017T230000
+DTSTAMP:20261024T082051Z
+UID:25459613cfc6-0@blues-in-munich
+DESCRIPTION:Die Inninger Bluestage 2026 präsentiert zwei herausragende Bl
+ ues-Bands. Chris Kramer & Beat Box’n’ Blues vereinen Blues mit Beatbox
+ -Sounds. Al Jones Band bietet authentische Blues-Geschichten.\nhttps://www
+ .in-muenchen.de/events/chris-kramer-beat-boxn-blues-al-jones-band.html
+LOCATION:Alte Brauerei Stegen\, Landsberger Straße 57\, 82266 Inning am A
+ mmersee
+URL:https://www.in-muenchen.de/events/chris-kramer-beat-boxn-blues-al-jone
+ s-band.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayoogie Masters – die Meister aus Blues & Boogie
+DTSTART;TZID=Europe/Berlin:20261017T200000
+DTEND;TZID=Europe/Berlin:20261017T223000
+DTSTAMP:20261024T082051Z
+UID:fa6f6db21fcd-0@blues-in-munich
+DESCRIPTION:Im Hofspielhaus Theater München präsentiert Christian Christ
+ l am Konzertflügel die renommierten Blueskünstler Georg Schroeter und Ma
+ rc Breitfelder. Schroeter am Piano und Breitfelder an der Bluesharp bieten
+  einen Abend voller handgemachter Musik\, geprägt von jahrzehntelanger Er
+ fahrung auf internationalen Bühnen.\nhttps://www.in-muenchen.de/events/ba
+ yoogie-masters-die-meister-aus-blues-boogie.html
+LOCATION:Hofspielhaus\, Falkenturmstraße 8\, 80331 München
+URL:https://www.in-muenchen.de/events/bayoogie-masters-die-meister-aus-blu
+ es-boogie.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Henrik Freischlader
+DTSTART;TZID=Europe/Berlin:20261018T200000
+DTEND;TZID=Europe/Berlin:20261018T230000
+DTSTAMP:20261024T082051Z
+UID:d3f28b38d0c8-0@blues-in-munich
+DESCRIPTION:Henrik Freischlader präsentiert mit seiner neu formierten Ban
+ d eine Mischung aus Blues-Rock\, Soul\, Groove und atmosphärischer Tiefe.
+  Die Besetzung mit Dave Warmerdam an den Keyboards\, Gregor Sonnenberg am 
+ Bass und Leon Mucke am Schlagzeug verspricht eine dynamische Liveperforman
+ ce voller Interaktion und Improvisation.\nhttps://www.in-muenchen.de/event
+ s/henrik-freischlader.html
+LOCATION:Muffatwerk / Ampere\, Zellstraße 4\, 81667 München
+URL:https://www.in-muenchen.de/events/henrik-freischlader.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ben Poole (GBR)
+DTSTART;TZID=Europe/Berlin:20261018T201500
+DTSTAMP:20261024T082051Z
+UID:62b82f04589e-0@blues-in-munich
+DESCRIPTION:Mischung aus Blues\, Rock und Soul BEN POOLE international ane
+ rkannter\, preisgekrönter Gitarrist\, Sänger und Songwriter. Nominiert a
+ ls einer der „Besten Blues-Gitarristen der Welt“ ist er an der Spitze 
+ der talentierten Blues-/Rockszene auf weltweiter Ebene. Bereits in jungen 
+ Jahren machte er...\nhttps://village-habach.de/programm/?single=a0bb1c36d2
+ d69f5fc700d565dd7853c8
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=a0bb1c36d2d69f5fc700d565dd7
+ 853c8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Patti
+DTSTART;TZID=Europe/Berlin:20261019T193000
+DTEND;TZID=Europe/Berlin:20261019T223000
+DTSTAMP:20261024T082051Z
+UID:634620ee0057-0@blues-in-munich
+DESCRIPTION:Black Patti präsentiert ein facettenreiches Programm ländlic
+ her Blues- und Roots-Musik. Das Duo Peter Crow C. und Ferdinand „Jelly R
+ oll“ Kraemer entführt das Publikum mit Songs zwischen Delta Blues\, Rag
+ time und Spirituals in eine vergangene Zeit. Ihre Musik\, zweistimmig und 
+ handgemacht\, erzählt authentische Lebensgeschichten.\nhttps://www.in-mue
+ nchen.de/events/black-patti.html
+LOCATION:Vereinsheim\, Occamstraße 8\, 80802 München
+URL:https://www.in-muenchen.de/events/black-patti.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sari Schorr
+DTSTART;TZID=Europe/Berlin:20261020T200000
+DTEND;TZID=Europe/Berlin:20261020T230000
+DTSTAMP:20261024T082051Z
+UID:880d3f25696b-0@blues-in-munich
+DESCRIPTION:Sari Schorr geht im Herbst mit ihrer Running Wild European Tou
+ r auf Tournee und präsentiert ihr neues Studioalbum\, das soulige und blu
+ esige Elemente mit kraftvollen Gitarrenarrangements verbindet.\nhttps://ww
+ w.in-muenchen.de/events/sari-schorr.html
+LOCATION:Backstage Club\, Reitknechtstr. 6\, 80639 München
+URL:https://www.in-muenchen.de/events/sari-schorr.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christian Schwarzbach & Hans Pramberger – acoustic experience
+DTSTART;TZID=Europe/Berlin:20261021T190000
+DTEND;TZID=Europe/Berlin:20261021T220000
+DTSTAMP:20261024T082051Z
+UID:a4ba40b1de99-0@blues-in-munich
+DESCRIPTION:Die beiden lassen mit zwei Akustikgitarren Klassiker von Blues
+  bis Rock neu erstrahlen. Ihr hypnotischer Groove\, mitreißende Gitarrens
+ oli und perfekter zweistimmiger Gesang begeistern. Von den Beatles bis ZZ-
+ Top ist für jede*n etwas dabei.\nhttps://www.in-muenchen.de/events/christ
+ ian-schwarzbach-hans-pramberger-acoustic-experience.html
+LOCATION:Barschwein\, Franzstraße 3\, 80802 München
+URL:https://www.in-muenchen.de/events/christian-schwarzbach-hans-pramberge
+ r-acoustic-experience.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bernd Bauer Blues Band: Stormy Wednesday
+DTSTART;TZID=Europe/Berlin:20261021T200000
+DTEND;TZID=Europe/Berlin:20261021T223000
+DTSTAMP:20261024T082051Z
+UID:b0270a701912-0@blues-in-munich
+DESCRIPTION:Akustische offene Blues Session\, Eintritt frei\nhttps://bernd
+ bauerbluesband.de/termine/
+LOCATION:Kulturzentrum Giesinger Bahnhof\, Giesinger Bahnhofplatz 1\, 8153
+ 9  München
+URL:https://berndbauerbluesband.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louis Ville
+DTSTART;TZID=Europe/Berlin:20261021T203000
+DTSTAMP:20261024T082051Z
+UID:9d13687e50d5-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenfrei\nhttps://www.glockenbachwerksta
+ tt.de/events/fishnblues-louis-ville1026/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/fishnblues-louis-ville1026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vollmer Brothers Organ Trio feat. Donniele Graves
+DTSTART;TZID=Europe/Berlin:20261022T200000
+DTEND;TZID=Europe/Berlin:20261022T230000
+DTSTAMP:20261024T082051Z
+UID:d070fb212e3a-0@blues-in-munich
+DESCRIPTION:Ausnahme: am Donnerstag Funk\, Gospel\, Groove – ein Sound v
+ oller Energie\, Seele und Spielfreude. Das Vollmer Organ Trio steht für e
+ in mitreißendes Live-Erlebnis zwischen Blues\, Jazz\, Funk und Gospel. Mi
+ t Hammond-Orgel\, Gitarre\, Drums und einer kraftvollen Soulstimme verbind
+ et die Band Virtuosität mit emotionaler Tiefe und unmittelbarer Bühnenen
+ ergie. Seele und Spielfreude. Wenn warme Hammond-Klänge den Raum füllen
+ \, Gitarrenlinien Geschichten erzählen und ein Groove einsetzt\, der sich
+  nicht mehr abschütteln lässt\, beginnt die Welt des Vollmer Organ Trios
+ . Ihre Musik atmet den Geist des Blues\, di\nhttps://rheinpfalz-schwabing.
+ de/veranstaltungen/
+LOCATION:Rheinpfalz Schwabing\, Kurfürstenstraße 35\, 80801 München
+URL:https://rheinpfalz-schwabing.de/veranstaltungen/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. Wolfratshauser Blues Festival
+DTSTART;TZID=Europe/Berlin:20261023T193000
+DTEND;TZID=Europe/Berlin:20261023T230000
+DTSTAMP:20261024T082051Z
+UID:77611c838a5b-0@blues-in-munich
+DESCRIPTION:Mehrere Blues-Bands sorgen über zwei Tage für coole Grooves 
+ und beste Musik. Das Vollmer Organ Trio verbindet Blues\, Jazz\, Funk und 
+ Gospel zu einem modernen Sound voller Groove. Auch Connor Selby\, bekannt 
+ von Dire Straits und The Who\, präsentiert seine Musik.\nhttps://www.in-m
+ uenchen.de/events/3-wolfratshauser-blues-festival.html
+LOCATION:Ehemalige Disko Turm\, Hans-Urmiller-Ring 54\, 82515 Wolfratshaus
+ en
+URL:https://www.in-muenchen.de/events/3-wolfratshauser-blues-festival.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inninger Bluestage 2026: Manu Lanvin + Cecilya & The Candy Kings
+DTSTART;TZID=Europe/Berlin:20261023T193000
+DTEND;TZID=Europe/Berlin:20261023T230000
+DTSTAMP:20261024T082051Z
+UID:b445d9b85dd1-0@blues-in-munich
+DESCRIPTION:Im Zentrum des Abends stehen zwei außergewöhnliche Blues-Act
+ s. Manu Lanvin präsentiert seine kraftvolle Stimme und energiegeladenen A
+ uftritte. Cecilya & The Candy Kings entführen mit ihrem Retro-Cocktail au
+ s Rhythm & Blues und modernen Twists in eine andere Zeit. Ein Abend voll a
+ uthentischer\, handgemachter Bluesmusik.\nhttps://www.in-muenchen.de/event
+ s/manu-lanvin-cecilya-the-candy-kings.html
+LOCATION:Alte Brauerei Stegen\, Landsberger Straße 57\, 82266 Inning am A
+ mmersee
+URL:https://www.in-muenchen.de/events/manu-lanvin-cecilya-the-candy-kings.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Back To Zero
+DTSTART;TZID=Europe/Berlin:20261023T200000
+DTSTAMP:20261024T082051Z
+UID:79117f226e9d-0@blues-in-munich
+DESCRIPTION:BACK TO ZERO ist eine Münchner Rock-\, Blues- und Gefühlsban
+ d\, erstmals 1985 am Start. Sie spielen: Blues\, Rock\, Oldies und Soul…
+  from the Sixties till now … Schon 1985 fanden Sänger Axel und Bassist 
+ Oliver\, in der damals gegründeten Formation BACK TO ZERO\, zusammen. Mit
+  einem Mix aus Eigenkompositionen von Axel und bekannten oder weniger beka
+ nnten Rock- und Blues-Nummern\, begeisterten sie schon damals mit ihrem Pr
+ ogramm in Münchner Musikkneipen und auf Privatfesten. Nach einer längere
+ n Pause und Erfahrung in zahlreichen anderen Formationen fanden wir wieder
+  zusammen\, seit vielen Jahren wird di\nhttps://rheinpfalz-schwabing.de/ve
+ ranstaltungen/
+LOCATION:Rheinpfalz Schwabing\, Kurfürstenstraße 35\, 80801 München
+URL:https://rheinpfalz-schwabing.de/veranstaltungen/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. Wolfratshauser Blues Festival
+DTSTART;TZID=Europe/Berlin:20261024T193000
+DTEND;TZID=Europe/Berlin:20261024T230000
+DTSTAMP:20261024T082051Z
+UID:545ea022d36a-0@blues-in-munich
+DESCRIPTION:Mehrere Blues-Bands sorgen über zwei Tage für coole Grooves 
+ und beste Musik. Das Vollmer Organ Trio verbindet Blues\, Jazz\, Funk und 
+ Gospel zu einem modernen Sound voller Groove. Auch Connor Selby\, bekannt 
+ von Dire Straits und The Who\, präsentiert seine Musik.\nhttps://www.in-m
+ uenchen.de/events/3-wolfratshauser-blues-festival.html
+LOCATION:Ehemalige Disko Turm\, Hans-Urmiller-Ring 54\, 82515 Wolfratshaus
+ en
+URL:https://www.in-muenchen.de/events/3-wolfratshauser-blues-festival.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inninger Bluestage 2026: Young Fast Running Man + Sir Oliver Mally
+  & Peter Schneider
+DTSTART;TZID=Europe/Berlin:20261024T193000
+DTEND;TZID=Europe/Berlin:20261024T230000
+DTSTAMP:20261024T082051Z
+UID:0814eca48dc0-0@blues-in-munich
+DESCRIPTION:Inninger Bluestage 2026 präsentiert zwei Bands: Young Fast Ru
+ nning Man und das Duo Sir Oliver Mally & Peter Schneider. Ein vielseitiges
+  Programm mit Folkrock und energiegeladenem Blues.\nhttps://www.in-muenche
+ n.de/events/young-fast-running-man-sir-oliver-mally-peter-schneider.html
+LOCATION:Alte Brauerei Stegen\, Landsberger Straße 57\, 82266 Inning am A
+ mmersee
+URL:https://www.in-muenchen.de/events/young-fast-running-man-sir-oliver-ma
+ lly-peter-schneider.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:London Blues Collective
+DTSTART;TZID=Europe/Berlin:20261024T200000
+DTSTAMP:20261024T082051Z
+UID:8ece850d2bb7-0@blues-in-munich
+DESCRIPTION:Das 9. JAZZFEST OTTOBRUNN widmet sich dem Blues mit dem LONDON
+  BLUES COLLECTIVE\, GREG COULSON\, JESS HAYES und CONNOR SELBY.\nhttps://w
+ ww.in-muenchen.de/events/london-blues-collective.html
+LOCATION:Wolf-Ferrari-Haus Ottobrunn\, Rathausplatz 2\, 85521 Ottobrunn
+URL:https://www.in-muenchen.de/events/london-blues-collective.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:William’s Wetsox
+DTSTART;TZID=Europe/Berlin:20261024T200000
+DTEND;TZID=Europe/Berlin:20261024T230000
+DTSTAMP:20261024T082051Z
+UID:feaca20e6e34-0@blues-in-munich
+DESCRIPTION:Williams Fändrich\, auch „da Wetsox“ genannt\, gehört se
+ it den 1990ern zu den profiliertesten Bluesmusikern im deutschsprachigen R
+ aum. In den Liedern\, die er mit einzigartiger Stimme singt\, geht es um d
+ as Leben in Bayern\, sie handeln von Liebesfreud und Liebesleid\, vom vera
+ ntwortungslosen Umgang mit der Umwelt\, aber auch von der Schönheit des A
+ mmertales. Der Blues vom Gipfelkreuz zum Jammertal\, vom Abendrot bis zum 
+ Morgengrauen. Mario Fix spielt zu den Akkorden noch den Bass auf der Orgel
+ \, Alex Bartl bearbeitet die Drums.Beide junge Musikanten aus Peißenberg 
+ sind solide Könner auf Ihrem Instrume\nhttps://rheinpfalz-schwabing.de/ve
+ ranstaltungen/
+LOCATION:Rheinpfalz Schwabing\, Kurfürstenstraße 35\, 80801 München
+URL:https://rheinpfalz-schwabing.de/veranstaltungen/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carl Verheyen (USA)
+DTSTART;TZID=Europe/Berlin:20261024T201500
+DTSTAMP:20261024T082051Z
+UID:4aa7f8bc2b87-0@blues-in-munich
+DESCRIPTION:"LIGHT SHINE TOUR" Rock\, Blues\, Jazz CARL VERHEYEN\, wurde v
+ om Guitar Magazine als „einer der zehn besten Gitarristen der Welt“ un
+ d vom Classic Rock Magazine als „einer der 100 besten Gitarristen aller 
+ Zeiten“ bezeichnet. Carl ist seit 1985 Mitglied der erfolgreichen britis
+ chen Rockgruppe S...\nhttps://village-habach.de/programm/?single=806dba4f8
+ bf0641e877db2ca27b1586a
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=806dba4f8bf0641e877db2ca27b
+ 1586a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Open Level
+DTSTART;TZID=Europe/Berlin:20260915T204500
+DTEND;TZID=Europe/Berlin:20260915T221500
+DTSTAMP:20261024T082051Z
+UID:a473a482e0ed-0@blues-in-munich
+DESCRIPTION:Teachers: Denise & Marcin. Club training for members: register
+  for the cycle (14.09.–01.11.2026). Newcomers can try classes during the
+  first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps:/
+ /www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Open Level
+DTSTART;TZID=Europe/Berlin:20260922T204500
+DTEND;TZID=Europe/Berlin:20260922T221500
+DTSTAMP:20261024T082051Z
+UID:a473a482e0ed-1@blues-in-munich
+DESCRIPTION:Teachers: Denise & Marcin. Club training for members: register
+  for the cycle (14.09.–01.11.2026). Newcomers can try classes during the
+  first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps:/
+ /www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Open Level
+DTSTART;TZID=Europe/Berlin:20260929T204500
+DTEND;TZID=Europe/Berlin:20260929T221500
+DTSTAMP:20261024T082051Z
+UID:a473a482e0ed-2@blues-in-munich
+DESCRIPTION:Teachers: Denise & Marcin. Club training for members: register
+  for the cycle (14.09.–01.11.2026). Newcomers can try classes during the
+  first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps:/
+ /www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Open Level
+DTSTART;TZID=Europe/Berlin:20261006T204500
+DTEND;TZID=Europe/Berlin:20261006T221500
+DTSTAMP:20261024T082051Z
+UID:a473a482e0ed-3@blues-in-munich
+DESCRIPTION:Teachers: Denise & Marcin. Club training for members: register
+  for the cycle (14.09.–01.11.2026). Newcomers can try classes during the
+  first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps:/
+ /www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Open Level
+DTSTART;TZID=Europe/Berlin:20261013T204500
+DTEND;TZID=Europe/Berlin:20261013T221500
+DTSTAMP:20261024T082051Z
+UID:a473a482e0ed-4@blues-in-munich
+DESCRIPTION:Teachers: Denise & Marcin. Club training for members: register
+  for the cycle (14.09.–01.11.2026). Newcomers can try classes during the
+  first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps:/
+ /www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Open Level
+DTSTART;TZID=Europe/Berlin:20261020T204500
+DTEND;TZID=Europe/Berlin:20261020T221500
+DTSTAMP:20261024T082051Z
+UID:a473a482e0ed-5@blues-in-munich
+DESCRIPTION:Teachers: Denise & Marcin. Club training for members: register
+  for the cycle (14.09.–01.11.2026). Newcomers can try classes during the
+  first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps:/
+ /www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Open Level
+DTSTART;TZID=Europe/Berlin:20261027T204500
+DTEND;TZID=Europe/Berlin:20261027T221500
+DTSTAMP:20261024T082051Z
+UID:a473a482e0ed-6@blues-in-munich
+DESCRIPTION:Teachers: Denise & Marcin. Club training for members: register
+  for the cycle (14.09.–01.11.2026). Newcomers can try classes during the
+  first 3 weeks of a cycle.\nhttps://www.boogie-baeren.de/training\nhttps:/
+ /www.boogie-baeren.de/
+LOCATION:Boogie-Bären Vereinsheim (Obergeschoss)\, Gneisenaustraße 16\, 
+ 80992 München
+URL:https://www.boogie-baeren.de/training
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues 2 mit Clara
+DTSTART;TZID=Europe/Berlin:20261006T193500
+DTEND;TZID=Europe/Berlin:20261006T203500
+DTSTAMP:20261024T082051Z
+UID:bee1392c97b8-0@blues-in-munich
+DESCRIPTION:https://hepcatclub.com/\nhttps://hepcatclub.com/
+LOCATION:Hep Cat Club\, Viktoriastraße 3b\, 86150 Augsburg
+URL:https://hepcatclub.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues 2 mit Clara
+DTSTART;TZID=Europe/Berlin:20261013T193500
+DTEND;TZID=Europe/Berlin:20261013T203500
+DTSTAMP:20261024T082051Z
+UID:bee1392c97b8-1@blues-in-munich
+DESCRIPTION:https://hepcatclub.com/\nhttps://hepcatclub.com/
+LOCATION:Hep Cat Club\, Viktoriastraße 3b\, 86150 Augsburg
+URL:https://hepcatclub.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues 2 mit Clara
+DTSTART;TZID=Europe/Berlin:20261020T193500
+DTEND;TZID=Europe/Berlin:20261020T203500
+DTSTAMP:20261024T082051Z
+UID:bee1392c97b8-2@blues-in-munich
+DESCRIPTION:https://hepcatclub.com/\nhttps://hepcatclub.com/
+LOCATION:Hep Cat Club\, Viktoriastraße 3b\, 86150 Augsburg
+URL:https://hepcatclub.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues 2 mit Clara
+DTSTART;TZID=Europe/Berlin:20261027T193500
+DTEND;TZID=Europe/Berlin:20261027T203500
+DTSTAMP:20261024T082051Z
+UID:bee1392c97b8-3@blues-in-munich
+DESCRIPTION:https://hepcatclub.com/\nhttps://hepcatclub.com/
+LOCATION:Hep Cat Club\, Viktoriastraße 3b\, 86150 Augsburg
+URL:https://hepcatclub.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues 2 mit Clara
+DTSTART;TZID=Europe/Berlin:20261103T193500
+DTEND;TZID=Europe/Berlin:20261103T203500
+DTSTAMP:20261024T082051Z
+UID:bee1392c97b8-4@blues-in-munich
+DESCRIPTION:https://hepcatclub.com/\nhttps://hepcatclub.com/
+LOCATION:Hep Cat Club\, Viktoriastraße 3b\, 86150 Augsburg
+URL:https://hepcatclub.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues 2 mit Clara
+DTSTART;TZID=Europe/Berlin:20261110T193500
+DTEND;TZID=Europe/Berlin:20261110T203500
+DTSTAMP:20261024T082051Z
+UID:bee1392c97b8-5@blues-in-munich
+DESCRIPTION:https://hepcatclub.com/\nhttps://hepcatclub.com/
+LOCATION:Hep Cat Club\, Viktoriastraße 3b\, 86150 Augsburg
+URL:https://hepcatclub.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues 2 mit Clara
+DTSTART;TZID=Europe/Berlin:20261117T193500
+DTEND;TZID=Europe/Berlin:20261117T203500
+DTSTAMP:20261024T082051Z
+UID:bee1392c97b8-6@blues-in-munich
+DESCRIPTION:https://hepcatclub.com/\nhttps://hepcatclub.com/
+LOCATION:Hep Cat Club\, Viktoriastraße 3b\, 86150 Augsburg
+URL:https://hepcatclub.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues 2 mit Clara
+DTSTART;TZID=Europe/Berlin:20261124T193500
+DTEND;TZID=Europe/Berlin:20261124T203500
+DTSTAMP:20261024T082051Z
+UID:bee1392c97b8-7@blues-in-munich
+DESCRIPTION:https://hepcatclub.com/\nhttps://hepcatclub.com/
+LOCATION:Hep Cat Club\, Viktoriastraße 3b\, 86150 Augsburg
+URL:https://hepcatclub.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues 2 mit Clara
+DTSTART;TZID=Europe/Berlin:20261201T193500
+DTEND;TZID=Europe/Berlin:20261201T203500
+DTSTAMP:20261024T082051Z
+UID:bee1392c97b8-8@blues-in-munich
+DESCRIPTION:https://hepcatclub.com/\nhttps://hepcatclub.com/
+LOCATION:Hep Cat Club\, Viktoriastraße 3b\, 86150 Augsburg
+URL:https://hepcatclub.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues 2 mit Clara
+DTSTART;TZID=Europe/Berlin:20261208T193500
+DTEND;TZID=Europe/Berlin:20261208T203500
+DTSTAMP:20261024T082051Z
+UID:bee1392c97b8-9@blues-in-munich
+DESCRIPTION:https://hepcatclub.com/\nhttps://hepcatclub.com/
+LOCATION:Hep Cat Club\, Viktoriastraße 3b\, 86150 Augsburg
+URL:https://hepcatclub.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues 2 mit Clara
+DTSTART;TZID=Europe/Berlin:20261215T193500
+DTEND;TZID=Europe/Berlin:20261215T203500
+DTSTAMP:20261024T082051Z
+UID:bee1392c97b8-10@blues-in-munich
+DESCRIPTION:https://hepcatclub.com/\nhttps://hepcatclub.com/
+LOCATION:Hep Cat Club\, Viktoriastraße 3b\, 86150 Augsburg
+URL:https://hepcatclub.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues · alle Level
+DTSTART;TZID=Europe/Berlin:20261021T184500
+DTEND;TZID=Europe/Berlin:20261021T194500
+DTSTAMP:20261024T082051Z
+UID:5b0f8477edc0-0@blues-in-munich
+DESCRIPTION:Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen\, wes
+ entliche Schritte und Figuren\, um dich auf der Tanzfläche sicher und woh
+ l zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkund
+ et\, die zu verschiedenen Musikstilen getanzt werden können.\nhttps://www
+ .vintage-club.de/classes.aspx\nhttps://www.vintage-club.de/
+LOCATION:Vintage Club (VC Studio 2)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues · alle Level
+DTSTART;TZID=Europe/Berlin:20261028T184500
+DTEND;TZID=Europe/Berlin:20261028T194500
+DTSTAMP:20261024T082051Z
+UID:5b0f8477edc0-1@blues-in-munich
+DESCRIPTION:Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen\, wes
+ entliche Schritte und Figuren\, um dich auf der Tanzfläche sicher und woh
+ l zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkund
+ et\, die zu verschiedenen Musikstilen getanzt werden können.\nhttps://www
+ .vintage-club.de/classes.aspx\nhttps://www.vintage-club.de/
+LOCATION:Vintage Club (VC Studio 2)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues · alle Level
+DTSTART;TZID=Europe/Berlin:20261104T184500
+DTEND;TZID=Europe/Berlin:20261104T194500
+DTSTAMP:20261024T082051Z
+UID:5b0f8477edc0-2@blues-in-munich
+DESCRIPTION:Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen\, wes
+ entliche Schritte und Figuren\, um dich auf der Tanzfläche sicher und woh
+ l zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkund
+ et\, die zu verschiedenen Musikstilen getanzt werden können.\nhttps://www
+ .vintage-club.de/classes.aspx\nhttps://www.vintage-club.de/
+LOCATION:Vintage Club (VC Studio 2)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues · alle Level
+DTSTART;TZID=Europe/Berlin:20261111T184500
+DTEND;TZID=Europe/Berlin:20261111T194500
+DTSTAMP:20261024T082051Z
+UID:5b0f8477edc0-3@blues-in-munich
+DESCRIPTION:Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen\, wes
+ entliche Schritte und Figuren\, um dich auf der Tanzfläche sicher und woh
+ l zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkund
+ et\, die zu verschiedenen Musikstilen getanzt werden können.\nhttps://www
+ .vintage-club.de/classes.aspx\nhttps://www.vintage-club.de/
+LOCATION:Vintage Club (VC Studio 2)\, Sonnenstraße 12b (Rückgebäude\, 3
+ . OG)\, 80331 München
+URL:https://www.vintage-club.de/classes.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Körber Krohn Fliegauf
+DTSTART;TZID=Europe/Berlin:20261028T190000
+DTEND;TZID=Europe/Berlin:20261028T220000
+DTSTAMP:20261024T082051Z
+UID:6dcc458bad87-0@blues-in-munich
+DESCRIPTION:Eine groovende Reise durch Blues und Americana erwartet die Zu
+ hörer. Zwei akustische Gitarren\, Blues-Harp und Gesang entführen in unb
+ ekannte Ecken des Songbooks. Von den Allmann Brothers bis John Mayall reic
+ hen die musikalischen Inspirationen.\nhttps://www.in-muenchen.de/events/ko
+ erber-krohn-fliegauf.html
+LOCATION:Barschwein\, Franzstraße 3\, 80802 München
+URL:https://www.in-muenchen.de/events/koerber-krohn-fliegauf.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leonie singt!
+DTSTART;TZID=Europe/Berlin:20261028T203000
+DTSTAMP:20261024T082051Z
+UID:5dca22179cc6-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenfrei\nhttps://www.glockenbachwerksta
+ tt.de/events/leonie-singt/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/leonie-singt/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:That Friday Feeling
+DTSTART;TZID=Europe/Berlin:20261029T193000
+DTEND;TZID=Europe/Berlin:20261029T210000
+DTSTAMP:20261024T082051Z
+UID:d8d47a3e15e0-0@blues-in-munich
+DESCRIPTION:Zwei Gitarren\, zwei Stimmen und jede Menge Groove – das Duo
+  THAT FRIDAY FEELING präsentiert eine Mischung aus Blues und Folk mit eig
+ enen Songs und Cover-Versionen. Die Musik spannt einen Bogen von humorvoll
+ en Alltagssorgen bis hin zu politischen Protestsongs.\nhttps://www.in-muen
+ chen.de/events/that-friday-feeling.html
+LOCATION:Wirtshaus Tannengarten\, Pfeuferstr. 32\, 81373 München
+URL:https://www.in-muenchen.de/events/that-friday-feeling.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ludwig Seuss Band
+DTSTART;TZID=Europe/Berlin:20261029T200000
+DTEND;TZID=Europe/Berlin:20261029T230000
+DTSTAMP:20261024T082051Z
+UID:2a3ee4cfd49e-0@blues-in-munich
+DESCRIPTION:Mit klassischem Piano-Boogie\, Jump-Blues und Louisiana-R&B ve
+ rschmelzen die Klänge der Ludwig Seuss Band zu einem extrem tanzbaren Sou
+ nd. Der Münchner Blues- und Boogiepianist Ludwig Seuss\, bekannt für sei
+ ne Arbeit mit der Spider Murphy Gang\, vermischt diese Stile mit Zydeco au
+ s New Orleans. Die Band\, unterstützt von herausragenden Musikern\, erzeu
+ gt eine unwiderstehliche Groove-Atmosphäre.\nhttps://www.in-muenchen.de/e
+ vents/ludwig-seuss-band-kupferhaus-planegg.html
+LOCATION:Kupferhaus Planegg\, Feodor-Lynen-Straße 5\, 82152 Planegg
+URL:https://www.in-muenchen.de/events/ludwig-seuss-band-kupferhaus-planegg
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andreas Diehlmann Band
+DTSTART;TZID=Europe/Berlin:20261030T200000
+DTSTAMP:20261024T082051Z
+UID:38d642aa4e71-0@blues-in-munich
+DESCRIPTION:Die Andreas Diehlmann Band\, Gewinner des German Blues Awards
+ \, präsentiert einen kraftvollen Bluesrock-Sound. Die Eigenkompositionen 
+ der Band sind traditionell verwurzelt\, aber modern und eigenständig. Jö
+ rg Sebald am Bass und Martin Gunkel an den Drums bilden das rhythmische Fu
+ ndament des Powertrios um den Gitarristen Andreas Diehlmann.\nhttps://www.
+ in-muenchen.de/events/andreas-diehlmann-band.html
+LOCATION:Backstage Club\, Reitknechtstr. 6\, 80639 München
+URL:https://www.in-muenchen.de/events/andreas-diehlmann-band.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aynsley Lister (GBR)
+DTSTART;TZID=Europe/Berlin:20261030T201500
+DTSTAMP:20261024T082051Z
+UID:d3bc8fac1751-0@blues-in-munich
+DESCRIPTION:Mischung aus Blues\, Rock und Soul Freut euch auf einen Abend
+ \, der rockt\, groovt und berührt! Wenn Aynsley Lister und seine Band los
+ legen\, wird klar\, warum sie zu den besten Acts der internationalen Blues
+ rock-Szene gehören. Mit seiner einzigartigen Mischung aus packenden Gitar
+ renriffs\, ehrlichem ...\nhttps://village-habach.de/programm/?single=9ca1a
+ c1692d324ae3fecaefe254b423e
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=9ca1ac1692d324ae3fecaefe254
+ b423e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San2 unplugged
+DTSTART;TZID=Europe/Berlin:20261031T200000
+DTEND;TZID=Europe/Berlin:20261031T220000
+DTSTAMP:20261024T082051Z
+UID:55d7afc2b862-0@blues-in-munich
+DESCRIPTION:San2 präsentiert ein akustisches Live-Programm mit außergew
+ öhnlichen Musikern. Sebastian Schwarzenberger\, bekannt für sein virtuos
+ es Gitarrenspiel\, und Ludwig Seuss\, Münchens Boogie Woogie-Meister\, be
+ gleiten San2. Der Abend verspricht Gänsehaut-Momente durch dreistimmigen 
+ Gesang und beeindruckende Soli.\nhttps://www.in-muenchen.de/events/san2-un
+ plugged.html
+LOCATION:Pasinger Fabrik – Kleine Bühne\, August-Exter-Straße 1\, 8124
+ 5 München
+URL:https://www.in-muenchen.de/events/san2-unplugged.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aynsley Lister (GBR)
+DTSTART;TZID=Europe/Berlin:20261031T201500
+DTSTAMP:20261024T082051Z
+UID:067b264860b7-0@blues-in-munich
+DESCRIPTION:Mischung aus Blues\, Rock und Soul Freut euch auf einen Abend
+ \, der rockt\, groovt und berührt! Wenn Aynsley Lister und seine Band los
+ legen\, wird klar\, warum sie zu den besten Acts der internationalen Blues
+ rock-Szene gehören. Mit seiner einzigartigen Mischung aus packenden Gitar
+ renriffs\, ehrlichem ...\nhttps://village-habach.de/programm/?single=33d2a
+ d8dc5b40e819e2eb23c4921ea2f
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=33d2ad8dc5b40e819e2eb23c492
+ 1ea2f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frühschoppen mit Williams Wetsox Trio
+DTSTART;TZID=Europe/Berlin:20261101T110000
+DTSTAMP:20261024T082051Z
+UID:2b490c7cd538-0@blues-in-munich
+DESCRIPTION:Bayerischer Blues vom Trio mit Gesang\, Gitarre\, Orgel und Sc
+ hlagzeug.\nhttps://www.in-muenchen.de/events/fruhschoppen-mit-williams-wet
+ sox-trio.html
+LOCATION:Fraunhofer Theater\, Fraunhoferstr. 9\, 80469 München
+URL:https://www.in-muenchen.de/events/fruhschoppen-mit-williams-wetsox-tri
+ o.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Temperance Movement
+DTSTART;TZID=Europe/Berlin:20261103T200000
+DTEND;TZID=Europe/Berlin:20261103T230000
+DTSTAMP:20261024T082051Z
+UID:714b17e73942-0@blues-in-munich
+DESCRIPTION:Die Let It All Out Tour 2025 von The Temperance Movement zeigt
+  die Rückkehr der Band nach fünf Jahren Pause. Die Tournee begann als Te
+ stlauf und entwickelte sich zu einer großen Veranstaltungsreihe in Großb
+ ritannien und Europa.\nhttps://www.in-muenchen.de/events/the-temperance-mo
+ vement-let-it-all-out-tour-backstage-werk.html
+LOCATION:Backstage Werk\, Reitknechtstr. 6\, 80639 München
+URL:https://www.in-muenchen.de/events/the-temperance-movement-let-it-all-o
+ ut-tour-backstage-werk.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eric Bibb
+DTSTART;TZID=Europe/Berlin:20261104T200000
+DTEND;TZID=Europe/Berlin:20261104T223000
+DTSTAMP:20261024T082051Z
+UID:9bd3abe604be-0@blues-in-munich
+DESCRIPTION:In einer bemerkenswerten Fusion von Blues\, Folk und Jazz prä
+ sentiert sich ein Abend voller musikalischer Tiefe und Vielfalt. Im Zentru
+ m stehen die eindringlichen Geschichten und kraftvollen Klänge von ERIC B
+ IBB. Seine Gitarrenarbeit und Stimme verschmelzen zu einem einzigartigen K
+ langerlebnis.\nhttps://www.in-muenchen.de/events/eric-bibb.html
+LOCATION:Bayerischer Hof Night Club\, Promenadeplatz 2-6\, 80333 München
+URL:https://www.in-muenchen.de/events/eric-bibb.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Songwriter's Union
+DTSTART;TZID=Europe/Berlin:20261104T203000
+DTSTAMP:20261024T082051Z
+UID:af1c431aa2e9-0@blues-in-munich
+DESCRIPTION:NIGHTBIRD (FIN) & MÄKKELÄ (FIN/D) & FRIEDER GRAEF (D) · kos
+ tenfrei\nhttps://www.glockenbachwerkstatt.de/events/the-secret-songwriters
+ -union/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/the-secret-songwriters-unio
+ n/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Montack & The Ultimate Silverbeet
+DTSTART;TZID=Europe/Berlin:20261105T193000
+DTSTAMP:20261024T082051Z
+UID:213d535e9210-0@blues-in-munich
+DESCRIPTION:Ein spannungsgeladener Abend\, an dem Blues\, Rock und Funk au
+ f alternativen Heavy Rock treffen. Zwischen den Klängen entsteht eine ein
+ zigartige Atmosphäre\, die das Publikum mitreißt. Die Kombination der St
+ ile verspricht einen abwechslungsreichen und energiegeladenen Konzertabend
+ .\nhttps://www.in-muenchen.de/events/montack-the-ultimate-silverbeet.html
+LOCATION:Drehleier – Szenerie\, Rosenheimer Str. 123\, 81667 München
+URL:https://www.in-muenchen.de/events/montack-the-ultimate-silverbeet.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uli Wunner & John Brunton
+DTSTART;TZID=Europe/Berlin:20261105T200000
+DTEND;TZID=Europe/Berlin:20261105T220000
+DTSTAMP:20261024T082051Z
+UID:fe5c0be8d1c1-0@blues-in-munich
+DESCRIPTION:Eine bunte Mischung aus Jazz und Blues mit Gefühl und Virtuos
+ ität\, verwoben mit britisch-bayrischem Humor\, verspricht einen außerge
+ wöhnlichen Musikabend. Die Reise führt von New Orleans über Brasilien b
+ is in die Ferne\, musikalisch begleitet von zwei Ausnahmekünstlern.\nhttp
+ s://www.in-muenchen.de/events/from-new-orleans-to-brasil-and-beyond.html
+LOCATION:Galli Theater\, in der Amalienpassage 86\, 80799 München
+URL:https://www.in-muenchen.de/events/from-new-orleans-to-brasil-and-beyon
+ d.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downtown Blues Session
+DTSTART;TZID=Europe/Berlin:20261106T213000
+DTSTAMP:20261024T082051Z
+UID:eaea2bbe8bbe-0@blues-in-munich
+DESCRIPTION:Offene Blues-Session mit Marc Tepelmann: Zuhören oder selbst 
+ mitspielen\, bei freiem Eintritt.\nhttps://www.in-muenchen.de/events/downt
+ own-blues-session.html
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.in-muenchen.de/events/downtown-blues-session.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anni und Hans: Blues & Jazz
+DTSTART;TZID=Europe/Berlin:20261107T200000
+DTSTAMP:20261024T082051Z
+UID:38e0ddab4d56-0@blues-in-munich
+DESCRIPTION:Der immerwährende Puls von Gospel und Blues treibt Anni & Han
+ s an. Das Duo widmet sich der weiblichen Seite des Blues – denn die afro
+ amerikanischen Frauen hatten verdammt viel zu sagen. Doch im Showbusiness 
+ konnten sich oft nur die „Artigen“ etablieren\, die die Regeln „vers
+ tanden“ hatten. Ihre Geschichten erzählen von Talent und Ausbeutung\, v
+ on Trotz und Tragödien. Auch Songs von Paul Simon\, Jim Croce und Bob Dyl
+ an bekommen bei den beiden eine ganz eigene Note.Dazu kommen Eigenkomposit
+ ionen\, auf die Ihr gespannt sein dürft. Kommt vorbei und genießt mit un
+ s den Abend! Wir freuen uns auf Euch. A\nhttps://stragula.de/events.html#:
+ ~:text=Anni%20und%20Hans%3A%20Blues%20%26%20Jazz
+LOCATION:Stragula\, Bergmannstr. 66\, 80339 München
+URL:https://stragula.de/events.html#:~:text=Anni%20und%20Hans%3A%20Blues%2
+ 0%26%20Jazz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Traces
+DTSTART;TZID=Europe/Berlin:20261107T200000
+DTSTAMP:20261024T082051Z
+UID:772de2d31887-0@blues-in-munich
+DESCRIPTION:Die „blue traces“ wurden 2011 als Blues- und Rockband gegr
+ ündet. Seitdem spielen die Münchner Musiker Michael Drescher (voc + git)
+ \, Viktor Magdolen (keys)\, Fritz Winbeck (drums)\, Markus Roithmaier (bas
+ s) und Sven Kesselring (git) unverändert in dieser Besetzung. Michi Dresc
+ hers unverkennbare Stimme prägt den Sound der Band\, seine Vorbilder Eric
+  Burdon\, Joe Cocker und Tom Waits haben ganz sicher ihre „Spuren“ (en
+ gl. traces) hinterlassen. Das gilt auch für den Rest der Band. Ihr ehrlic
+ her und geradliniger Sound trägt den Gesang und begeistert durch mitreiß
+ ende Spielfreude. Immer wieder aufs Neue\nhttps://rheinpfalz-schwabing.de/
+ veranstaltungen/
+LOCATION:Rheinpfalz Schwabing\, Kurfürstenstraße 35\, 80801 München
+URL:https://rheinpfalz-schwabing.de/veranstaltungen/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yasi Hofer
+DTSTART;TZID=Europe/Berlin:20261107T201500
+DTSTAMP:20261024T082051Z
+UID:b7e79af2bc23-0@blues-in-munich
+DESCRIPTION:Rock\, Blues und Progressive Rock\, mit Einflüssen aus Fusion
+  und Instrumental Rock BEST OF TOUR 2026 Nach über einem Jahrzehnt gemei
+ nsamer Bühnenpräsenz und vier erfolgreichen Studioalben ist es Zeit\, 
+ die musikalische Reise zu feiern. Yasi Hofer zählt heute zu den renommie
+ rtesten Gitarri...\nhttps://village-habach.de/programm/?single=6bcade06e6a
+ 5f77374db050e3a3d20a1
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=6bcade06e6a5f77374db050e3a3
+ d20a1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sundog & Monomanic
+DTSTART;TZID=Europe/Berlin:20261108T193000
+DTEND;TZID=Europe/Berlin:20261108T230000
+DTSTAMP:20261024T082051Z
+UID:6b74202bf1dd-0@blues-in-munich
+DESCRIPTION:Mit der Intensität eines rituellen Tanzes huldigen Sundog und
+  Monomanic einer instinktiven und ominösen Manifestation von Rock und Blu
+ es. Rau\, laut und ekstatisch entführen die Bands in eine Welt aus Bewegu
+ ng\, Chaos und Schmerz. Sundog präsentiert sein erstes Album\, während M
+ onomanic mit brachialen Riffs und hypnotischen Synths für atmosphärische
+  Tiefe sorgt.\nhttps://www.in-muenchen.de/events/sundog-monomanic.html
+LOCATION:Import Export\, Schwere-Reiter-Str. 2h\, 80636 München
+URL:https://www.in-muenchen.de/events/sundog-monomanic.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lonesome Andy & his One Man Band
+DTSTART;TZID=Europe/Berlin:20261111T203000
+DTSTAMP:20261024T082051Z
+UID:bfec1062fced-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenfrei\nhttps://www.glockenbachwerksta
+ tt.de/events/lonesome-andy-his-one-man-band/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/lonesome-andy-his-one-man-b
+ and/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RO CLAUSMAN BAND
+DTSTART;TZID=Europe/Berlin:20261113T201500
+DTSTAMP:20261024T082051Z
+UID:ff05effc904f-0@blues-in-munich
+DESCRIPTION:grooviger Blues\, soulige Balladen\, fetziger Rock ’n’ Rol
+ l und jazzig angehauchter Southern Rock Die 6-köpfige Bluesrock-Band um d
+ en virtuosen Penzberger Profi-Gitarristen und Sänger RO CLAUSMAN gehört 
+ zum Feinsten\, was man in diesem Genre im oberbayerischen Voralpenland hö
+ ren kann. Hier jage...\nhttps://village-habach.de/programm/?single=ff1aac1
+ 55a9d69f17f09ea96504f37f3
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=ff1aac155a9d69f17f09ea96504
+ f37f3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bin I Kini?! - Der Prinzregenten-Blues
+DTSTART;TZID=Europe/Berlin:20261117T200000
+DTSTAMP:20261024T082051Z
+UID:20bf1470443b-0@blues-in-munich
+DESCRIPTION:In einer Komödie voller Verwechslungen und Intrigen verschlä
+ gt es den Prinzregenten Johann der III. versehentlich in die bayerische Pr
+ ovinz. Dort gerät er in ein spaßiges Katz-und-Maus-Spiel\, als er seine 
+ Identität verliert und als Knecht arbeiten muss. Eine turbulente Jagd nac
+ h der Wahrheit beginnt.\nhttps://www.in-muenchen.de/events/prinzregenten-b
+ lues-iberl-buhne.html
+LOCATION:Iberl Bühne\, Herzogspitalstr. 6\, 80331 München
+URL:https://www.in-muenchen.de/events/prinzregenten-blues-iberl-buhne.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bernd Bauer Blues Band: Stormy Wednesday
+DTSTART;TZID=Europe/Berlin:20261118T200000
+DTEND;TZID=Europe/Berlin:20261118T223000
+DTSTAMP:20261024T082051Z
+UID:452a2e69429c-0@blues-in-munich
+DESCRIPTION:Akustische offene Blues Session\, Eintritt frei\nhttps://bernd
+ bauerbluesband.de/termine/
+LOCATION:Kulturzentrum Giesinger Bahnhof\, Giesinger Bahnhofplatz 1\, 8153
+ 9  München
+URL:https://berndbauerbluesband.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sepp Eisele Trio
+DTSTART;TZID=Europe/Berlin:20261118T203000
+DTSTAMP:20261024T082051Z
+UID:2af7cf23e9c5-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenfrei\nhttps://www.glockenbachwerksta
+ tt.de/events/sepp-eisele-trio/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/sepp-eisele-trio/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bluesverschwörung Nr. 149
+DTSTART;TZID=Europe/Berlin:20261119T203000
+DTSTAMP:20261024T082051Z
+UID:de42368a5691-0@blues-in-munich
+DESCRIPTION:Einzig aus Liebe zum Bluestanzen verschworen sie sich\, diese 
+ traurige und heitere\, mitreißende und verführerische\, leichte und schw
+ ere Musik zu spielen\, um noch viele anzustiften\, sich den Blues in die G
+ ehörgänge\, durch die Glieder und bisweilen in Herz und Verstand fahren 
+ zu lassen. Zu Rhythm & Blues fühlt das schmeichelnde Parkett unter Euren 
+ Sohlen\, schmiegt Euch an das rote Leder\, schaut tief in die Gläser und 
+ umgarnt diesen magischen Ort. Mit einer Musikauswahl von Herrn Klein und F
+ räulein Lehn. Eintritt frei!\nhttps://kongressbar.de/events-live-bands-dj
+ s/
+LOCATION:Kongress Bar\, Theresienhöhe 15\, 80339 München
+URL:https://kongressbar.de/events-live-bands-djs/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:30. Münchner Bluesnacht mit Zither Manä\, Abi Wallenstein\, Ludw
+ ig Seuss & Band
+DTSTART;TZID=Europe/Berlin:20261120T200000
+DTEND;TZID=Europe/Berlin:20261120T230000
+DTSTAMP:20261024T082051Z
+UID:db7a3849a2d1-0@blues-in-munich
+DESCRIPTION:Zwischen Chicago-Sound und Roots präsentiert die Münchner Bl
+ uesnacht eine Auswahl handgemachter Blues-Acts. Zither-Manä und die Ludwi
+ g Seuss Band zelebrieren den Groove und die Vielseitigkeit des Blues. In i
+ ntimer Clubatmosphäre entfaltet sich das Zusammenspiel von Szenegrößen 
+ und Jam-Sessions.\nhttps://www.in-muenchen.de/events/30-munchner-bluesnach
+ t-mit-zither-mana-abi-wallenstein-ludwig-seuss-band.html
+LOCATION:Schlachthof – Saal\, Zenettistraße 9\, 80337 München
+URL:https://www.in-muenchen.de/events/30-munchner-bluesnacht-mit-zither-ma
+ na-abi-wallenstein-ludwig-seuss-band.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bootleg Twins feat. Schorsch Hampel & Hubert Hofherr
+DTSTART;TZID=Europe/Berlin:20261120T200000
+DTEND;TZID=Europe/Berlin:20261120T223000
+DTSTAMP:20261024T082051Z
+UID:8ee51229236f-0@blues-in-munich
+DESCRIPTION:Auf der Bühne treffen Blues-Tradition und moderne Klänge auf
+ einander. Mario Spelthan\, Schorsch Hampel und Hubert Hofherr entführen d
+ as Publikum in die Welt des Blues der 20er und 30er Jahre\, Chicago Blues
+ \, Boogie und Folksongs. Ein Abend voller musikalischer Vielfalt und gefü
+ hlvoller Darbietungen.\nhttps://www.in-muenchen.de/events/bootleg-twins-fe
+ at-schorsch-hampel-hubert-hofherr.html
+LOCATION:Kulturhaus Neuperlach – KulturBunt\, Albert-Schweitzer-Straße 
+ 62\, 81735 München
+URL:https://www.in-muenchen.de/events/bootleg-twins-feat-schorsch-hampel-h
+ ubert-hofherr.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Night
+DTSTART;TZID=Europe/Berlin:20261121T193000
+DTEND;TZID=Europe/Berlin:20261121T223000
+DTSTAMP:20261024T082051Z
+UID:5eb683876302-0@blues-in-munich
+DESCRIPTION:Die Garchinger Blues Night präsentiert eine Nacht voller trei
+ bender Sounds und virtuoser Riffs. Im Zentrum des Abends stehen die einzig
+ artigen Künstler der Blues\, Soul und Rock’n’Roll Szene. Das Blues Du
+ o Oliver Mally und Peter Schneider ziehen das Publikum von der ersten Note
+  an in ihren Bann. Der 2 Meter große Blues Riese Michael van Merwyk feier
+ t sein 40-jähriges Bühnenjubiläum mit einer tiefen Verbindung zu den Wu
+ rzeln des Blues. Als krönender Abschluss tritt Kai Strauss auf\, ein Aush
+ ängeschild der deutschen Blues-Szene.\nhttps://www.in-muenchen.de/events/
+ blues-night.html
+LOCATION:Bürgerhaus Garching\, Bürgerplatz 9\, 85748 Garching bei Münch
+ en
+URL:https://www.in-muenchen.de/events/blues-night.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Band of Friends (GBR)
+DTSTART;TZID=Europe/Berlin:20261121T201500
+DTSTAMP:20261024T082051Z
+UID:cef9587e254f-0@blues-in-munich
+DESCRIPTION:Blues-Rock\, Eine Hommage an Rory Gallagher Freut euch auf ein
+  Konzert\, das die Musik von Rory Gallagher lebendig hält! Die Band of Fr
+ iends ist weit mehr als eine Tribute-Band. Gerry McAvoy – langjähriger 
+ Bassist von Rory Gallagher - ist zurück mit neuer Besetzung. Zusammen mit
+  seinen beiden n...\nhttps://village-habach.de/programm/?single=3f973176a9
+ e5e35f9280760b08fa0de3
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=3f973176a9e5e35f9280760b08f
+ a0de3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stephan Zinner
+DTSTART;TZID=Europe/Berlin:20261122T190000
+DTEND;TZID=Europe/Berlin:20261122T220000
+DTSTAMP:20261024T082051Z
+UID:3aeb4ae6df11-0@blues-in-munich
+DESCRIPTION:Stephan Zinner begibt sich auf eine musikalische Reise zu den 
+ Wurzeln des Blues\, unterstützt von Peter Pichler\, mit einer Mischung au
+ s Blues\, Gospel und Tanz.\nhttps://www.in-muenchen.de/events/stephan-zinn
+ er-der-teufel-das-madchen-der-blues-und-ich.html
+LOCATION:Theater Leo17\, Leopoldstraße 17\, 80802 München
+URL:https://www.in-muenchen.de/events/stephan-zinner-der-teufel-das-madche
+ n-der-blues-und-ich.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greg Black & The Bad Notion (SLO)
+DTSTART;TZID=Europe/Berlin:20261122T201500
+DTSTAMP:20261024T082051Z
+UID:3330568fcd36-0@blues-in-munich
+DESCRIPTION:Blues\, Rock\,Soul Greg Black & The Bad Notions ist eine energ
+ iegeladene Band\, die Blues\, Rock und Soul zu einem kraftvollen\, zeitgem
+ äßen Sound verbindet. Im Mittelpunkt steht Sänger und Gitarrist Greg Bl
+ ack\, dessen markante Stimme und dynamisches Gitarrenspiel den musikalisch
+ en Kern der Gruppe b...\nhttps://village-habach.de/programm/?single=9867bb
+ bcc2f8d385e843cb84f6a2423d
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=9867bbbcc2f8d385e843cb84f6a
+ 2423d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Edwin Kimmler
+DTSTART;TZID=Europe/Berlin:20261124T163000
+DTEND;TZID=Europe/Berlin:20261124T180000
+DTSTAMP:20261024T082051Z
+UID:9199cb9d9603-0@blues-in-munich
+DESCRIPTION:Blues\, Soul\, Boogie\, Swing & Calypso Er musiziert nicht nur
+  mit verschiedenen Instrumenten\, sondern auch Musikrichtungen. Edwin Kimm
+ ler ist mal mit dem Piano\, mal mit der Gitarre oder der Mundharmonika zu 
+ sehen. Mal spielt er Blues\, mal Soul\, Boogie Woogie oder Swing. Seine er
+ fahrene Stimme steht gleichberechtig neben seinen Instrumenten. Seit 1978 
+ ist Edwin Kimmler europaweit mit seiner Musik unterwegs und ist mi t viel 
+ Spielfreude und Bühnenpower dabei. Neben seinen Klassikern hat er auch vi
+ ele neue Stücke erstmals mit dabei. Der Musiker stellt auf Tollwood sein 
+ neues Album „Pearls“ vor.\nhttps://www.tollwood.de/veranstaltungen/202
+ 6/edwin-kimmler/
+LOCATION:Tollwood – Hexenkessel\, Theresienwiese\, 80336 München
+URL:https://www.tollwood.de/veranstaltungen/2026/edwin-kimmler/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Patti
+DTSTART;TZID=Europe/Berlin:20261125T163000
+DTEND;TZID=Europe/Berlin:20261125T180000
+DTSTAMP:20261024T082051Z
+UID:0a7033e7e1da-0@blues-in-munich
+DESCRIPTION:American Blues & Roots-Music Das Blues- und Roots-Duo\, besteh
+ end aus Peter Crow C. (Gitarre/Gesang) und Ferdinand „Jelly Roll“ Krae
+ mer (Gitarre/Gesang/Mandoline)\, erzählt seit über zehn Jahren mit ihrem
+  zweistimmigen Gesang Geschichten\, die das Leben schreibt. Inspiriert sin
+ d die beiden von den ländlichen Musikstilen der USA. Dabei reicht ihr bre
+ ites Repertoire von Delta Blues und Ragtime bis hin zu beseelten Spiritual
+ s.\nhttps://www.tollwood.de/veranstaltungen/2026/black-patti-2/
+LOCATION:Tollwood – Hexenkessel\, Theresienwiese\, 80336 München
+URL:https://www.tollwood.de/veranstaltungen/2026/black-patti-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dr. Will & The Wizards
+DTSTART;TZID=Europe/Berlin:20261125T193000
+DTEND;TZID=Europe/Berlin:20261125T220000
+DTSTAMP:20261024T082051Z
+UID:45f22a65cf01-0@blues-in-munich
+DESCRIPTION:Voodoo Blues Seit über 20 Jahren bespielt dieser „Wahnsinn 
+ auf acht Beinen“ Bühnen in ganz Europa. Das Quartett um Dr. Will\, den 
+ „schrägsten Bunt-Vogel“ der europäischen Blues Szene\, mixt zur Feie
+ r im Andechser Zelt seinen Zaubertrank aus Blues mit New Orleans-Feeling\,
+  Rootsmusic\, Rock und einer kräftigen Portion Humor. Aufgepasst\, dieser
+  Trank entfacht seine Wirkung augenblicklich! Die höllisch gute Band\, in
+  der alle einen kleinen „Hackenschuss“ haben\, bietet einen schrägen 
+ Auftritt und macht Spaß.\nhttps://www.tollwood.de/veranstaltungen/2026/dr
+ -will-the-wizards-2/
+LOCATION:Tollwood – Hexenkessel\, Theresienwiese\, 80336 München
+URL:https://www.tollwood.de/veranstaltungen/2026/dr-will-the-wizards-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Official Blues Brothers Revue
+DTSTART;TZID=Europe/Berlin:20261125T200000
+DTSTAMP:20261024T082051Z
+UID:a1f4c6335782-0@blues-in-munich
+DESCRIPTION:Ein multimediales interaktives Erlebnis mit Kieron Lafferty (E
+ lwood) & Wayne Catania (Jake)\, unterstützt von der All-Star-Intercontine
+ ntal Rhythm & Blues Band. Klassiker wie „Soul Man“ und „Gimme Some L
+ ovin“ feiern den Kult\, den John Belushi & Dan Aykroyd erstmals 1978 ent
+ fachten.\nhttps://www.in-muenchen.de/events/the-official-blues-brothers-re
+ vue.html
+LOCATION:Prinzregententheater\, Prinzregentenplatz 12\, 81675 München
+URL:https://www.in-muenchen.de/events/the-official-blues-brothers-revue.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pete Gavin
+DTSTART;TZID=Europe/Berlin:20261125T203000
+DTSTAMP:20261024T082051Z
+UID:6cc61d6bc73f-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenfrei\nhttps://www.glockenbachwerksta
+ tt.de/events/pete-gavin2026/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/pete-gavin2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meena Cryle & Chris Fillmore
+DTSTART;TZID=Europe/Berlin:20261126T200000
+DTSTAMP:20261024T082051Z
+UID:c1147d2ff7a1-0@blues-in-munich
+DESCRIPTION:Meena Cryle und Chris Fillmore feiern auf ihrer 30. Jubiläums
+ tour ihr seltenes und intimes Zusammenspiel. Die beiden österreichischen 
+ Blues- und Rootskünstler\, bekannt für ihre leidenschaftlichen Auftritte
+ \, begeistern mit ihrer einzigartigen Stimme und Gitarrenkunst. Ihr Talent
+  wurde auch vom renommierten Produzenten Jim Gaines gewürdigt.\nhttps://w
+ ww.in-muenchen.de/events/meena-cryle-chris-fillmore.html
+LOCATION:Veranstaltungsforum Fürstenfeld\, Fürstenfeld 12\, 82256 Fürst
+ enfeldbruck
+URL:https://www.in-muenchen.de/events/meena-cryle-chris-fillmore.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Johnny & The Yooahoos
+DTSTART;TZID=Europe/Berlin:20261127T160000
+DTEND;TZID=Europe/Berlin:20261127T180000
+DTSTAMP:20261024T082051Z
+UID:858ed4412cb8-0@blues-in-munich
+DESCRIPTION:Folk & Bluegrass\nhttps://www.tollwood.de/veranstaltungen/2026
+ /johnny-the-yooahoos/
+LOCATION:Tollwood – Hexenkessel\, Theresienwiese\, 80336 München
+URL:https://www.tollwood.de/veranstaltungen/2026/johnny-the-yooahoos/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heels & Bones
+DTSTART;TZID=Europe/Berlin:20261127T193000
+DTEND;TZID=Europe/Berlin:20261127T220000
+DTSTAMP:20261024T082051Z
+UID:498f6365f37d-0@blues-in-munich
+DESCRIPTION:Rock\, Indie & Blues Eine musikalische Zeitreise durch die ver
+ gangenen 50 Jahre Rock ’n’ `Roll bietet die Band Heels & Bones. Sie is
+ t jedoch keine gewöhnliche Cover-Band\, denn sie interpretiert viele Song
+ s mit ihren eigenen Noten und ihrer tollen Liveperformance.\nhttps://www.t
+ ollwood.de/veranstaltungen/2026/heels-bones-2/
+LOCATION:Tollwood – Hexenkessel\, Theresienwiese\, 80336 München
+URL:https://www.tollwood.de/veranstaltungen/2026/heels-bones-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Welebeat
+DTSTART;TZID=Europe/Berlin:20261128T173000
+DTEND;TZID=Europe/Berlin:20261128T193000
+DTSTAMP:20261024T082051Z
+UID:425e68ac0733-0@blues-in-munich
+DESCRIPTION:Welebeat bringt authentischen Country Rock\, Rock- und Blues-K
+ lassiker live auf die Bühne! Mit viel Leidenschaft\, groovigen Rhythmen u
+ nd jeder Menge Spielfreude sorgt die Band für gute Stimmung und einen mus
+ ikalischen Abend voller Energie. Ob bekannte Klassiker oder echte Country-
+ Vibes – Welebeat steht für handgemachte Live-Musik! Webseite Instagram
+ \nhttps://www.gansamwasser.de/kulturprogramm/programm-november/
+LOCATION:Café Gans am Wasser\, Mollsee im Westpark\, 81373 München
+URL:https://www.gansamwasser.de/kulturprogramm/programm-november/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jakarta Blues Band
+DTSTART;TZID=Europe/Berlin:20261128T200000
+DTSTAMP:20261024T082051Z
+UID:02cad5d9c1f8-0@blues-in-munich
+DESCRIPTION:Chicago Blues: ein musikalischer Leckerbissen! Mit höchster S
+ pielfreude zelebriert die Jakarta Blues Band aus dem Münchner Umland alle
+  Facetten des Chicago Blues und widerlegt immer wieder aufs Neue\, dass Bl
+ ues nur für Melancholiker geeignet ist. Die sechs Musiker bieten perfekte
+  handgemachte Musik\, bei der man einfach nicht stillhalten kann. Sie lebe
+ n jede Note\, so dass die Kraft und Emotionalität dieser Musik regelmäß
+ ig auf die Zuhörer überspringen und jede(r) mitwippt oder tanzt. Dabei i
+ st kaum eine Formation ist so nah dran am Sound der Originale. Kaum ein Gi
+ tarrist pflegt den Stil so auth\nhttps://rheinpfalz-schwabing.de/veranstal
+ tungen/
+LOCATION:Rheinpfalz Schwabing\, Kurfürstenstraße 35\, 80801 München
+URL:https://rheinpfalz-schwabing.de/veranstaltungen/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mojo Blues Band – Jazz & Beyond
+DTSTART;TZID=Europe/Berlin:20261201T200000
+DTEND;TZID=Europe/Berlin:20261201T223000
+DTSTAMP:20261024T082051Z
+UID:127efe9843d6-0@blues-in-munich
+DESCRIPTION:Chicago-Blues mit Humor: Die Wiener Mojo Blues Band spielt sei
+ t 1977 handgemachten Blues und gastiert im Night Club des Bayerischen Hofs
+ .\nhttps://www.in-muenchen.de/events/mojo-blues-band-jazz-beyond.html
+LOCATION:Bayerischer Hof Night Club\, Promenadeplatz 2-6\, 80333 München
+URL:https://www.in-muenchen.de/events/mojo-blues-band-jazz-beyond.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stephan Zinner - Der Teufel\, das Mädchen\, der Blues und ich
+DTSTART;TZID=Europe/Berlin:20261201T200000
+DTSTAMP:20261024T082051Z
+UID:a88fdd380af0-0@blues-in-munich
+DESCRIPTION:Stephan Zinner begibt sich auf eine musikalische Reise zu den 
+ Wurzeln des Blues\, die er nicht nur im Mississippi-Delta\, sondern auch i
+ n Trostberg in Oberbayern findet. Mit Gitarre und der Unterstützung von P
+ eter Pichler präsentiert er eine Mischung aus Blues\, Gospel und Tanz.\nh
+ ttps://www.in-muenchen.de/events/stephan-zinner-der-teufel-das-madchen-der
+ -blues-und-ich-schlachthof.html
+LOCATION:Schlachthof\, Zenettistraße 9\, 80337 München
+URL:https://www.in-muenchen.de/events/stephan-zinner-der-teufel-das-madche
+ n-der-blues-und-ich-schlachthof.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kai Strauss & The Electric Blues All Stars
+DTSTART;TZID=Europe/Berlin:20261202T200000
+DTEND;TZID=Europe/Berlin:20261202T230000
+DTSTAMP:20261024T082051Z
+UID:de57b62b9df1-0@blues-in-munich
+DESCRIPTION:Kai Strauss\, bekannt für seine kraftvolle Gitarre und Gesang
+ \, präsentiert mit seiner internationalen Band The Electric Blues All Sta
+ rs einen zeitgenössischen Sound\, der Blues mit Funk und Soul verbindet.
+ \nhttps://www.in-muenchen.de/events/kai-strauss-the-electric-blues-all-sta
+ rs-backstage-club.html
+LOCATION:Bayerischer Hof Night Club\, Promenadeplatz 2-6\, 80333 München
+URL:https://www.in-muenchen.de/events/kai-strauss-the-electric-blues-all-s
+ tars-backstage-club.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dr. Will & Saschmo Bibergeil
+DTSTART;TZID=Europe/Berlin:20261202T203000
+DTSTAMP:20261024T082051Z
+UID:985e54d88dfa-0@blues-in-munich
+DESCRIPTION:Fisch 19:00 Uhr · kostenfrei\nhttps://www.glockenbachwerkstat
+ t.de/events/fishnblues-dr-will-saschmo-bibergeil2026/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/fishnblues-dr-will-saschmo-
+ bibergeil2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bluesverschwörung Nr. 150
+DTSTART;TZID=Europe/Berlin:20261203T203000
+DTSTAMP:20261024T082051Z
+UID:6bf5e0a1048f-0@blues-in-munich
+DESCRIPTION:Einzig aus Liebe zum Bluestanzen verschworen sie sich\, diese 
+ traurige und heitere\, mitreißende und verführerische\, leichte und schw
+ ere Musik zu spielen\, um noch viele anzustiften\, sich den Blues in die G
+ ehörgänge\, durch die Glieder und bisweilen in Herz und Verstand fahren 
+ zu lassen. Zu Rhythm & Blues fühlt das schmeichelnde Parkett unter Euren 
+ Sohlen\, schmiegt Euch an das rote Leder\, schaut tief in die Gläser und 
+ umgarnt diesen magischen Ort. Mit einer Musikauswahl von Herrn Klein und F
+ räulein Lehn. Eintritt frei!\nhttps://kongressbar.de/events-live-bands-dj
+ s/
+LOCATION:Kongress Bar\, Theresienhöhe 15\, 80339 München
+URL:https://kongressbar.de/events-live-bands-djs/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bernd Bauer Blues Band: Live-Konzert
+DTSTART;TZID=Europe/Berlin:20261204T173000
+DTSTAMP:20261024T082051Z
+UID:290e34f6a579-0@blues-in-munich
+DESCRIPTION:Mollsee im Westpark\nhttps://berndbauerbluesband.de/termine/
+LOCATION:Café Gans am Wasser\, 81373 München
+URL:https://berndbauerbluesband.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Henry Heggen & Titus Vollmer + San2 & His Soul Patrol
+DTSTART;TZID=Europe/Berlin:20261204T193000
+DTSTAMP:20261024T082051Z
+UID:65d26019d8af-0@blues-in-munich
+DESCRIPTION:In der 11. Gautinger Bluesnacht begeistern Henry Heggen und Ti
+ tus Vollmer mit erstklassigem Mundharmonika-Sound und herausragender Blues
+ stimme. Gemeinsam mit San2 und seiner Soul Patrol entführen sie das Publi
+ kum in eine Welt voller Blues und Soul. Die Bühnenshow von San2\, bekannt
+ er Hohner Botschafter\, ist eine leidenschaftliche Darbietung\, bei der je
+ der Ton zelebriert wird.\nhttps://www.in-muenchen.de/events/henry-heggen-t
+ itus-vollmer-san2-his-soul-patrol.html
+LOCATION:bosco Bürger- und Kulturhaus\, Oberer Kirchenweg 1\, 82131 Gauti
+ ng
+URL:https://www.in-muenchen.de/events/henry-heggen-titus-vollmer-san2-his-
+ soul-patrol.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Munich Rhythm & Blues Band
+DTSTART;TZID=Europe/Berlin:20261204T200000
+DTSTAMP:20261024T082051Z
+UID:3f394472cac9-0@blues-in-munich
+DESCRIPTION:Die „Munich Rhythm and Blues Band“ begeistert mit einer Mi
+ schung aus Funk\, Soul\, Blues\, Rock und Jazz. Songs von Etta James bis J
+ ohnny Cash mit Schwerpunkt Blues Brothers sorgen für energiegeladene Show
+ s. Die Band spielt alles\, was Stimmung macht\, die fünf Musiker heizen o
+ rdentlich ein. Ihr „Special“ ist eine Blues Brother’s Show im zweite
+ n Set. Wir freuen uns auf die Band\, bitte Hut nicht vergessen.\nhttps://r
+ heinpfalz-schwabing.de/veranstaltungen/
+LOCATION:Rheinpfalz Schwabing\, Kurfürstenstraße 35\, 80801 München
+URL:https://rheinpfalz-schwabing.de/veranstaltungen/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bernd Bauer Blues Band: Live-Konzert im Märchenbazar
+DTSTART;TZID=Europe/Berlin:20261207T193000
+DTSTAMP:20261024T082051Z
+UID:852d5a086710-0@blues-in-munich
+DESCRIPTION:Olympiapark Süd\nhttps://berndbauerbluesband.de/termine/
+LOCATION:Märchenbazar\, Spiridon-Louis-Ring 100\, 80809 München
+URL:https://berndbauerbluesband.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kozmic Blue
+DTSTART;TZID=Europe/Berlin:20261209T193000
+DTEND;TZID=Europe/Berlin:20261209T220000
+DTSTAMP:20261024T082051Z
+UID:b8a763b93f9f-0@blues-in-munich
+DESCRIPTION:Kosmischer Blues & Rock\nhttps://www.tollwood.de/veranstaltung
+ en/2026/kozmic-blue/
+LOCATION:Tollwood – Hexenkessel\, Theresienwiese\, 80336 München
+URL:https://www.tollwood.de/veranstaltungen/2026/kozmic-blue/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baby Kreuzberg
+DTSTART;TZID=Europe/Berlin:20261209T203000
+DTSTAMP:20261024T082051Z
+UID:e63fc74695b6-0@blues-in-munich
+DESCRIPTION:Fisch: 19:00 Uhr · kostenfrei\nhttps://www.glockenbachwerksta
+ tt.de/events/baby-kreuzberg/
+LOCATION:Glockenbachwerkstatt\, Blumenstraße 7\, 80331 München
+URL:https://www.glockenbachwerkstatt.de/events/baby-kreuzberg/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saschmo
+DTSTART;TZID=Europe/Berlin:20261211T193000
+DTEND;TZID=Europe/Berlin:20261211T210000
+DTSTAMP:20261024T082051Z
+UID:5173476bd77a-0@blues-in-munich
+DESCRIPTION:Saschmo präsentiert sein neues Vinylalbum ‚Same Old Story
+ ‘. Zwischen Indie-Pop\, Singer-Songwriter und Blues-Sessions mit Lagerfe
+ uer-Flair entsteht ein minimalistischer\, gitarrenlastiger und leicht mela
+ ncholischer Sound. Begleitet wird er von Jürgen Reiter am Kontrabass.\nht
+ tps://www.in-muenchen.de/events/saschmo.html
+LOCATION:ars musica – Der Musikladen\, Lindwurmstr. 201\, 80337 München
+URL:https://www.in-muenchen.de/events/saschmo.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Patti
+DTSTART;TZID=Europe/Berlin:20261211T200000
+DTSTAMP:20261024T082051Z
+UID:c95393ea1ae8-0@blues-in-munich
+DESCRIPTION:Black Patti – das sind Peter Crow C. und Ferdinand „Jelly 
+ Roll“ Kraemer. Seit über 10 Jahren sind die zwei Blues & Roots Musiker 
+ auf internationalen Bühnen und Festivals gemeinsam unterwegs. Zweistimmig
+ \, handgemacht und unzensiert erzählt das mehrfach prämierte Duo in sein
+ en Songs Geschichten\, die das Leben schreibt. Musikalisch orientiert sich
+  Black Patti an der einzigartigen Mischung der vor dem zweiten Weltkrieg i
+ n den USA entstandenen\, ländlichen Stile. Mit ihrem äußerst abwechslun
+ gsreichen Repertoire präsentieren die Süddeutschen filigran-kunstvolle u
+ nd berührende Roots-Musik: zwischen ti\nhttps://rheinpfalz-schwabing.de/v
+ eranstaltungen/
+LOCATION:Rheinpfalz Schwabing\, Kurfürstenstraße 35\, 80801 München
+URL:https://rheinpfalz-schwabing.de/veranstaltungen/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boogiemen’s Friends
+DTSTART;TZID=Europe/Berlin:20261212T160000
+DTEND;TZID=Europe/Berlin:20261212T180000
+DTSTAMP:20261024T082051Z
+UID:94ec8e22c740-0@blues-in-munich
+DESCRIPTION:Boogie Woogie & Blues der 20er & 30er Jahre\nhttps://www.tollw
+ ood.de/veranstaltungen/2026/boogiemens-friends/
+LOCATION:Tollwood – Hexenkessel\, Theresienwiese\, 80336 München
+URL:https://www.tollwood.de/veranstaltungen/2026/boogiemens-friends/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Starnberg Bluesrock
+DTSTART;TZID=Europe/Berlin:20261212T201500
+DTSTAMP:20261024T082051Z
+UID:1454ac8628c6-0@blues-in-munich
+DESCRIPTION:Klassiker aus Blues\, Rock\, Reggae und Soul Starnberg Bluesro
+ ck steht für mitreißende Bühnenpräsenz und eine abwechslungsreiche Mis
+ chung von Klassikern aus Blues\, Rock\, Reggae und Soul. Hierbei greift di
+ e Band auf alte Meister wie Jimi Hendrix\, Eric Clapton\, Stevie Ray Vaugh
+ an\, Joe Cocker\, Bill...\nhttps://village-habach.de/programm/?single=4bfa
+ fdb01f59d26aeb179d63ee1dc695
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=4bfafdb01f59d26aeb179d63ee1
+ dc695
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ludwig Seuss Band
+DTSTART;TZID=Europe/Berlin:20261218T201500
+DTSTAMP:20261024T082051Z
+UID:62c8b6e8743a-0@blues-in-munich
+DESCRIPTION:Klassischer Piano-Boogie mit Jump-Blues und Louisiana-Rock’n
+ ‘Roll Ludwig Seuss – bekannt als Keyboarder der Spider Murphy Band\, k
+ ommt mit seiner herausragenden Allstarbesetzung. Mit unzähligen Konzerten
+  ist seine eigene Band in den letzten Jahrzehnten zu einer der interessant
+ esten und begehrtes...\nhttps://village-habach.de/programm/?single=d08785a
+ 7a1f1c7ebe881aa0c95cf77f6
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=d08785a7a1f1c7ebe881aa0c95c
+ f77f6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:13. American Bar Night – „Midlife or Crisis?“ & Friends
+DTSTART;TZID=Europe/Berlin:20261219T180000
+DTSTAMP:20261024T082051Z
+UID:64fcbc3ac2b0-0@blues-in-munich
+DESCRIPTION:Im Lindenkeller erwartet Besucher eine musikalische Reise durc
+ h die USA. Zwischen Folk und Country über Rock ’n‘ Roll bis hin zu Bl
+ ues-Rock versprechen vier Live-Acts einen abwechslungsreichen Abend. Die A
+ tmosphäre einer ‚good old American Bar‘\, begleitet von Live-Videopro
+ jektionen und einer USA-Slideshow\, taucht das Publikum in amerikanische S
+ timmung.\nhttps://www.in-muenchen.de/events/13-american-bar-night-midlife-
+ or-crisis-friends.html
+LOCATION:Lindenkeller Freising\, Veitsmüllerweg 2\, 85354 Freising
+URL:https://www.in-muenchen.de/events/13-american-bar-night-midlife-or-cri
+ sis-friends.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Axel Zwingenberger
+DTSTART;TZID=Europe/Berlin:20261220T193000
+DTEND;TZID=Europe/Berlin:20261220T230000
+DTSTAMP:20261024T082051Z
+UID:87948ef2c27b-0@blues-in-munich
+DESCRIPTION:Auf der Bühne steht ein Mann am Klavier und verzaubert das Pu
+ blikum mit Boogie-Woogie. Rollende Bässe und sehnsuchtsvolle Bluesklänge
+  evozieren Erinnerungen. Axel Zwingenberger begeistert seit fast 50 Jahren
+  Fans weltweit mit seiner Hingabe zu Blues und Boogie.\nhttps://www.in-mue
+ nchen.de/events/axel-zwingenberger-lustspielhaus.html
+LOCATION:Lustspielhaus\, Occamstr. 8\, 80802 München
+URL:https://www.in-muenchen.de/events/axel-zwingenberger-lustspielhaus.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muddy What?
+DTSTART;TZID=Europe/Berlin:20261222T193000
+DTEND;TZID=Europe/Berlin:20261222T220000
+DTSTAMP:20261024T082051Z
+UID:5e5edfb8d418-0@blues-in-munich
+DESCRIPTION:New Blues\nhttps://www.tollwood.de/veranstaltungen/2026/muddy-
+ what-3/
+LOCATION:Tollwood – Hexenkessel\, Theresienwiese\, 80336 München
+URL:https://www.tollwood.de/veranstaltungen/2026/muddy-what-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AL JONES BLUES BAND
+DTSTART;TZID=Europe/Berlin:20261226T203000
+DTSTAMP:20261024T082051Z
+UID:28d33149086a-0@blues-in-munich
+DESCRIPTION:In der staden Zeit fühlt manch einer den Blues. Der Gitarrist
+  und Sänger Al Jones hat ihn eigentlich immer und will mit seiner Variant
+ e trübe Gedanken jeglicher Art vertreiben. Sein Blues steckt voller Kraft
+  und Leidenschaft\, will aufbauend und belebend sein - trotz der mitunter 
+ durchaus ernsten Texte\, die sich auch schon mal mit Niederlagen auseinand
+ ersetzen\, mit Aspekten des Seins\, die nicht ganz so schön sind. Al Jone
+ s geht gegen die Schattenseiten an - mit einer umwerfenden Lebenslust\, En
+ ergie und einer positiven Einstellung.\nhttps://www.unterfahrt.de/programm
+ -detail.php?dateID=11737
+LOCATION:Jazzclub Unterfahrt\, Einsteinstraße 42\, 81675 München
+URL:https://www.unterfahrt.de/programm-detail.php?dateID=11737
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorsilvesterparty mit Village Affair und anschließender Session
+DTSTART;TZID=Europe/Berlin:20261230T201500
+DTSTAMP:20261024T082051Z
+UID:f10ddc8015b6-0@blues-in-munich
+DESCRIPTION:Mit Village Affair versammelt Urgestein D.D. Blues vier außer
+ gewöhnliche Musiker um sich und verbindet unterschiedliche Stilrichtungen
+  zu Rhythm Groove und Soul. Dieter Uebler D.D. Blues (g) Sebastian Schimme
+ lpfennig (keyb\, g\, voc\, chapmanstick)\, Claus Zöllner (b\, voc)\, Hann
+ es Schweiger (pe...\nhttps://village-habach.de/programm/?single=4d5a8c2e2f
+ 41c28b7d621bc00f649c46
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=4d5a8c2e2f41c28b7d621bc00f6
+ 49c46
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zwoa Bier
+DTSTART;TZID=Europe/Berlin:20270102T193000
+DTEND;TZID=Europe/Berlin:20270102T223000
+DTSTAMP:20261024T082051Z
+UID:e4e4dba56531-0@blues-in-munich
+DESCRIPTION:Zwoa Bier\, das Duo Michi Schauer und Sepp Bastl\, präsentier
+ t bayerischen Blues und Rock mit schwarzem Humor und saufatrigen Texten. I
+ hre Musik spiegelt den Alltag und die Politik Bayerns wider.\nhttps://www.
+ in-muenchen.de/events/zwoa-bier.html
+LOCATION:Vereinsheim\, Occamstraße 8\, 80802 München
+URL:https://www.in-muenchen.de/events/zwoa-bier.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saltbrennt
+DTSTART;TZID=Europe/Berlin:20270107T200000
+DTEND;TZID=Europe/Berlin:20270107T230000
+DTSTAMP:20261024T082051Z
+UID:904656d24c18-0@blues-in-munich
+DESCRIPTION:Die Tiroler Band Saltbrennt präsentiert eine Mischung aus Alp
+ engroove und Blues. Mit Tuba\, Mundharmonika\, Schlagzeug\, Gitarre\, Bass
+ \, Piano und vierstimmigem Gesang entführen sie in eine Welt ungeschminkt
+ en und ehrlichen Klangs. Herzhafte Texte mit österreichischem Schmäh sor
+ gen für eine besondere Atmosphäre.\nhttps://www.in-muenchen.de/events/sa
+ ltbrennt.html
+LOCATION:Schlachthof – Ox\, Zenettistraße 9\, 80337 München
+URL:https://www.in-muenchen.de/events/saltbrennt.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ludwig Seuss & Band
+DTSTART;TZID=Europe/Berlin:20270109T200000
+DTEND;TZID=Europe/Berlin:20270109T230000
+DTSTAMP:20261024T082051Z
+UID:0cc75a5b208a-0@blues-in-munich
+DESCRIPTION:Eine Mischung aus Funky Boogaloos und Mellow Slow Drags bildet
+  den musikalischen Rahmen des Abends. Die Band um Ludwig Seuss präsentier
+ t eine facettenreiche Performance\, die Stile und Stimmungen nahtlos verbi
+ ndet.\nhttps://www.in-muenchen.de/events/ludwig-seuss-band.html
+LOCATION:Lustspielhaus\, Occamstr. 8\, 80802 München
+URL:https://www.in-muenchen.de/events/ludwig-seuss-band.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sir Oliver Mally Group & Peter Schneider
+DTSTART;TZID=Europe/Berlin:20270114T200000
+DTSTAMP:20261024T082051Z
+UID:d7d20598c716-0@blues-in-munich
+DESCRIPTION:Mit seiner markanten Stimme und kompromisslos ehrlicher Songsc
+ hreibkunst präsentiert die Sir Oliver Mally Group eine Verschmelzung von 
+ Blues und Singer/Songwriter-Elementen. Der Münchner Ausnahmegitarrist Pet
+ er Schneider ergänzt das Ensemble perfekt. Neben Franz Kreimer am Keyboar
+ d und Thomas Feldmann an Saxophon und Mundharmonika erwartet das Publikum 
+ eine besondere Klangerfahrung.\nhttps://www.in-muenchen.de/events/sir-oliv
+ er-mally-group-peter-schneider.html
+LOCATION:Veranstaltungsforum Fürstenfeld\, Fürstenfeld 12\, 82256 Fürst
+ enfeldbruck
+URL:https://www.in-muenchen.de/events/sir-oliver-mally-group-peter-schneid
+ er.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morblus (I) - Dieter feiert seinen Geburtstag
+DTSTART;TZID=Europe/Berlin:20270115T201500
+DTSTAMP:20261024T082051Z
+UID:c2e2efe9ac56-0@blues-in-munich
+DESCRIPTION:Gefühlvoller Blues\, melodiöser Soul und energiegeladener Bl
+ uesrock sind der Sound\, für den MORBLUS seit 30 Jahren steht und mit der
+  die Band internationale Erfolge feiert. Getrieben von Talent und Leidensc
+ haft\, hat der charismatischen Bandleader Roberto Morbioli seinen ganz eig
+ enen Stil gefunden...\nhttps://village-habach.de/programm/?single=739340af
+ b3393d61b171c7d1ecf98795
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=739340afb3393d61b171c7d1ecf
+ 98795
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jakarta Blues Band
+DTSTART;TZID=Europe/Berlin:20270116T200000
+DTSTAMP:20261024T082051Z
+UID:4ed7f30c5409-0@blues-in-munich
+DESCRIPTION:„Musik aus einer Zeit\, als die Verstärker klein waren und 
+ die Autos noch Flossen hatten“ Wenn sie spielen\, herrscht beste Stimmun
+ g. Kein Wunder\, denn die sechs Musiker aus dem Münchner Umland beweisen 
+ in ihren Konzerten immer wieder\, dass Blues Lebensfreude pur vermittelt. 
+ Richtig gelesen! Lebensfreude - nicht Melancholie. Bei der Jakarta Blues B
+ and wechseln stramme Shuffles\, schnelle Jump-Blues-Nummern\, dramatischer
+  Slow-Blues und groovige Ausflüge in den frühen Soul einander ab. Mit di
+ esem abwechslungsreichen Programm hat sich die Jakarta Blues Band in Bayer
+ n einen erstklassigen Ruf erspielt\nhttps://stragula.de/events.html#:~:tex
+ t=Jakarta%20Blues%20Band
+LOCATION:Stragula\, Bergmannstr. 66\, 80339 München
+URL:https://stragula.de/events.html#:~:text=Jakarta%20Blues%20Band
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLUES CARAVAN
+DTSTART;TZID=Europe/Berlin:20270122T201500
+DTSTAMP:20261024T082051Z
+UID:22d7b353aef7-0@blues-in-munich
+DESCRIPTION:++++INFOS FOLGEN++++ Karten: reservierung@village-habach.de Ei
+ nlass: 19:00 Konzertbeginn: 20:15 Eintritt: €28 / *€25 *reduzierter Pr
+ eis – keine Angabe von Gründen notwendig\nhttps://village-habach.de/pro
+ gramm/?single=ed70dfed0a28191f40db988a163af514
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=ed70dfed0a28191f40db988a163
+ af514
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNDER ATTIC
+DTSTART;TZID=Europe/Berlin:20270123T201500
+DTSTAMP:20261024T082051Z
+UID:bab14bcaa9e9-0@blues-in-munich
+DESCRIPTION:Energiegeladenen Alternative Blues Rock mit Einflüssen aus In
+ die\, Classic Rock und Funk. Die fünfköpfige Band aus Oberbayern verbind
+ et markante Gitarrenriffs\, gefühlvolle Soli und eine charakterstarke\, r
+ aue Stimme zu einem mitreißenden Livesound. Mit zahlreichen Auftritten au
+ f Festivals\, in Clu...\nhttps://village-habach.de/programm/?single=4c2a1e
+ 43fb78c040dac70b178b80a8d6
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=4c2a1e43fb78c040dac70b178b8
+ 0a8d6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stephan Zinner – Großstadtblues
+DTSTART;TZID=Europe/Berlin:20270126T200000
+DTEND;TZID=Europe/Berlin:20270126T230000
+DTSTAMP:20261024T082051Z
+UID:90ae7942419f-0@blues-in-munich
+DESCRIPTION:Stephan Zinner nimmt sein Publikum auf eine musikalisch-satiri
+ sche Reise durch den modernen Großstadtalltag mit. Mit Gitarre und pointi
+ erten Texten erzählt er vom ewigen Kampf mit Updates\, optimierter Freize
+ it und der Sehnsucht nach einem einfacheren Leben.\nhttps://www.in-muenche
+ n.de/events/stephan-zinner-grossstadtblues.html
+LOCATION:Lustspielhaus\, Occamstr. 8\, 80802 München
+URL:https://www.in-muenchen.de/events/stephan-zinner-grossstadtblues.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sean Athens Band
+DTSTART;TZID=Europe/Berlin:20270129T201500
+DTSTAMP:20261024T082051Z
+UID:db9403c7a399-0@blues-in-munich
+DESCRIPTION:Klassischer Blues\, kraftvoller Rock mit modernen Einflüssen 
+ Was bekommt man\, wenn man eine ordentliche Portion BB King\, eine Prise G
+ ary Moore und die Energie von Joe Bonamassa mischt? Die Antwort: den unver
+ wechselbaren\, modernen und kraftvollen Sound der Sean Athens Band. Vier M
+ usiker\, die mi...\nhttps://village-habach.de/programm/?single=1e8198f7d25
+ cf5b734bf4c999441e19a
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=1e8198f7d25cf5b734bf4c99944
+ 1e19a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hamburg Blues Band (D/UK/US/PL)
+DTSTART;TZID=Europe/Berlin:20270131T201500
+DTSTAMP:20261024T082051Z
+UID:93fbd681843b-0@blues-in-munich
+DESCRIPTION:Feat. Gert Lange\, Krissy Matthews\, Frank Itt\, Eddie Filipp 
+ - Special guest: Will Wilde Blues-Rock mit Soul\, Psychedelic\, Rhythm und
+  Boogie vermengt City-Heat Tour 2027 Im Rahmen ihrer "City Heat"-Tour prä
+ sentiert die Hamburg Blues Band mit dem Hamburger Rockshouter & Bandleader
+  Gert Lang...\nhttps://village-habach.de/programm/?single=925a74515fc3f19f
+ 3e479036a949b80f
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=925a74515fc3f19f3e479036a94
+ 9b80f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jared James Nichols
+DTSTART;TZID=Europe/Berlin:20270205T200000
+DTEND;TZID=Europe/Berlin:20270205T230000
+DTSTAMP:20261024T082051Z
+UID:8116283823fc-0@blues-in-munich
+DESCRIPTION:Die Blues-Rock-Szene bekommt einen neuen Star: Jared James Nic
+ hols begeistert mit seiner virtuosen Gitarrentechnik und kraftvollen Bühn
+ enpräsenz. Der charismatische Performer verbindet schwindelig schnelle Ar
+ peggios mit einem einzigartigen\, artistischen Spielstil. Seine Shows sind
+  eine Reise durch die Blues-Rock-Geschichte\, voller Groove\, Herz und See
+ le.\nhttps://www.in-muenchen.de/events/jared-james-nichols.html
+LOCATION:Strom\, Lindwurmstr. 88\, 80337 München
+URL:https://www.in-muenchen.de/events/jared-james-nichols.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Johnny & The Yooahoos
+DTSTART;TZID=Europe/Berlin:20270206T200000
+DTSTAMP:20261024T082051Z
+UID:77d8a5116d55-0@blues-in-munich
+DESCRIPTION:Ein Konzertabend voller musikalischer Leidenschaft und Spielfr
+ eude wartet auf das Publikum. Johnny & the Yooahoos und Black Patti zelebr
+ ieren gemeinsam traditionelles Bluegrass\, Folk und erdigen Blues. Mit Ban
+ jo\, Mandoline\, Gitarre und mehrstimmigem Gesang entführen die Musiker d
+ ie Zuhörer in eine Welt handgemachter Klänge und authentischer Roots-Mus
+ ik.\nhttps://www.in-muenchen.de/events/johnny-the-yooahoos-support-black-p
+ atti.html
+LOCATION:Lindenkeller Freising\, Veitsmüllerweg 2\, 85354 Freising
+URL:https://www.in-muenchen.de/events/johnny-the-yooahoos-support-black-pa
+ tti.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Danny Bryant
+DTSTART;TZID=Europe/Berlin:20270210T200000
+DTEND;TZID=Europe/Berlin:20270210T230000
+DTSTAMP:20261024T082051Z
+UID:482710393fcb-0@blues-in-munich
+DESCRIPTION:Mit neuem Album und unbändiger Energie präsentiert Danny Bry
+ ant einen Abend voller Blues\, Rock und emotionaler Tiefe. Unterstützt vo
+ n seiner herausragenden Band\, bietet er Gitarrenriffs\, intensive Songs u
+ nd eine besondere Nähe zum Publikum.\nhttps://www.in-muenchen.de/events/d
+ anny-bryant.html
+LOCATION:Backstage Club\, Reitknechtstr. 6\, 80639 München
+URL:https://www.in-muenchen.de/events/danny-bryant.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kai Strauss & The Electric Blues Allstars (GER/USA/UK)
+DTSTART;TZID=Europe/Berlin:20270211T201500
+DTSTAMP:20261024T082051Z
+UID:0d127aedfcdd-0@blues-in-munich
+DESCRIPTION:Moderner soulig-funkiger Blues Schon als Teenager war er von d
+ er Magie eines Buddy Guy\, Albert King oder der Vaughan Brothers infiziert
+ . Nachdem er viele Jahre mit dem in Texas\, USA\, geborenen Sänger Memo G
+ onzalez unterwegs war\, startete er seine Solokarriere und nun zählt Kai 
+ Strauss zählt zu...\nhttps://village-habach.de/programm/?single=b67b1eb86
+ d5c44e0ec6ced133eda1fb7
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=b67b1eb86d5c44e0ec6ced133ed
+ a1fb7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Günter Grünwald & Rad Gumbo
+DTSTART;TZID=Europe/Berlin:20270213T200000
+DTSTAMP:20261024T082051Z
+UID:377eb1e7f92e-0@blues-in-munich
+DESCRIPTION:Bayerisches Kabarett trifft auf Southern Blues. Günter Grünw
+ ald\, bekannter Kabarettist\, präsentiert sich als Gitarrist mit RAD GUMB
+ O. Die Show bietet eine Mischung aus Musik und Humor mit kabarettistischen
+  Einlagen nach jedem Song. RAD GUMBO spielt Zydeco-Blues und New Orleans-S
+ oul.\nhttps://www.in-muenchen.de/events/gunter-grunwald-rad-gumbo-pasinger
+ -fabrik-wagenhalle.html
+LOCATION:Pasinger Fabrik – Wagenhalle\, August-Exter-Straße 1\, 81245 M
+ ünchen
+URL:https://www.in-muenchen.de/events/gunter-grunwald-rad-gumbo-pasinger-f
+ abrik-wagenhalle.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schwarzenberger Band
+DTSTART;TZID=Europe/Berlin:20270213T201500
+DTSTAMP:20261024T082051Z
+UID:b0e1c8042be8-0@blues-in-munich
+DESCRIPTION:Bluesrock mit Einflüssen aus Jazz & Fusion Zwischen Bluesrock
+  á la Joe Bonamassa und den jazzigen Einflüssen eines Oz Noy verbindet d
+ er Ausnahmegitarrist Spielfreude und Virtuosität zu einer brodelnd-treibe
+ nden Mischung\, die fasziniert\, fesselt und mitreißt. Bekannt als Gitarr
+ ist von „San2 & ...\nhttps://village-habach.de/programm/?single=564c2b48
+ f910ed0b8036edb18ffc85ed
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=564c2b48f910ed0b8036edb18ff
+ c85ed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meena Cryle & Chris Fillmore Band (AUT)
+DTSTART;TZID=Europe/Berlin:20270221T201500
+DTSTAMP:20261024T082051Z
+UID:c51b24d38c6e-0@blues-in-munich
+DESCRIPTION:Meena Cryle & Chris Fillmore zählen seit vielen Jahren zu den
+  erfolgreichsten österreichischen Musikexporten in der internationalen Bl
+ ues 'n' Roots Szene und sind alte Bekannte im Village. Sie waren von Begin
+ n an eine musikalische Einheit und dass das nach mehr als fünfzehn Jahren
+  immer noch so ...\nhttps://village-habach.de/programm/?single=749acc01526
+ 1720a44f80eb0dc5d5cd9
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=749acc015261720a44f80eb0dc5
+ d5cd9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bluedög and the Hardcore Bluesband
+DTSTART;TZID=Europe/Berlin:20270227T201500
+DTSTAMP:20261024T082051Z
+UID:77ee9b5e552f-0@blues-in-munich
+DESCRIPTION:Blues\, Bluesrock Man muss den „Blues-Hexenmeister“ Philip
+ p „Bluedög“ Gerber nicht beschreiben\, nein\, man muss ihn sehen\, h
+ ören und fühlen! Seine Art\, die Saiten seiner Gitarre zu bearbeiten\, i
+ st legendär. Kaum einer fühlt und spürt den Blues so wie er\, ein Mann
+ \, der die feinen Töne zerbrechlich ...\nhttps://village-habach.de/progra
+ mm/?single=8b7365c31aa31e9628d6b206981e9ba9
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=8b7365c31aa31e9628d6b206981
+ e9ba9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raphael Wressnig & Soul Gift
+DTSTART;TZID=Europe/Berlin:20270304T200000
+DTSTAMP:20261024T082051Z
+UID:e9d1b0b9f4ea-0@blues-in-munich
+DESCRIPTION:Zwischen wuchtigem Hammond-Sound und rohen Roots-Klängen entf
+ altet sich ein Abend voll Soul\, Blues und Jazz. Raphael Wressnig und sein
+ e Band\, verstärkt durch die charismatische Gisele Jackson\, entführen d
+ as Publikum in eine Welt aus Groove und Energie.\nhttps://www.in-muenchen.
+ de/events/raphael-wressnig-soul-gift.html
+LOCATION:Veranstaltungsforum Fürstenfeld\, Fürstenfeld 12\, 82256 Fürst
+ enfeldbruck
+URL:https://www.in-muenchen.de/events/raphael-wressnig-soul-gift.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rad Gumbo & Günter Grünwald
+DTSTART;TZID=Europe/Berlin:20270305T200000
+DTEND;TZID=Europe/Berlin:20270305T223000
+DTSTAMP:20261024T082051Z
+UID:7195272235ac-0@blues-in-munich
+DESCRIPTION:Bayerisches Kabarett und Southern Blues verschmelzen zu einem 
+ unterhaltsamen Abend. Mit bayerischem Humor und groovigem Blues-Rock erzeu
+ gen Günter Grünwald und RAD GUMBO einen musikalisch-komödiantischen Coc
+ ktail. Grünwald an der Sologitarre\, gefolgt von Kabaretteinlagen\, schaf
+ ft eine überraschende und kurzweilige Atmosphäre.\nhttps://www.in-muench
+ en.de/events/rad-gumbo-gunter-grunwald.html
+LOCATION:Spektakel im Postsaal Schäftlarn\, Wolfratshauser Straße 45\, 8
+ 2067 Schäftlarn
+URL:https://www.in-muenchen.de/events/rad-gumbo-gunter-grunwald.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Norman Beaker Trio (UK\, IT)
+DTSTART;TZID=Europe/Berlin:20270305T201500
+DTSTAMP:20261024T082051Z
+UID:71f2b05a60d5-0@blues-in-munich
+DESCRIPTION:Blues und Bluesrock mit Einflüssen aus Soul\, Jazz und Rhythm
+  & Blues Norman Beaker gehört zu den prägenden Persönlichkeiten der bri
+ tischen Blues-Szene und blickt auf eine außergewöhnliche Karriere zurüc
+ k. Als Gitarrist\, Sänger\, Bandleader und Produzent stand er mit zahlrei
+ chen Größen des Blues u...\nhttps://village-habach.de/programm/?single=6
+ 23417b5aec562ac5e8ba1aeb497e45d
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=623417b5aec562ac5e8ba1aeb49
+ 7e45d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Allen Forrester Band (USA)
+DTSTART;TZID=Europe/Berlin:20270312T201500
+DTSTAMP:20261024T082051Z
+UID:9232375ffb47-0@blues-in-munich
+DESCRIPTION:Blues Rock / Southern Rock Die ALLEN-FORRESTER BAND ist ein ge
+ meinsames Projekt der beiden New Yorker Gitarristen Ben Forrester und Josh
+  Allen. Geprägt von den Pionieren des Southern Rock wie der Allman Brothe
+ rs Band\, Lynyrd Skynyrd\, Black Crowes\, und Blackberry Smoke\, verpassen
+  die beiden dem...\nhttps://village-habach.de/programm/?single=f56eb306e61
+ 7a2d6425f5291ebe207c3
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=f56eb306e617a2d6425f5291ebe
+ 207c3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graveyard + Blues Pills
+DTSTART;TZID=Europe/Berlin:20270313T190000
+DTEND;TZID=Europe/Berlin:20270313T230000
+DTSTAMP:20261024T082051Z
+UID:8b0fe5e4c983-0@blues-in-munich
+DESCRIPTION:Die Bühne bebt\, wenn Graveyard und Blues Pills aufspielen. U
+ nterstützt werden sie von Spiders\, die den Abend mit rockigen Klängen e
+ röffnen. Zu hören sind intensive Riffs und kraftvolle Stimmen\, die die 
+ Geschichte des Blues neu interpretieren.\nhttps://www.in-muenchen.de/event
+ s/graveyard-blues-pills.html
+LOCATION:Muffatwerk / Muffathalle\, Zellstr. 4\, 81667 München
+URL:https://www.in-muenchen.de/events/graveyard-blues-pills.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Günter Grünwald & Rad Gumbo
+DTSTART;TZID=Europe/Berlin:20270321T193000
+DTEND;TZID=Europe/Berlin:20270321T230000
+DTSTAMP:20261024T082051Z
+UID:0379893f5324-0@blues-in-munich
+DESCRIPTION:Bayerisches Kabarett und Southern Blues verschmelzen in einem 
+ Programm\, das Humor und Musik vereint. Gezeigt werden Comedy und Songs\, 
+ die Traditionen und Kulturen vereinen.\nhttps://www.in-muenchen.de/events/
+ gunter-grunwald-rad-gumbo.html
+LOCATION:Lustspielhaus\, Occamstr. 8\, 80802 München
+URL:https://www.in-muenchen.de/events/gunter-grunwald-rad-gumbo.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Devon Allman Blues Summit feat. Jimmy Hall\, Claudette King\, Bern
+ ard Allison
+DTSTART;TZID=Europe/Berlin:20270327T200000
+DTSTAMP:20261024T082051Z
+UID:c780e652c65f-0@blues-in-munich
+DESCRIPTION:Die Show vereint den amerikanischen Blues-Spirit mit einer All
+ -Star-Besetzung. Devon Allman\, Jimmy Hall\, Bernard Allison und Claudette
+  King bringen ihre einzigartigen Stile und Geschichten auf die Bühne. Die
+  Atmosphäre ist eine Mischung aus tief groovendem Blues\, Southern Soul u
+ nd gitarrengetriebenem Rock.\nhttps://www.in-muenchen.de/events/the-devon-
+ allman-blues-summit-feat-jimmy-hall-claudette-king-bernard-allison.html
+LOCATION:Muffatwerk / Ampere\, Zellstraße 4\, 81667 München
+URL:https://www.in-muenchen.de/events/the-devon-allman-blues-summit-feat-j
+ immy-hall-claudette-king-bernard-allison.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ash Grunwald
+DTSTART;TZID=Europe/Berlin:20270403T200000
+DTEND;TZID=Europe/Berlin:20270403T230000
+DTSTAMP:20261024T082051Z
+UID:09c6aca9c076-0@blues-in-munich
+DESCRIPTION:Der australische Bluesmusiker Ash Grunwald präsentiert sein e
+ nergiegeladenes Programm. Mit einer Vielzahl von Gitarren und einer stampf
+ enden Klanggewalt begeistert er das Publikum. Seine Musik\, eine Mischung 
+ aus Blues und Storytelling\, zieht Fans weltweit in ihren Bann.\nhttps://w
+ ww.in-muenchen.de/events/ash-grunwald.html
+LOCATION:Milla\, Holzstraße 28\, 80469 München
+URL:https://www.in-muenchen.de/events/ash-grunwald.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sari Schorr (USA)
+DTSTART;TZID=Europe/Berlin:20270409T201500
+DTSTAMP:20261024T082051Z
+UID:03c5839afbdb-0@blues-in-munich
+DESCRIPTION:+++INFOS FOLGEN+++\nhttps://village-habach.de/programm/?single
+ =6815ffb2333d886064f457e15d409bda
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=6815ffb2333d886064f457e15d4
+ 09bda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stephan Zinner – Großstadtblues
+DTSTART;TZID=Europe/Berlin:20270424T193000
+DTEND;TZID=Europe/Berlin:20270424T223000
+DTSTAMP:20261024T082051Z
+UID:8dd5958aa3f3-0@blues-in-munich
+DESCRIPTION:Mit Gitarre und pointierten Texten nimmt Stephan Zinner das Pu
+ blikum auf eine musikalisch-satirische Reise durch den Wahnsinn des modern
+ en Alltags mit. Zwischen Updates\, die keiner braucht\, und der Sehnsucht 
+ nach einem einfacheren Leben zeigt er die Absurditäten unserer Zeit.\nhtt
+ ps://www.in-muenchen.de/events/stephan-zinner-grossstadtblues-circus-krone
+ .html
+LOCATION:Circus Krone\, Marsstr. 43\, 80335 München
+URL:https://www.in-muenchen.de/events/stephan-zinner-grossstadtblues-circu
+ s-krone.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miller Anderson Band (GBR)
+DTSTART;TZID=Europe/Berlin:20270425T201500
+DTSTAMP:20261024T082051Z
+UID:70f1eb4e43ad-0@blues-in-munich
+DESCRIPTION:Blues und Rock mit deutlichen Einflüssen aus Folk- und Glam-R
+ ock MILLER ANDERSON noch einmal im Village hautnah sehen und hören zu dü
+ rfen und damit einem echten Woodstock Veteranen direkt gegenüber zu stehe
+ n\, so viele Gelegenheiten gibt es da nicht mehr …. Die versierte Slide-
+ Arbeit und der k...\nhttps://village-habach.de/programm/?single=b3b5c8ef00
+ 89e8b35bd82054e03d76bf
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=b3b5c8ef0089e8b35bd82054e03
+ d76bf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cliff Stevens (CAN)
+DTSTART;TZID=Europe/Berlin:20270430T201500
+DTSTAMP:20261024T082051Z
+UID:106cff2017c0-0@blues-in-munich
+DESCRIPTION:Mischung aus Blues\, Classic Rock Kratziger\, ergreifender Ges
+ ang und überzeugendes Songwriting á la Eric Clapton\, Stevie Ray Vaughan
+  und John Mayer. Musikalisch reicht die Spanne von treibendem Blues-Rock\,
+  über Slow Classic Blues bis zu Acoustic Country Blues. Cliff Stevens’ 
+ markante Stimme und ...\nhttps://village-habach.de/programm/?single=02d871
+ 3c8feacf37a5c62b43e6e7a0d2
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=02d8713c8feacf37a5c62b43e6e
+ 7a0d2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krissy Matthews
+DTSTART;TZID=Europe/Berlin:20270504T200000
+DTEND;TZID=Europe/Berlin:20270504T230000
+DTSTAMP:20261024T082051Z
+UID:206dda01cf64-0@blues-in-munich
+DESCRIPTION:Auf der Bühne präsentiert sich der talentierte Gitarrist Kri
+ ssy Matthews mit seinem außergewöhnlichen Blues-Rock-Sound. Im Zentrum d
+ es Abends stehen virtuose Gitarrenriffs und kraftvolle Melodien\, die das 
+ Publikum in ihren Bann ziehen. Matthews‘ Spiel verbindet klassisch-blues
+ ige Elemente mit rockigen Klängen.\nhttps://www.in-muenchen.de/events/kri
+ ssy-matthews.html
+LOCATION:Backstage Halle\, Reitknechtstraße 6\, 80639 München
+URL:https://www.in-muenchen.de/events/krissy-matthews.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RO CLAUSMAN BAND
+DTSTART;TZID=Europe/Berlin:20270508T201500
+DTSTAMP:20261024T082051Z
+UID:e6727bdbcd82-0@blues-in-munich
+DESCRIPTION:Grooviger Blues\, soulige Balladen\, fetziger Rock ’n’ Rol
+ l und jazzig angehauchter Southern Rock Die 6-köpfige Bluesrock-Band um d
+ en virtuosen Penzberger Profi-Gitarristen und Sänger RO CLAUSMAN gehört 
+ zum Feinsten\, was man in diesem Genre im oberbayerischen Voralpenland hö
+ ren kann. Hier jage...\nhttps://village-habach.de/programm/?single=1a484a7
+ f15622e0d90ac55d097f7d2d2
+LOCATION:Village Habach\, Obermühle 1\, 82392 Habach
+URL:https://village-habach.de/programm/?single=1a484a7f15622e0d90ac55d097f
+ 7d2d2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hans Theessink
+DTSTART;TZID=Europe/Berlin:20270520T200000
+DTSTAMP:20261024T082051Z
+UID:1ccbf127a0ff-0@blues-in-munich
+DESCRIPTION:Im Mittelpunkt des Abends steht Hans Theessink\, eine Institut
+ ion der Rootsmusik. Seine gefühlvollen Interpretationen des solo acoustic
+  Blues\, begleitet von seiner sonoren Stimme und seinem unverkennbaren Git
+ arrenstil\, versprechen eine Nacht voller Musik und Emotionen.\nhttps://ww
+ w.in-muenchen.de/events/hans-theessink.html
+LOCATION:Veranstaltungsforum Fürstenfeld\, Fürstenfeld 12\, 82256 Fürst
+ enfeldbruck
+URL:https://www.in-muenchen.de/events/hans-theessink.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Munich Rhythm and Blues Band
+DTSTART;TZID=Europe/Berlin:20270605T193000
+DTSTAMP:20261024T082051Z
+UID:dabed20b6d51-0@blues-in-munich
+DESCRIPTION:Die Munich Rhythm and Blues Band begeistert mit einer Mischung
+  aus Funk\, Soul\, Pop\; Rock und R&B Musik. Wir präsentieren viele Musik
+ stile wie Rhythm and Blues\, Funk\, Soul\, Blues von Aretha Franklin über
+  Blues Brothers bis Johnny Cash. Unser Repertoire beinhaltet Stücke wie S
+ weet Home Chicago\, Mustang Sally\, Ring of Fire\, Summertime aber auch mo
+ dernere Stücke wie Haunted Heart von Christina Aguilera. Unsere Bandmitgl
+ ieder haben sich durch jahrelange Liveerfahrungen auch in anderen Bands zu
+  Spitzenmusikern gesteigert. · Eintritt: Frei (Hutspende)\nhttps://stragu
+ la.de/events.html#:~:text=Munich%20Rhythm%20and%20Blues%20Band
+LOCATION:Stragula\, Bergmannstr. 66\, 80339 München
+URL:https://stragula.de/events.html#:~:text=Munich%20Rhythm%20and%20Blues%
+ 20Band
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Bonamassa
+DTSTART;TZID=Europe/Berlin:20270712T190000
+DTEND;TZID=Europe/Berlin:20270712T230000
+DTSTAMP:20261024T082051Z
+UID:3ede1066ee72-0@blues-in-munich
+DESCRIPTION:Blues-Rock-Fans dürfen sich auf einen Abend mit Joe Bonamassa
+  freuen. Der Ausnahmegitarrist präsentiert sein facettenreiches Spiel\, d
+ as Bluestradition mit Rock\, Soul und Americana vereint. Als Special Guest
+  begeistert Marc Broussard mit souliger Stimme und Südstaaten-Blues.\nhtt
+ ps://www.in-muenchen.de/events/joe-bonamassa.html
+LOCATION:Olympiapark München / Tollwood Sommerfestival\, Spiridon-Louis-R
+ ing\, 80809 München
+URL:https://www.in-muenchen.de/events/joe-bonamassa.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:B.B. & The Blues Shacks
+DTSTART;TZID=Europe/Berlin:20270715T200000
+DTSTAMP:20261024T082051Z
+UID:9ede35c84290-0@blues-in-munich
+DESCRIPTION:Die Bluesband B. B. & The Blues Shacks präsentiert ihre einzi
+ gartige Mischung aus Rhythm & Blues und Sixty Soul. Mit über 36 Jahren To
+ urerfahrung und zahlreichen Auszeichnungen wie dem German Blues Award bege
+ istert die Band ihr Publikum weltweit. Frontmann Michael Arlt\, sein Brude
+ r Andreas Arlt\, Fabian Fritz\, Henning Hauerken und Andre Werkmeister gar
+ antieren einen außergewöhnlichen Drive und Groove.\nhttps://www.in-muenc
+ hen.de/events/b-b-the-blues-shacks.html
+LOCATION:Veranstaltungsforum Fürstenfeld\, Fürstenfeld 12\, 82256 Fürst
+ enfeldbruck
+URL:https://www.in-muenchen.de/events/b-b-the-blues-shacks.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bernd Bauer Blues Band: Fish’n’Blues
+DTSTART;TZID=Europe/Berlin:20270721T200000
+DTSTAMP:20261024T082051Z
+UID:e89cd8f357c1-0@blues-in-munich
+DESCRIPTION:https://berndbauerbluesband.de/termine/
+LOCATION:Glockenbachwerkstatt\, Blumenstr. 7\, 80331 München
+URL:https://berndbauerbluesband.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Axel Zwingenberger
+DTSTART;TZID=Europe/Berlin:20271013T200000
+DTEND;TZID=Europe/Berlin:20271013T230000
+DTSTAMP:20261024T082051Z
+UID:129fb11f2680-0@blues-in-munich
+DESCRIPTION:Ein Abend voller Blues und Boogie Woogie. Axel Zwingenberger p
+ räsentiert sein außergewöhnliches Klavierspiel in einem Solokonzert. Di
+ e Musik entführt das Publikum in eine Welt kraftvoller Klänge und rhythm
+ ischer Melodien.\nhttps://www.in-muenchen.de/events/axel-zwingenberger.htm
+ l
+LOCATION:Prinzregententheater\, Prinzregentenplatz 12\, 81675 München
+URL:https://www.in-muenchen.de/events/axel-zwingenberger.html
+END:VEVENT
+END:VCALENDAR

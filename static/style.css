@@ -1,0 +1,417 @@
+:root {
+  --bg: #f6f2ea;
+  --surface: #fffdf8;
+  --ink: #1b1d2e;
+  --muted: #5d6075;
+  --line: #e2dccf;
+  --accent: #1f3a8a;
+  --accent-ink: #ffffff;
+  --brass: #a8741a;
+  --hero-bg: #16204a;
+  --hero-ink: #f4efe4;
+  --hero-muted: #b9bfdc;
+  --t-class: #1a7f52;
+  --t-workshop: #7a4fb0;
+  --t-social: #b0422e;
+  --t-concert: #1f3a8a;
+  --radius: 14px;
+  --shadow: 0 1px 2px rgb(20 20 40 / 6%), 0 4px 16px rgb(20 20 40 / 5%);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f1224;
+    --surface: #171b33;
+    --ink: #e9e7f2;
+    --muted: #a3a7c2;
+    --line: #2a2f4d;
+    --accent: #8fa8ff;
+    --accent-ink: #0f1224;
+    --brass: #f2c46d;
+    --hero-bg: #0a0d1c;
+    --hero-ink: #f4efe4;
+    --hero-muted: #9aa1c4;
+    --t-class: #5fd39a;
+    --t-workshop: #c3a2f0;
+    --t-social: #f09a85;
+    --t-concert: #8fa8ff;
+    --shadow: none;
+  }
+}
+
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font: 16px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+a { color: var(--accent); text-underline-offset: 2px; }
+
+.wrap { max-width: 920px; margin: 0 auto; padding: 0 16px; }
+
+/* --- masthead ---------------------------------------------------------- */
+.masthead {
+  background:
+    radial-gradient(900px 300px at 85% -40%, rgb(242 196 109 / 22%), transparent 70%),
+    var(--hero-bg);
+  color: var(--hero-ink);
+  padding: 56px 0 40px;
+}
+.eyebrow {
+  margin: 0 0 8px;
+  color: #f2c46d;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+h1 {
+  margin: 0;
+  font-family: Georgia, "Iowan Old Style", "Times New Roman", serif;
+  font-size: clamp(36px, 7vw, 60px);
+  font-weight: 700;
+  letter-spacing: -.01em;
+  line-height: 1.05;
+}
+h1 a { color: inherit; text-decoration: none; }
+.lede { max-width: 34em; margin: 14px 0 22px; color: var(--hero-muted); font-size: 18px; }
+.actions { display: flex; flex-wrap: wrap; gap: 10px; margin: 0; }
+.button {
+  display: inline-block;
+  padding: 9px 16px;
+  border-radius: 999px;
+  background: #f2c46d;
+  color: #16204a;
+  font-weight: 600;
+  text-decoration: none;
+}
+.button.ghost { background: transparent; color: var(--hero-ink); box-shadow: inset 0 0 0 1px rgb(255 255 255 / 35%); }
+.button:hover { filter: brightness(1.05); }
+
+/* --- filters ----------------------------------------------------------- */
+.filters {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 -16px;
+  padding: 14px 16px;
+  background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: blur(6px);
+}
+/* Only the chips scroll sideways on narrow screens; the tools stay in view at the end */
+.chips {
+  display: flex;
+  flex: 1;
+  gap: 8px;
+  min-width: 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+  /* fade out where chips run under the tools (on wide screens that end of the row is empty) */
+  mask-image: linear-gradient(to right, #000 calc(100% - 28px), transparent);
+}
+.chip {
+  flex: none;
+  padding: 7px 14px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--ink);
+  font: inherit;
+  font-size: 14px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.chip span { color: var(--muted); font-variant-numeric: tabular-nums; }
+.chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.chip[aria-pressed="true"] span { color: inherit; opacity: .8; }
+.source-chip { max-width: 70vw; overflow: hidden; text-overflow: ellipsis; }
+
+/* Settings at the end of the bar: where (a place dropdown) and how (list / calendar icons). Squarer
+   than the chips, so they don't read as more filters. */
+.tools { display: flex; flex: none; align-items: center; gap: 8px; }
+.tool {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  height: 34px;
+  padding: 0 9px;
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  background: var(--surface);
+  color: var(--muted);
+  font: inherit;
+  font-size: 14px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.tool:hover { color: var(--ink); }
+.tool svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+.tool .chevron { width: 14px; height: 14px; }
+.views { display: flex; }
+.views[hidden], .place[hidden] { display: none; }
+.views .tool:first-child { border-radius: 9px 0 0 9px; }
+.views .tool:last-child { margin-left: -1px; border-radius: 0 9px 9px 0; }
+.views .tool[aria-pressed="true"] { position: relative; border-color: var(--accent); color: var(--accent); }
+.place-button { color: var(--ink); }
+.place-button.widened { border-color: var(--accent); color: var(--accent); }
+.place-button[aria-expanded="true"] .chevron { transform: rotate(180deg); }
+@media (max-width: 520px) { .place-label { display: none; } }  /* the pin says it; the menu spells it out */
+
+.place { position: relative; }
+.place-menu {
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  z-index: 3;
+  min-width: 210px;
+  padding: 4px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--surface);
+  box-shadow: 0 8px 24px rgb(0 0 0 / 18%);
+}
+.place-menu button {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  width: 100%;
+  padding: 8px 10px;
+  border: 0;
+  border-radius: 7px;
+  background: none;
+  color: var(--ink);
+  font: inherit;
+  font-size: 14px;
+  text-align: left;
+  cursor: pointer;
+}
+.place-menu button span { color: var(--muted); font-variant-numeric: tabular-nums; }
+.place-menu button:hover, .place-menu button:focus-visible { background: color-mix(in srgb, var(--accent) 10%, transparent); outline: none; }
+.place-menu button[aria-checked="true"] { color: var(--accent); font-weight: 600; }
+
+/* --- calendar (FullCalendar, themed with the site tokens) -------------- */
+.calendar {
+  margin-top: 8px;
+  padding: 16px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  color: var(--muted);
+}
+.calendar.fc {
+  --fc-border-color: var(--line);
+  --fc-page-bg-color: var(--surface);
+  --fc-neutral-bg-color: var(--bg);
+  --fc-neutral-text-color: var(--muted);
+  --fc-today-bg-color: color-mix(in srgb, var(--accent) 12%, transparent);
+  --fc-event-text-color: var(--accent-ink);
+  --fc-list-event-hover-bg-color: var(--bg);
+  --fc-now-indicator-color: var(--brass);
+  --fc-button-text-color: var(--ink);
+  --fc-button-bg-color: var(--surface);
+  --fc-button-border-color: var(--line);
+  --fc-button-hover-bg-color: var(--bg);
+  --fc-button-hover-border-color: var(--line);
+  --fc-button-active-bg-color: var(--accent);
+  --fc-button-active-border-color: var(--accent);
+  color: var(--ink);
+  font-size: 14px;
+}
+.calendar .fc-toolbar { flex-wrap: wrap; gap: 8px; }
+.calendar .fc-toolbar-title { font-family: Georgia, "Times New Roman", serif; font-size: 22px; }
+.calendar .fc-button { font-size: 14px; text-transform: none; box-shadow: none !important; }
+.calendar .fc-button-active { color: var(--accent-ink) !important; }
+.calendar a { color: inherit; text-decoration: none; }
+.calendar .fc-event { cursor: pointer; }
+.calendar .fc-daygrid-event { white-space: normal; }
+.calendar .fc-event-title { overflow-wrap: anywhere; }
+.calendar .fc-timegrid-slot { height: 3.2em; }
+.calendar .fc-list-day-cushion { background: var(--bg); }
+.calendar .fc-multimonth-title { font-size: 16px; }
+/* Year view: each event is a coloured dot (title on hover); day numbers open that week */
+.calendar .fc-multimonth .fc-daygrid-day-events { display: flex; flex-wrap: wrap; gap: 3px; min-height: 0; margin: 0 4px 4px; }
+.calendar .fc-multimonth .fc-daygrid-event-harness { position: static !important; visibility: visible !important; margin: 0 !important; }
+.calendar .fc-multimonth .fc-daygrid-event { width: 8px; height: 8px; margin: 0; padding: 0; border: 0; border-radius: 50%; overflow: hidden; }
+.calendar .fc-multimonth .fc-daygrid-event > :not(.fc-daygrid-event-dot) { display: none; }
+.calendar .fc-multimonth .fc-daygrid-event-dot { margin: 0; border-width: 4px; }
+.calendar .fc-multimonth .fc-daygrid-day-bottom { display: none; }
+
+/* --- upcoming highlights (this month and next, above the list) -------- */
+.spotlight {
+  margin: 20px 0 8px;
+  padding: 16px 18px;
+  border: 1px solid color-mix(in srgb, var(--brass) 45%, var(--line));
+  border-radius: var(--radius);
+  background: var(--surface);
+  box-shadow: var(--shadow);
+}
+.spotlight h2 { margin: 0 0 8px; font-family: Georgia, "Times New Roman", serif; font-size: 22px; }
+.spotlight h2 span { color: var(--muted); font-family: system-ui, sans-serif; font-size: 15px; font-weight: 400; }
+/* One row of tiles; scrolls sideways when they don't fit */
+.spotlight ul {
+  display: flex;
+  gap: 12px;
+  margin: 0 -18px;
+  padding: 4px 18px 8px;
+  list-style: none;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-padding: 0 18px;
+}
+.spotlight li {
+  display: flex;
+  flex: 1 0 190px;
+  flex-direction: column;
+  gap: 4px;
+  max-width: 260px;
+  padding: 10px 12px;
+  border: 1px solid var(--line);
+  border-top: 3px solid var(--type);
+  border-radius: 10px;
+  scroll-snap-align: start;
+}
+.spotlight time { color: var(--muted); font-size: 13px; font-weight: 600; font-variant-numeric: tabular-nums; }
+.spotlight a { color: var(--ink); font-weight: 700; line-height: 1.3; text-decoration: none; overflow-wrap: anywhere; }
+.spotlight a:hover { color: var(--accent); text-decoration: underline; }
+.spotlight .where { margin-top: auto; color: var(--muted); font-size: 13px; }
+
+/* --- listing ----------------------------------------------------------- */
+.month h2 {
+  margin: 28px 0 4px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 26px;
+}
+.day {
+  display: grid;
+  grid-template-columns: 112px 1fr;
+  gap: 16px;
+  padding: 16px 0;
+  border-top: 1px solid var(--line);
+}
+.day-label {
+  margin: 4px 0 0;
+  color: var(--muted);
+  font-size: 15px;
+  font-weight: 600;
+}
+.day-label em {
+  display: inline-block;
+  margin-left: 4px;
+  padding: 0 7px;
+  border-radius: 999px;
+  background: var(--brass);
+  color: var(--bg);
+  font-size: 12px;
+  font-style: normal;
+}
+.today .day-label { color: var(--ink); }
+.cards { display: grid; gap: 12px; min-width: 0; }
+
+.card {
+  --type: var(--t-concert);
+  padding: 16px 18px;
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--type);
+  border-radius: var(--radius);
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  min-width: 0;
+}
+.type-class { --type: var(--t-class); }
+.type-workshop { --type: var(--t-workshop); }
+.type-social { --type: var(--t-social); }
+.type-concert { --type: var(--t-concert); }
+
+.meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 10px;
+  margin: 0 0 6px;
+  color: var(--muted);
+  font-size: 14px;
+  font-variant-numeric: tabular-nums;
+}
+.badge {
+  color: var(--type);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+.star { color: color-mix(in srgb, var(--brass) 80%, var(--ink)); font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
+.card.highlight { border-color: color-mix(in srgb, var(--brass) 45%, var(--line)); border-left-color: var(--type); }
+.card h4 { margin: 0 0 4px; font-size: 18px; line-height: 1.3; overflow-wrap: anywhere; }
+.card h4 a { color: var(--ink); text-decoration: none; }
+.card h4 a:hover { color: var(--accent); text-decoration: underline; }
+.where { margin: 0; font-size: 15px; }
+.address { color: var(--muted); }
+.recurrence { margin: 8px 0 0; font-size: 15px; font-weight: 600; }
+.recurrence span { color: var(--muted); font-weight: 400; }
+.desc {
+  display: -webkit-box;
+  margin: 8px 0 0;
+  overflow: hidden;
+  color: var(--muted);
+  font-size: 14px;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+.artists { margin: 6px 0 0; color: var(--muted); font-size: 13px; }
+
+.links { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 16px; margin: 10px 0 0; font-size: 14px; }
+.links .school { font-weight: 600; }
+.via { margin-left: auto; color: var(--muted); font-size: 13px; }
+
+.empty { padding: 32px 0; color: var(--muted); text-align: center; }
+
+/* Past events: collapsed below the upcoming list, a little quieter */
+.past { margin-top: 40px; padding-top: 20px; border-top: 1px solid var(--line); }
+.past summary {
+  width: fit-content;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 22px;
+  font-weight: 700;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.past summary span { color: var(--muted); font-family: system-ui, sans-serif; font-size: 15px; font-weight: 400; }
+.past .month h2 { font-size: 22px; color: var(--muted); }
+.past .card { opacity: .85; }
+
+/* --- footer ------------------------------------------------------------ */
+.footer { margin-top: 40px; padding-top: 24px; padding-bottom: 48px; border-top: 1px solid var(--line); color: var(--muted); }
+.footer h2 { margin: 0 0 6px; color: var(--ink); font-size: 18px; }
+.footer p { margin: 0 0 12px; font-size: 15px; }
+.sources { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 6px 24px; margin: 0 0 16px; padding: 0; list-style: none; font-size: 15px; }
+.sources li { display: flex; justify-content: space-between; gap: 12px; }
+.status { font-size: 13px; white-space: nowrap; }
+.status-failed { color: var(--t-social); }
+.small { font-size: 14px; }
+
+@media (max-width: 600px) {
+  .masthead { padding: 40px 0 28px; }
+  .lede { font-size: 16px; }
+  .day { grid-template-columns: 1fr; gap: 8px; }
+  .via { margin-left: 0; width: 100%; }
+  .calendar { margin: 8px -8px 0; padding: 10px 8px; }
+  .calendar .fc-toolbar { flex-direction: column; align-items: stretch; }
+  .calendar .fc-toolbar-chunk { display: flex; justify-content: center; }
+  .calendar .fc-toolbar-title { font-size: 19px; }
+}
+
+/* --- Impressum / Datenschutz ------------------------------------------- */
+.legal { padding-top: 32px; padding-bottom: 48px; max-width: 760px; }
+.legal h1 { font-family: Georgia, "Times New Roman", serif; }
+.legal h2 { margin: 24px 0 6px; font-size: 18px; }
+.legal hr { margin: 32px 0 0; border: 0; border-top: 1px solid var(--line); }

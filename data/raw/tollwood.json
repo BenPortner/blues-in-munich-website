@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-10-23T08:45:50+00:00",
+ "scraped_at": "2026-10-24T08:20:10+00:00",
  "status": {
   "id": "tollwood",
   "name": "Tollwood",
@@ -1878,6 +1878,28 @@
    "id": ""
   },
   {
+   "title": "Ecco DiLorenzo and The Innersoul Six",
+   "type": "concert",
+   "start": "2026-12-21T19:30",
+   "end": "2026-12-21T22:00",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/ecco-dilorenzo-and-the-innersoul-six-4/",
+   "venue": "Tollwood – Hexenkessel",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Knackiger Soul-Funk, the best in town Ecco DiLorenzo, der unermüdliche “Godfather of Munich Soul”, hat sich mit seiner grossen 11-köpfigen Band “Innersoul” in Deutschland schon längst einen Namen gemacht. Ins Andechser Zelt bringt er den harten Kern der Band mit, darunter die beiden Top-Soul-Sängerinnen Carolin Roth und Meredith Murray. Was das Publikum erwartet? 100 Prozent Black Music der Retro-Sorte.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Knackiger Soul-Funk, the best in town"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "Kunstpfeifer Sirus Madjderey",
    "type": "concert",
    "start": "2026-12-21T21:00",
@@ -1934,28 +1956,6 @@
    "dates": [],
    "tags": [
     "Swinging Christmas"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Ecco DiLorenzo and The Innersoul Six",
-   "type": "concert",
-   "start": "2026-12-22T16:30",
-   "end": "2026-12-22T18:00",
-   "url": "https://www.tollwood.de/veranstaltungen/2026/ecco-dilorenzo-and-the-innersoul-six-4/",
-   "venue": "Tollwood – Hexenkessel",
-   "address": "Theresienwiese, 80336 München",
-   "description": "Knackiger Soul-Funk, the best in town Ecco DiLorenzo, der unermüdliche “Godfather of Munich Soul”, hat sich mit seiner grossen 11-köpfigen Band “Innersoul” in Deutschland schon längst einen Namen gemacht. Ins Andechser Zelt bringt er den harten Kern der Band mit, darunter die beiden Top-Soul-Sängerinnen Carolin Roth und Meredith Murray. Was das Publikum erwartet? 100 Prozent Black Music der Retro-Sorte.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Knackiger Soul-Funk, the best in town"
    ],
    "source_id": "",
    "source_name": "",

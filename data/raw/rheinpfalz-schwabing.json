@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-10-23T08:43:20+00:00",
+ "scraped_at": "2026-10-24T08:17:45+00:00",
  "status": {
   "id": "rheinpfalz-schwabing",
   "name": "Rheinpfalz Schwabing",
   "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
   "kind": "venue",
   "status": "ok",
-  "found": 16
+  "found": 15
  },
  "events": [
-  {
-   "title": "Back To Zero",
-   "type": "concert",
-   "start": "2026-10-23T20:00",
-   "end": null,
-   "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
-   "venue": "Rheinpfalz Schwabing",
-   "address": "Kurfürstenstraße 35, 80801 München",
-   "description": "BACK TO ZERO ist eine Münchner Rock-, Blues- und Gefühlsband, erstmals 1985 am Start. Sie spielen: Blues, Rock, Oldies und Soul… from the Sixties till now … Schon 1985 fanden Sänger Axel und Bassist Oliver, in der damals gegründeten Formation BACK TO ZERO, zusammen. Mit einem Mix aus Eigenkompositionen von Axel und bekannten oder weniger bekannten Rock- und Blues-Nummern, begeisterten sie schon damals mit ihrem Programm in Münchner Musikkneipen und auf Privatfesten. Nach einer längeren Pause und Erfahrung in zahlreichen anderen Formationen fanden wir wieder zusammen, seit vielen Jahren wird die Band durch die beiden Ausnahmemusikern Robby (Gitarre) und Karsten (Drums) bereichert. Sie sind auch als „ Session- Band “ bekannt, da sie häufig mit Gastmusikern improvisieren, somit entstehen spannende Momente und viel Farbe bei den Auftritten. So spielen sie seit etlichen Jahren „die Blues- Sessions in Giesing“ unter der Leitung von Axel, der schon mal „Münchner Blues König“ genannt wird. Schön, dass die Jungs mit ihrer Blues-Session, jetzt auch in Schwabing, in der Rheinpfalz, aktiv sind. Axel Seifert (Sänger, Gitarre), Robby Goldzahn (Solo Gitarre), Oliver Braun (Bass) und Karsten Helmbold (Schlagzeug) werden wieder „alles geben“. Mia gfrein uns… Bitte an einen bluesigen Hut streicheln…. Eure Rheinpfalz",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "William’s Wetsox",
    "type": "concert",

@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-10-23T08:43:27+00:00",
+ "scraped_at": "2026-10-24T08:17:53+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 65
+  "found": 63
  },
  "events": [
-  {
-   "title": "MIRNA BOGDANOVIĆ GROUP",
-   "type": "concert",
-   "start": "2026-10-23T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11673",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Drei Jahre nach ihrem mit dem Deutschen Jazzpreis ausgezeichneten Album Awake meldet sich Mirna Bogdanović mit ihrem dritten Studioalbum Glimmerence zurück. Der Titel bezieht sich auf einen Zustand zwischen Liebe und Illusion – wenn sich etwas extrem real und schön anfühlt, aber gleichzeitig als ebenso zerbrechlich und flüchtig entpuppt. Ein Gefühlshybrid zwischen Sehnen und Warten, Bangen und Hoffen, Fremdbestimmung und Selbstermächtigung, Enttäuschung und Überwindung.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "CANSU ARAT & LUCAS BRUM",
    "type": "concert",
@@ -82,7 +62,9 @@
    "description": "Sold out. Manche Unterfahrt-Besucher sind vom letzten Auftritt der Kennedy Administration noch außer Atem – denn die Band um Sängerin Ms. Kennedy und Mastermind/ Keyboarder Ondré J. Pives legte damals mit einer Energie los, die sich kaum noch mit handelsüblichen Parametern messen lässt. Ein Orkan aus Soul, Funk, Jazz, Hip Hop und R & B fegte über die Bühne, gigantische Grooves rollten los und die Stimme von Frau Kennedy brachte manche Seele zum Beben. Jetzt stellt die Truppe aus Brooklyn ihr drittes Album Humanity vor.",
    "recurrence": null,
    "dates": [],
-   "tags": [],
+   "tags": [
+    "Highlight"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -164,7 +146,9 @@
    "description": "Sold out. Keine 30 Jahre alt und schon eine Art Legende im Wartestand. Dieser Immanuel Wilkins, da sind sich Kenner irgendwie alle einig, wird in nicht allzu ferner Zukunft zu den Säulenheiligen des Jazz zählen. Seine visionäre, spirituell durchdrungene Musik, in der Archaisches und diverse Traditionen sich mit Zukunftsklängen paaren, sein Forscherdrang, aber auch die unwirkliche Intensität seines Tuns und das charismatische Spiel des Altsaxofonisten haben wohl zu dieser Einschätzung geführt. Der zitiert jetzt bei uns aus seinen Alben Live At The Village Vanguard und Blues Blood.",
    "recurrence": null,
    "dates": [],
-   "tags": [],
+   "tags": [
+    "Highlight"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -372,7 +356,9 @@
    "description": "Sold out. Einer schrieb mal, Mark Lettieri würde Biss zum funky Bellen von Snarky Puppy hinzufügen. Keine Angst, der will doch nur spielen. Und wie das tut. Der Kalifornier ist eine Art Allzweckwaffe, überall einsetzbar, weil: fit in jedem Genre. Und zur Authentizität kommt bei ihm stets noch die eigene Note hinzu. Der Gitarrist, der als Teil der Kult-Truppe Snarky Puppy zu Weltruhm kam, ist ein Rhythmus-Ass, bringt tragende Melodien auf seinem Instrument zum Singen und wenn er Soli spielt, entfährt Vielen im Publikum nur ein Wow. Sein neuestes Album stellt die Frage Can I Tell You Something? Wir sagen: bitteschön!",
    "recurrence": null,
    "dates": [],
-   "tags": [],
+   "tags": [
+    "Highlight"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -434,7 +420,9 @@
    "description": "Debut prangt ganz lapidar auf dem Erstlingswerk des Gitarristen Alexander Rueß, das kürzlich in der Reihe Jazz thing Next Generation erschien. Doch die dazugehörige Musik ist weit fantasievoller als ihr Titel. Rueß versteht es, binnen weniger Takte Spannung aufzubauen und nutzt zur musikalischen Ausgestaltung eine Vielzahl an Sounds und stilistischen Mitteln. Mal tönt seine von der Ikone Frank Möbus produzierte Musik nach Americana, mal so, als sei sie in den einsamen Landschaften des hohen Nordens entstanden. Fans von Gitarristen wie Bill Frisell oder Julian Lage kommen mit der Ästhetik des Alexander Rueß voll auf ihre Kosten.",
    "recurrence": null,
    "dates": [],
-   "tags": [],
+   "tags": [
+    "Rising Star"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -742,26 +730,6 @@
    "venue": "Jazzclub Unterfahrt",
    "address": "Einsteinstraße 42, 81675 München",
    "description": "Unser Dasein ist kein Ponyhof. Es steckt voller Widrigkeiten und Probleme. Wohl denen, die trotzdem Das Beste daraus machen, Menschen wie Carolina Bubbico. Vocàlia, das neue (und vierte) Album der Sängerin und Percussionistin ist ein in vielen Sprachen verfasster Liebesbrief an das Leben und möchte zukünftigen Generationen Hoffnungen mitgeben. Und vielleicht gehen Besucher nach ihrem Konzert ja mit leichterem Herzen und reichlich Glücksgefühlen nach Hause.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "JEFF LORBER FUSION",
-   "type": "concert",
-   "start": "2026-11-28T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11709",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Lorbeer für Jeff Lorber. Die grüne Ehren-Umrankung seines Haupts hat sich der amerikanische Keyboarder über Jahrzehnte redlich verdient. Er gehört zu den Pionieren des Genres, das so heißt wie seine seit fast einem halben Jahrhundert bestehende Formation: Fusion. Diese elektrische, mit Funk und Rock durchsetzte Spielart des Jazz hat der Mann aus Philly konsequent weiterentwickelt und verfeinert. Angefangen hat der studierte Chemiker Jeff Lorber aus der Perspektive des Fans.",
    "recurrence": null,
    "dates": [],
    "tags": [],

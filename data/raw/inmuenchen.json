@@ -1,14 +1,140 @@
 {
- "scraped_at": "2026-10-23T08:46:16+00:00",
+ "scraped_at": "2026-10-24T08:20:46+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 162
+  "found": 164
  },
  "events": [
+  {
+   "title": "Al Jones Blues Band",
+   "type": "concert",
+   "start": "2026-12-26T20:30",
+   "end": "2026-12-26T22:30",
+   "url": "https://www.in-muenchen.de/events/al-jones-blues-band.html",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstr. 42, 81675 München",
+   "description": "Der Gitarrist und Sänger Al Jones präsentiert eine kraftvolle und leidenschaftliche Variante des Blues, die trotz ernster Texte aufbaut und belebt. Seine Musik kämpft mit Lebenslust und Energie gegen Niederlagen und Schattenseiten des Seins.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Blues"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Bobby Sparks II",
+   "type": "concert",
+   "start": "2026-11-11T20:30",
+   "end": "2026-11-11T22:30",
+   "url": "https://www.in-muenchen.de/events/bobby-sparks-ii.html",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstr. 42, 81675 München",
+   "description": "Bobby Sparks II vereint Jazz, Funk, Fusion, R&B, Soul, Gospel und Blues mit orchestraler Klassik. Sein neues Album ‚Paranoia‘ ist eine Funk-Oper voller Vertrauen und Überschwang. Mit Keith Anderson am Saxophon und Jay McK am Schlagzeug bietet die Show eine faszinierende Klangvielfalt.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Fusion"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Fables of Mingus",
+   "type": "concert",
+   "start": "2026-11-02T20:30",
+   "end": "2026-11-02T22:30",
+   "url": "https://www.in-muenchen.de/events/fables-of-mingus.html",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstr. 42, 81675 München",
+   "description": "Martin Zenker bringt mit seinem internationalen Ensemble das legendäre Jazzalbum von Charles Mingus auf die Bühne. Die Musik verbindet Blues und Gospel mit dem Zeitgeist der 60er Jahre und dem Spirit von heute. Als Gast tritt der griechische Trompeter Evangelos Menetsopoulos auf, und weitere Mingus-Stücke erklingen in neuen Arrangements.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Jazz"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Jakarta Blues Band",
+   "type": "concert",
+   "start": "2026-11-28T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/jakarta-blues-band.html",
+   "venue": "Rheinpfalz Schwabing",
+   "address": "Kurfürstenstraße 35, 80801 München",
+   "description": "Mit großer Spielfreude zelebrieren die Jungs aus dem Münchner Umland alle Facetten des Chicago Blues und widerlegen immer wieder aufs Neue, dass Blues nur für Melancholiker geeignet ist. Die sechs Musiker bieten perfekte handgemachte Musik. Sie leben jede Note, so dass die Kraft und Emotionalität dieser Musik regelmäßig auf die Zuhörer überspringen. Dabei ist kaum…",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Blue Traces",
+   "type": "concert",
+   "start": "2026-11-07T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/blue-traces.html",
+   "venue": "Rheinpfalz Schwabing",
+   "address": "Kurfürstenstraße 35, 80801 München",
+   "description": "Michi Dreschers unverkennbare Stimme prägt den Sound der Band: Eric Burdon, Joe Cocker und Tom Waits haben hier ihre „Spuren“ hinterlassen. Das gilt auch für den Rest der Band. Ihr ehrlicher und geradliniger Sound trägt den Gesang und begeistert durch mitreißende Spielfreude. Die fünf Musiker schaffen eine besondere Atmosphäre nach dem Motto „All that makes…",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Black Patti",
+   "type": "concert",
+   "start": "2026-12-11T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/black-patti-rheinpfalz.html",
+   "venue": "Rheinpfalz Schwabing",
+   "address": "Kurfürstenstraße 35, 80801 München",
+   "description": "Seit 2011 bilden der bereits mit dem Preis der deutschen Schallplattenkritik ausgezeichnete Gitarrist und Mundharmonikaspieler Peter Crow C. und sein Partner Ferdinand ‚Jelly Roll’ Kraemer, der neben Gesang und Gitarre auch an der Mandoline glänzt, das nach einem obskuren Plattenlabel benannte Duo Black Patti. Akustischer Pre-War-Blues, zu weiten Teilen auf beeindruckenden Eigenkompositionen fußend, brachte die…",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
   {
    "title": "Live im Lihotzky – mit Berhard Klier",
    "type": "concert",
@@ -572,28 +698,6 @@
    "dates": [],
    "tags": [
     "Pop"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Musikbote presents ‚The Poolcats‘",
-   "type": "concert",
-   "start": "2026-10-23T20:00",
-   "end": "2026-10-23T23:00",
-   "url": "https://www.in-muenchen.de/events/musikbote-presents-the-poolcats.html",
-   "venue": "Musik-Bote Dachau",
-   "address": "Konrad-Adenauer-Straße 19, 85221 Dachau",
-   "description": "Im Zentrum des Abends steht die energiegeladene Coverband The Poolcats. Mit Classic-Rock- und Blues-Rock-Hymnen sorgt die Band für eine unvergessliche Stimmung. Frontmann Barry Blitz, Leadgitarrist Willie McKinney, Bassist Michael Buttberg und Schlagzeuger Dan Hawpe liefern packende Versionen zeitloser Songs.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Classic Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -1768,28 +1872,6 @@
    "id": ""
   },
   {
-   "title": "Wasteland & Clemens Beisch",
-   "type": "concert",
-   "start": "2026-10-23T20:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/wasteland-clemens-beisch.html",
-   "venue": "Allacher Schießstätte",
-   "address": "Servetstr. 1, 80999 München",
-   "description": "WASTELAND präsentiert einen Classic Rock Mix aus eigenen Songs und legendären Covern von AC/DC, Led Zeppelin und ZZ Top. CLEMENS BEISCH interpretiert mit seiner Band die Musik von Rory Gallagher, energiegeladen und einfühlsam.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Rock"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "The Ukelites",
    "type": "concert",
    "start": "2027-03-11T20:00",
@@ -2211,7 +2293,7 @@
    "title": "Maffay & Oerding",
    "type": "concert",
    "start": "2027-04-21T20:00",
-   "end": null,
+   "end": "2027-04-21T23:00",
    "url": "https://www.in-muenchen.de/events/maffay-oerding.html",
    "venue": "Olympiapark München / Olympiahalle",
    "address": "Spiridon-Louis-Ring 21, 80809 München",
@@ -2714,8 +2796,8 @@
   {
    "title": "3. Wolfratshauser Blues Festival",
    "type": "concert",
-   "start": "2026-10-23T19:30",
-   "end": "2026-10-23T23:00",
+   "start": "2026-10-24T19:30",
+   "end": "2026-10-24T23:00",
    "url": "https://www.in-muenchen.de/events/3-wolfratshauser-blues-festival.html",
    "venue": "Ehemalige Disko Turm",
    "address": "Hans-Urmiller-Ring 54, 82515 Wolfratshausen",
@@ -2790,28 +2872,6 @@
    "dates": [],
    "tags": [
     "Blues"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Inninger Bluestage 2026: Manu Lanvin + Cecilya & The Candy Kings",
-   "type": "concert",
-   "start": "2026-10-23T19:30",
-   "end": "2026-10-23T23:00",
-   "url": "https://www.in-muenchen.de/events/manu-lanvin-cecilya-the-candy-kings.html",
-   "venue": "Alte Brauerei Stegen",
-   "address": "Landsberger Straße 57, 82266 Inning am Ammersee",
-   "description": "Im Zentrum des Abends stehen zwei außergewöhnliche Blues-Acts. Manu Lanvin präsentiert seine kraftvolle Stimme und energiegeladenen Auftritte. Cecilya & The Candy Kings entführen mit ihrem Retro-Cocktail aus Rhythm & Blues und modernen Twists in eine andere Zeit. Ein Abend voll authentischer, handgemachter Bluesmusik.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Bluesrock"
    ],
    "source_id": "",
    "source_name": "",
@@ -2910,7 +2970,7 @@
    "id": ""
   },
   {
-   "title": "Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich",
+   "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
    "type": "concert",
    "start": "2026-12-01T20:00",
    "end": null,
@@ -2998,29 +3058,7 @@
    "id": ""
   },
   {
-   "title": "Sophie von Kessel »Olympias Augen«",
-   "type": "concert",
-   "start": "2026-10-23T19:30",
-   "end": "2026-10-23T22:00",
-   "url": "https://www.in-muenchen.de/events/sophie-von-kessel-olympias-augen.html",
-   "venue": "Münchner Künstlerhaus",
-   "address": "Lenbachplatz 8, 80333 München",
-   "description": "Sophie von Kessel taucht mit Texten von Goethe, Hoffmann, Poe und Shelley in die Schauerromantik ein. Isabel Lhotzky am Klavier und Maria Friedrich am Cello schaffen eine mystische Atmosphäre.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Literaturlesung"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Bin I Kini?! – Der Prinzregenten-Blues",
+   "title": "Bin I Kini?! - Der Prinzregenten-Blues",
    "type": "concert",
    "start": "2026-11-17T20:00",
    "end": null,
@@ -3042,7 +3080,7 @@
    "id": ""
   },
   {
-   "title": "Martin Schmitt – Schmitt happens",
+   "title": "Martin Schmitt - Schmitt happens",
    "type": "concert",
    "start": "2026-11-26T20:00",
    "end": "2026-11-26T23:00",
@@ -3108,7 +3146,7 @@
    "id": ""
   },
   {
-   "title": "Da Huawa und I – Schokoladenseit’n",
+   "title": "Da Huawa und I - Schokoladenseit'n",
    "type": "concert",
    "start": "2026-11-20T20:00",
    "end": "2026-11-20T23:00",
@@ -3137,7 +3175,7 @@
    "url": "https://www.in-muenchen.de/events/the-official-blues-brothers-revue.html",
    "venue": "Prinzregententheater",
    "address": "Prinzregentenplatz 12, 81675 München",
-   "description": "Die offizielle Blues Brothers Revue präsentiert ein multimediales interaktives Erlebnis mit Klassikern wie Soul Man und Gimme Some Lovin. Unterstützt von der All-Star-Intercontinental Rhythm & Blues Band.",
+   "description": "Ein multimediales interaktives Erlebnis mit Kieron Lafferty (Elwood) & Wayne Catania (Jake), unterstützt von der All-Star-Intercontinental Rhythm & Blues Band. Klassiker wie „Soul Man“ und „Gimme Some Lovin“ feiern den Kult, den John Belushi & Dan Aykroyd erstmals 1978 entfachten.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -3286,8 +3324,8 @@
   {
    "title": "Inninger Bluestage 2026",
    "type": "concert",
-   "start": "2026-10-23T19:30",
-   "end": "2026-10-23T00:00",
+   "start": "2026-10-24T19:30",
+   "end": "2026-10-24T23:00",
    "url": "https://www.in-muenchen.de/events/inninger-bluestage-2026.html",
    "venue": "Groundlift Ammersee Live Studios",
    "address": "Landsberger Straße 57, 82266 Stegen/Inning am Ammersee",
@@ -3374,7 +3412,7 @@
   {
    "title": "Weiberwirtschaft",
    "type": "concert",
-   "start": "2026-10-23T20:00",
+   "start": "2026-10-24T20:00",
    "end": null,
    "url": "https://www.in-muenchen.de/events/weiberwirtschaft-iberl-buhne.html",
    "venue": "Iberl Bühne",
@@ -3528,8 +3566,8 @@
   {
    "title": "Midnightbazar Nachtflohmarkt",
    "type": "concert",
-   "start": "2026-10-23T17:00",
-   "end": "2026-10-23T23:00",
+   "start": "2026-10-30T17:00",
+   "end": "2026-10-30T00:00",
    "url": "https://www.in-muenchen.de/events/midnightbazar-nachtflohmarkt.html",
    "venue": "Alte Paketposthalle – Pineapple Park",
    "address": "Arnulfstraße 195, 80634 München",

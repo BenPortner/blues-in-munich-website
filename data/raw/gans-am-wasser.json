@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-10-23T08:43:34+00:00",
+ "scraped_at": "2026-10-24T08:17:59+00:00",
  "status": {
   "id": "gans-am-wasser",
   "name": "Café Gans am Wasser",
   "url": "https://www.gansamwasser.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 12
+  "found": 17
  },
  "events": [
   {
@@ -94,14 +94,36 @@
    "id": ""
   },
   {
-   "title": "HERBSTFEST",
+   "title": "Titus Waldenfels und Petra Lewis",
    "type": "concert",
-   "start": "2026-10-17T13:00",
-   "end": "2026-10-17T19:30",
-   "url": "https://www.gansamwasser.de/kulturprogramm/herbstfest/",
+   "start": "2026-11-08T14:00",
+   "end": "2026-11-08T16:00",
+   "url": "https://www.gansamwasser.de/kulturprogramm/programm-november/",
    "venue": "Café Gans am Wasser",
    "address": "Mollsee im Westpark, 81373 München",
-   "description": "Unser Herbstfest findet am Samstag 17. Oktober nachmittags mit Kinderprogramm und Livemusik statt. Das Abendprogramm wurde wetterbedingt leider abgesagt.",
+   "description": "Seit etlichen Jahren spielen Petra Lewi und Titus Waldenfels zusammen, auf Bühnen aller Art mit kleinem Aufwand und großer Wirkung. Eine Ansammlung an Instrumenten, deren Bedeutung während der Auftritte Stück für Stück enthüllt wird, und Songs und Instrumentals aller Art. Eigenes, Countryklassiker, deutschsprachige Gassenhauer, Experiment und Rock'n Roll. Die Kunst der Unterhaltung, immer ähnlich, aber nie gleich. Der Münchner Titus Waldenfels ist seit mehr als dreißig Jahren aktiv, bestreitet jährlich um die 250 Auftritte, hauptsächlich in Deutschland, aber auch Österreich, der Schweiz, Tschechien und sogar in den USA, bei jährlichen Aufenthalten in Texas. Titus Waldenfels wird häufig von wunderbaren Musiker:innen und Sänger:innen aller Art begleitet. Petra Lewi ist Kulturpreisträgerin aus Freising, die musikalische Drei-Minuten-Dramen kreiert mit Songs von Songs von Tom Waits, Nancy Sinatra, Loretta Lynn, Lana del Rey und anderen. Sie singt, spricht, begeitet sich selber auf der Ukulele und spielt virtuos Singende Säge. Webseite Titus Webseite Petra",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Livemusik"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Winterzauber",
+   "type": "concert",
+   "start": "2026-11-27",
+   "end": "2027-01-01",
+   "url": "https://www.gansamwasser.de/kulturprogramm/programm-november/",
+   "venue": "Café Gans am Wasser",
+   "address": "Mollsee im Westpark, 81373 München",
+   "description": "",
    "recurrence": null,
    "dates": [],
    "tags": [],
@@ -114,14 +136,80 @@
    "id": ""
   },
   {
-   "title": "Kinderprogramm",
+   "title": "Anna Luppi (Duo)",
    "type": "concert",
-   "start": "2026-10-17T14:00",
-   "end": "2026-10-17T17:00",
-   "url": "https://www.gansamwasser.de/kulturprogramm/herbstfest/",
+   "start": "2026-11-27T15:00",
+   "end": "2026-11-27T17:00",
+   "url": "https://www.gansamwasser.de/kulturprogramm/programm-november/",
    "venue": "Café Gans am Wasser",
    "address": "Mollsee im Westpark, 81373 München",
-   "description": "Kinderschminken 14:00 - 17:00 Uhr Die Kinder können sich in Superheld*innen und Fabelwesen verwandeln, oder für einen Tag ihr Lieblingstier sein. Auf jeden Fall wird es bunt und glitzernd und sommerlich. Kids-make-up macht Freude - sich zu verwandeln sorgt bei den Kleinen immer für gute Laune! Stockbrot am Lagerfeuer 15:00 - 17:00 Uhr ➜ kann je nach Wetter etwas abweichen Auch im Herbst laden wieder zu einem gemütlichen Lagerfeuer-Kreis am Wasser für Groß und Klein ein, an welchem ihr der Livemusik und dem Feuerknistern lauschen und euch euer eigenes Stockbrot backen könnt. Kinderkonzert: Tim Mohr für´s Kinderohr Das Konzert wurde verschoben in den Advent.",
+   "description": "Anna Luppi is an Italian award-winning singer, songwriter and flutist: her new 2022 single “All we got” feature Paul Istance, bandleader of The Magic Mumble Jumble, on of the best emerging folk-pop european bands. During her career, she played in Europe and United States, she won prestigious awards, like the Targa Tenco Award, the X Premio per la Canzone d'Autore Emergente, and the Web Prize “Voci Per la Libertà by Amnesty International”, and she was selected by SIAE Italia as one of the best Italian under-35 musical projects through the Sillumina call. Her videoclip single “Feministas con Tacones” became viral in Spain with more than 220k views. With Massimo Minotti on guitar, Anna will sing original songs and italian music evergreens: a screen and some mics will be available for the people who will want to join the duo in a super Karaoke! Webseite",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Livemusik"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Natalie & John",
+   "type": "concert",
+   "start": "2026-11-28T15:00",
+   "end": "2026-11-28T17:00",
+   "url": "https://www.gansamwasser.de/kulturprogramm/programm-november/",
+   "venue": "Café Gans am Wasser",
+   "address": "Mollsee im Westpark, 81373 München",
+   "description": "Träumerisch, humorvoll, wehmütig: Das Jazz-Duo Natalie und John interpretiert Standards ebenso wie in Vergessenheit geratene Schätze der letzten 100 Jahre. Natalie Schmids Hintergrund ist klassisch, ihr Zugang zu den Songs literarisch. Mit John Brunton hat sie einen der feinsinnigsten Gitarristen der Münchner Jazzszene an ihrer Seite.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Livemusik"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Welebeat",
+   "type": "concert",
+   "start": "2026-11-28T17:30",
+   "end": "2026-11-28T19:30",
+   "url": "https://www.gansamwasser.de/kulturprogramm/programm-november/",
+   "venue": "Café Gans am Wasser",
+   "address": "Mollsee im Westpark, 81373 München",
+   "description": "Welebeat bringt authentischen Country Rock, Rock- und Blues-Klassiker live auf die Bühne! Mit viel Leidenschaft, groovigen Rhythmen und jeder Menge Spielfreude sorgt die Band für gute Stimmung und einen musikalischen Abend voller Energie. Ob bekannte Klassiker oder echte Country-Vibes – Welebeat steht für handgemachte Live-Musik! Webseite Instagram",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Livemusik"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kindertheater: Vorhang auf für Hänsel und Gretel!",
+   "type": "concert",
+   "start": "2026-11-29T11:00",
+   "end": "2026-11-29T12:00",
+   "url": "https://www.gansamwasser.de/kulturprogramm/programm-november/",
+   "venue": "Café Gans am Wasser",
+   "address": "Mollsee im Westpark, 81373 München",
+   "description": "Kommt mit auf eine zauberhafte Reise in den geheimnisvollen Wald! Dort warten zwei mutige Kinder, ein verlockendes Knusperhäuschen, eine schlaue Hexe und natürlich ein glückliches Ende. Mit viel Herz, Witz und Fantasie erzählt Frau Rettich das weltberühmte Märchen „Hänsel und Gretel“ auf ganz besondere Weise. Sie schlüpft in die unterschiedlichsten Rollen und lässt die Geschichte mit ihrer lebendigen Spielweise vor den Augen der Kinder entstehen. Das Besondere an dieser Inszenierung: Aus einfachen Alltagsgegenständen werden plötzlich lebendige Märchenfiguren. Küchenbürsten, Schneebesen, Kartoffelstampfer oder Schere verwandeln sich wie durch Zauberhand in Hänsel, Gretel, die Hexe und viele andere Figuren. So erleben die Kinder, dass Fantasie überall steckt – man muss sie nur entdecken. Mit ihrer warmen, ausdrucksvollen Stimme lässt Frau Rettich die schönsten Lieder und Melodien aus Engelbert Humperdincks Oper „Hänsel und Gretel“ erklingen. So erleben die Kinder ganz nebenbei, wie berührend und lebendig klassische Musik sein kann. Erzählen, Spielen und Singen verbinden sich zu einem einzigartigen Theatererlebnis, das kleine und große Zuschauer gleichermaßen begeistert. Werden Hänsel und Gretel den Weg nach Hause finden? Was erwartet sie im Knusperhäuschen? Gemeinsam mit den Kindern erleben Sie Spannung, Freude und Erleichterung bis zum glücklichen Ende. Mit Musik von Engelbert Humperdinck. Webseite",
    "recurrence": null,
    "dates": [],
    "tags": [],
@@ -134,14 +222,36 @@
    "id": ""
   },
   {
-   "title": "Adrenalines",
+   "title": "Jasmin Gundermann & Fabricio Cavalcante",
    "type": "concert",
-   "start": "2026-10-17T14:00",
-   "end": "2026-10-17T16:00",
-   "url": "https://www.gansamwasser.de/kulturprogramm/herbstfest/",
+   "start": "2026-11-29T13:00",
+   "end": "2026-11-29T14:30",
+   "url": "https://www.gansamwasser.de/kulturprogramm/programm-november/",
    "venue": "Café Gans am Wasser",
    "address": "Mollsee im Westpark, 81373 München",
-   "description": "Die ADRENALINES sind seit 2020 in ganz Süddeutschland unterwegs, haben eine Vielzahl von umjubelten Gigs in Clubs, Kneipen und auf Stadtfesten gespielt und konnten sich dadurch eine solide Fanbase erarbeiten. Mit neuem Repertoire aus Blues-Rock-Soul und dabei vielen tanzbaren Songs, sorgen die ADRENALINES richtig für Partystimmung! Alle Songs werden mit viel Emotion und Leidenschaft zelebriert, dabei immer präsent sind Spielfreude, der ansteckende Groove, das brillante Wechselspiel zwischen Gitarre und Keyboards sowie der unverwechselbare Sound der Band. Die ausdrucksstarken Lead-Vocals und der Harmoniegesang werden durch die Sängerin Patricia, die viele Jahre als professionelle Musical-Sängerin unterwegs war, auf ein neues Level gehoben. Mit diesen überzeugenden Zutaten bringen die ADRENALINES den Saal auch an kühlen Tagen zum Kochen! Besetzung: Patricia Gressley – Lead- & Backing Vocals Jochen Reininger – Guitar & Vocals Toni Santilli – Keyboards & Vocals Richard Schuhbauer – Bass Martin Gassner – Drums, Lead- & Backing Vocals Webseite Instagram",
+   "description": "Stilvoll, virtuos, leidenschaftlich oder zart... Jasmin Gundermann (Saxofon, Querflöte) und Fabricio Cavalcante (Gitarre, Gesang) spielen ein buntes, hauptsächlich instrumentales Programm aus lateinamerikanischer Musik, Jazzstandards, Pop-und Soulklassikern, klassischer Musik und Weltmusik. Kommt und lasst euch verzaubern!",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Livemusik"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Cat Junction",
+   "type": "concert",
+   "start": "2026-11-29T15:00",
+   "end": "2026-11-29T17:00",
+   "url": "https://www.gansamwasser.de/kulturprogramm/programm-november/",
+   "venue": "Café Gans am Wasser",
+   "address": "Mollsee im Westpark, 81373 München",
+   "description": "Die Soul-, Rock- und Funkband begeistert mit abwechslungsreichen, mitreißenden Songs von Künstlern wie Vulfpeck, Cory Wong, Michael Jackson, Steely Dan, Supertramp, Billy Joel, The Fearless Flyers und den Beatles – und vielen mehr. Mit einem umfangreichen Bläsersatz aus Tenor-, Alt- und Baritonsaxofon sowie Posaune präsentiert Cat Junction einen präzisen, druckvollen Sound. Sämtliche Arrangements stammen von den Bandgründern Seán Clonan und Oğuz Can Köseoğlu. Instagram",
    "recurrence": null,
    "dates": [],
    "tags": [

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T08:46:16+00:00",
+  "generated_at": "2026-10-24T08:20:46+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -2118,6 +2118,28 @@
       "id": "79117f226e9d"
     },
     {
+      "title": "3. Wolfratshauser Blues Festival",
+      "type": "concert",
+      "start": "2026-10-24T19:30",
+      "end": "2026-10-24T23:00",
+      "url": "https://www.in-muenchen.de/events/3-wolfratshauser-blues-festival.html",
+      "venue": "Ehemalige Disko Turm",
+      "address": "Hans-Urmiller-Ring 54, 82515 Wolfratshausen",
+      "description": "Mehrere Blues-Bands sorgen über zwei Tage für coole Grooves und beste Musik. Das Vollmer Organ Trio verbindet Blues, Jazz, Funk und Gospel zu einem modernen Sound voller Groove. Auch Connor Selby, bekannt von Dire Straits und The Who, präsentiert seine Musik.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "545ea022d36a"
+    },
+    {
       "title": "Inninger Bluestage 2026: Young Fast Running Man + Sir Oliver Mally & Peter Schneider",
       "type": "concert",
       "start": "2026-10-24T19:30",
@@ -2720,10 +2742,6 @@
         {
           "name": "Anni und Hans",
           "url": "https://www.last.fm/music/Anni+und+Hans"
-        },
-        {
-          "name": "Blues & Jazz",
-          "url": "https://www.last.fm/music/Blues+&+Jazz"
         }
       ],
       "known_artists": [],
@@ -2850,7 +2868,7 @@
       "id": "ff05effc904f"
     },
     {
-      "title": "Bin I Kini?! – Der Prinzregenten-Blues",
+      "title": "Bin I Kini?! - Der Prinzregenten-Blues",
       "type": "concert",
       "start": "2026-11-17T20:00",
       "end": null,
@@ -3186,7 +3204,7 @@
       "url": "https://www.in-muenchen.de/events/the-official-blues-brothers-revue.html",
       "venue": "Prinzregententheater",
       "address": "Prinzregentenplatz 12, 81675 München",
-      "description": "Die offizielle Blues Brothers Revue präsentiert ein multimediales interaktives Erlebnis mit Klassikern wie Soul Man und Gimme Some Lovin. Unterstützt von der All-Star-Intercontinental Rhythm & Blues Band.",
+      "description": "Ein multimediales interaktives Erlebnis mit Kieron Lafferty (Elwood) & Wayne Catania (Jake), unterstützt von der All-Star-Intercontinental Rhythm & Blues Band. Klassiker wie „Soul Man“ und „Gimme Some Lovin“ feiern den Kult, den John Belushi & Dan Aykroyd erstmals 1978 entfachten.",
       "recurrence": null,
       "dates": [],
       "tags": [
@@ -3260,6 +3278,33 @@
       "id": "c1147d2ff7a1"
     },
     {
+      "title": "Johnny & The Yooahoos",
+      "type": "concert",
+      "start": "2026-11-27T16:00",
+      "end": "2026-11-27T18:00",
+      "url": "https://www.tollwood.de/veranstaltungen/2026/johnny-the-yooahoos/",
+      "venue": "Tollwood – Hexenkessel",
+      "address": "Theresienwiese, 80336 München",
+      "description": "Folk & Bluegrass",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Folk & Bluegrass"
+      ],
+      "source_id": "tollwood",
+      "source_name": "Tollwood",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Johnny & the Yooahoos",
+          "url": "https://www.last.fm/music/Johnny+%26+the+Yooahoos"
+        }
+      ],
+      "known_artists": [],
+      "id": "858ed4412cb8"
+    },
+    {
       "title": "Heels & Bones",
       "type": "concert",
       "start": "2026-11-27T19:30",
@@ -3280,6 +3325,28 @@
       "artists": [],
       "known_artists": [],
       "id": "498f6365f37d"
+    },
+    {
+      "title": "Welebeat",
+      "type": "concert",
+      "start": "2026-11-28T17:30",
+      "end": "2026-11-28T19:30",
+      "url": "https://www.gansamwasser.de/kulturprogramm/programm-november/",
+      "venue": "Café Gans am Wasser",
+      "address": "Mollsee im Westpark, 81373 München",
+      "description": "Welebeat bringt authentischen Country Rock, Rock- und Blues-Klassiker live auf die Bühne! Mit viel Leidenschaft, groovigen Rhythmen und jeder Menge Spielfreude sorgt die Band für gute Stimmung und einen musikalischen Abend voller Energie. Ob bekannte Klassiker oder echte Country-Vibes – Welebeat steht für handgemachte Live-Musik! Webseite Instagram",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Livemusik"
+      ],
+      "source_id": "gans-am-wasser",
+      "source_name": "Café Gans am Wasser",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "425e68ac0733"
     },
     {
       "title": "Jakarta Blues Band",
@@ -3334,7 +3401,7 @@
       "id": "127efe9843d6"
     },
     {
-      "title": "Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich",
+      "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
       "type": "concert",
       "start": "2026-12-01T20:00",
       "end": null,
@@ -3734,6 +3801,33 @@
       "id": "64fcbc3ac2b0"
     },
     {
+      "title": "Axel Zwingenberger",
+      "type": "concert",
+      "start": "2026-12-20T19:30",
+      "end": "2026-12-20T23:00",
+      "url": "https://www.in-muenchen.de/events/axel-zwingenberger-lustspielhaus.html",
+      "venue": "Lustspielhaus",
+      "address": "Occamstr. 8, 80802 München",
+      "description": "Auf der Bühne steht ein Mann am Klavier und verzaubert das Publikum mit Boogie-Woogie. Rollende Bässe und sehnsuchtsvolle Bluesklänge evozieren Erinnerungen. Axel Zwingenberger begeistert seit fast 50 Jahren Fans weltweit mit seiner Hingabe zu Blues und Boogie.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Boogie-Woogie"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Axel Zwingenberger",
+          "url": "https://www.last.fm/music/Axel+Zwingenberger"
+        }
+      ],
+      "known_artists": [],
+      "id": "87948ef2c27b"
+    },
+    {
       "title": "Muddy What?",
       "type": "concert",
       "start": "2026-12-22T19:30",
@@ -3858,6 +3952,33 @@
       ],
       "known_artists": [],
       "id": "904656d24c18"
+    },
+    {
+      "title": "Ludwig Seuss & Band",
+      "type": "concert",
+      "start": "2027-01-09T20:00",
+      "end": "2027-01-09T23:00",
+      "url": "https://www.in-muenchen.de/events/ludwig-seuss-band.html",
+      "venue": "Lustspielhaus",
+      "address": "Occamstr. 8, 80802 München",
+      "description": "Eine Mischung aus Funky Boogaloos und Mellow Slow Drags bildet den musikalischen Rahmen des Abends. Die Band um Ludwig Seuss präsentiert eine facettenreiche Performance, die Stile und Stimmungen nahtlos verbindet.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Funk"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Ludwig Seuss Band",
+          "url": "https://www.last.fm/music/Ludwig+Seuss+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "0cc75a5b208a"
     },
     {
       "title": "Blues 2 mit Clara",
@@ -4338,6 +4459,37 @@
       "id": "e9d1b0b9f4ea"
     },
     {
+      "title": "Rad Gumbo & Günter Grünwald",
+      "type": "concert",
+      "start": "2027-03-05T20:00",
+      "end": "2027-03-05T22:30",
+      "url": "https://www.in-muenchen.de/events/rad-gumbo-gunter-grunwald.html",
+      "venue": "Spektakel im Postsaal Schäftlarn",
+      "address": "Wolfratshauser Straße 45, 82067 Schäftlarn",
+      "description": "Bayerisches Kabarett und Southern Blues verschmelzen zu einem unterhaltsamen Abend. Mit bayerischem Humor und groovigem Blues-Rock erzeugen Günter Grünwald und RAD GUMBO einen musikalisch-komödiantischen Cocktail. Grünwald an der Sologitarre, gefolgt von Kabaretteinlagen, schafft eine überraschende und kurzweilige Atmosphäre.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Kabarett"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Rad Gumbo",
+          "url": "https://www.last.fm/music/Rad+Gumbo"
+        },
+        {
+          "name": "Günter Grünwald",
+          "url": "https://www.last.fm/music/G%C3%BCnter+Gr%C3%BCnwald"
+        }
+      ],
+      "known_artists": [],
+      "id": "7195272235ac"
+    },
+    {
       "title": "Norman Beaker Trio (UK, IT)",
       "type": "concert",
       "start": "2027-03-05T20:15",
@@ -4415,6 +4567,37 @@
         "Blues Pills"
       ],
       "id": "8b0fe5e4c983"
+    },
+    {
+      "title": "Günter Grünwald & Rad Gumbo",
+      "type": "concert",
+      "start": "2027-03-21T19:30",
+      "end": "2027-03-21T23:00",
+      "url": "https://www.in-muenchen.de/events/gunter-grunwald-rad-gumbo.html",
+      "venue": "Lustspielhaus",
+      "address": "Occamstr. 8, 80802 München",
+      "description": "Bayerisches Kabarett und Southern Blues verschmelzen in einem Programm, das Humor und Musik vereint. Gezeigt werden Comedy und Songs, die Traditionen und Kulturen vereinen.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Kabarett"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Günter Grünwald",
+          "url": "https://www.last.fm/music/G%C3%BCnter+Gr%C3%BCnwald"
+        },
+        {
+          "name": "Rad Gumbo",
+          "url": "https://www.last.fm/music/Rad+Gumbo"
+        }
+      ],
+      "known_artists": [],
+      "id": "0379893f5324"
     },
     {
       "title": "Devon Allman Blues Summit feat. Jimmy Hall, Claudette King, Bernard Allison",
@@ -4531,6 +4714,31 @@
       "artists": [],
       "known_artists": [],
       "id": "338c64ebae1c"
+    },
+    {
+      "title": "Sari Schorr (USA)",
+      "type": "concert",
+      "start": "2027-04-09T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=6815ffb2333d886064f457e15d409bda",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "+++INFOS FOLGEN+++",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Sari Schorr",
+          "url": "https://www.last.fm/music/Sari+Schorr"
+        }
+      ],
+      "known_artists": [],
+      "id": "03c5839afbdb"
     },
     {
       "title": "Stephan Zinner – Großstadtblues",
@@ -4689,6 +4897,31 @@
       "id": "1ccbf127a0ff"
     },
     {
+      "title": "Munich Rhythm and Blues Band",
+      "type": "concert",
+      "start": "2027-06-05T19:30",
+      "end": null,
+      "url": "https://stragula.de/events.html#:~:text=Munich%20Rhythm%20and%20Blues%20Band",
+      "venue": "Stragula",
+      "address": "Bergmannstr. 66, 80339 München",
+      "description": "Die Munich Rhythm and Blues Band begeistert mit einer Mischung aus Funk, Soul, Pop; Rock und R&B Musik. Wir präsentieren viele Musikstile wie Rhythm and Blues, Funk, Soul, Blues von Aretha Franklin über Blues Brothers bis Johnny Cash. Unser Repertoire beinhaltet Stücke wie Sweet Home Chicago, Mustang Sally, Ring of Fire, Summertime aber auch modernere Stücke wie Haunted Heart von Christina Aguilera. Unsere Bandmitglieder haben sich durch jahrelange Liveerfahrungen auch in anderen Bands zu Spitzenmusikern gesteigert. · Eintritt: Frei (Hutspende)",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "stragula",
+      "source_name": "Stragula",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Blues Band",
+          "url": "https://www.last.fm/music/+noredirect/Blues+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "dabed20b6d51"
+    },
+    {
       "title": "Joe Bonamassa",
       "type": "concert",
       "start": "2027-07-12T19:00",
@@ -4844,7 +5077,7 @@
       "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "kind": "venue",
       "status": "ok",
-      "found": 16,
+      "found": 15,
       "kept": 7
     },
     {
@@ -4862,7 +5095,7 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 65,
+      "found": 63,
       "kept": 1
     },
     {
@@ -4880,8 +5113,8 @@
       "url": "https://www.gansamwasser.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 12,
-      "kept": 1
+      "found": 17,
+      "kept": 2
     },
     {
       "id": "village-habach",
@@ -4890,7 +5123,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 49,
-      "kept": 25
+      "kept": 26
     },
     {
       "id": "tollwood",
@@ -4899,7 +5132,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 101,
-      "kept": 7
+      "kept": 8
     },
     {
       "id": "stragula",
@@ -4908,7 +5141,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 27,
-      "kept": 2
+      "kept": 3
     },
     {
       "id": "swinginmunich",
@@ -4925,8 +5158,8 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 162,
-      "kept": 53
+      "found": 164,
+      "kept": 58
     },
     {
       "id": "ticketmaster",

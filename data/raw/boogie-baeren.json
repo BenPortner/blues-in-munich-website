@@ -1,58 +1,14 @@
 {
- "scraped_at": "2026-10-24T08:17:18+00:00",
+ "scraped_at": "2026-10-25T08:35:16+00:00",
  "status": {
   "id": "boogie-baeren",
   "name": "Boogie-Bären München",
   "url": "https://www.boogie-baeren.de/",
   "kind": "school",
   "status": "ok",
-  "found": 74
+  "found": 110
  },
  "events": [
-  {
-   "title": "HUI Tag 10.26",
-   "type": "social",
-   "start": "2026-10-24",
-   "end": null,
-   "url": "https://www.boogie-baeren.de/eventleser/hui-tag-oktober-2026",
-   "venue": "Boogie-Bären Vereinsheim",
-   "address": "Gneisenaustraße 16, 80992 München",
-   "description": "Haus- und Inventar Tag",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Vereinsheim"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "West Coast Swing Party",
-   "type": "social",
-   "start": "2026-10-24",
-   "end": null,
-   "url": "https://www.boogie-baeren.de/eventleser/wcs-party-24102026",
-   "venue": "Boogie-Bären Vereinsheim",
-   "address": "Gneisenaustraße 16, 80992 München",
-   "description": "West Coast Swing Party von der Community für die Community - powered by Boogie-Bären",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Übungsabend"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Berry Bounce - Swing Brunch Herbstgefühle",
    "type": "social",
@@ -748,6 +704,1129 @@
    "dates": [],
    "tags": [
     "Übungsabend"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie Passion",
+   "type": "class",
+   "start": "2026-11-02T18:00",
+   "end": "2026-11-02T20:30",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Erdgeschoss klein)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Rita. Ab 18:00 Uhr Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Mondays 18:00–20:30",
+   "dates": [
+    "2026-11-02",
+    "2026-11-09",
+    "2026-11-16",
+    "2026-11-30",
+    "2026-12-07",
+    "2026-12-14"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie-Woogie Turnier",
+   "type": "class",
+   "start": "2026-11-02T19:00",
+   "end": "2026-11-02T22:15",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Erdgeschoss groß)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Patrick. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Mondays 19:00–22:15",
+   "dates": [
+    "2026-11-02",
+    "2026-11-09",
+    "2026-11-16",
+    "2026-11-30",
+    "2026-12-07",
+    "2026-12-14"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie-Woogie Level 1+ · mit Vorkenntnissen",
+   "type": "class",
+   "start": "2026-11-02T19:00",
+   "end": "2026-11-02T20:30",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Gerda & Wolfgang. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Mondays 19:00–20:30",
+   "dates": [
+    "2026-11-02",
+    "2026-11-09",
+    "2026-11-16",
+    "2026-11-30",
+    "2026-12-07",
+    "2026-12-14"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie-Woogie Level 4 · 4-Count & 8-Count",
+   "type": "class",
+   "start": "2026-11-02T19:00",
+   "end": "2026-11-02T20:30",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Untergeschoss)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Carina & Dieter. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Mondays 19:00–20:30",
+   "dates": [
+    "2026-11-02",
+    "2026-11-09",
+    "2026-11-16",
+    "2026-11-30",
+    "2026-12-07",
+    "2026-12-14"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Choreotraining Weihnachtsfeier",
+   "type": "class",
+   "start": "2026-11-02T20:45",
+   "end": "2026-11-02T22:15",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Petra. Ladies Weihnachts-Choreo Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Mondays 20:45–22:15",
+   "dates": [
+    "2026-11-02",
+    "2026-11-09",
+    "2026-11-16",
+    "2026-11-30",
+    "2026-12-07",
+    "2026-12-14"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie-Woogie Level 2 · Lead & Follow",
+   "type": "class",
+   "start": "2026-11-02T20:45",
+   "end": "2026-11-02T22:15",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Untergeschoss)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Carina & Dieter. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Mondays 20:45–22:15",
+   "dates": [
+    "2026-11-02",
+    "2026-11-09",
+    "2026-11-16",
+    "2026-11-30",
+    "2026-12-07",
+    "2026-12-14"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Choreotraining Weihnachtsfeier",
+   "type": "class",
+   "start": "2026-11-03T17:15",
+   "end": "2026-11-03T18:45",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Erdgeschoss groß)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Natalie G. & Dominik L.. 18:00 - 19:00 nur für Tänzer:innen der SOTS Routine Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Tuesdays 17:15–18:45",
+   "dates": [
+    "2026-11-03",
+    "2026-11-10",
+    "2026-11-17",
+    "2026-11-24",
+    "2026-12-01",
+    "2026-12-08",
+    "2026-12-15"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop Ab Level 4",
+   "type": "class",
+   "start": "2026-11-03T19:00",
+   "end": "2026-11-03T20:30",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Erdgeschoss groß)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Chiara & Francesco. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Tuesdays 19:00–20:30",
+   "dates": [
+    "2026-11-03",
+    "2026-11-10",
+    "2026-11-17",
+    "2026-11-24",
+    "2026-12-01",
+    "2026-12-08",
+    "2026-12-15"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Shag Ab Level 2",
+   "type": "class",
+   "start": "2026-11-03T19:00",
+   "end": "2026-11-03T20:30",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Jens. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Tuesdays 19:00–20:30",
+   "dates": [
+    "2026-11-03",
+    "2026-11-10",
+    "2026-11-17",
+    "2026-11-24",
+    "2026-12-01",
+    "2026-12-08",
+    "2026-12-15"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Shag Level 1",
+   "type": "class",
+   "start": "2026-11-03T19:00",
+   "end": "2026-11-03T20:30",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Erdgeschoss klein)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Marion & Peter R.. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Tuesdays 19:00–20:30",
+   "dates": [
+    "2026-11-03",
+    "2026-11-10",
+    "2026-11-17",
+    "2026-11-24",
+    "2026-12-01",
+    "2026-12-08",
+    "2026-12-15"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop Ab Level 1 · Groove",
+   "type": "class",
+   "start": "2026-11-03T19:00",
+   "end": "2026-11-03T20:30",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Untergeschoss)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Caroline & Philipp. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Tuesdays 19:00–20:30",
+   "dates": [
+    "2026-11-03",
+    "2026-11-10",
+    "2026-11-17",
+    "2026-11-24",
+    "2026-12-01",
+    "2026-12-08",
+    "2026-12-15"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Soft Shoe Tap",
+   "type": "class",
+   "start": "2026-11-03T20:45",
+   "end": "2026-11-03T22:15",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Erdgeschoss groß)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Dominik L.. Bitte keine Steppschuhe, aber richtige Tanzschuhe mit Holzsohle! Keine Vorkenntnisse erwartet. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Tuesdays 20:45–22:15",
+   "dates": [
+    "2026-11-03",
+    "2026-11-10",
+    "2026-11-17",
+    "2026-11-24",
+    "2026-12-01",
+    "2026-12-08",
+    "2026-12-15"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Blues Open Level",
+   "type": "class",
+   "start": "2026-11-03T20:45",
+   "end": "2026-11-03T22:15",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: verschiedene. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Tuesdays 20:45–22:15",
+   "dates": [
+    "2026-11-03",
+    "2026-11-10",
+    "2026-11-17",
+    "2026-11-24",
+    "2026-12-01",
+    "2026-12-08",
+    "2026-12-15"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Shag Freies Training",
+   "type": "class",
+   "start": "2026-11-03T20:45",
+   "end": "2026-11-03T22:15",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Erdgeschoss klein)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "ungeführt Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Tuesdays 20:45–22:15",
+   "dates": [
+    "2026-11-03",
+    "2026-11-10",
+    "2026-11-17",
+    "2026-11-24",
+    "2026-12-01",
+    "2026-12-08",
+    "2026-12-15"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop Level 2 + 3",
+   "type": "class",
+   "start": "2026-11-03T20:45",
+   "end": "2026-11-03T22:15",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Untergeschoss)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Chiara & Francesco. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Tuesdays 20:45–22:15",
+   "dates": [
+    "2026-11-03",
+    "2026-11-10",
+    "2026-11-17",
+    "2026-11-24",
+    "2026-12-01",
+    "2026-12-08",
+    "2026-12-15"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "(Groß-) Eltern-Kind-Training",
+   "type": "class",
+   "start": "2026-11-04T17:15",
+   "end": "2026-11-04T18:45",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Erdgeschoss groß)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Richy. für Kinder bis 6 Jahre (Ende gegen 18 Uhr) Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Wednesdays 17:15–18:45",
+   "dates": [
+    "2026-11-04",
+    "2026-11-11",
+    "2026-11-25",
+    "2026-12-02",
+    "2026-12-09",
+    "2026-12-16"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie-Woogie Turnier",
+   "type": "class",
+   "start": "2026-11-04T17:15",
+   "end": "2026-11-04T18:45",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Untergeschoss)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Ralph. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Wednesdays 17:15–18:45",
+   "dates": [
+    "2026-11-04",
+    "2026-11-11",
+    "2026-11-25",
+    "2026-12-02",
+    "2026-12-09",
+    "2026-12-16"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Balboa Level 3 · Spezial 3 (invitational)",
+   "type": "class",
+   "start": "2026-11-04T19:00",
+   "end": "2026-11-04T20:30",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Erdgeschoss groß)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Amey & Andrew. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Wednesdays 19:00–20:30",
+   "dates": [
+    "2026-11-04",
+    "2026-11-11",
+    "2026-11-25",
+    "2026-12-02",
+    "2026-12-09",
+    "2026-12-16"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Balboa Level 3",
+   "type": "class",
+   "start": "2026-11-04T19:00",
+   "end": "2026-11-04T20:30",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Claudia R. & Markus. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Wednesdays 19:00–20:30",
+   "dates": [
+    "2026-11-04",
+    "2026-11-11",
+    "2026-11-25",
+    "2026-12-02",
+    "2026-12-09",
+    "2026-12-16"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Jugend Ab Level 3 · Boogie-Woogie Twens",
+   "type": "class",
+   "start": "2026-11-04T19:00",
+   "end": "2026-11-04T20:30",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Erdgeschoss klein)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Alina & Ralph. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Wednesdays 19:00–20:30",
+   "dates": [
+    "2026-11-04",
+    "2026-11-11",
+    "2026-11-25",
+    "2026-12-02",
+    "2026-12-09",
+    "2026-12-16"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Jugend Level 2 · Boogie-Woogie Twens",
+   "type": "class",
+   "start": "2026-11-04T19:00",
+   "end": "2026-11-04T20:30",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Untergeschoss)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Dani & Flo. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Wednesdays 19:00–20:30",
+   "dates": [
+    "2026-11-04",
+    "2026-11-11",
+    "2026-11-25",
+    "2026-12-02",
+    "2026-12-09",
+    "2026-12-16"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Jugend Level 1 · Boogie-Woogie Twens",
+   "type": "class",
+   "start": "2026-11-04T19:00",
+   "end": "2026-11-04T20:30",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Untergeschoss klein)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Annika & Andreas. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Wednesdays 19:00–20:30",
+   "dates": [
+    "2026-11-04",
+    "2026-11-11",
+    "2026-11-25",
+    "2026-12-02",
+    "2026-12-09",
+    "2026-12-16"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Balboa Ab Level 1 · Guided Practice - with different teachers",
+   "type": "class",
+   "start": "2026-11-04T20:45",
+   "end": "2026-11-04T22:15",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Erdgeschoss groß)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Wednesdays 20:45–22:15",
+   "dates": [
+    "2026-11-04",
+    "2026-11-11",
+    "2026-11-25",
+    "2026-12-02",
+    "2026-12-09",
+    "2026-12-16"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Balboa Level 2",
+   "type": "class",
+   "start": "2026-11-04T20:45",
+   "end": "2026-11-04T22:15",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Dunja & Thomas M.. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Wednesdays 20:45–22:15",
+   "dates": [
+    "2026-11-04",
+    "2026-11-11",
+    "2026-11-25",
+    "2026-12-02",
+    "2026-12-09",
+    "2026-12-16"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie Passion",
+   "type": "class",
+   "start": "2026-11-05T17:15",
+   "end": "2026-11-05T18:45",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Erdgeschoss groß)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Rita. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Thursdays 17:15–18:45",
+   "dates": [
+    "2026-11-05",
+    "2026-11-12",
+    "2026-11-19",
+    "2026-11-26",
+    "2026-12-03",
+    "2026-12-10",
+    "2026-12-17"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "West Coast Swing Level 1+",
+   "type": "class",
+   "start": "2026-11-05T17:15",
+   "end": "2026-11-05T18:45",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Untergeschoss)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Wechselnde Trainer START erst 17.45 Uhr! Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Thursdays 17:15–18:45",
+   "dates": [
+    "2026-11-05",
+    "2026-11-12",
+    "2026-11-19",
+    "2026-11-26",
+    "2026-12-03",
+    "2026-12-10",
+    "2026-12-17"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie Passion · Schnuppertraining ab Level 2",
+   "type": "class",
+   "start": "2026-11-05T19:00",
+   "end": "2026-11-05T20:30",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Erdgeschoss groß)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Rita & Team. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Thursdays 19:00–20:30",
+   "dates": [
+    "2026-11-05",
+    "2026-11-12",
+    "2026-11-19",
+    "2026-11-26",
+    "2026-12-03",
+    "2026-12-10",
+    "2026-12-17"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop Level 5 · Performance",
+   "type": "class",
+   "start": "2026-11-05T19:00",
+   "end": "2026-11-05T20:30",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Natalie G. & Dominik L.. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Thursdays 19:00–20:30",
+   "dates": [
+    "2026-11-05",
+    "2026-11-12",
+    "2026-11-19",
+    "2026-11-26",
+    "2026-12-03",
+    "2026-12-10",
+    "2026-12-17"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie-Woogie Turnier",
+   "type": "class",
+   "start": "2026-11-05T19:00",
+   "end": "2026-11-05T22:15",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Erdgeschoss klein)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Patrick. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Thursdays 19:00–22:15",
+   "dates": [
+    "2026-11-05",
+    "2026-11-12",
+    "2026-11-19",
+    "2026-11-26",
+    "2026-12-03",
+    "2026-12-10",
+    "2026-12-17"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop Level 2 + 3",
+   "type": "class",
+   "start": "2026-11-05T19:00",
+   "end": "2026-11-05T20:30",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Untergeschoss)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Alice & Andrea. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Thursdays 19:00–20:30",
+   "dates": [
+    "2026-11-05",
+    "2026-11-12",
+    "2026-11-19",
+    "2026-11-26",
+    "2026-12-03",
+    "2026-12-10",
+    "2026-12-17"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "West Coast Swing · Train-the-Trainer",
+   "type": "class",
+   "start": "2026-11-05T19:00",
+   "end": "2026-11-05T20:30",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Untergeschoss klein)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Kirsten. Nur nach vorheriger Absprache mit Kirsten Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Thursdays 19:00–20:30",
+   "dates": [
+    "2026-11-05",
+    "2026-11-12",
+    "2026-11-19",
+    "2026-11-26",
+    "2026-12-03",
+    "2026-12-10",
+    "2026-12-17"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "West Coast Swing Level 2",
+   "type": "class",
+   "start": "2026-11-05T20:45",
+   "end": "2026-11-05T22:15",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Erdgeschoss groß)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Wechselnde Trainer Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Thursdays 20:45–22:15",
+   "dates": [
+    "2026-11-05",
+    "2026-11-12",
+    "2026-11-19",
+    "2026-11-26",
+    "2026-12-03",
+    "2026-12-10",
+    "2026-12-17"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie-Woogie Teens",
+   "type": "class",
+   "start": "2026-11-06T17:15",
+   "end": "2026-11-06T18:45",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Erdgeschoss groß)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Paula & Ralph. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Fridays 17:15–18:45",
+   "dates": [
+    "2026-11-06",
+    "2026-11-13",
+    "2026-11-20",
+    "2026-11-27",
+    "2026-12-04",
+    "2026-12-11",
+    "2026-12-18"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie-Woogie Level 2 · Lead & Follow",
+   "type": "class",
+   "start": "2026-11-06T19:00",
+   "end": "2026-11-06T20:30",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Erdgeschoss groß)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Marianne & Lilly. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Fridays 19:00–20:30",
+   "dates": [
+    "2026-11-06",
+    "2026-11-13",
+    "2026-11-20",
+    "2026-11-27",
+    "2026-12-04",
+    "2026-12-11",
+    "2026-12-18"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie-Woogie Hobby · ab Level 3",
+   "type": "class",
+   "start": "2026-11-06T19:00",
+   "end": "2026-11-06T20:30",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Annette & Wolf-Dieter. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Fridays 19:00–20:30",
+   "dates": [
+    "2026-11-06",
+    "2026-11-13",
+    "2026-11-20",
+    "2026-11-27",
+    "2026-12-04",
+    "2026-12-11",
+    "2026-12-18"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie-Woogie ab Level 2 · Special \"Ladies Styling\"",
+   "type": "class",
+   "start": "2026-11-06T19:00",
+   "end": "2026-11-06T20:30",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Erdgeschoss klein)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Petra. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Fridays 19:00–20:30",
+   "dates": [
+    "2026-11-06",
+    "2026-11-13",
+    "2026-11-20",
+    "2026-11-27",
+    "2026-12-04",
+    "2026-12-11",
+    "2026-12-18"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie-Woogie Level 3 · Musikalität / Musiktheorie",
+   "type": "class",
+   "start": "2026-11-06T19:00",
+   "end": "2026-11-06T20:30",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Untergeschoss)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Maria & Marcus. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Fridays 19:00–20:30",
+   "dates": [
+    "2026-11-06",
+    "2026-11-13",
+    "2026-11-20",
+    "2026-11-27",
+    "2026-12-04",
+    "2026-12-11",
+    "2026-12-18"
+   ],
+   "tags": [
+    "course block"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Boogie-Woogie Turnier",
+   "type": "class",
+   "start": "2026-11-08T17:15",
+   "end": "2026-11-08T20:30",
+   "url": "https://www.boogie-baeren.de/training",
+   "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "Teachers: Ralph. ACHTUNG: Start 18.00 Uhr Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "recurrence": "Sundays 17:15–20:30",
+   "dates": [
+    "2026-11-08",
+    "2026-11-29",
+    "2026-12-06",
+    "2026-12-13",
+    "2026-12-20"
+   ],
+   "tags": [
+    "course block"
    ],
    "source_id": "",
    "source_name": "",

@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-10-24T08:18:03+00:00",
+ "scraped_at": "2026-10-25T08:36:00+00:00",
  "status": {
   "id": "village-habach",
   "name": "Village Habach",
   "url": "https://www.village-habach.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 49
+  "found": 48
  },
  "events": [
-  {
-   "title": "Carl Verheyen (USA)",
-   "type": "concert",
-   "start": "2026-10-24T20:15",
-   "end": null,
-   "url": "https://village-habach.de/programm/?single=806dba4f8bf0641e877db2ca27b1586a",
-   "venue": "Village Habach",
-   "address": "Obermühle 1, 82392 Habach",
-   "description": "\"LIGHT SHINE TOUR\" Rock, Blues, Jazz CARL VERHEYEN, wurde vom Guitar Magazine als „einer der zehn besten Gitarristen der Welt“ und vom Classic Rock Magazine als „einer der 100 besten Gitarristen aller Zeiten“ bezeichnet. Carl ist seit 1985 Mitglied der erfolgreichen britischen Rockgruppe S...",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Aynsley Lister (GBR)",
    "type": "concert",

@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-10-24T08:17:45+00:00",
+ "scraped_at": "2026-10-25T08:35:42+00:00",
  "status": {
   "id": "rheinpfalz-schwabing",
   "name": "Rheinpfalz Schwabing",
   "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
   "kind": "venue",
   "status": "ok",
-  "found": 15
+  "found": 14
  },
  "events": [
-  {
-   "title": "William’s Wetsox",
-   "type": "concert",
-   "start": "2026-10-24T20:00",
-   "end": null,
-   "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
-   "venue": "Rheinpfalz Schwabing",
-   "address": "Kurfürstenstraße 35, 80801 München",
-   "description": "Williams Fändrich, auch „da Wetsox“ genannt, gehört seit den 1990ern zu den profiliertesten Bluesmusikern im deutschsprachigen Raum. In den Liedern, die er mit einzigartiger Stimme singt, geht es um das Leben in Bayern, sie handeln von Liebesfreud und Liebesleid, vom verantwortungslosen Umgang mit der Umwelt, aber auch von der Schönheit des Ammertales. Der Blues vom Gipfelkreuz zum Jammertal, vom Abendrot bis zum Morgengrauen. Mario Fix spielt zu den Akkorden noch den Bass auf der Orgel, Alex Bartl bearbeitet die Drums.Beide junge Musikanten aus Peißenberg sind solide Könner auf Ihrem Instrument und sorgen für den Supergroove des Trios. „Williams Wetsox“ spielen Ihren originären Blues mit Seele, voll aus dem Bauch heraus und liefern auf unspektakuläre Art eine wirklich beeindruckende Vorstellung. Es ist uns immer ein großer G’nuss, wenn sie bei uns spuiln. Mia g’frein uns…. Da Huat gfreit sie aa…. Die Rheinpfalz",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Roda de choro",
    "type": "concert",

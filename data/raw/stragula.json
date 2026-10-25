@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-10-24T08:20:11+00:00",
+ "scraped_at": "2026-10-25T08:38:34+00:00",
  "status": {
   "id": "stragula",
   "name": "Stragula",
@@ -9,26 +9,6 @@
   "found": 27
  },
  "events": [
-  {
-   "title": "Poffer",
-   "type": "concert",
-   "start": "2026-10-24T20:00",
-   "end": null,
-   "url": "https://stragula.de/events.html#:~:text=Poffer",
-   "venue": "Stragula",
-   "address": "Bergmannstr. 66, 80339 München",
-   "description": "Der Songwriter aus Niederbayern - hoch gelobt von Hans-Jürgen „Haindling“ Buchner und vielen anderen, dessen Songs u.a. Lisa Wahlandt interpretiert wurden, tritt zum ersten Mal mit neuer Band auf: Anna Roilo - zweite Stimme, Holger Kruska - Akkordeon und Alexander Sax - Kontrabass. Musik aus dem Grenzland. Lieder über Skurilles zwischen Arber und Donau - verrückt, verspielt und melancholisch. · Eintritt: Frei",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "ROCKBITS – Rock ’n’ Roll, der Spaß macht!",
    "type": "concert",
@@ -538,6 +518,26 @@
    "venue": "Stragula",
    "address": "Bergmannstr. 66, 80339 München",
    "description": "Die Munich Rhythm and Blues Band begeistert mit einer Mischung aus Funk, Soul, Pop; Rock und R&B Musik. Wir präsentieren viele Musikstile wie Rhythm and Blues, Funk, Soul, Blues von Aretha Franklin über Blues Brothers bis Johnny Cash. Unser Repertoire beinhaltet Stücke wie Sweet Home Chicago, Mustang Sally, Ring of Fire, Summertime aber auch modernere Stücke wie Haunted Heart von Christina Aguilera. Unsere Bandmitglieder haben sich durch jahrelange Liveerfahrungen auch in anderen Bands zu Spitzenmusikern gesteigert. · Eintritt: Frei (Hutspende)",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "BÄRENMUCKE",
+   "type": "concert",
+   "start": "2027-11-13T19:00",
+   "end": null,
+   "url": "https://stragula.de/events.html#:~:text=B%C3%84RENMUCKE",
+   "venue": "Stragula",
+   "address": "Bergmannstr. 66, 80339 München",
+   "description": "Bärenmucke steht für mitreißende Livemusik und beste Stimmung. Die achtköpfige Band präsentiert bekannte Hits aus Rock, Pop und Soul – von groovigen Klassikern bis zu energiegeladenen Songs, die direkt in die Beine gehen. Mit einem abwechslungsreichen Repertoire, viel Spielfreude und einem satten Bandsound begeistert Bärenmucke ihr Publikum immer wieder aufs Neue. Wo Bärenmucke spielt, bleibt die Tanzfläche selten lange leer. · Eintritt: Frei",
    "recurrence": null,
    "dates": [],
    "tags": [],

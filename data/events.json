@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T08:20:46+00:00",
+  "generated_at": "2026-10-25T08:39:17+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -2595,6 +2595,36 @@
       "id": "714b17e73942"
     },
     {
+      "title": "Blues Open Level",
+      "type": "class",
+      "start": "2026-11-03T20:45",
+      "end": "2026-11-03T22:15",
+      "url": "https://www.boogie-baeren.de/training",
+      "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
+      "address": "Gneisenaustraße 16, 80992 München",
+      "description": "Teachers: verschiedene. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+      "recurrence": "Tuesdays 20:45–22:15",
+      "dates": [
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "boogie-baeren",
+      "source_name": "Boogie-Bären München",
+      "school_name": "Boogie-Bären München",
+      "school_url": "https://www.boogie-baeren.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "736bb6181162"
+    },
+    {
       "title": "Eric Bibb",
       "type": "concert",
       "start": "2026-11-04T20:00",
@@ -3374,7 +3404,7 @@
       "id": "02cad5d9c1f8"
     },
     {
-      "title": "Mojo Blues Band – Jazz & Beyond",
+      "title": "Mojo Blues Band",
       "type": "concert",
       "start": "2026-12-01T20:00",
       "end": "2026-12-01T22:30",
@@ -3398,7 +3428,7 @@
         }
       ],
       "known_artists": [],
-      "id": "127efe9843d6"
+      "id": "4e657f549678"
     },
     {
       "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
@@ -5041,8 +5071,8 @@
       "url": "https://www.boogie-baeren.de/",
       "kind": "school",
       "status": "ok",
-      "found": 74,
-      "kept": 13
+      "found": 110,
+      "kept": 14
     },
     {
       "id": "oksana-pavlova",
@@ -5077,7 +5107,7 @@
       "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "kind": "venue",
       "status": "ok",
-      "found": 15,
+      "found": 14,
       "kept": 7
     },
     {
@@ -5095,7 +5125,7 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 63,
+      "found": 61,
       "kept": 1
     },
     {
@@ -5122,7 +5152,7 @@
       "url": "https://www.village-habach.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 49,
+      "found": 48,
       "kept": 26
     },
     {
@@ -5158,7 +5188,7 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 164,
+      "found": 159,
       "kept": 58
     },
     {

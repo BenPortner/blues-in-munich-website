@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-10-24T08:20:46+00:00",
+ "scraped_at": "2026-10-25T08:39:17+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 164
+  "found": 159
  },
  "events": [
   {
@@ -356,7 +356,7 @@
    "id": ""
   },
   {
-   "title": "Mojo Blues Band – Jazz & Beyond",
+   "title": "Mojo Blues Band",
    "type": "concert",
    "start": "2026-12-01T20:00",
    "end": "2026-12-01T22:30",
@@ -422,7 +422,7 @@
    "id": ""
   },
   {
-   "title": "The Munich Swing Generations: JazzTime Freising",
+   "title": "JazzTime Freising: The Munich Swing Generations",
    "type": "concert",
    "start": "2026-11-13T20:00",
    "end": null,
@@ -698,28 +698,6 @@
    "dates": [],
    "tags": [
     "Pop"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Williams Wetsox",
-   "type": "concert",
-   "start": "2026-10-24T20:15",
-   "end": "2026-10-24T23:00",
-   "url": "https://www.in-muenchen.de/events/williams-wetsox.html",
-   "venue": "Rheinpfalz Schwabing",
-   "address": "Kurfürstenstraße 35, 80801 München",
-   "description": "Williams, einer der besten Blues-Gitarristen, begeistert mit getragenen Bluesnummern und fetzigen Stücken. Begleitet wird er von Mario Fizz und Alex Bartl.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Blues"
    ],
    "source_id": "",
    "source_name": "",
@@ -2794,28 +2772,6 @@
    "id": ""
   },
   {
-   "title": "3. Wolfratshauser Blues Festival",
-   "type": "concert",
-   "start": "2026-10-24T19:30",
-   "end": "2026-10-24T23:00",
-   "url": "https://www.in-muenchen.de/events/3-wolfratshauser-blues-festival.html",
-   "venue": "Ehemalige Disko Turm",
-   "address": "Hans-Urmiller-Ring 54, 82515 Wolfratshausen",
-   "description": "Mehrere Blues-Bands sorgen über zwei Tage für coole Grooves und beste Musik. Das Vollmer Organ Trio verbindet Blues, Jazz, Funk und Gospel zu einem modernen Sound voller Groove. Auch Connor Selby, bekannt von Dire Straits und The Who, präsentiert seine Musik.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Blues"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Günter Grünwald & Rad Gumbo",
    "type": "concert",
    "start": "2027-03-21T19:30",
@@ -2872,28 +2828,6 @@
    "dates": [],
    "tags": [
     "Blues"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Inninger Bluestage 2026: Young Fast Running Man + Sir Oliver Mally & Peter Schneider",
-   "type": "concert",
-   "start": "2026-10-24T19:30",
-   "end": "2026-10-24T23:00",
-   "url": "https://www.in-muenchen.de/events/young-fast-running-man-sir-oliver-mally-peter-schneider.html",
-   "venue": "Alte Brauerei Stegen",
-   "address": "Landsberger Straße 57, 82266 Inning am Ammersee",
-   "description": "Inninger Bluestage 2026 präsentiert zwei Bands: Young Fast Running Man und das Duo Sir Oliver Mally & Peter Schneider. Ein vielseitiges Programm mit Folkrock und energiegeladenem Blues.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Bluesrock"
    ],
    "source_id": "",
    "source_name": "",
@@ -3234,28 +3168,6 @@
    "id": ""
   },
   {
-   "title": "London Blues Collective",
-   "type": "concert",
-   "start": "2026-10-24T20:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/london-blues-collective.html",
-   "venue": "Wolf-Ferrari-Haus Ottobrunn",
-   "address": "Rathausplatz 2, 85521 Ottobrunn",
-   "description": "Das 9. JAZZFEST OTTOBRUNN widmet sich dem Blues mit dem LONDON BLUES COLLECTIVE, GREG COULSON, JESS HAYES und CONNOR SELBY.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Blues"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "The Hot Stuff Jazzband",
    "type": "concert",
    "start": "2026-10-28T20:00",
@@ -3312,28 +3224,6 @@
    "dates": [],
    "tags": [
     "Kammermusik"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Inninger Bluestage 2026",
-   "type": "concert",
-   "start": "2026-10-24T19:30",
-   "end": "2026-10-24T23:00",
-   "url": "https://www.in-muenchen.de/events/inninger-bluestage-2026.html",
-   "venue": "Groundlift Ammersee Live Studios",
-   "address": "Landsberger Straße 57, 82266 Stegen/Inning am Ammersee",
-   "description": "Inninger Bluestage 2026: Zwei gleichwertige Bluesbands pro Abend, authentisch und leidenschaftlich.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Bluesreihe"
    ],
    "source_id": "",
    "source_name": "",
@@ -3412,7 +3302,7 @@
   {
    "title": "Weiberwirtschaft",
    "type": "concert",
-   "start": "2026-10-24T20:00",
+   "start": "2026-10-25T14:00",
    "end": null,
    "url": "https://www.in-muenchen.de/events/weiberwirtschaft-iberl-buhne.html",
    "venue": "Iberl Bühne",

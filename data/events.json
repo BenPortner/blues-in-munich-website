@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T08:39:17+00:00",
+  "generated_at": "2026-10-26T09:14:25+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -2898,7 +2898,7 @@
       "id": "ff05effc904f"
     },
     {
-      "title": "Bin I Kini?! - Der Prinzregenten-Blues",
+      "title": "Bin I Kini?! – Der Prinzregenten-Blues",
       "type": "concert",
       "start": "2026-11-17T20:00",
       "end": null,
@@ -3431,7 +3431,7 @@
       "id": "4e657f549678"
     },
     {
-      "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
+      "title": "Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich",
       "type": "concert",
       "start": "2026-12-01T20:00",
       "end": null,
@@ -5071,7 +5071,7 @@
       "url": "https://www.boogie-baeren.de/",
       "kind": "school",
       "status": "ok",
-      "found": 110,
+      "found": 109,
       "kept": 14
     },
     {
@@ -5107,7 +5107,7 @@
       "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "kind": "venue",
       "status": "ok",
-      "found": 14,
+      "found": 16,
       "kept": 7
     },
     {
@@ -5125,7 +5125,7 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 61,
+      "found": 60,
       "kept": 1
     },
     {
@@ -5188,7 +5188,7 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 159,
+      "found": 157,
       "kept": 58
     },
     {

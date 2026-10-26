@@ -1,36 +1,14 @@
 {
- "scraped_at": "2026-10-25T08:35:16+00:00",
+ "scraped_at": "2026-10-26T09:10:58+00:00",
  "status": {
   "id": "boogie-baeren",
   "name": "Boogie-Bären München",
   "url": "https://www.boogie-baeren.de/",
   "kind": "school",
   "status": "ok",
-  "found": 110
+  "found": 109
  },
  "events": [
-  {
-   "title": "Berry Bounce - Swing Brunch Herbstgefühle",
-   "type": "social",
-   "start": "2026-10-25",
-   "end": null,
-   "url": "https://www.boogie-baeren.de/eventleser/berry-bounce-swing-brunch-oktober-2026",
-   "venue": "Boogie-Bären Vereinsheim",
-   "address": "Gneisenaustraße 16, 80992 München",
-   "description": "Beeriger Spaß bei den Bären... Wir brunchen und tanzen in den Herbst Alle sind herzlich eingeladen!",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Vereinsheim"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "ZAP Lindy Hop",
    "type": "social",
@@ -1390,7 +1368,7 @@
    "id": ""
   },
   {
-   "title": "Balboa Level 2",
+   "title": "Balboa Level 1",
    "type": "class",
    "start": "2026-11-04T20:45",
    "end": "2026-11-04T22:15",
@@ -1509,7 +1487,7 @@
    "id": ""
   },
   {
-   "title": "Lindy Hop Level 5 · Performance",
+   "title": "Lindy Hop Level 5",
    "type": "class",
    "start": "2026-11-05T19:00",
    "end": "2026-11-05T20:30",

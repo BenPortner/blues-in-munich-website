@@ -1,36 +1,14 @@
 {
- "scraped_at": "2026-10-25T08:35:50+00:00",
+ "scraped_at": "2026-10-26T09:11:29+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 61
+  "found": 60
  },
  "events": [
-  {
-   "title": "KENNEDY ADMINISTRATION",
-   "type": "concert",
-   "start": "2026-10-25T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11675",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Manche Unterfahrt-Besucher sind vom letzten Auftritt der Kennedy Administration noch außer Atem – denn die Band um Sängerin Ms. Kennedy und Mastermind/ Keyboarder Ondré J. Pives legte damals mit einer Energie los, die sich kaum noch mit handelsüblichen Parametern messen lässt. Ein Orkan aus Soul, Funk, Jazz, Hip Hop und R & B fegte über die Bühne, gigantische Grooves rollten los und die Stimme von Frau Kennedy brachte manche Seele zum Beben. Jetzt stellt die Truppe aus Brooklyn ihr drittes Album Humanity vor.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Highlight"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "SUNDAY NIGHT ORCHESTRA",
    "type": "concert",

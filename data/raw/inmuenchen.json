@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-10-25T08:39:17+00:00",
+ "scraped_at": "2026-10-26T09:14:24+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 159
+  "found": 157
  },
  "events": [
   {
@@ -952,8 +952,8 @@
   {
    "title": "Balduin und der Jazz",
    "type": "concert",
-   "start": "2026-10-25T11:00",
-   "end": "2026-10-25T12:00",
+   "start": "2026-11-22T11:00",
+   "end": "2026-11-22T12:00",
    "url": "https://www.in-muenchen.de/events/balduin-und-der-jazz-bergson-barbastelle.html",
    "venue": "Bergson Kunstkraftwerk / Bergson Barbastelle",
    "address": "Am Bergson Kunstkraftwerk 2, 81245 München",
@@ -2420,28 +2420,6 @@
    "id": ""
   },
   {
-   "title": "Neuhauser Musiknacht",
-   "type": "concert",
-   "start": "2026-10-24T20:00",
-   "end": "2026-10-25T02:00",
-   "url": "https://www.in-muenchen.de/events/neuhauser-musiknacht.html",
-   "venue": "Rotkreuzplatz",
-   "address": "80634 München",
-   "description": "In Neuhausen verwandelt sich die Nacht in ein musikalisches Fest. 50 Bands an 43 Orten laden zum Entdecken ein. Von Jazz und Swing bis Punk und Latin ist alles dabei. Lokale Talente und Nachwuchsbands sorgen für Abwechslung. Besucher können zwischen den Auftritten leicht zu den nächsten Bands wechseln.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Festival"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Axel Zwingenberger",
    "type": "concert",
    "start": "2027-10-13T20:00",
@@ -2904,7 +2882,7 @@
    "id": ""
   },
   {
-   "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
+   "title": "Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich",
    "type": "concert",
    "start": "2026-12-01T20:00",
    "end": null,
@@ -2992,7 +2970,7 @@
    "id": ""
   },
   {
-   "title": "Bin I Kini?! - Der Prinzregenten-Blues",
+   "title": "Bin I Kini?! – Der Prinzregenten-Blues",
    "type": "concert",
    "start": "2026-11-17T20:00",
    "end": null,
@@ -3014,7 +2992,7 @@
    "id": ""
   },
   {
-   "title": "Martin Schmitt - Schmitt happens",
+   "title": "Martin Schmitt – Schmitt happens",
    "type": "concert",
    "start": "2026-11-26T20:00",
    "end": "2026-11-26T23:00",
@@ -3080,7 +3058,7 @@
    "id": ""
   },
   {
-   "title": "Da Huawa und I - Schokoladenseit'n",
+   "title": "Da Huawa und I – Schokoladenseit’n",
    "type": "concert",
    "start": "2026-11-20T20:00",
    "end": "2026-11-20T23:00",
@@ -3190,28 +3168,6 @@
    "id": ""
   },
   {
-   "title": "Irish Rock Legends",
-   "type": "concert",
-   "start": "2026-10-25T20:00",
-   "end": "2026-10-25T23:00",
-   "url": "https://www.in-muenchen.de/events/irish-rock-legends.html",
-   "venue": "Muffatwerk / Ampere",
-   "address": "Zellstraße 4, 81667 München",
-   "description": "Eine Hommage an die goldene Ära des Irish Rock mit den legendären Bands und Künstlern, die die Welt rockten. Die Musik dieser Ikonen begeisterte Generationen und inspirierte nachfolgende Musiker.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Rock"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Oscar Bohórquez & Frank Braley",
    "type": "concert",
    "start": "2026-11-12T19:30",
@@ -3302,7 +3258,7 @@
   {
    "title": "Weiberwirtschaft",
    "type": "concert",
-   "start": "2026-10-25T14:00",
+   "start": "2026-11-05T20:00",
    "end": null,
    "url": "https://www.in-muenchen.de/events/weiberwirtschaft-iberl-buhne.html",
    "venue": "Iberl Bühne",

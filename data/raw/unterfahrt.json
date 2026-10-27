@@ -1,36 +1,14 @@
 {
- "scraped_at": "2026-10-26T09:11:29+00:00",
+ "scraped_at": "2026-10-27T09:12:35+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 60
+  "found": 59
  },
  "events": [
-  {
-   "title": "SUNDAY NIGHT ORCHESTRA",
-   "type": "concert",
-   "start": "2026-10-26T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11676",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Ein kleiner Scherz: Posaunisten setzen auf gleitende Arbeitszeiten. Unter dem Motto Sliding Time lässt Felix Fromm nun mit dem legendären Sunday Night Orchestra im Rücken den Zug seines Instruments virtuos vor- und zurückschnellen. Er verspricht uns ein grooviges Programm, das zwischen New Orleans-Klängen, Funk und modernem Jazz pendelt und das auch mal klangmalerisch, fast impressionistisch tönen kann.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Bigband Night"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "BILL STEWART TRIO",
    "type": "concert",
@@ -39,7 +17,7 @@
    "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11677",
    "venue": "Jazzclub Unterfahrt",
    "address": "Einsteinstraße 42, 81675 München",
-   "description": "Da sind drei Giganten am Werk: der Schlagzeuger Bill Stewart, der Tenorsaxofonist Walter Smith III und der Bassist Larry Grenadier konnten in verschiedenen Konstellationen schon miteinander musizieren, ehe sie sich als Trio zusammen taten. Diese Vertrautheit macht sich in jedem Ton, jeder Wendung, jeder Sequenz bemerkbar. Kühn nutzen die drei Weltklasse-Spieler die Freiräume, die sich ohne Harmonie-Instrument auftun und ihre Kommunikation verrät, wie firm sie in der Jazzgeschichte, aber auch in neueren Strömungen sind.",
+   "description": "Sold out. Da sind drei Giganten am Werk: der Schlagzeuger Bill Stewart, der Tenorsaxofonist Walter Smith III und der Bassist Larry Grenadier konnten in verschiedenen Konstellationen schon miteinander musizieren, ehe sie sich als Trio zusammen taten. Diese Vertrautheit macht sich in jedem Ton, jeder Wendung, jeder Sequenz bemerkbar. Kühn nutzen die drei Weltklasse-Spieler die Freiräume, die sich ohne Harmonie-Instrument auftun und ihre Kommunikation verrät, wie firm sie in der Jazzgeschichte, aber auch in neueren Strömungen sind.",
    "recurrence": null,
    "dates": [],
    "tags": [],
@@ -1021,7 +999,7 @@
    "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11732",
    "venue": "Jazzclub Unterfahrt",
    "address": "Einsteinstraße 42, 81675 München",
-   "description": "Man möchte beim ersten Ton aufspringen – und darf! Wenn die Jazzrausch Bigband mit ihrem swingenden Weihnachtsprogramm loslegt, brennen direktemang alle Lichtlein auf dem Kranz. Bekannt geworden ist die Jazzrausch Bigband durch ihre genreprägenden Techno-Jazz-Programme. Zum Jahresende hin richtet sich der Blick jedoch bewusst auf die Bigband-Tradition: Seit ihrer Gründung gehört ein eigenes Weihnachtsprogramm fest zum Repertoire der Band – liebevoll weiterentwickelt und Jahr für Jahr neu gedacht.",
+   "description": "Irgendwann kann man sie alle nicht mehr hören, diese Klassiker, denen man in der staden Zeit kaum entkommen kann, die einem in den Ohren liegen und dann auch bald auf die Nerven gehen. Warum also nicht mal neues Material schreiben, das frischen Wind und satten Swing unter die Kufen vom Weihnachtsmannschlitten bläst? Die kultige Jazzrausch Big Band macht XMas nun zur ausgelassenen Sause, mischt Evergreens mit erfrischendem neuen Material aus der Feder von Leonhard Kuhn, das er zu Texten von Tucholsky, Theodor Storm, Theodor Fontane oder Hoffmann von Fallerleben schrieb.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -1085,7 +1063,7 @@
    "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11737",
    "venue": "Jazzclub Unterfahrt",
    "address": "Einsteinstraße 42, 81675 München",
-   "description": "In der staden Zeit fühlt manch einer den Blues. Der Gitarrist und Sänger Al Jones hat ihn eigentlich immer und will mit seiner Variante trübe Gedanken jeglicher Art vertreiben. Sein Blues steckt voller Kraft und Leidenschaft, will aufbauend und belebend sein - trotz der mitunter durchaus ernsten Texte, die sich auch schon mal mit Niederlagen auseinandersetzen, mit Aspekten des Seins, die nicht ganz so schön sind. Al Jones geht gegen die Schattenseiten an - mit einer umwerfenden Lebenslust, Energie und einer positiven Einstellung.",
+   "description": "Einfaches kann so raffiniert sein und alles andere simpel. Blues ist Musik mit Haltung, die den direkten Weg zur Seele sucht und die Wahrheiten des Lebens unverblümt, ungeschönt und knarzig rau an- und ausspricht. Voller Leidenschaft und Inbrunst erzählt der Gitarrist und Sänger Al Jones in seinen Songs vom nicht immer einfachen Verhältnis zwischen Männern und Frauen, von Siegen und Niederlagen, von den Dingen, die uns umtreiben im täglichen Sein. Jede und Jeder mag sich wiedererkennen in dem, was dieser Blues-Heroe in seinen Texten auslebt.",
    "recurrence": null,
    "dates": [],
    "tags": [],

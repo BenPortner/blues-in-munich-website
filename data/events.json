@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T09:14:25+00:00",
+  "generated_at": "2026-10-27T09:15:33+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -2684,7 +2684,7 @@
       "url": "https://www.in-muenchen.de/events/montack-the-ultimate-silverbeet.html",
       "venue": "Drehleier – Szenerie",
       "address": "Rosenheimer Str. 123, 81667 München",
-      "description": "Ein spannungsgeladener Abend, an dem Blues, Rock und Funk auf alternativen Heavy Rock treffen. Zwischen den Klängen entsteht eine einzigartige Atmosphäre, die das Publikum mitreißt. Die Kombination der Stile verspricht einen abwechslungsreichen und energiegeladenen Konzertabend.",
+      "description": "Alternative Heavy Rock aus München trifft Blues, Rock und Funk aus Weilheim: zwei Bands, ein Abend im Drehleier.",
       "recurrence": null,
       "dates": [],
       "tags": [
@@ -2711,7 +2711,7 @@
       "url": "https://www.in-muenchen.de/events/from-new-orleans-to-brasil-and-beyond.html",
       "venue": "Galli Theater",
       "address": "in der Amalienpassage 86, 80799 München",
-      "description": "Eine bunte Mischung aus Jazz und Blues mit Gefühl und Virtuosität, verwoben mit britisch-bayrischem Humor, verspricht einen außergewöhnlichen Musikabend. Die Reise führt von New Orleans über Brasilien bis in die Ferne, musikalisch begleitet von zwei Ausnahmekünstlern.",
+      "description": "Klarinette, Saxofon und Gitarre auf Reisen von New Orleans nach Rio: Uli Wunner und John Brunton spielen Jazz, Choro und Samba mit britisch-bayrischem Humor.",
       "recurrence": null,
       "dates": [],
       "tags": [
@@ -3892,7 +3892,7 @@
       "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11737",
       "venue": "Jazzclub Unterfahrt",
       "address": "Einsteinstraße 42, 81675 München",
-      "description": "In der staden Zeit fühlt manch einer den Blues. Der Gitarrist und Sänger Al Jones hat ihn eigentlich immer und will mit seiner Variante trübe Gedanken jeglicher Art vertreiben. Sein Blues steckt voller Kraft und Leidenschaft, will aufbauend und belebend sein - trotz der mitunter durchaus ernsten Texte, die sich auch schon mal mit Niederlagen auseinandersetzen, mit Aspekten des Seins, die nicht ganz so schön sind. Al Jones geht gegen die Schattenseiten an - mit einer umwerfenden Lebenslust, Energie und einer positiven Einstellung.",
+      "description": "Einfaches kann so raffiniert sein und alles andere simpel. Blues ist Musik mit Haltung, die den direkten Weg zur Seele sucht und die Wahrheiten des Lebens unverblümt, ungeschönt und knarzig rau an- und ausspricht. Voller Leidenschaft und Inbrunst erzählt der Gitarrist und Sänger Al Jones in seinen Songs vom nicht immer einfachen Verhältnis zwischen Männern und Frauen, von Siegen und Niederlagen, von den Dingen, die uns umtreiben im täglichen Sein. Jede und Jeder mag sich wiedererkennen in dem, was dieser Blues-Heroe in seinen Texten auslebt.",
       "recurrence": null,
       "dates": [],
       "tags": [],
@@ -5125,7 +5125,7 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 60,
+      "found": 59,
       "kept": 1
     },
     {
@@ -5143,7 +5143,7 @@
       "url": "https://www.gansamwasser.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 17,
+      "found": 15,
       "kept": 2
     },
     {

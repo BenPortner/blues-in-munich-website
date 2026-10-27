@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-10-26T09:14:24+00:00",
+ "scraped_at": "2026-10-27T09:15:33+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
@@ -9,6 +9,28 @@
   "found": 157
  },
  "events": [
+  {
+   "title": "Lesebühne",
+   "type": "concert",
+   "start": "2026-11-13T19:30",
+   "end": "2026-11-13T22:00",
+   "url": "https://www.in-muenchen.de/events/lesebuhne.html",
+   "venue": "Kulturhaus Milbertshofen",
+   "address": "Curt-Mezger-Platz 1, 80809 München",
+   "description": "Eine bunte Mischung aus satirischen Dialogen, witzigen Texten und betörenden Songs wartet auf das Publikum. Zwischen Lachen, Applaus und Austausch steht das Erleben von Kleinkunst und Kabarett im Vordergrund.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Kabarett"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
   {
    "title": "Al Jones Blues Band",
    "type": "concert",
@@ -103,10 +125,12 @@
    "url": "https://www.in-muenchen.de/events/blue-traces.html",
    "venue": "Rheinpfalz Schwabing",
    "address": "Kurfürstenstraße 35, 80801 München",
-   "description": "Michi Dreschers unverkennbare Stimme prägt den Sound der Band: Eric Burdon, Joe Cocker und Tom Waits haben hier ihre „Spuren“ hinterlassen. Das gilt auch für den Rest der Band. Ihr ehrlicher und geradliniger Sound trägt den Gesang und begeistert durch mitreißende Spielfreude. Die fünf Musiker schaffen eine besondere Atmosphäre nach dem Motto „All that makes…",
+   "description": "Blues mit Seele: Sänger Michi Drescher und seine Band spielen in der Rheinpfalz Schwabing, mit Anklängen an Eric Burdon, Joe Cocker und Tom Waits.",
    "recurrence": null,
    "dates": [],
-   "tags": [],
+   "tags": [
+    "Blues"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -297,7 +321,7 @@
    "url": "https://www.in-muenchen.de/events/montack-the-ultimate-silverbeet.html",
    "venue": "Drehleier – Szenerie",
    "address": "Rosenheimer Str. 123, 81667 München",
-   "description": "Ein spannungsgeladener Abend, an dem Blues, Rock und Funk auf alternativen Heavy Rock treffen. Zwischen den Klängen entsteht eine einzigartige Atmosphäre, die das Publikum mitreißt. Die Kombination der Stile verspricht einen abwechslungsreichen und energiegeladenen Konzertabend.",
+   "description": "Alternative Heavy Rock aus München trifft Blues, Rock und Funk aus Weilheim: zwei Bands, ein Abend im Drehleier.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -1419,7 +1443,7 @@
    "url": "https://www.in-muenchen.de/events/from-new-orleans-to-brasil-and-beyond.html",
    "venue": "Galli Theater",
    "address": "in der Amalienpassage 86, 80799 München",
-   "description": "Eine bunte Mischung aus Jazz und Blues mit Gefühl und Virtuosität, verwoben mit britisch-bayrischem Humor, verspricht einen außergewöhnlichen Musikabend. Die Reise führt von New Orleans über Brasilien bis in die Ferne, musikalisch begleitet von zwei Ausnahmekünstlern.",
+   "description": "Klarinette, Saxofon und Gitarre auf Reisen von New Orleans nach Rio: Uli Wunner und John Brunton spielen Jazz, Choro und Samba mit britisch-bayrischem Humor.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -3192,8 +3216,8 @@
   {
    "title": "Jazzz Session Titus Waldenfels",
    "type": "concert",
-   "start": "2026-10-26T19:00",
-   "end": "2026-10-26T22:30",
+   "start": "2026-11-23T19:00",
+   "end": "2026-11-23T22:30",
    "url": "https://www.in-muenchen.de/events/jazzz-session-titus-waldenfels.html",
    "venue": "Kulturzentrum Giesinger Bahnhof",
    "address": "Giesinger Bahnhofplatz 1, 81539 München",
@@ -3224,28 +3248,6 @@
    "dates": [],
    "tags": [
     "Kindermusik-Show"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Lizz Wright",
-   "type": "concert",
-   "start": "2026-10-26T20:00",
-   "end": "2026-10-26T23:45",
-   "url": "https://www.in-muenchen.de/events/lizz-wright.html",
-   "venue": "Muffatwerk / Muffathalle",
-   "address": "Zellstr. 4, 81667 München",
-   "description": "Lizz Wright präsentiert ihre Musik, die das kulturelle Gefüge Amerikas reflektiert und soziale Gräben überwindet. Ihre Stimme und ihr tiefes Menschlichkeitsgefühl machen ihre Konzerte besonders.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Jazz"
    ],
    "source_id": "",
    "source_name": "",

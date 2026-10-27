@@ -1,56 +1,14 @@
 {
- "scraped_at": "2026-10-26T09:11:36+00:00",
+ "scraped_at": "2026-10-27T09:12:42+00:00",
  "status": {
   "id": "gans-am-wasser",
   "name": "Café Gans am Wasser",
   "url": "https://www.gansamwasser.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 17
+  "found": 15
  },
  "events": [
-  {
-   "title": "Triple Snap",
-   "type": "concert",
-   "start": "2026-10-24T14:00",
-   "end": "2026-10-24T15:30",
-   "url": "https://www.gansamwasser.de/kulturprogramm/programm-oktober/",
-   "venue": "Café Gans am Wasser",
-   "address": "Mollsee im Westpark, 81373 München",
-   "description": "TRIPLE SNAP ist ein Rock‑Funk‑Pop Trio aus München, das ausschließlich eigene Songs spielt. Der Sound ist warm, organisch und sehr live‑orientiert – ein ehrlicher Trio‑Groove.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Livemusik"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Wildnistag für Jung & Alt",
-   "type": "concert",
-   "start": "2026-10-25T12:00",
-   "end": "2026-10-25T18:00",
-   "url": "https://www.gansamwasser.de/kulturprogramm/programm-oktober/",
-   "venue": "Café Gans am Wasser",
-   "address": "Mollsee im Westpark, 81373 München",
-   "description": "Beim Wildnistag München kommen Wildnisschulen, Natur- und Umweltbildner, Vereine, Initiativen und Menschen aus dem Naturhandwerk aus München und der Region zusammen und laden Kinder, Familien und Naturinteressierte zum Mitmachen ein. An verschiedenen Mitmach-Stationen könnt ihr selbst aktiv werden, Neues ausprobieren und die Menschen kennenlernen, die sich in der Region für Wildnis-, Natur- und Umweltbildung engagieren. Euch erwarten 5-10 Angebote zu folgenden Themen: Schnitzen oder andere Holzhandwerke Feuerbohren, Flint und Stahl Flechten, Schnüre drehen oder Filzen Pflanzen- oder Pilzkunde Geschichten für Kinder Natur-, Bewegungs- oder Geländespiele Musik und gemeinsames Singen, Trommeln, Trommelbau usw. Nature Journaling oder andere Wahrnehmungsangebote Keine Vorkenntnisse notwendig und die Teilnahme ist kostenfrei. Verpflegung könnt ihr im Café erhalten - wir bitten euch, keine eigenen Speisen oder Getränke mitzubringen.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Kasperltheater",
    "type": "concert",

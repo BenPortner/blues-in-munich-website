@@ -81,7 +81,7 @@ def load_raw(raw_dir: Path, source_id: str) -> dict | None:
 _FILLER = {
     "session", "jam", "live", "konzert", "concert", "gig", "blues", "band", "night", "abend", "special",
     "open", "offene", "mit", "with", "und", "and", "feat", "the", "der", "die", "das", "im", "in", "am",
-    "presents", "prasentiert", "zu", "gast", "guest", "guests", "friends",
+    "presents", "prasentiert", "zu", "gast", "gaste", "guest", "guests", "friends",
 }
 
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T19:21:05+00:00",
+  "generated_at": "2026-10-28T19:23:11+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -3631,6 +3631,26 @@
       "id": "290e34f6a579"
     },
     {
+      "title": "11. Gautinger Bluesnacht",
+      "type": "concert",
+      "start": "2026-12-04T19:30",
+      "end": null,
+      "url": "https://www.mvp.de/bayern/veranstaltungen/11-gautinger-bluesnacht-bosco-grosser-saal/",
+      "venue": "bosco - Großer Saal, Gauting",
+      "address": "Oberer Kirchenweg 1, 82131 Gauting",
+      "description": "",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "mvp",
+      "source_name": "mvp.de (Jazz & Blues)",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "17f0df58c0e7"
+    },
+    {
       "title": "Henry Heggen & Titus Vollmer + San2 & His Soul Patrol",
       "type": "concert",
       "start": "2026-12-04T19:30",
@@ -4303,6 +4323,31 @@
       "id": "bab14bcaa9e9"
     },
     {
+      "title": "HaberJazzBand",
+      "type": "concert",
+      "start": "2027-01-24T17:00",
+      "end": null,
+      "url": "https://www.truderingerkulturkreis.de/",
+      "venue": "Kulturzentrum Trudering",
+      "address": "Wasserburger Landstraße 32, 81825 München",
+      "description": "D ie Haberjazzband aus München liefert wieder ein wunderschönes Konzert, das im Zeichen von Blues, Dixieland und Swing steht. Mehr auf der Homepage !",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "truderinger-kulturkreis",
+      "source_name": "Truderinger Kulturkreis e.V.",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Haberjazzband",
+          "url": "https://www.last.fm/music/Haberjazzband"
+        }
+      ],
+      "known_artists": [],
+      "id": "ce4a5f87b3bb"
+    },
+    {
       "title": "Stephan Zinner - Großstadtblues",
       "type": "concert",
       "start": "2027-01-26T20:00",
@@ -4432,6 +4477,31 @@
       ],
       "known_artists": [],
       "id": "77d8a5116d55"
+    },
+    {
+      "title": "Blues Briederchen® - Blues Brothers Tribute",
+      "type": "concert",
+      "start": "2027-02-09T20:00",
+      "end": null,
+      "url": "https://www.mvp.de/muenchen/veranstaltungen/blues-briederchen-blues-brothers-tribute-schlachthof-saal/",
+      "venue": "Schlachthof - Saal",
+      "address": "Zenettistraße 9, 80337 München",
+      "description": "",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "mvp",
+      "source_name": "mvp.de (Jazz & Blues)",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Blues Briederchen",
+          "url": "https://www.last.fm/music/Blues+Briederchen"
+        }
+      ],
+      "known_artists": [],
+      "id": "a58af08e42b0"
     },
     {
       "title": "Danny Bryant",
@@ -5356,6 +5426,15 @@
       "kept": 1
     },
     {
+      "id": "truderinger-kulturkreis",
+      "name": "Truderinger Kulturkreis e.V.",
+      "url": "https://www.truderingerkulturkreis.de/",
+      "kind": "venue",
+      "status": "ok",
+      "found": 3,
+      "kept": 1
+    },
+    {
       "id": "swinginmunich",
       "name": "SwinginMunich.de",
       "url": "https://www.swinginmunich.de/en",
@@ -5372,6 +5451,15 @@
       "status": "ok",
       "found": 160,
       "kept": 57
+    },
+    {
+      "id": "mvp",
+      "name": "mvp.de (Jazz & Blues)",
+      "url": "https://www.mvp.de/",
+      "kind": "aggregator",
+      "status": "ok",
+      "found": 40,
+      "kept": 2
     },
     {
       "id": "ticketmaster",

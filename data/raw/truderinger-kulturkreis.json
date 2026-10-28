@@ -1,0 +1,73 @@
+{
+ "scraped_at": "2026-10-28T19:22:08+00:00",
+ "status": {
+  "id": "truderinger-kulturkreis",
+  "name": "Truderinger Kulturkreis e.V.",
+  "url": "https://www.truderingerkulturkreis.de/",
+  "kind": "venue",
+  "status": "ok",
+  "found": 3
+ },
+ "events": [
+  {
+   "title": "Motovidlo",
+   "type": "concert",
+   "start": "2026-10-11T12:00",
+   "end": null,
+   "url": "https://www.truderingerkulturkreis.de/",
+   "venue": "Kulturzentrum Trudering",
+   "address": "Wasserburger Landstraße 32, 81825 München",
+   "description": "Der Kulturfrühschoppen mit der Gruppe Motovidlo aus Prag wird auch 2026 wieder im Stucksaal des Truderinger Wirtshauses stattfinden. Seit 2012 gibt es eine Fangemeinde in Trudering. Karten : 14 Euro -> Vorbestellung",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Silvesterkonzert",
+   "type": "concert",
+   "start": "2026-12-31T19:00",
+   "end": null,
+   "url": "https://www.truderingerkulturkreis.de/",
+   "venue": "Kulturzentrum Trudering",
+   "address": "Wasserburger Landstraße 32, 81825 München",
+   "description": "Auch 2026 findet wieder ein glanzvoller Jahresausklang mit der Camerata München statt. Ouvertüren, Walzer, Arien und Duette von Mozart, Rossini, Donizetti, Verdi und Strauss stehen auf dem Programm. Die beiden Solistinnen werden Tereza Kralova und Elif Aytekin-Vogler sein. Buchung nur über das Kulturzentrum Trudering .",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "HaberJazzBand",
+   "type": "concert",
+   "start": "2027-01-24T17:00",
+   "end": null,
+   "url": "https://www.truderingerkulturkreis.de/",
+   "venue": "Kulturzentrum Trudering",
+   "address": "Wasserburger Landstraße 32, 81825 München",
+   "description": "D ie Haberjazzband aus München liefert wieder ein wunderschönes Konzert, das im Zeichen von Blues, Dixieland und Swing steht. Mehr auf der Homepage !",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  }
+ ]
+}

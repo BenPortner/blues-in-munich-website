@@ -51,3 +51,11 @@ def test_dedupe_keeps_first_source_and_fills_gaps():
     assert kept.title == BAND
     assert kept.end == "2026-10-21T22:30" and kept.address == "Giesinger Bahnhofplatz 1"  # taken over
     assert kept.description == "Akustische offene Blues Session, Eintritt frei"          # not overwritten
+
+
+def test_same_event_ignores_guests():
+    a = Event(title="30. Münchner Bluesnacht - mit Zither Manä und Gäste", type="concert", start="2026-11-20T20:00",
+              venue="Schlachthof - Saal")
+    b = Event(title="30. Münchner Bluesnacht mit Zither Manä, Abi Wallenstein, Ludwig Seuss & Band", type="concert",
+              start="2026-11-20T20:00", venue="Schlachthof – Saal")
+    assert same_event(a, b)

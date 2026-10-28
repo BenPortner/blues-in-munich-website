@@ -6,6 +6,7 @@ import json
 import os
 import re
 import shutil
+import unicodedata
 from collections import Counter
 from datetime import date, datetime, timedelta
 from itertools import groupby
@@ -182,7 +183,8 @@ def view_model(data: dict, today: date, highlights: Highlights) -> dict:
         "highlight_chip": any(c["highlight"] for c in cards + past_cards),
         # Last.fm's API terms want a credit wherever its data is used
         "lastfm_credit": any(e.artists or e.known_artists for e in events),
-        "sources": data.get("sources", []),
+        # Footer: dance schools first, then everything else; each alphabetical
+        "source_groups": source_groups(data.get("sources", [])),
         # Per source, the upcoming events the page lists (its footer count; the filter also shows past ones)
         "source_counts": Counter(e.source_id for e in upcoming),
         "generated": f"{generated.day} {generated.strftime('%b %Y, %H:%M')}",
@@ -190,6 +192,17 @@ def view_model(data: dict, today: date, highlights: Highlights) -> dict:
             f"https://github.com/{os.environ['GITHUB_REPOSITORY']}" if os.environ.get("GITHUB_REPOSITORY") else None
         ),
     }
+
+
+def source_groups(sources: list[dict]) -> list[tuple[str, list[dict]]]:
+    """The footer's source lists: (heading, sources by name), schools first. Curated only shows
+    once it lists something."""
+    def by_name(s):  # "Bürgersaal" next to "Burg…", "ars musica" among the A's
+        return "".join(c for c in unicodedata.normalize("NFKD", s["name"]) if not unicodedata.combining(c)).casefold()
+    listed = sorted((s for s in sources if s["kind"] != "manual" or s.get("kept")), key=by_name)
+    groups = [("Dance schools", [s for s in listed if s["kind"] == "school"]),
+              ("Venues, bands & listings", [s for s in listed if s["kind"] != "school"])]
+    return [g for g in groups if g[1]]
 
 
 def occurrences(e: Event):

@@ -137,8 +137,10 @@
   <footer id="sources" class="wrap footer">
     <h2>Sources</h2>
     <p>Collected automatically every morning from these pages. Always check the organiser's page before you go.</p>
+    {% for heading, group in source_groups %}
+    <h3 class="sources-heading">{{ heading }}</h3>
     <ul class="sources">
-      {% for s in sources if s.kind != "manual" or s.kept %}
+      {% for s in group %}
       <li>
         <a href="{{ s.url }}" rel="noopener">{{ s.name }}</a>
         {% set n = source_counts[s.id] %}
@@ -147,6 +149,7 @@
       </li>
       {% endfor %}
     </ul>
+    {% endfor %}
     <p class="small">
       Last updated {{ generated }} (Munich time) ·
       <a href="events.ics">iCal feed</a> · <a href="{{ gcal_url }}">Google Calendar</a> · <a href="events.json">JSON</a>

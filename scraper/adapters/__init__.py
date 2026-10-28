@@ -16,6 +16,7 @@ from . import (  # noqa: F401
     swinginmunich,
     ticketmaster,
     tollwood,
+    tribe_events,
     unterfahrt,
     village,
     vintage_club,

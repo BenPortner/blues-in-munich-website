@@ -14,6 +14,7 @@
 #                          inmuenchen,
 #                          oksanapavlova, rheinpfalz_schwabing, gansamwasser,
 #                          village, hepcat, tollwood, stragula
+#                 generic WordPress: tribe_events (The Events Calendar REST API)
 #   enabled       false to keep an entry without scraping it
 #   default_type  class | workshop | social | concert (when not inferable)
 #   filter        blues        keep events mentioning blues (title/description/tags)
@@ -157,6 +158,17 @@ sources:
     enabled: true
     default_type: concert
     filter: blues_title    # Westend restaurant stage, Saturday gigs of every genre; band blurbs mention blues in passing
+
+  - id: ackermannbogen
+    name: Ackermannbogen e.V.
+    kind: venue
+    url: https://ackermannbogen-ev.de/programm-alles
+    adapter: tribe_events
+    enabled: true
+    default_type: concert
+    filter: blues_title    # neighbourhood association; monthly "Be My Guest" jazz concerts (KreativGarage), some tagged BluesJazz
+    params:
+      categories: [musik, musik-gesang]   # the rest is ~800 kids' dance, fitness and craft dates
 
   # --- Aggregators ---------------------------------------------------------
   - id: swinginmunich

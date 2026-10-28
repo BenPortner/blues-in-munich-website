@@ -130,6 +130,21 @@ def test_artist_with_a_blues_gig_keeps_all_its_gigs(make_ctx):
         "Günter Grünwald & Rad Gumbo", "Ludwig Seuss Band", "Rad Gumbo & Günter Grünwald", "Ludwig Seuss & Band"]
 
 
+def test_vouched_gig_does_not_replace_the_kept_listing(make_ctx):
+    sources = [
+        src("venue", "_test_static", params={"events": [
+            ev("Munich Rhythm & Blues Band", "2026-11-20T20:00", venue="Rheinpfalz", description="Blues"),
+        ]}),
+        src("agg", "_test_static", filter="blues_title", params={"events": [
+            ev("Munich Rhythm & Blues Bans", "2026-11-20T20:00", venue="Rheinpfalz"),  # typo: one more "word"
+            ev("Munich Rhythm & Blues Band", "2026-12-04T20:00", venue="Rheinpfalz"),  # another date: kept
+        ]}),
+    ]
+    result = collect(sources, make_ctx(), {"events": []})
+    assert [(e["title"], e["source_id"]) for e in result["events"]] == [
+        ("Munich Rhythm & Blues Band", "venue"), ("Munich Rhythm & Blues Band", "agg")]
+
+
 def test_past_blues_gig_still_vouches_for_the_artist(make_ctx):
     def old(title, start, **kw):
         return Event(title=title, type="concert", start=start, source_id="a", source_name="A", id=title, **kw).to_dict()

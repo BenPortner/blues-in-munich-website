@@ -186,8 +186,10 @@ def assemble(sources: list[dict], raw_dir: Path, previous: dict, today: date,
     past = [e for e in map(Event.from_dict, previous.get("events", []))
             if e.source_id in listed and e.last_date < iso_today]
     # A past gig still vouches for the artist after its site took it down; only past ones, so a gig
-    # kept this way can't vouch for itself on the next run
-    events.extend(same_artist_gigs(events + past, dropped))
+    # kept this way can't vouch for itself on the next run. They only add dates: a vouched-for listing
+    # of a night already listed never replaces it in dedupe (e.g. a typo read as a more specific title)
+    vouched = same_artist_gigs(events + past, dropped)
+    events.extend(e for e in vouched if not any(same_event(k, e) for k in events))
     events.extend(past)
     events = [e for e in dedupe(events) if is_listed(e, iso_today, archive)]
     events.sort(key=lambda e: (e.next_date(today), e.start, e.title))

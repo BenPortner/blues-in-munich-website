@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T19:35:51+00:00",
+  "generated_at": "2026-10-28T19:41:34+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -2377,6 +2377,26 @@
       "id": "d6b8fea6bf9e"
     },
     {
+      "title": "Jazz & Blues",
+      "type": "concert",
+      "start": "2026-10-29T20:00",
+      "end": null,
+      "url": "https://www.muenchen-online.de/veranstaltung/jazz-blues-482005",
+      "venue": "Galli Theater",
+      "address": "Türkenstr. 86/ Amalienpassage, 80799 München",
+      "description": "mit Tricia Leonard und John Brunton",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "muenchen-online-jazz",
+      "source_name": "muenchen-online.de (Jazz & Co.)",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "7b4c99f0c097"
+    },
+    {
       "title": "Ludwig Seuss Band",
       "type": "concert",
       "start": "2026-10-29T20:00",
@@ -2896,7 +2916,7 @@
       "title": "Matching Ties Duo & Special Guest Rosena Horan-Irland",
       "type": "concert",
       "start": "2026-11-12T19:30",
-      "end": "2026-11-12T21:00",
+      "end": null,
       "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2576&title=Matching%20Ties%20Duo%20%26amp%3B%20Special%20Guest%20Rosena%20Horan-Irland",
       "venue": "Salettl im Tannengarten",
       "address": "Pfeuferstr. 32, 81377 München",
@@ -2913,6 +2933,26 @@
       "artists": [],
       "known_artists": [],
       "id": "755798ee4fdb"
+    },
+    {
+      "title": "Jazz & Blues",
+      "type": "concert",
+      "start": "2026-11-12T20:00",
+      "end": null,
+      "url": "https://www.muenchen-online.de/veranstaltung/jazz-blues-482835",
+      "venue": "Galli Theater",
+      "address": "Türkenstr. 86/ Amalienpassage, 80799 München",
+      "description": "mit Neil Bacher und John Brunton",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "muenchen-online-jazz",
+      "source_name": "muenchen-online.de (Jazz & Co.)",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "ae91a2c880c5"
     },
     {
       "title": "Volker Gieseks Colorbox",
@@ -3303,26 +3343,24 @@
       "id": "45f22a65cf01"
     },
     {
-      "title": "The Official Blues Brothers Revue",
+      "title": "The Official Blues Brothers Revue presented by Dan Aykroyd & Judith Belushi",
       "type": "concert",
       "start": "2026-11-25T20:00",
       "end": null,
-      "url": "https://www.in-muenchen.de/events/the-official-blues-brothers-revue.html",
-      "venue": "Prinzregententheater",
+      "url": "https://www.muenchen-online.de/veranstaltung/the-official-blues-brothers-revue-presented-by-dan-aykroyd-judith-belushi-480822",
+      "venue": "Prinzregententheater Theaterakademie August Everding",
       "address": "Prinzregentenplatz 12, 81675 München",
-      "description": "Ein multimediales interaktives Erlebnis mit Kieron Lafferty (Elwood) & Wayne Catania (Jake), unterstützt von der All-Star-Intercontinental Rhythm & Blues Band. Klassiker wie „Soul Man“ und „Gimme Some Lovin“ feiern den Kult, den John Belushi & Dan Aykroyd erstmals 1978 entfachten.",
+      "description": "mit Kieron Lafferty, Wayne Catania und All-Star-Intercontinental Rhythm & Blues Band Ein unvergessliches Konzert mit „The Voice“ Christian Brückner (die deutsche Stimme von Robert de Niro, Harvey Keitel und Robert Redford) und Jazz-Trompeter Martin Auer mit seinem fulminanten Quintett. Das 100-jährige Jubiläum eines der größten Jazzmusiker aller Zeiten ist ein schöner Anlass, Miles Davis in seiner Vielfältigkeit und Genialität musikalisch und als Persönlichkeit neu zu beleuchten. Den Großmeister der Sprache Christian Brückner kennt jeder, er ist ein absoluter Kenner und Liebhaber des Jazz. Ent",
       "recurrence": null,
       "dates": [],
-      "tags": [
-        "Tribute-Show"
-      ],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
+      "tags": [],
+      "source_id": "muenchen-online-jazz",
+      "source_name": "muenchen-online.de (Jazz & Co.)",
       "school_name": null,
       "school_url": null,
       "artists": [],
       "known_artists": [],
-      "id": "a1f4c6335782"
+      "id": "a696c7fd83c6"
     },
     {
       "title": "Pete Gavin",
@@ -3587,6 +3625,26 @@
       ],
       "known_artists": [],
       "id": "985e54d88dfa"
+    },
+    {
+      "title": "Jazz & Blues",
+      "type": "concert",
+      "start": "2026-12-03T20:00",
+      "end": null,
+      "url": "https://www.muenchen-online.de/veranstaltung/jazz-blues-484836",
+      "venue": "Galli Theater",
+      "address": "Türkenstr. 86/ Amalienpassage, 80799 München",
+      "description": "mit Tricia Leonard & John Brunton Christmas Songs Das eingespieltes Duo hat aussergewöhnlich Songs in Ihrem Repertoire, die nicht jeder kennt, als auch klassische Standards von Fats Waller, Harold Arlen, über die manchmalzickige Cole Porter, zu Bacharach & David, The Beatles , Stevie Wonder…….. Ein Programm voller Leidenschaft mit einer Prise schwarzem Humor.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "muenchen-online-jazz",
+      "source_name": "muenchen-online.de (Jazz & Co.)",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "f7b3d476c026"
     },
     {
       "title": "Bluesverschwörung Nr. 150",
@@ -3907,21 +3965,19 @@
       "id": "1454ac8628c6"
     },
     {
-      "title": "Vlado Grizelj Quartett",
+      "title": "Vlado Grizelj Band",
       "type": "concert",
       "start": "2026-12-17T20:00",
-      "end": "2026-12-17T22:30",
-      "url": "https://www.in-muenchen.de/events/vlado-grizelj-quartett.html",
+      "end": "2026-12-17T22:00",
+      "url": "https://pasinger-fabrik.de/veranstaltung/vlado-grizelj-quartett-2/",
       "venue": "Pasinger Fabrik – Kleine Bühne",
-      "address": "August-Exter-Straße 1, 81245 München",
-      "description": "Funk und Soul der 60er und 70er, Rock- und Blues-Einflüsse und jazzige Gitarre mit Hammond-Orgel und Rhodes-Piano.",
+      "address": "August-Exter-Str. 1, 81245 München",
+      "description": "Das neue Projekt des Münchner Gitarristen Vlado Grizelj widmet sich seiner Liebe zur Funk- und Soul-Musik der 60er und 70er Jahre auf der einen, und seinen frühen Rock- und Blues-Einfüssen auf der anderen Seite. Vereint mit seiner jazzigen Spielweise und seinem Verständnis für komplexe Harmonien, ensteht so eine einzigartige Mischung. Die Stücke, die er für dieses Quartett komponierte, reichen von schnellen Funkgrooves bis zu gefühlvollen Soulballaden und zelebrieren auch den Sound der Hammond Orgel und des Rhodes Pianos, die genial von Viktor Makhnovich in Szene gesetzt werden. Für den nötige",
       "recurrence": null,
       "dates": [],
-      "tags": [
-        "Jazz"
-      ],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
+      "tags": [],
+      "source_id": "pasinger-fabrik",
+      "source_name": "Pasinger Fabrik",
       "school_name": null,
       "school_url": null,
       "artists": [
@@ -3931,7 +3987,7 @@
         }
       ],
       "known_artists": [],
-      "id": "c2cb95b1c08a"
+      "id": "2bdec2e6024e"
     },
     {
       "title": "Ludwig Seuss Band",
@@ -5387,7 +5443,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 35,
-      "kept": 3
+      "kept": 4
     },
     {
       "id": "ars-musica",
@@ -5459,7 +5515,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 160,
-      "kept": 57
+      "kept": 55
     },
     {
       "id": "mvp",
@@ -5469,6 +5525,15 @@
       "status": "ok",
       "found": 40,
       "kept": 2
+    },
+    {
+      "id": "muenchen-online-jazz",
+      "name": "muenchen-online.de (Jazz & Co.)",
+      "url": "https://www.muenchen-online.de/jazz/",
+      "kind": "aggregator",
+      "status": "ok",
+      "found": 240,
+      "kept": 4
     },
     {
       "id": "ticketmaster",

@@ -25,3 +25,19 @@ def test_muenchen_online_scrape_follows_pages(make_ctx):
     assert len(events) == 16
     assert [url for url, _ in ctx.http.calls] == [URL, URL + "page/2/"]  # page 2 has no "next" link
     assert events[-1].start == "2027-02-18T19:30"
+
+
+JAZZ = "https://www.muenchen-online.de/jazz/"
+GALLI = "https://www.muenchen-online.de/veranstaltung/jazz-blues-482005"
+
+
+def test_muenchen_online_category_fetches_blues_event_pages(make_ctx):
+    ctx = make_ctx({GALLI: "muenchen_online_galli.html", JAZZ: "muenchen_online_jazz.html"})
+    events = mo.scrape({"id": "muenchen-online-jazz", "url": JAZZ, "params": {"max_pages": 1}}, ctx)
+    assert len(events) == 9
+    galli = next(e for e in events if e.title == "Jazz & Blues")
+    assert (galli.start, galli.venue) == ("2026-10-29T20:00", "Galli Theater")
+    assert (galli.address, galli.description) == (
+        "Türkenstr. 86/ Amalienpassage, 80799 München", "mit Tricia Leonard und John Brunton")
+    assert [url for url, _ in ctx.http.calls] == [JAZZ, GALLI]  # only the blues-titled listing
+    assert all(e.address is None for e in events if e is not galli)

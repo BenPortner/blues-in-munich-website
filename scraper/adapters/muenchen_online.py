@@ -1,12 +1,14 @@
-"""muenchen-online.de (Das gelbe Heft) — a venue's page listing its upcoming events.
+"""muenchen-online.de (Das gelbe Heft) — a venue page or a category listing of upcoming events.
 
-For venues that publish their programme only in a newsletter or on social media (e.g. Jazzbar Vogler).
-The venue page (/veranstaltungsorte/<name>-<id>/) shows the address and nine teasers per page
+A venue page (/veranstaltungsorte/<name>-<id>/) is for venues that publish their programme only in a
+newsletter or on social media (e.g. Jazzbar Vogler); a category (/jazz/) covers all venues.
+Both show nine teasers per page
 (a.teaserbox: category, headline and "Mi 28.10. und Do 29.10., jeweils 19.30 Uhr | Venue" or
 "Di 10.11. bis Sa 14.11., jeweils 19.30 Uhr | Venue"); further pages are <url>/page/N/.
-A run of nights becomes one event with every night in `dates`.
+A run of nights becomes one event with every night in `dates`. A venue page has the venue's address;
+for a category, the event pages of blues-titled listings are fetched for address and line-up.
 
-params.page_url: the venue page on muenchen-online.de (source url is the venue's own site).
+params.page_url: the page to read, if not the source url (e.g. a venue page when url is the venue's own site).
 params.max_pages: listing pages to read (default 4).
 """
 from __future__ import annotations
@@ -17,6 +19,7 @@ from urllib.parse import urljoin
 
 from ..dates import combine, find_dates
 from ..models import Event, clean_text, guess_type
+from ..filters import is_blues
 from ..registry import adapter
 from ._html import soup, text
 
@@ -31,6 +34,9 @@ def scrape(source, ctx):
     for page in range(1, params.get("max_pages", 4) + 1):
         html = ctx.http.text(url if page == 1 else f"{url}page/{page}/")
         found = parse(html, url, ctx.today)
+        for event in found:
+            if not event.address and is_blues(event.title):
+                event.address, event.description = parse_event(ctx.http.text(event.url))
         events.extend(found)
         if not found or 'class="next page-numbers"' not in html:
             break
@@ -67,3 +73,13 @@ def parse(html, base_url, today=None):
             dates=[d.isoformat() for d in days] if len(days) > 1 else [],
         ))
     return events
+
+
+def parse_event(html):
+    """(address, line-up and blurb) from an event page."""
+    page = soup(html)
+    place = page.select_one("div.content-area")
+    lines = [clean_text(line) for line in place.get_text("\n").split("\n")] if place else []
+    address = next((line for line in lines if re.search(r"\b8\d{4}\b", line)), None)
+    description = " ".join(text(page.select_one(f".event_{part}")) for part in ("besetzung", "content"))
+    return address, clean_text(description)

@@ -15,7 +15,7 @@
 #                          oksanapavlova, rheinpfalz_schwabing, gansamwasser,
 #                          village, hepcat, tollwood, stragula, arsmusica,
 #                          truderinger_kulturkreis, mvp,
-#                          muenchen_online (a venue's page on muenchen-online.de)
+#                          muenchen_online (a venue page or category on muenchen-online.de)
 #                 generic WordPress: tribe_events (The Events Calendar REST API)
 #   enabled       false to keep an entry without scraping it
 #   default_type  class | workshop | social | concert | other (when not inferable;
@@ -290,6 +290,17 @@ sources:
     enabled: true
     default_type: concert
     filter: blues_title    # ticket listing of jazz and blues concerts; mostly the same gigs as IN München, plus a few it misses
+
+  - id: muenchen-online-jazz
+    name: muenchen-online.de (Jazz & Co.)
+    kind: aggregator
+    url: https://www.muenchen-online.de/jazz/
+    adapter: muenchen_online
+    enabled: true
+    default_type: concert
+    filter: blues_title    # Das gelbe Heft's jazz listings (~240 over ~27 pages); catches the Galli Theater's "Jazz & Blues" nights
+    params:
+      max_pages: 40
 
   - id: ticketmaster
     name: Ticketmaster (genre Blues)

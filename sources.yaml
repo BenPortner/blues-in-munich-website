@@ -13,7 +13,7 @@
 #                          glockenbachwerkstatt, misterbs, swinginmunich, ticketmaster,
 #                          inmuenchen,
 #                          oksanapavlova, rheinpfalz_schwabing, gansamwasser,
-#                          village, hepcat, tollwood, stragula
+#                          village, hepcat, tollwood, stragula, arsmusica
 #                 generic WordPress: tribe_events (The Events Calendar REST API)
 #   enabled       false to keep an entry without scraping it
 #   default_type  class | workshop | social | concert (when not inferable)
@@ -170,6 +170,27 @@ sources:
     params:
       categories: [musik, musik-gesang]   # the rest is ~800 kids' dance, fitness and craft dates
 
+  - id: pasinger-fabrik
+    name: Pasinger Fabrik
+    kind: venue
+    url: https://www.pasinger-fabrik.de/
+    adapter: tribe_events
+    enabled: true
+    default_type: concert
+    filter: blues          # Pasing culture centre; blues/roots acts (Rusty Stone, Ludwig Seuss, Rad Gumbo) say so only in the blurb
+    params:
+      categories: [musik]  # ~35 upcoming; the rest is theatre, cabaret, opera, film, courses
+      venue_prefix: Pasinger Fabrik   # the API names only the room ("Wagenhalle", "Kleine Bühne")
+
+  - id: ars-musica
+    name: ars musica e.V.
+    kind: venue
+    url: https://www.ars-musica-muenchen.de/
+    adapter: arsmusica
+    enabled: true
+    default_type: concert
+    filter: blues          # Sendling music association; small folk/songwriter concerts, genre line kept as a tag
+
   # --- Aggregators ---------------------------------------------------------
   - id: swinginmunich
     name: SwinginMunich.de
@@ -248,3 +269,19 @@ sources:
 #      https://interim-kultur.de/Programm/
 #      found 2026-10-23. Programme is loaded by JavaScript (empty in the HTML); mostly jazz/theatre, no upcoming
 #      blues dates seen. Its listings appear on IN München, which catches blues-titled ones.
+#  Neighbourhood culture associations (Stadtteilkultur), checked 2026-10-28 from the city's lists
+#  (stadt.muenchen.de/infos/kulturvereine-initiativen.html and the Stadtteilkulturzentren listing):
+#  - UBO 9 (Sendling) — http://www.ubo9.de
+#      runs The Events Calendar (adapter: tribe_events works as-is). Mostly swing/jazz; only blues hit
+#      so far was a photo exhibition ("Faces of the Blues"). Enable with filter: blues_title if that changes.
+#  - Kunst in Sendling e.V. — https://www.kunst-in-sendling.com
+#      runs The Events Calendar (tribe_events works); 18 upcoming events, none blues.
+#  - Bürgersaal Fürstenried — http://www.buergersaal-fuerstenried.de
+#      runs The Events Calendar (tribe_events works); 13 upcoming events, none blues.
+#  - Truderinger Kulturkreis — https://www.truderingerkulturkreis.de
+#      recurring Haberjazzband concerts (blues, Dixieland, swing). Jimdo site, no feed; needs a custom adapter.
+#  - EineWeltHaus — http://www.einewelthaus.de
+#      occasional jazz/blues improvisation workshops (David Becker), WordPress without a calendar API.
+#  - Others with music programmes but no blues seen on their homepage: Kulturhaus Milbertshofen,
+#      Kulturzentrum Trudering, Kultur-Forum2, Kulturforum München-West, Pelkovenschlössl, LUISE Kulturzentrum
+#      (ars musica's venue, covered above), Kulturkeller, Seidlvilla, Die Linie 1, Mohr-Villa.

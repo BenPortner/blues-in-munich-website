@@ -1,5 +1,6 @@
 """Importing this package registers every adapter module."""
 from . import (  # noqa: F401
+    arsmusica,
     boogie_baeren,
     gansamwasser,
     glockenbachwerkstatt,

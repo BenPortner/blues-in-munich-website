@@ -33,3 +33,9 @@ def test_tribe_events_scrape(make_ctx):
     events = tribe_events.scrape(source, ctx)
     assert events and ctx.http.calls == [
         (API, {"per_page": 50, "categories": "musik,musik-gesang", "page": 1})]
+
+
+def test_tribe_events_venue_prefix():
+    events = tribe_events.parse(json.loads(fixture("ackermannbogen_events.json")), venue_prefix="Ackermannbogen")
+    soul = next(e for e in events if e.title == "Be My Guest - Soul Charade")
+    assert soul.venue == "Ackermannbogen – KreativGarage Studio"

@@ -1,0 +1,350 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"> 
+
+<html>
+
+<head>
+
+	<title>ars musica :: Bühne :: Verein :: Musik :: München - Veranstaltungen</title>
+
+	<meta name="author" content="intrack – Dr. Anil K. Jain">
+	<meta name="publisher" content="ars musica e.V.">
+	<meta name="description" lang="de" content="Auf dieser Seite erhalten Sie eine Übersicht über aktuelle Veranstaltungen/Events.">
+	<meta name="keywords" lang="de" content="Event, Events, Veranstaltung, Veranstaltungen">
+	<meta name="robots" content="index,follow">
+	<meta http-equiv="expires" content="0">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta http-equiv="Content-Script-Type" content="text/javascript">
+
+	<link rel="shortcut icon" href="modules/../favicon.ico">
+	<link rel="stylesheet" type="text/css" href="modules/../formate.css">
+	
+	<meta name="viewport" content="width=1220">
+
+
+	<link rel="stylesheet" type="text/css" href="https://www.ars-musica-muenchen.de/MenuModule.css">
+	
+	<style type="text/css">
+	<!--
+
+	/* this is put here so that it can be overwritten later on in files including header.inc.php */
+
+	body {
+        margin: 0px;
+		padding: 0px
+	}
+
+	div#background {
+		background: #32749B
+	}
+
+	div#center {
+		background: #32749B
+	}
+
+	div#menu {
+		background: #F36E44;
+		width: 1200px;
+		z-index: 99
+	}
+
+	div#container_content_menu {
+		background: white
+	}
+
+	div#submenu {
+		background: transparent
+	}
+
+	img#logo {
+		width: 431px;
+		height: 308px
+    }
+
+	/* margin-left should be same as menu width and both should have the same height */
+	div#content {
+		width: 850px;
+		min-height: 1000px;
+		height: auto !important;
+		height: 1000px;
+		margin-right: 350px;
+		background-repeat: no-repeat;
+		background-position: center bottom;
+		background-image: none;
+		background-color: white
+	}
+
+	div#content_padding {
+		padding-left: 40px;
+		padding-right: 40px;
+		padding-top: 80px;
+		padding-bottom: 80px
+	}
+
+	div#footer {
+		clear: both;
+		left: 0px;
+		top: 0px;
+		height: auto;
+		width: 100%;
+		background: #F36E44;
+		color: white;
+	}
+
+	div#footer p {
+	    color: white
+	}
+
+	div#footer_padding {
+	    padding: 20px
+	}
+
+	a#button_newsletter div {
+		width: 310px;
+		height: 80px;
+		background: url(button_newsletter_lo.png)
+	}
+	a#button_newsletter:hover div, a#button_newsletter:focus div, a#button_newsletter:active div {
+		background: url(button_newsletter_hi.png)
+	}
+	a#button_mitglied div {
+		width: 310px;
+		height: 80px;
+		background: url(button_mitglied_lo.png)
+	}
+	a#button_mitglied:hover div, a#button_mitglied:focus div, a#button_mitglied:active div {
+		background: url(button_mitglied_hi.png)
+	}
+	a#button_karten div {
+		width: 310px;
+		height: 80px;
+		background: url(button_karten_lo.png)
+	}
+	a#button_karten:hover div, a#button_karten:focus div, a#button_karten:active div {
+		background: url(button_karten_hi.png)
+	}
+	a#button_facebook div {
+		position: relative;
+		left: 58px;
+		top: 20px;
+		width: 194px;
+		height: 193px;
+		background: url(button_facebook_lo.png)
+	}
+	a#button_facebook:hover div, a#button_facebook:focus div, a#button_facebook:active div {
+		background: url(button_facebook_hi.png)
+	}
+
+	/*a#back-top div {
+		position: relative;
+		left: 58px;
+		top: 20px;
+		width: 194px;
+		height: 193px;
+		background: url(topsprung_lo.png)
+	}
+	a#back-top:hover div, a#back-top:focus div, a#back-top:active div {
+		background: url(topsprung_hi.png)
+	}*/
+
+	#back-top_link {
+		position: fixed;
+		bottom: 100px;
+		right: 20px;
+	}
+
+	#back-top a {
+		width: 60px;
+		height: 67px;
+		display: block;
+		vertical-align: middle;
+		background: url(topsprung_lo.png);
+		transition: 1s;
+	}
+
+	#back-top a:hover {
+		color: black;
+		background: url(topsprung_hi.png);
+	}
+
+	#back-top a {
+
+	}
+
+	#back-top a:hover {
+
+	}
+
+	-->
+	</style>
+
+	<script type="text/javascript" language="JavaScript" src="https://www.ars-musica-muenchen.de/jquery/jquery.min.js"></script>
+
+	<script type="text/javascript" language="JavaScript">
+	$(document).ready(function(){
+
+		// hide #back-top first
+		$("#back-top_link").hide();
+
+		// fade in #back-top
+		$(function () {
+			$('#background').scroll(function () {
+				if ($('#background').scrollTop() > 100) {
+					$('#back-top_link').fadeIn();
+				} else {
+					$('#back-top_link').fadeOut();
+				}
+			});
+
+			// scroll body to 0px on click
+			$('#back-top a').click(function () {
+				$('#background').animate({
+					scrollTop: 0
+				}, 800);
+				return false;
+			});
+		});
+
+	});
+	</script>
+
+	<script type="text/javascript" language="JavaScript" src="https://www.ars-musica-muenchen.de/sm-iepng.js" defer="defer" charset="ISO-8859-1"></script> <!-- This script adds PNG-Support to IE 5.5 and 6 -->
+
+	<link rel="stylesheet" type="text/css" href="EventModule.css">
+	<link rel="stylesheet" type="text/css" href="modules/../lytebox/lytebox.css" media="screen">
+	<style type="text/css">
+	<!--
+	.event_titleelements {
+		font-family: pt_sans_narrowregular, Verdana, Arial, Helvetica, sans-serif;
+		text-transform: none;
+		color: gray;
+	}
+	.event_date, .event_date_over {
+		color: #0C90BB;
+	}
+	-->
+	</style>
+
+	<script type="text/javascript" language="JavaScript" src="modules/../lytebox/lytebox_ger.js"></script>
+	<script type="text/javascript" language="JavaScript" src="modules/../checkframeset.php"></script>
+	<script type="text/javascript" language="JavaScript">
+		top.document.title = document.title;
+	</script>
+
+</head>
+
+<body>
+	<div style="position: fixed; width: 100%; ; height:&nbsp;1px;&nbsp;text-align: center; background: transparent;">
+	<div style="width: 1200px; padding-top: 0px; left: 50%; height: 1px; text-align: left; margin: auto; background: transparent">
+	<div style="position: relative; left: 850px; top: 80px; width: 310px; height: auto; z-index: 99">
+	<a id="button_newsletter" href="newsletter.php" title="Newsletter bestellen"><div></div></a>
+	<a id="button_mitglied" href="page.php?id=2" title="Mitglied werden"><div></div></a>
+	<a id="button_karten" href="page.php?id=6" title="Karten bestellen"><div></div></a>
+	<a id="button_facebook" href="https://www.facebook.com/pages/Ars-musica-eV/502708299843358" target="_blank"><div></div></a>
+	</div>
+	</div>
+	</div>
+	
+
+<!-- background -->
+<div id="background" style="width: 100%; height: 100%; overflow: auto; overflow-y: scroll; -webkit-overflow-scrolling: touch; position: fixed; left: 0px; top: 0px; text-align: center; z-index: -1">
+<div style="position: absolute; top: 0px; left: 0px; background: #AE320A; width: 100%; height: 400px; z-index: -1"></div>
+<div style="position: absolute; top: 400px; left: 0px; background: #E44816; width: 100%; height: 100px; z-index: -1"></div>
+
+<!-- center -->
+<div id="center" style="width: 1200px; padding-top: 0px; left: 50%; height: auto; text-align: left; margin: auto">
+
+
+<!-- header and menu -->
+<div id="menu" style="width: 100%; height: 500px;">
+<iframe src="slideshow/slideshow_js.php?lang=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="position: relative; top: 0px; left: 0px; overflow-x: hidden; overflow-y: hidden; width: 1200px; height: 400px" allowtransparency="true"></iframe><div style="width: 100%; height: 30px"></div><a href="https://www.ars-musica-muenchen.de/index.php?lang=de" target="_self"><img id="logo" src="https://www.ars-musica-muenchen.de/logo.png" alt="Logo" title="Zurück zur Startseite" style="position: relative; top: -400px; left: 40px; z-index: 99" sm:iepng="true"></a><nav><ul class="horizontal_menu_l1"><li class="horizontal_menu_l1"><a class="horizontal_menu_l1" href="index.php" target="_self">Home</a></li><li class="horizontal_menu_l1"><a class="horizontal_menu_l1_superitem" href="page.php?id=1&amp;lang=de&amp;title=%C3%9Cber%20Uns" target="_self">Verein</a><ul class="horizontal_menu_l2"><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="page.php?id=1&amp;lang=de&amp;title=%C3%9Cber%20Uns" target="_self">Über Uns</a></li><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="news.php?shortlisting=true" target="_self">Neues</a></li><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="page.php?id=2&amp;lang=de&amp;title=Mitgliedschaft" target="_self">Mitglied werden</a></li><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="page.php?id=4&amp;lang=de&amp;title=Satzung" target="_self">Satzung</a></li><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="team.php?shortlisting=true" target="_self">Team</a></li><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="page.php?id=13&amp;lang=de&amp;title=Spenden" target="_self">Spenden</a></li><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="page.php?id=8&amp;lang=de&amp;title=Geschichte" target="_self">Geschichte</a></li></ul></li><li class="horizontal_menu_l1"><a class="horizontal_menu_l1_superitem" href="events.php?shortlisting=true" target="_self">Programm</a><ul class="horizontal_menu_l2"><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="events.php?shortlisting=true" target="_self">Übersicht</a></li><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="page.php?id=6&amp;lang=de&amp;title=Vorverkauf" target="_self">Vorverkauf</a></li><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="events_archive.php?shortlisting=true" target="_self">Archiv</a></li><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="page.php?id=14&amp;lang=de&amp;title=HYGIENE" target="_self">HYGIENE</a></li></ul></li><li class="horizontal_menu_l1"><a class="horizontal_menu_l1_superitem" href="contact.php" target="_self">Kontakt</a><ul class="horizontal_menu_l2"><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="page.php?id=21&amp;lang=de&amp;title=Schreiben%20Sie%20uns" target="_self">Schreiben Sie uns</a></li><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="newsletter.php" target="_self">Newsletter</a></li><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="imprint.php" target="_self">Impressum</a></li><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="page.php?id=12&amp;lang=de&amp;title=Datenschutz" target="_self">Datenschutz</a></li></ul></li><li class="horizontal_menu_l1"><a class="horizontal_menu_l1_superitem" href="page.php?id=15&amp;lang=de&amp;title=Westpark%20Theatron" target="_self">Spielorte</a><ul class="horizontal_menu_l2"><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="page.php?id=15&amp;lang=de&amp;title=Westpark%20Theatron" target="_self">Westpark Theatron</a></li><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="page.php?id=16&amp;lang=de&amp;title=Kleine%20Zirkuswiese%20im%20Westpark" target="_self">Kleine Zirkuswiese</a></li><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="page.php?id=19&amp;lang=de&amp;title=LUISE%20Kulturzentrum" target="_self">LUISE Kulturzentrum</a></li><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="page.php?id=20&amp;lang=de&amp;title=Wirtshaus%20Tannengarten" target="_self">Tannengarten</a></li><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="page.php?id=22&amp;lang=de&amp;title=B%C3%BChne%20im%20Musikladen%20ars%20musica" target="_self">Musikladen ars musica</a></li></ul></li><li class="horizontal_menu_l1"><a class="horizontal_menu_l1_superitem" href="sitemap.php" target="_self">Service</a><ul class="horizontal_menu_l2"><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="gallery.php" target="_self">Galerie</a></li><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="sitemap.php" target="_self">Sitemap</a></li><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="downloads.php?shortlisting=true" target="_self">Downloads</a></li><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="links.php" target="_self">Links</a></li><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="page.php?id=11&amp;lang=de&amp;title=Musikerinfos" target="_self">Musikerinfos</a></li><li class="horizontal_menu_l2"><a class="horizontal_menu_l2" href="page.php?id=9&amp;lang=de&amp;title=Videos" target="_self">Videos</a></li></ul></li></ul></nav>
+</div>
+
+<!-- header and menu end -->
+
+<!-- container for content and submenu -->
+<div id="container_content_menu" style="height: auto">
+
+
+
+<!-- content -->
+<div id="content">
+
+<a name="top"></a>
+
+<!-- padding for content  -->
+<div id="content_padding">
+
+
+<div style="position: relative; left: 0px; top: 0px; width: 100%; text-align: right; margin-bottom: 20px"><a href="events_archive.php?shortlisting=true" target="_self">zum Veranstaltungsarchiv &hellip;</a></div>
+<h1>Veranstaltungen</h1>
+
+<div style="margin-bottom: 25px"><p style="font-size: 14.000000953674316px;"><span style="font-family: pt_sansbold, Verdana, Arial, Helvetica, sans-serif;">Liebe Zuschauer*innen und Freund*innen von ars musica</span></p>
+
+<p style="font-size: 14.000000953674316px;"><span style="font-size: 14.000001px;">bitte bestellen Sie Ihre Karten &uuml;ber Ticketino oder per Telefon immer rechtzeitig. Nat&uuml;rlich freuen wir uns auch &uuml;ber spontane Besucher und Besucherinnen, aber f&uuml;r unsere Planung oder falls wir Sie verst&auml;ndigen m&uuml;ssen ist es einfach praktischer. Vielen Dank f&uuml;r Ihre Mithilfe.</span></p>
+
+<p style="font-size: 14.000000953674316px;"><span style="font-size: 14.000001px;">Herzliche Gr&uuml;&szlig;e vom ars musica Team</span></p>
+</div><div class="line">&nbsp;</div><a name="event_2587"></a><span class="event_categoryelements">Flamenco - Rumba - Fiesta</span><br /><h2 class="event_titleelements">LA VIDA LOCA - Ricardo Volkert & Ensemble</h2><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events_parent"><tr><td class="event_image"><img src="./core/../modules/../images/events/2587_thumbnail.jpg" width="128" alt="" class="event_thumbnail" /></td><td><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events">
+&bdquo;La Vida Loca&ldquo; - nach ein paar T&ouml;nen schon tr&auml;umt sich der von seiner Bandscheibe geplagte Mitteleurop&auml;er jenseits von Schreibtisch und Werkstatt nach Andalusien- Flamenco, Rumba - und ans endlos sch&ouml;ne Meer. …<br /><br /><tr><td class="caption">Datum:</td><td class="event_date">Mi, 28.10.2026, 19:30 Uhr</td></tr><tr><td class="caption">Veranstalter:</td><td class="event_organizer">ars musica e.V.</td></tr><tr><td class="caption">Location:</td><td class="event_location">LUISE Kulturzentrum</td></tr><tr><td class="caption">Adresse:</td><td class="event_address">Ruppertstraße 5,&nbsp;80337&nbsp;München</td></tr></table></td></tr></table><div style="width: 80px; text-align: right; position: relative; left: 687px; top: 10px; padding-top: 3px; padding-right: 3px; border-top: 1px solid #F36E44"><a href="event_details.php?id=2587&amp;title=LA%20VIDA%20LOCA%20-%20Ricardo%20Volkert%20%26amp%3B%20Ensemble" target="_self"><img src="../../arrow_details.png" width="28" height="7" alt=""> Details</a></div><div class="line">&nbsp;</div><a name="event_2586"></a><span class="event_categoryelements">Singer-/Songwriter Blues Folk</span><br /><h2 class="event_titleelements">That Friday Feeling</h2><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events_parent"><tr><td class="event_image"><img src="./core/../modules/../images/events/2586_thumbnail.jpg" width="128" alt="" class="event_thumbnail" /></td><td><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events">
+Hinter dem Namen &bdquo;THAT FRIDAY FEELING&ldquo; verbirgt sich ein neues Singer/Songwriter-Duo, bestehend aus der talentierten S&auml;ngerin und Gitarristin Kristina McClave sowie dem Bluesgitarristen und Songwriter Robert Richter. …<br /><br /><tr><td class="caption">Datum:</td><td class="event_date">Do, 29.10.2026, 19:30 Uhr</td></tr><tr><td class="caption">Veranstalter:</td><td class="event_organizer">ars musica e.V.</td></tr><tr><td class="caption">Location:</td><td class="event_location">Salettl im Tannengarten</td></tr><tr><td class="caption">Adresse:</td><td class="event_address">Pfeuferstraße 32,&nbsp;81373&nbsp;München</td></tr></table></td></tr></table><div style="width: 80px; text-align: right; position: relative; left: 687px; top: 10px; padding-top: 3px; padding-right: 3px; border-top: 1px solid #F36E44"><a href="event_details.php?id=2586&amp;title=That%20Friday%20Feeling" target="_self"><img src="../../arrow_details.png" width="28" height="7" alt=""> Details</a></div><div class="line">&nbsp;</div><a name="event_2576"></a><span class="event_categoryelements">Folk mit einer Prise Bluegrass und Blues</span><br /><h2 class="event_titleelements">Matching Ties Duo & Special Guest Rosena Horan-Irland</h2><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events_parent"><tr><td class="event_image"><img src="./core/../modules/../images/events/2576_thumbnail.jpg" width="128" alt="" class="event_thumbnail" /></td><td><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events">
+Matching Ties Duo: Die zwei f&uuml;hrenden Folk-Musiker der europ&auml;ischen Szene mit den zusammenpassenden Krawatten Paul Stowe (USA) und Trevor Morriss (GB) spielen eine vielf&auml;ltige und einzigartige Mischung aus irischem, englischem und schottischem Folk mit einer Prise Bluegrass und Blues auf traditionellen Saiteninstrumenten wie Gitarren, Mandolinen und Banjo sowie Mundharmonikas und Bodhr&aacute;n (irischer Trommel). …<br /><br /><tr><td class="caption">Datum:</td><td class="event_date">Do, 12.11.2026, 19:30 Uhr</td></tr><tr><td class="caption">Veranstalter:</td><td class="event_organizer">ars musica e.V.</td></tr><tr><td class="caption">Location:</td><td class="event_location">Salettl im Tannengarten</td></tr><tr><td class="caption">Adresse:</td><td class="event_address">Pfeuferstr. 32,&nbsp;81377&nbsp;München</td></tr></table></td></tr></table><div style="width: 80px; text-align: right; position: relative; left: 687px; top: 10px; padding-top: 3px; padding-right: 3px; border-top: 1px solid #F36E44"><a href="event_details.php?id=2576&amp;title=Matching%20Ties%20Duo%20%26amp%3B%20Special%20Guest%20Rosena%20Horan-Irland" target="_self"><img src="../../arrow_details.png" width="28" height="7" alt=""> Details</a></div><div class="line">&nbsp;</div><a name="event_2585"></a><span class="event_categoryelements">Pop-Rock-Klassiker unplugged und unkonventionell</span><br /><h2 class="event_titleelements">Baltazar & Frau Feierabend</h2><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events_parent"><tr><td class="event_image"><img src="./core/../modules/../images/events/2585_thumbnail.jpg" width="128" alt="" class="event_thumbnail" /></td><td><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events">
+Baltazar (p) &amp; Frau Feierabend (voc) machen sich die Musik, wie sie ihnen
+gef&auml;llt. …<br /><br /><tr><td class="caption">Datum:</td><td class="event_date">Fr, 13.11.2026, 19:30 Uhr</td></tr><tr><td class="caption">Veranstalter:</td><td class="event_organizer">ars musica e.V.</td></tr><tr><td class="caption">Location:</td><td class="event_location">ars musica Musikladen</td></tr><tr><td class="caption">Adresse:</td><td class="event_address">Lindwurmstraße 201,&nbsp;80337&nbsp;München</td></tr></table></td></tr></table><div style="width: 80px; text-align: right; position: relative; left: 687px; top: 10px; padding-top: 3px; padding-right: 3px; border-top: 1px solid #F36E44"><a href="event_details.php?id=2585&amp;title=Baltazar%20%26amp%3B%20Frau%20Feierabend" target="_self"><img src="../../arrow_details.png" width="28" height="7" alt=""> Details</a></div><div class="line">&nbsp;</div><a name="event_1979"></a><span class="event_categoryelements">Kurs</span><br /><h2 class="event_titleelements">Singende Säge - Anfängerkurs</h2><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events_parent"><tr><td class="event_image"><img src="./core/../modules/../images/events/1979_thumbnail.jpg" width="128" alt="" class="event_thumbnail" /></td><td><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events">Jubiläum - 20 Jahre Kurse für Singende Säge in München
+Inhalte des Kurses:
+- Tonerzeugung mit den Händen und mit dem Filzschlägel auf dem „Sägeblatt“
+- Entdecken einzelner Töne und Umgang mit dem Stimmgerät
+- Sphärische Klänge wie Wind & Walgesang zu Hintergrundsound (CD)
+- Tonleiter und Intervall- Übungen - Hummelflug?
+Und: Wir werden Spaß haben ;-)
+Kontakt zum Kursleiter bei Fragen: mail@singendesaege. …<br /><br /><tr><td class="caption">Datum:</td><td class="event_date">Sa, 14.11.2026, 14:00 Uhr</td></tr><tr><td class="caption">Location:</td><td class="event_location">Musikladen ars musica</td></tr><tr><td class="caption">Adresse:</td><td class="event_address">Lindwurmstraße 201,&nbsp;</td></tr></table></td></tr></table><div style="width: 80px; text-align: right; position: relative; left: 687px; top: 10px; padding-top: 3px; padding-right: 3px; border-top: 1px solid #F36E44"><a href="event_details.php?id=1979&amp;title=Singende%20S%C3%A4ge%20-%20Anf%C3%A4ngerkurs" target="_self"><img src="../../arrow_details.png" width="28" height="7" alt=""> Details</a></div><div class="line">&nbsp;</div><a name="event_2593"></a><span class="event_categoryelements">Rock, Pop, Latin & Funk</span><br /><h2 class="event_titleelements">Living Tones</h2><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events_parent"><tr><td class="event_image"><img src="./core/../modules/../images/events/2593_thumbnail.jpg" width="128" alt="" class="event_thumbnail" /></td><td><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events">
+Energiegeladen, verspielt und mit einer ordentlichen Portion Freude. …<br /><br /><tr><td class="caption">Datum:</td><td class="event_date">Do, 26.11.2026, 19:30 Uhr</td></tr><tr><td class="caption">Veranstalter:</td><td class="event_organizer">ars musica e.V.</td></tr><tr><td class="caption">Location:</td><td class="event_location">LUISE Kulturzentrum</td></tr><tr><td class="caption">Adresse:</td><td class="event_address">Ruppertstraße 5,&nbsp;80337&nbsp;München</td></tr></table></td></tr></table><div style="width: 80px; text-align: right; position: relative; left: 687px; top: 10px; padding-top: 3px; padding-right: 3px; border-top: 1px solid #F36E44"><a href="event_details.php?id=2593&amp;title=Living%20Tones" target="_self"><img src="../../arrow_details.png" width="28" height="7" alt=""> Details</a></div><div class="line">&nbsp;</div><a name="event_2580"></a><span class="event_categoryelements">Gitarrenkonzert</span><br /><h2 class="event_titleelements">Delta X - "Lux Fabula"</h2><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events_parent"><tr><td class="event_image"><img src="./core/../modules/../images/events/2580_thumbnail.jpg" width="128" alt="" class="event_thumbnail" /></td><td><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events">
+&quot;Zwei K&uuml;nstler mit Leidenschaft f&uuml;r die Weltmusik, die keine
+Grenzen kennt&ldquo; (SZ)
+Das Duo verbindet Generationen und musikalische Welten in einer einzigartigen Performance, die klassische Virtuosit&auml;t und moderne Klangwelten vereint; ein Programm, das sowohl traditionelle als auch zeitgen&ouml;ssische Musikliebhaber begeistert. …<br /><br /><tr><td class="caption">Datum:</td><td class="event_date">Do, 03.12.2026, 19:30 Uhr</td></tr><tr><td class="caption">Veranstalter:</td><td class="event_organizer">ars musica e.V.</td></tr><tr><td class="caption">Location:</td><td class="event_location">Salettl im Tannengarten</td></tr><tr><td class="caption">Adresse:</td><td class="event_address">Pfeuferstr. 32,,&nbsp;81377&nbsp;München</td></tr></table></td></tr></table><div style="width: 80px; text-align: right; position: relative; left: 687px; top: 10px; padding-top: 3px; padding-right: 3px; border-top: 1px solid #F36E44"><a href="event_details.php?id=2580&amp;title=Delta%20X%20-%20%26quot%3BLux%20Fabula%26quot%3B" target="_self"><img src="../../arrow_details.png" width="28" height="7" alt=""> Details</a></div><div class="line">&nbsp;</div><a name="event_2592"></a><span class="event_categoryelements">Balkan & Jazz</span><br /><h2 class="event_titleelements">Sigi Finkel & Zoltan Migovics - Puszta</h2><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events_parent"><tr><td class="event_image"><img src="./core/../modules/../images/events/2592_thumbnail.jpg" width="128" alt="" class="event_thumbnail" /></td><td><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events">
+Balkan &amp; Jazz &ndash; eine neue Variante dieses Themas pr&auml;sentieren Sigi Finkel und Zoltan Migovics mit ihrem Duo. …<br /><br /><tr><td class="caption">Datum:</td><td class="event_date">Fr, 04.12.2026, 19:30 Uhr</td></tr><tr><td class="caption">Veranstalter:</td><td class="event_organizer">ars musica e.V.</td></tr><tr><td class="caption">Location:</td><td class="event_location">LUISE Kulturzentrum</td></tr><tr><td class="caption">Adresse:</td><td class="event_address">Ruppertstraße 5,&nbsp;80337&nbsp;München</td></tr></table></td></tr></table><div style="width: 80px; text-align: right; position: relative; left: 687px; top: 10px; padding-top: 3px; padding-right: 3px; border-top: 1px solid #F36E44"><a href="event_details.php?id=2592&amp;title=Sigi%20Finkel%20%26amp%3B%20Zoltan%20Migovics%20-%20Puszta" target="_self"><img src="../../arrow_details.png" width="28" height="7" alt=""> Details</a></div><div class="line">&nbsp;</div><a name="event_2590"></a><span class="event_categoryelements">Konzert</span><br /><h2 class="event_titleelements">‚Same Old Story‘  - Vinylpräsentation</h2><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events_parent"><tr><td class="event_image"><img src="./core/../modules/../images/events/2590_thumbnail.jpg" width="128" alt="" class="event_thumbnail" /></td><td><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events">Sascha Bibergeil, bekannt unter seinem Künstlernamen Saschmo, ist Gitarrist, Sänger, Songwriter und Gitarrenlehrer. …<br /><br /><tr><td class="caption">Datum:</td><td class="event_date">Fr, 11.12.2026, 19:30 Uhr</td></tr><tr><td class="caption">Veranstalter:</td><td class="event_organizer">ars musica e.V.</td></tr><tr><td class="caption">Location:</td><td class="event_location">Musikladen ars musica</td></tr><tr><td class="caption">Adresse:</td><td class="event_address">Lindwurmstraße, 201,&nbsp;80337&nbsp;München</td></tr></table></td></tr></table><div style="width: 80px; text-align: right; position: relative; left: 687px; top: 10px; padding-top: 3px; padding-right: 3px; border-top: 1px solid #F36E44"><a href="event_details.php?id=2590&amp;title=%E2%80%9ASame%20Old%20Story%E2%80%98%20%20-%20Vinylpr%C3%A4sentation" target="_self"><img src="../../arrow_details.png" width="28" height="7" alt=""> Details</a></div><div class="line">&nbsp;</div><a name="event_2583"></a><span class="event_categoryelements">Improvisierte Musik</span><br /><h2 class="event_titleelements">Udo Schindler & Sebastiano Tramontana</h2><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events_parent"><tr><td class="event_image"><img src="./core/../modules/../images/events/2583_thumbnail.jpg" width="128" alt="" class="event_thumbnail" /></td><td><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events">Die beiden Musiker Udo Schindler & Sebastiano Tramontana sind international renommierte Akteure der improvisierten experimentellen Musik und schaffen mit unkonventionellen Vorgehensweisen neue Klänge und Klangerlebnisse. …<br /><br /><tr><td class="caption">Datum:</td><td class="event_date">Fr, 18.12.2026, 19:30 Uhr</td></tr><tr><td class="caption">Veranstalter:</td><td class="event_organizer">ars musica e.V.</td></tr><tr><td class="caption">Location:</td><td class="event_location">ars musica Musikladen</td></tr><tr><td class="caption">Adresse:</td><td class="event_address">Lindwurmstraße 201,&nbsp;80337&nbsp;München</td></tr></table></td></tr></table><div style="width: 80px; text-align: right; position: relative; left: 687px; top: 10px; padding-top: 3px; padding-right: 3px; border-top: 1px solid #F36E44"><a href="event_details.php?id=2583&amp;title=Udo%20Schindler%20%26amp%3B%20Sebastiano%20Tramontana" target="_self"><img src="../../arrow_details.png" width="28" height="7" alt=""> Details</a></div><div class="line">&nbsp;</div><a name="event_2591"></a><span class="event_categoryelements">Flamenco</span><br /><h2 class="event_titleelements">LUCERO ¡Flamenco!</h2><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events_parent"><tr><td class="event_image"><img src="./core/../modules/../images/events/2591_thumbnail.jpg" width="128" alt="" class="event_thumbnail" /></td><td><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events">
+Lucero - ein heller Stern, der sowohl den Abendhimmel erleuchtet als auch den Morgen mit seinem Licht ank&uuml;ndigt. …<br /><br /><tr><td class="caption">Datum:</td><td class="event_date">Fr, 15.01.2027, 19:30 Uhr</td></tr><tr><td class="caption">Veranstalter:</td><td class="event_organizer">ars musica e.V.</td></tr><tr><td class="caption">Location:</td><td class="event_location">LUISE Kulturzentrum</td></tr><tr><td class="caption">Adresse:</td><td class="event_address">Ruppertstraße 5,&nbsp;80337&nbsp;München</td></tr></table></td></tr></table><div style="width: 80px; text-align: right; position: relative; left: 687px; top: 10px; padding-top: 3px; padding-right: 3px; border-top: 1px solid #F36E44"><a href="event_details.php?id=2591&amp;title=LUCERO%20%C2%A1Flamenco%21" target="_self"><img src="../../arrow_details.png" width="28" height="7" alt=""> Details</a></div><div class="line">&nbsp;</div><a name="event_2594"></a><span class="event_categoryelements">Loop Kunst</span><br /><h2 class="event_titleelements">Lidloop – Klang in Bewegung</h2><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events_parent"><tr><td class="event_image"><img src="./core/../modules/../images/events/2594_thumbnail.jpg" width="128" alt="" class="event_thumbnail" /></td><td><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events">
+Handgemachte Live-Elektronik &amp; pulsierende Loop-Kunst
+Martin Lidl (Ex-LesDerhosn, FeiScho) erschafft als Ein-Mensch-Band vielschichtige Klangwelten zum Tanzen und Staunen. …<br /><br /><tr><td class="caption">Datum:</td><td class="event_date">Fr, 05.02.2027, 19:30 Uhr</td></tr><tr><td class="caption">Veranstalter:</td><td class="event_organizer">ars musica e.V.</td></tr><tr><td class="caption">Location:</td><td class="event_location">Musikladen ars musica</td></tr><tr><td class="caption">Adresse:</td><td class="event_address">Lindwurmstraße 201,&nbsp;80337&nbsp;München</td></tr></table></td></tr></table><div style="width: 80px; text-align: right; position: relative; left: 687px; top: 10px; padding-top: 3px; padding-right: 3px; border-top: 1px solid #F36E44"><a href="event_details.php?id=2594&amp;title=Lidloop%20%E2%80%93%20Klang%20in%20Bewegung" target="_self"><img src="../../arrow_details.png" width="28" height="7" alt=""> Details</a></div><div class="line">&nbsp;</div><a name="event_2561"></a><span class="event_categoryelements">Kleinkunst-Pop aus der tiefsten Provinz</span><br /><h2 class="event_titleelements">Shakti und Matze</h2><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events_parent"><tr><td class="event_image"><img src="./core/../modules/../images/events/2561_thumbnail.jpg" width="128" alt="" class="event_thumbnail" /></td><td><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events">Die meiste W&auml;rme verlierst du &uuml;ber&rsquo;n Kopf &ndash; du k&ouml;nntest dir jetzt einfach eine M&uuml;tze aufsetzen oder aber ein Konzert von Shakti und Matze besuchen. …<br /><br /><tr><td class="caption">Datum:</td><td class="event_date">Fr, 12.03.2027, 19:30 Uhr</td></tr><tr><td class="caption">Veranstalter:</td><td class="event_organizer">ars musica e.V.</td></tr><tr><td class="caption">Location:</td><td class="event_location">ars musica Musikladen</td></tr><tr><td class="caption">Adresse:</td><td class="event_address">Lindwurmstraße 201,&nbsp;80337&nbsp;München</td></tr></table></td></tr></table><div style="width: 80px; text-align: right; position: relative; left: 687px; top: 10px; padding-top: 3px; padding-right: 3px; border-top: 1px solid #F36E44"><a href="event_details.php?id=2561&amp;title=Shakti%20und%20Matze" target="_self"><img src="../../arrow_details.png" width="28" height="7" alt=""> Details</a></div><div class="line">&nbsp;</div><a name="event_2534"></a><span class="event_categoryelements">Liebeslieder der Welt</span><br /><h2 class="event_titleelements">FALK & FELDMANN - Love for a while</h2><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events_parent"><tr><td class="event_image"><img src="./core/../modules/../images/events/2534_thumbnail.jpg" width="128" alt="" class="event_thumbnail" /></td><td><table cellpadding="0" cellspacing="0" summary="just for design purposes" class="events">Love for a while
+Die Liebe hat viele Facetten, spricht und klingt in der ganzen Welt dieselbe Klangsprache. …<br /><br /><tr><td class="caption">Datum:</td><td class="event_date">Fr, 19.03.2027, 19:30 Uhr</td></tr><tr><td class="caption">Veranstalter:</td><td class="event_organizer">ars musica e.V.</td></tr><tr><td class="caption">Location:</td><td class="event_location">Musikladen ars musica</td></tr><tr><td class="caption">Adresse:</td><td class="event_address">Lindwurmstraße 201,&nbsp;80337&nbsp;München</td></tr></table></td></tr></table><div style="width: 80px; text-align: right; position: relative; left: 687px; top: 10px; padding-top: 3px; padding-right: 3px; border-top: 1px solid #F36E44"><a href="event_details.php?id=2534&amp;title=FALK%20%26amp%3B%20FELDMANN%20-%20Love%20for%20a%20while" target="_self"><img src="../../arrow_details.png" width="28" height="7" alt=""> Details</a></div><div class="line"></div>
+<!-- close padding for content -->
+</div>
+
+<!-- close content -->
+</div>
+
+<div id="back-top">
+	<a id="back-top_link" href="#top"></a>
+</div>
+
+<!-- close container for content and submenu -->
+</div>
+
+<!-- footer -->
+<div id="footer">
+<div id="footer_padding">
+
+<p style="text-align: left;">ars musica e.V.<br />
+1. Vorstand: Roland Fritsch<br />
+2. Vorstand: Michael Eilert<br />
+Schatzmeister: Willi Seitz<br />
+Schriftf&uuml;hrung/Media: Frank McLynn&nbsp;<br />
+<br />
+Der Verein ars musica e.V. ist nicht verantwortlich f&uuml;r die Inhalte der verlinkten K&uuml;nstlerwebseiten und f&uuml;r die von den K&uuml;nstlern gelieferten Programminformationen.<br />
+<br />
+Lindwurmstra&szlig;e 201, 80337 M&uuml;nchen<br />
+<strong>Gef&ouml;rdert von der Landeshauptstadt M&uuml;nchen und der Initiative Musik gGmbH</strong></p>
+
+<p style="text-align: left;"><img alt="" src="https://www.ars-musica-muenchen.de/upload/images/projekt_gefoerdert.png" style="width: 300px; height: 109px;" /></p>
+
+</div>
+</div>
+<!-- footer end -->
+
+<!-- close center -->
+</div>
+
+<!-- close background -->
+</div>
+</body>
+
+</html>

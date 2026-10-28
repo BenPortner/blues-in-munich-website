@@ -1,0 +1,321 @@
+{
+ "scraped_at": "2026-10-28T19:03:13+00:00",
+ "status": {
+  "id": "ars-musica",
+  "name": "ars musica e.V.",
+  "url": "https://www.ars-musica-muenchen.de/",
+  "kind": "venue",
+  "status": "ok",
+  "found": 14
+ },
+ "events": [
+  {
+   "title": "LA VIDA LOCA - Ricardo Volkert & Ensemble",
+   "type": "concert",
+   "start": "2026-10-28T19:30",
+   "end": null,
+   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2587&title=LA%20VIDA%20LOCA%20-%20Ricardo%20Volkert%20%26amp%3B%20Ensemble",
+   "venue": "LUISE Kulturzentrum",
+   "address": "Ruppertstraße 5, 80337 München",
+   "description": "„La Vida Loca“ - nach ein paar Tönen schon träumt sich der von seiner Bandscheibe geplagte Mitteleuropäer jenseits von Schreibtisch und Werkstatt nach Andalusien- Flamenco, Rumba - und ans endlos schöne Meer.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Flamenco - Rumba - Fiesta"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "That Friday Feeling",
+   "type": "concert",
+   "start": "2026-10-29T19:30",
+   "end": null,
+   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2586&title=That%20Friday%20Feeling",
+   "venue": "Salettl im Tannengarten",
+   "address": "Pfeuferstraße 32, 81373 München",
+   "description": "Hinter dem Namen „THAT FRIDAY FEELING“ verbirgt sich ein neues Singer/Songwriter-Duo, bestehend aus der talentierten Sängerin und Gitarristin Kristina McClave sowie dem Bluesgitarristen und Songwriter Robert Richter.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Singer-/Songwriter Blues Folk"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Matching Ties Duo & Special Guest Rosena Horan-Irland",
+   "type": "concert",
+   "start": "2026-11-12T19:30",
+   "end": null,
+   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2576&title=Matching%20Ties%20Duo%20%26amp%3B%20Special%20Guest%20Rosena%20Horan-Irland",
+   "venue": "Salettl im Tannengarten",
+   "address": "Pfeuferstr. 32, 81377 München",
+   "description": "Matching Ties Duo: Die zwei führenden Folk-Musiker der europäischen Szene mit den zusammenpassenden Krawatten Paul Stowe (USA) und Trevor Morriss (GB) spielen eine vielfältige und einzigartige Mischung aus irischem, englischem und schottischem Folk mit einer Prise Bluegrass und Blues auf traditionellen Saiteninstrumenten wie Gitarren, Mandolinen und Banjo sowie Mundharmonikas und Bodhrán (irischer Trommel).",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Folk mit einer Prise Bluegrass und Blues"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Baltazar & Frau Feierabend",
+   "type": "concert",
+   "start": "2026-11-13T19:30",
+   "end": null,
+   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2585&title=Baltazar%20%26amp%3B%20Frau%20Feierabend",
+   "venue": "ars musica Musikladen",
+   "address": "Lindwurmstraße 201, 80337 München",
+   "description": "Baltazar (p) & Frau Feierabend (voc) machen sich die Musik, wie sie ihnen gefällt.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Pop-Rock-Klassiker unplugged und unkonventionell"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Singende Säge - Anfängerkurs",
+   "type": "class",
+   "start": "2026-11-14T14:00",
+   "end": null,
+   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=1979&title=Singende%20S%C3%A4ge%20-%20Anf%C3%A4ngerkurs",
+   "venue": "Musikladen ars musica",
+   "address": "Lindwurmstraße 201",
+   "description": "Jubiläum - 20 Jahre Kurse für Singende Säge in München Inhalte des Kurses: - Tonerzeugung mit den Händen und mit dem Filzschlägel auf dem „Sägeblatt“ - Entdecken einzelner Töne und Umgang mit dem Stimmgerät - Sphärische Klänge wie Wind & Walgesang zu Hintergrundsound (CD) - Tonleiter und Intervall- Übungen - Hummelflug? Und: Wir werden Spaß haben ;-) Kontakt zum Kursleiter bei Fragen: mail@singendesaege.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Kurs"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Living Tones",
+   "type": "concert",
+   "start": "2026-11-26T19:30",
+   "end": null,
+   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2593&title=Living%20Tones",
+   "venue": "LUISE Kulturzentrum",
+   "address": "Ruppertstraße 5, 80337 München",
+   "description": "Energiegeladen, verspielt und mit einer ordentlichen Portion Freude.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Rock, Pop, Latin & Funk"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Delta X - \"Lux Fabula\"",
+   "type": "concert",
+   "start": "2026-12-03T19:30",
+   "end": null,
+   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2580&title=Delta%20X%20-%20%26quot%3BLux%20Fabula%26quot%3B",
+   "venue": "Salettl im Tannengarten",
+   "address": "Pfeuferstr. 32, 81377 München",
+   "description": "\"Zwei Künstler mit Leidenschaft für die Weltmusik, die keine Grenzen kennt“ (SZ) Das Duo verbindet Generationen und musikalische Welten in einer einzigartigen Performance, die klassische Virtuosität und moderne Klangwelten vereint; ein Programm, das sowohl traditionelle als auch zeitgenössische Musikliebhaber begeistert.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Gitarrenkonzert"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Sigi Finkel & Zoltan Migovics - Puszta",
+   "type": "concert",
+   "start": "2026-12-04T19:30",
+   "end": null,
+   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2592&title=Sigi%20Finkel%20%26amp%3B%20Zoltan%20Migovics%20-%20Puszta",
+   "venue": "LUISE Kulturzentrum",
+   "address": "Ruppertstraße 5, 80337 München",
+   "description": "Balkan & Jazz – eine neue Variante dieses Themas präsentieren Sigi Finkel und Zoltan Migovics mit ihrem Duo.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Balkan & Jazz"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "‚Same Old Story‘ - Vinylpräsentation",
+   "type": "concert",
+   "start": "2026-12-11T19:30",
+   "end": null,
+   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2590&title=%E2%80%9ASame%20Old%20Story%E2%80%98%20%20-%20Vinylpr%C3%A4sentation",
+   "venue": "Musikladen ars musica",
+   "address": "Lindwurmstraße, 201, 80337 München",
+   "description": "Sascha Bibergeil, bekannt unter seinem Künstlernamen Saschmo, ist Gitarrist, Sänger, Songwriter und Gitarrenlehrer.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Konzert"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Udo Schindler & Sebastiano Tramontana",
+   "type": "concert",
+   "start": "2026-12-18T19:30",
+   "end": null,
+   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2583&title=Udo%20Schindler%20%26amp%3B%20Sebastiano%20Tramontana",
+   "venue": "ars musica Musikladen",
+   "address": "Lindwurmstraße 201, 80337 München",
+   "description": "Die beiden Musiker Udo Schindler & Sebastiano Tramontana sind international renommierte Akteure der improvisierten experimentellen Musik und schaffen mit unkonventionellen Vorgehensweisen neue Klänge und Klangerlebnisse.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Improvisierte Musik"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "LUCERO ¡Flamenco!",
+   "type": "concert",
+   "start": "2027-01-15T19:30",
+   "end": null,
+   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2591&title=LUCERO%20%C2%A1Flamenco%21",
+   "venue": "LUISE Kulturzentrum",
+   "address": "Ruppertstraße 5, 80337 München",
+   "description": "Lucero - ein heller Stern, der sowohl den Abendhimmel erleuchtet als auch den Morgen mit seinem Licht ankündigt.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Flamenco"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lidloop – Klang in Bewegung",
+   "type": "concert",
+   "start": "2027-02-05T19:30",
+   "end": null,
+   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2594&title=Lidloop%20%E2%80%93%20Klang%20in%20Bewegung",
+   "venue": "Musikladen ars musica",
+   "address": "Lindwurmstraße 201, 80337 München",
+   "description": "Handgemachte Live-Elektronik & pulsierende Loop-Kunst Martin Lidl (Ex-LesDerhosn, FeiScho) erschafft als Ein-Mensch-Band vielschichtige Klangwelten zum Tanzen und Staunen.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Loop Kunst"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Shakti und Matze",
+   "type": "concert",
+   "start": "2027-03-12T19:30",
+   "end": null,
+   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2561&title=Shakti%20und%20Matze",
+   "venue": "ars musica Musikladen",
+   "address": "Lindwurmstraße 201, 80337 München",
+   "description": "Die meiste Wärme verlierst du über’n Kopf – du könntest dir jetzt einfach eine Mütze aufsetzen oder aber ein Konzert von Shakti und Matze besuchen.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Kleinkunst-Pop aus der tiefsten Provinz"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "FALK & FELDMANN - Love for a while",
+   "type": "concert",
+   "start": "2027-03-19T19:30",
+   "end": null,
+   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2534&title=FALK%20%26amp%3B%20FELDMANN%20-%20Love%20for%20a%20while",
+   "venue": "Musikladen ars musica",
+   "address": "Lindwurmstraße 201, 80337 München",
+   "description": "Love for a while Die Liebe hat viele Facetten, spricht und klingt in der ganzen Welt dieselbe Klangsprache.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Liebeslieder der Welt"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  }
+ ]
+}

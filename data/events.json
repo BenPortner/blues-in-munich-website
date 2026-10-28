@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T09:56:30+00:00",
+  "generated_at": "2026-10-28T19:04:11+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -2353,18 +2353,18 @@
       "title": "That Friday Feeling",
       "type": "concert",
       "start": "2026-10-29T19:30",
-      "end": "2026-10-29T21:00",
-      "url": "https://www.in-muenchen.de/events/that-friday-feeling.html",
-      "venue": "Wirtshaus Tannengarten",
-      "address": "Pfeuferstr. 32, 81373 München",
-      "description": "Zwei Gitarren, zwei Stimmen und jede Menge Groove – das Duo THAT FRIDAY FEELING präsentiert eine Mischung aus Blues und Folk mit eigenen Songs und Cover-Versionen. Die Musik spannt einen Bogen von humorvollen Alltagssorgen bis hin zu politischen Protestsongs.",
+      "end": null,
+      "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2586&title=That%20Friday%20Feeling",
+      "venue": "Salettl im Tannengarten",
+      "address": "Pfeuferstraße 32, 81373 München",
+      "description": "Hinter dem Namen „THAT FRIDAY FEELING“ verbirgt sich ein neues Singer/Songwriter-Duo, bestehend aus der talentierten Sängerin und Gitarristin Kristina McClave sowie dem Bluesgitarristen und Songwriter Robert Richter.",
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues Folk"
+        "Singer-/Songwriter Blues Folk"
       ],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
+      "source_id": "ars-musica",
+      "source_name": "ars musica e.V.",
       "school_name": null,
       "school_url": null,
       "artists": [
@@ -2374,7 +2374,7 @@
         }
       ],
       "known_artists": [],
-      "id": "d8d47a3e15e0"
+      "id": "d6b8fea6bf9e"
     },
     {
       "title": "Ludwig Seuss Band",
@@ -2462,22 +2462,20 @@
       "type": "concert",
       "start": "2026-10-31T20:00",
       "end": "2026-10-31T22:00",
-      "url": "https://www.in-muenchen.de/events/san2-unplugged.html",
+      "url": "https://pasinger-fabrik.de/veranstaltung/san2-unplugged-2/",
       "venue": "Pasinger Fabrik – Kleine Bühne",
-      "address": "August-Exter-Straße 1, 81245 München",
-      "description": "San2 präsentiert ein akustisches Live-Programm mit außergewöhnlichen Musikern. Sebastian Schwarzenberger, bekannt für sein virtuoses Gitarrenspiel, und Ludwig Seuss, Münchens Boogie Woogie-Meister, begleiten San2. Der Abend verspricht Gänsehaut-Momente durch dreistimmigen Gesang und beeindruckende Soli.",
+      "address": "August-Exter-Str. 1, 81245 München",
+      "description": "Gefeierte Albumveröffentlichungen, zahlreiche Radio- und Fernsehauftritte, gemeinsame Live-Shows mit Jazzweltstar Jamie Cullum und der britischen TV Legende Jools Holland, eine begeisterte Presse und mehr als 500 Konzerte – auf all das kann San2 in den letzten 10 Jahren seiner mittlerweile international erfolgreichen Kariere zurückblicken. Nun kommt er mit einem akustischen live & unplugged Programm in die Pasinger Fabrik zurück. Dafür hat er einen absoluten Ausnahmegitarristen dabei: Sebastian Schwarzenberger ist eine feste Größe in der Süddeutschen Bluesszene. Er brilliert auf einer Vielzahl",
       "recurrence": null,
       "dates": [],
-      "tags": [
-        "Blues"
-      ],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
+      "tags": [],
+      "source_id": "pasinger-fabrik",
+      "source_name": "Pasinger Fabrik",
       "school_name": null,
       "school_url": null,
       "artists": [],
       "known_artists": [],
-      "id": "55d7afc2b862"
+      "id": "782bf71bc080"
     },
     {
       "title": "Aynsley Lister (GBR)",
@@ -2871,6 +2869,53 @@
       ],
       "known_artists": [],
       "id": "bfec1062fced"
+    },
+    {
+      "title": "Matching Ties Duo & Special Guest Rosena Horan-Irland",
+      "type": "concert",
+      "start": "2026-11-12T19:30",
+      "end": "2026-11-12T21:00",
+      "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2576&title=Matching%20Ties%20Duo%20%26amp%3B%20Special%20Guest%20Rosena%20Horan-Irland",
+      "venue": "Salettl im Tannengarten",
+      "address": "Pfeuferstr. 32, 81377 München",
+      "description": "Matching Ties Duo: Die zwei führenden Folk-Musiker der europäischen Szene mit den zusammenpassenden Krawatten Paul Stowe (USA) und Trevor Morriss (GB) spielen eine vielfältige und einzigartige Mischung aus irischem, englischem und schottischem Folk mit einer Prise Bluegrass und Blues auf traditionellen Saiteninstrumenten wie Gitarren, Mandolinen und Banjo sowie Mundharmonikas und Bodhrán (irischer Trommel).",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Folk mit einer Prise Bluegrass und Blues"
+      ],
+      "source_id": "ars-musica",
+      "source_name": "ars musica e.V.",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "755798ee4fdb"
+    },
+    {
+      "title": "Volker Gieseks Colorbox",
+      "type": "concert",
+      "start": "2026-11-13T20:00",
+      "end": "2026-11-13T22:00",
+      "url": "https://pasinger-fabrik.de/veranstaltung/volker-gieseks-colorbox/",
+      "venue": "Pasinger Fabrik – Kleine Bühne",
+      "address": "August-Exter-Str. 1, 81245 München",
+      "description": "Release-Konzert „Das blaue Land“ Mit Das blaue Land präsentiert die deutsch-brasilianische Formation Volker Gieseks COLORBOX ihr viertes Album – als audiovisuelles Release-Konzert mit Live-Projektionen der eigens für das Album entstandenen Fotoarbeiten. Inspiriert vom oberbayerischen „Blauen Land“ rund um Murnau, der Mehrdeutigkeit der Farbe Blau und dem Blues als musikalischer Ausdrucksform entfaltet sich ein ebenso abwechslungsreiches wie atmosphärisch dichtes Programm zwischen melodischer Klarheit, brasilianischen Einflüssen, rhythmischer Energie und lyrischer Weite. Die Kompositionen des M",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "pasinger-fabrik",
+      "source_name": "Pasinger Fabrik",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Volker Gieseks Colorbox",
+          "url": "https://www.last.fm/music/Volker+Gieseks+Colorbox"
+        }
+      ],
+      "known_artists": [],
+      "id": "f0117847035b"
     },
     {
       "title": "RO CLAUSMAN BAND",
@@ -3820,6 +3865,33 @@
       "id": "1454ac8628c6"
     },
     {
+      "title": "Vlado Grizelj Quartett",
+      "type": "concert",
+      "start": "2026-12-17T20:00",
+      "end": "2026-12-17T22:30",
+      "url": "https://www.in-muenchen.de/events/vlado-grizelj-quartett.html",
+      "venue": "Pasinger Fabrik – Kleine Bühne",
+      "address": "August-Exter-Straße 1, 81245 München",
+      "description": "Funk und Soul der 60er und 70er, Rock- und Blues-Einflüsse und jazzige Gitarre mit Hammond-Orgel und Rhodes-Piano.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Jazz"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Vlado Grizelj",
+          "url": "https://www.last.fm/music/Vlado+Grizelj"
+        }
+      ],
+      "known_artists": [],
+      "id": "c2cb95b1c08a"
+    },
+    {
       "title": "Ludwig Seuss Band",
       "type": "concert",
       "start": "2026-12-18T20:15",
@@ -4392,21 +4464,19 @@
       "id": "0d127aedfcdd"
     },
     {
-      "title": "Günter Grünwald & Rad Gumbo",
+      "title": "Günter Grünwald & Rad Gumbo – Bayerisches Kabarett trifft Southern Blues",
       "type": "concert",
       "start": "2027-02-13T20:00",
-      "end": null,
-      "url": "https://www.in-muenchen.de/events/gunter-grunwald-rad-gumbo-pasinger-fabrik-wagenhalle.html",
+      "end": "2027-02-13T22:30",
+      "url": "https://pasinger-fabrik.de/veranstaltung/guenter-gruenwald-rad-gumbo-bayerisches-kabarett-trifft-southern-blues/",
       "venue": "Pasinger Fabrik – Wagenhalle",
       "address": "August-Exter-Straße 1, 81245 München",
-      "description": "Bayerisches Kabarett trifft auf Southern Blues. Günter Grünwald, bekannter Kabarettist, präsentiert sich als Gitarrist mit RAD GUMBO. Die Show bietet eine Mischung aus Musik und Humor mit kabarettistischen Einlagen nach jedem Song. RAD GUMBO spielt Zydeco-Blues und New Orleans-Soul.",
+      "description": "Günter Grünwald & RAD GUMBO Bayerisches Kabarett trifft Southern Blues Günter Grünwald ist einer der ganz großen bayerischen Kabarettisten und das seit über drei Jahrzehnten. Unzählige ausverkaufte Shows, seit vielen Jahren eine eigene TV-Sendung und ein einzigartiger Humor. Was viele allerdings nicht wissen: Günter Grünwald ist seit seiner Jugend ein leidenschaftlicher Gitarrist und Musikfan. Und wenn es die Zeit erlaubt dann steht er mit seinen befreundeten Vollblutmusikern von RAD GUMBO auf der Bühne und lässt es richtig krachen. Das Motto ist „Bayerisches Kabarett trifft Southern Blues“. W",
       "recurrence": null,
       "dates": [],
-      "tags": [
-        "Blues"
-      ],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
+      "tags": [],
+      "source_id": "pasinger-fabrik",
+      "source_name": "Pasinger Fabrik",
       "school_name": null,
       "school_url": null,
       "artists": [
@@ -4420,7 +4490,7 @@
         }
       ],
       "known_artists": [],
-      "id": "377eb1e7f92e"
+      "id": "7e679b78a5d3"
     },
     {
       "title": "Schwarzenberger Band",
@@ -5210,6 +5280,24 @@
       "kept": 3
     },
     {
+      "id": "pasinger-fabrik",
+      "name": "Pasinger Fabrik",
+      "url": "https://www.pasinger-fabrik.de/",
+      "kind": "venue",
+      "status": "ok",
+      "found": 35,
+      "kept": 3
+    },
+    {
+      "id": "ars-musica",
+      "name": "ars musica e.V.",
+      "url": "https://www.ars-musica-muenchen.de/",
+      "kind": "venue",
+      "status": "ok",
+      "found": 14,
+      "kept": 2
+    },
+    {
       "id": "swinginmunich",
       "name": "SwinginMunich.de",
       "url": "https://www.swinginmunich.de/en",
@@ -5225,7 +5313,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 160,
-      "kept": 59
+      "kept": 57
     },
     {
       "id": "ticketmaster",

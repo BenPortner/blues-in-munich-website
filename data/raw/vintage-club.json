@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-10-27T09:11:53+00:00",
+ "scraped_at": "2026-10-28T09:52:54+00:00",
  "status": {
   "id": "vintage-club",
   "name": "Vintage Club",
   "url": "https://www.vintage-club.de/",
   "kind": "school",
   "status": "ok",
-  "found": 55
+  "found": 53
  },
  "events": [
   {
@@ -172,7 +172,7 @@
    "id": ""
   },
   {
-   "title": "Electro Swing · alle Level",
+   "title": "Solo Blues · alle Level ab 28.10.",
    "type": "class",
    "start": "2026-10-21T17:30",
    "end": "2026-10-21T18:30",
@@ -213,33 +213,6 @@
     "2026-10-28",
     "2026-11-04",
     "2026-11-11"
-   ],
-   "tags": [
-    "course block"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Hobby-Showgruppe · ab Level 2+",
-   "type": "class",
-   "start": "2026-10-22T17:30",
-   "end": "2026-10-22T18:30",
-   "url": "https://www.vintage-club.de/classes.aspx",
-   "venue": "Vintage Club (VC Studio 1)",
-   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
-   "description": "Advance registration by email required.",
-   "recurrence": "Thursdays 17:30–18:30",
-   "dates": [
-    "2026-10-22",
-    "2026-10-29",
-    "2026-11-05",
-    "2026-11-12"
    ],
    "tags": [
     "course block"
@@ -307,14 +280,14 @@
    "id": ""
   },
   {
-   "title": "Lindy Hop 1 (Block A) · Anfänger findet am 23. Okt statt!",
+   "title": "Lindy Hop 1 (Block A) · Anfänger",
    "type": "class",
    "start": "2026-10-23T17:30",
    "end": "2026-10-23T18:30",
    "url": "https://www.vintage-club.de/classes.aspx",
    "venue": "Vintage Club (VC Studio 1)",
    "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
-   "description": "Advance registration by email required.",
+   "description": "Die 3 verschiedenen Themenblöcke wechseln sich monatlich ab. Um in Lindy Hop 2 aufsteigen zu können, musst du die Inhalte von allen 3 Themenblöcken sicher beherrschen. Es sind keine Vorkenntnisse notwendig! Ein Einstieg für absolute Neulinge ist jedoch immer nur am Anfang eines neuen Themenblocks möglich. Advance registration by email required.",
    "recurrence": "Fridays 17:30–18:30",
    "dates": [
     "2026-10-23",
@@ -334,7 +307,7 @@
    "id": ""
   },
   {
-   "title": "Solo Showgruppe · Fortge-schrittene (höchstes Level) entfällt am 23. Okt!",
+   "title": "Solo Showgruppe · Fortge-schrittene (höchstes Level)",
    "type": "class",
    "start": "2026-10-23T17:30",
    "end": "2026-10-23T18:30",
@@ -631,7 +604,7 @@
    "id": ""
   },
   {
-   "title": "Lindy Hop 1 Refresher / Summary · ab Level 1+ entfällt am 23. Okt!",
+   "title": "Lindy Hop 1 Refresher / Summary · ab Level 1+",
    "type": "class",
    "start": "2026-10-23T18:45",
    "end": "2026-10-23T19:45",
@@ -658,14 +631,14 @@
    "id": ""
   },
   {
-   "title": "Balboa 1 (Block C) · Anfänger am 23. Okt um 18:35 Uhr!",
+   "title": "Balboa 1 (Block C) · Anfänger",
    "type": "class",
    "start": "2026-10-23T18:45",
    "end": "2026-10-23T19:45",
    "url": "https://www.vintage-club.de/classes.aspx",
    "venue": "Vintage Club (VC Studio 2)",
    "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
-   "description": "Advance registration by email required.",
+   "description": "Die drei verschiedenen Themenblöcke wechseln monatlich. Um in Balboa 2 aufzusteigen, musst du die Inhalte von allen drei Themenblöcken sicher beherrschen. Ein Einstieg für absolute Neulinge ist immer nur am Anfang jedes Themenblocks möglich. Advance registration by email required.",
    "recurrence": "Fridays 18:45–19:45",
    "dates": [
     "2026-10-23",
@@ -955,14 +928,14 @@
    "id": ""
   },
   {
-   "title": "Lindy Hop 2 (Block B) · Aufsteiger entfällt am 23. Okt!",
+   "title": "Lindy Hop 2 (Block B) · Aufsteiger",
    "type": "class",
    "start": "2026-10-23T20:00",
    "end": "2026-10-23T21:00",
    "url": "https://www.vintage-club.de/classes.aspx",
    "venue": "Vintage Club (VC Studio 1)",
    "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
-   "description": "",
+   "description": "Das Level Lindy Hop 2 besteht aus 3 verschiedenen Themenblöcken, die sich je nach Wochentag und Monat abwechseln. Voraussetzung für Lindy Hop 2 ist die sichere Beherrschung der Inhalte der 3 Themenblöcke aus Lindy Hop 1. Ein Einstieg ist mit jedem Block möglich, jedoch immer am Anfang jedes Themenblocks.",
    "recurrence": "Fridays 20:00–21:00",
    "dates": [
     "2026-10-23",
@@ -982,7 +955,7 @@
    "id": ""
   },
   {
-   "title": "Refresher Balboa 1 / Aufsteiger Balboa 2 · ab Level 1+ entfällt am 23. Okt!",
+   "title": "Refresher Balboa 1 / Aufsteiger Balboa 2 · ab Level 1+",
    "type": "class",
    "start": "2026-10-23T20:00",
    "end": "2026-10-23T21:00",
@@ -1225,7 +1198,7 @@
    "id": ""
   },
   {
-   "title": "Shag 2 · ab Level 2 nur am 22. Okt!",
+   "title": "Hobby-Showgruppe · ab Level 2+ ab 28.10.",
    "type": "class",
    "start": "2026-10-22T21:10",
    "end": "2026-10-22T22:10",
@@ -1279,7 +1252,7 @@
    "id": ""
   },
   {
-   "title": "Lindy Hop 3 · Mittelstufe 1 entfällt am 23. Okt!",
+   "title": "Lindy Hop 3 · Mittelstufe 1",
    "type": "class",
    "start": "2026-10-23T21:10",
    "end": "2026-10-23T22:10",
@@ -1306,7 +1279,7 @@
    "id": ""
   },
   {
-   "title": "Balboa 2 · Aufsteiger / Mittelstufe 1 entfällt am 23. Okt!",
+   "title": "Balboa 2 · Aufsteiger / Mittelstufe 1",
    "type": "class",
    "start": "2026-10-23T21:10",
    "end": "2026-10-23T22:10",
@@ -1401,26 +1374,6 @@
    "venue": "Vintage Club",
    "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
    "description": "You are never to old to Rock ’n’ Roll! Nach dem großen Erfolg der ersten Editionen heißt es zum dritten Mal Jitterbug Roulette . Es wird ein Abend mit Überraschungsgarantie! Das Glücksrad entscheidet, welche Musik gespielt wird. Jedes Musikgenre-Set wird ca. 15 Minuten umfassen. Für die Auswahl sorgen wieder Axel Lintner, Mani Stürzer und Marcus Koch . 🕗 19:15 – 23:15 Uhr 🎧 DJs Axel Lintner, Mani Stürzer, Marcus Koch 🎟 Eintritt: 10 € Bis zum Sonntag! Wir freuen uns auf euch! Vintage Club Zugang über City-Kino Passage Sonnenstr. 12b/III Rgb., 80331 München (Stachus) 089 / 543 44 150, info@worldofswing.com --------------------------------------------------------- Lindy Hop Boogie Woogie Balboa Lindy Hop wird auch als Großvater des Swing bezeichnet. Er entstand in den späten 20er Jahren in den Ballsälen des „schwarzen“ New Yorker Stadtteils Harlem, wie dem berühmten Savoy Ballroom, und entwickelte sich später zu vielen anderen Tanzformen (z.B. Rock’n’Roll, Boogie Woogie und Jive). Er wurde zu Big Band-Musik getanzt und erhielt seine typischen Charaktereigenschaften durch sogenannte „Break-Aways“ und vor allem durch den Swing Out, bei dem die Partner umeinander herumwirbeln. Beim Break-Away wurde die enge Paartanzhaltung aufgebrochen und beide Partner konnten individuell Schritte improvisieren. Der Tanz kann, durch wilde Kicks und Bewegungen bereichert, wild und spontan sein, aber auch cool und elegant. Später auch als „Jitterbug“ bezeichnet, verbreitete er sich zwischen 1930 und 1950 rasend schnell über den amerikanischen Kontinent. Vor allem durch US-Soldaten und Hollywoodfilme erlangte er weltweite Popularität. Lindy Hop wurde stark beeinflusst durch afroamerikanische Tänze, vor allem Charleston, Jazz und Stepptanz. 1943 bezeichnete das Life Magazine den Lindy Hop als „Amerikas Nationalen Volkstanz“. Es gibt viele unterschiedliche Stile des Lindy Hop. Die bekanntesten sind Savoy Style und Hollywood Style Lindy Hop. Boogie Woogie ist der Name für eine Musikrichtung und verschiedene Tanzstile. In den USA ist Boogie Woogie die Bezeichnung für Vernacular Solo-Jazzschritte. In Europa versteht man unter Boogie Woogie einen 6-Count Tanzstil, der eine Weiterentwicklung von Jitterbug, Lindy Hop und Rock’n’Roll der 50er Jahre ist, die die GIs mit nach Deutschland brachten. Boogie Woogie ist bekannt für seine eindrucksvolle und vielseitige Fußarbeit. Neben unzähligen Hobbytänzern gibt es auch hochkarätige internationale Turniertänzer. Boogie Woogie wird hauptsächlich zu Musik der späten 40er und 50er Jahre getanzt (z.B. Boogie Woogie, Rhythm’n’Blues, Rock’n’Roll, Rockabilly, Jive). Er erlaubt viel Freiraum für persönliches Styling und Improvisation und ist reich an typischen Figuren und Schritten, die in viele andere Tanzstile übernommen wurden. Andererseits wurden in den letzten Jahren auch viele Figuren aus anderen Swingtänzen in den Boogie Woogie integriert. Balboa ist bekannt für seine geschmeidige, enge Fußarbeit, bereichert mit vielen Shuffle-Schritten, und seine enge „Brust-an-Brust“-Tanzhaltung. Balboatänzern war es angeblich nicht erlaubt, sich aus der geschlossenen Tanzhaltung zu lösen. Sie waren elegant gekleidete Tänzer, die nicht gerne schwitzen wollten. Balboa ist also ideal für schnelle Musik. Man sagt, dass ein guter Balboatänzer auf jede Geschwindigkeit tanzen konnte. Der Balboagrundschritt basiert auf 8 Zählzeiten. Wahrscheinlich hat er seinen Ursprung im Foxtrot oder/und im Charleston. Aufgrund von Platzmangel auf der Tanzfläche entwickelte sich daraus der Balboa. Der Pavilion Ballroom und der Rendezvous Ballroom waren die heißesten Ballsäle auf Balboa Island in Südkalifornien, wo der Balboa in den 30er Jahren entstanden ist. Als die heiße Swingmusik ihren Höhepunkt erreichte, erweiterten einige ungebändigte, junge Tänzer den Balboa um Break-Aways, Drehungen und Faller. Diese Tanzform wurde früher als „Swing“ bezeichnet; heute sagt man dazu Bal-Swing. Der Ausdruck Bal-Swing wurde jedoch erst in den 70er Jahren geprägt. Bal-Swing ist also ein mit Swingelementen bereicherter Balboa. Dieses gesteigerte Energielevel wurde vor allem durch die „Ray Rand Swingers“ aus Südkalifornien und Tänzer wie Maxie Dorf und Lolly Wise populär gemacht. Impressum Datenschutzerklärung AGB",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "20. Münchner Balboa und Shag Weekend",
-   "type": "workshop",
-   "start": "2026-10-23",
-   "end": "2026-10-25",
-   "url": "https://www.vintage-club.de/index.aspx",
-   "venue": "Vintage Club",
-   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
-   "description": "🎟️🎉 RESTTICKETS FÜR DIE PARTYS JETZT ERHÄLTLICH! 🎉🎟️ Du möchtest beim 20. Münchner Balboa & Shag Weekend vom 23. bis 25. Oktober 2026 dabei sein, ohne Workshops zu buchen? Kein Problem! 💃🕺 Ab sofort bis einschließlich 20. Oktober könnt ihr Tickets ausschließlich für die Abendpartys erwerben – ganz ohne Workshop-Anmeldung! 🎷 Freut euch auf mitreißende Live-Musik mit der fantastischen Hot Sugar Band aus Frankreich, jede Menge Swing und unvergessliche Tanzabende! ✨ Du möchtest auch an den Workshops teilnehmen? Es gibt noch freie Plätze! Sichert euch euren Platz, bevor es zu spät ist. Wir bieten dir wieder top internationale Trainer/innen in angenehmer, familiärer Umgebung. Verpasse nicht die Gelegenheit, deine Passion für Balboa und Shag zu entdecken, deine Fähigkeiten zu erweitern und viel Spaß mit Gleichgesinnten zu haben. Lass dich inspirieren von: Natalia Rueda (COL) & Mickey Fortanasce (USA) Olga Marina (SWE) & Jacob Wigger (USA) Fancy Dougherty & Jeremy Otth (USA) Bianca Yaghoobi & Hunter Krikac (USA) Saskia Loder (GER) & Andrew Wilson (CDN) Bärbl Kaufer & Marcus Koch (GER) Fanny Bartl (GER) & Domen Bohinc (SLO) Marion Forano (FRA) & Sergej Götz (GER) Ioanna Kakoulidou & Apostolos Zormpas (GRC) Zum Üben und Abtanzen gibt es Partys mit der fantastischen Hot Sugar Band (FRA) Wir freuen uns darauf, dich in München zu begrüßen und wünschen dir ein unvergessliches Wochenende mit viel Tanzen und vielen neuen Freunden. Alle wichtigen Infos und Updates findest du hier! --------------------",
    "recurrence": null,
    "dates": [],
    "tags": [],

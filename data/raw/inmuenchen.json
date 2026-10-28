@@ -1,14 +1,78 @@
 {
- "scraped_at": "2026-10-27T09:15:33+00:00",
+ "scraped_at": "2026-10-28T09:56:29+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 157
+  "found": 160
  },
  "events": [
+  {
+   "title": "Anni & Hans: Blues & Jazz",
+   "type": "concert",
+   "start": "2026-11-07T20:00",
+   "end": "2026-11-07T22:00",
+   "url": "https://www.in-muenchen.de/events/anni-hans-blues-jazz.html",
+   "venue": "Stragula Realwirtschaft",
+   "address": "Bergmannstraße 66, 80339 München",
+   "description": "Das Duo Anni & Hans mit Gospel und Blues afroamerikanischer Sängerinnen im Stragula, Eintritt frei.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Raygun Rebels & Träsh",
+   "type": "concert",
+   "start": "2026-12-04T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/raygun-rebels-trash.html",
+   "venue": "Sugar Shack",
+   "address": "Atelierstraße 16, 81671 München",
+   "description": "Eine explosive Bühnenshow mit griffigen Gitarrenriffs und ohrwurmtauglichen Hooklines erwartet das Publikum. Die Raygun Rebels und special Guest TRÄSH versprechen eine wilde Rockparty mit Heavyrock und Old School Charme. Die beiden Musikerinnen von TRÄSH präsentieren ihre unkonventionellen Songs und arbeiten an einer innovativen Hologramm-Show.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Heavyrock"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "ZZ COP",
+   "type": "concert",
+   "start": "2026-12-11T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/zz-cop.html",
+   "venue": "Sugar Shack",
+   "address": "Atelierstraße 16, 81671 München",
+   "description": "Im Sugar Shack steht druckvoller Bluesrock im Mittelpunkt. ZZ Cop interpretiert ikonische Songs und verbindet sie mit einer unverwechselbaren Note. Das Bühnenkonzept im Police-Style schafft eine besondere Atmosphäre. Die erfahrenen Musiker sorgen für ein tightes Zusammenspiel und eine souveräne Performance.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Bluesrock"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
   {
    "title": "Lesebühne",
    "type": "concert",
@@ -688,7 +752,7 @@
    "id": ""
   },
   {
-   "title": "Lange Shopping-Nacht – Haidhausen Busketeers",
+   "title": "Lange Shopping-Nacht - Haidhausen Busketeers",
    "type": "concert",
    "start": "2026-10-30T19:00",
    "end": "2026-10-30T22:00",
@@ -1128,7 +1192,7 @@
    "id": ""
   },
   {
-   "title": "Matthias Bublath’s Hammond B3 Band",
+   "title": "Matthias Bublath's Hammond B3 Band",
    "type": "concert",
    "start": "2026-10-30T19:30",
    "end": "2026-10-30T22:00",
@@ -1282,7 +1346,7 @@
    "id": ""
   },
   {
-   "title": "Blaimer – Wechseljahre",
+   "title": "Blaimer - Wechseljahre",
    "type": "concert",
    "start": "2026-10-29T20:00",
    "end": "2026-10-29T22:00",
@@ -1522,7 +1586,7 @@
    "id": ""
   },
   {
-   "title": "Das „frühe“ Frauenfest",
+   "title": "Das \"frühe\" Frauenfest",
    "type": "concert",
    "start": "2026-11-06T18:00",
    "end": "2026-11-06T23:00",
@@ -1588,7 +1652,7 @@
    "id": ""
   },
   {
-   "title": "Ü30 Party – einfach legendär",
+   "title": "Ü30 Party - einfach legendär",
    "type": "social",
    "start": "2026-11-07T20:30",
    "end": null,
@@ -1918,7 +1982,7 @@
    "id": ""
   },
   {
-   "title": "Stephan Zinner – Großstadtblues",
+   "title": "Stephan Zinner - Großstadtblues",
    "type": "concert",
    "start": "2027-04-24T19:30",
    "end": "2027-04-24T22:30",
@@ -2006,7 +2070,7 @@
    "id": ""
   },
   {
-   "title": "Heiner Lauterbach – Like a Hobo",
+   "title": "Heiner Lauterbach - Like a Hobo",
    "type": "concert",
    "start": "2027-02-05T20:00",
    "end": null,
@@ -2050,7 +2114,7 @@
    "id": ""
   },
   {
-   "title": "Martin Schmitt – Schmitt happens",
+   "title": "Martin Schmitt - Schmitt happens",
    "type": "concert",
    "start": "2027-01-28T20:00",
    "end": "2027-01-28T22:00",
@@ -2072,7 +2136,7 @@
    "id": ""
   },
   {
-   "title": "Stephan Zinner – Großstadtblues",
+   "title": "Stephan Zinner - Großstadtblues",
    "type": "concert",
    "start": "2027-01-26T20:00",
    "end": "2027-01-26T23:00",
@@ -2204,14 +2268,14 @@
    "id": ""
   },
   {
-   "title": "Blues Night",
+   "title": "Justina Lee Brown + Biber Herrmann",
    "type": "concert",
    "start": "2026-11-21T19:30",
    "end": "2026-11-21T22:30",
    "url": "https://www.in-muenchen.de/events/blues-night.html",
    "venue": "Bürgerhaus Garching",
    "address": "Bürgerplatz 9, 85748 Garching bei München",
-   "description": "Die Garchinger Blues Night präsentiert eine Nacht voller treibender Sounds und virtuoser Riffs. Im Zentrum des Abends stehen die einzigartigen Künstler der Blues, Soul und Rock’n’Roll Szene. Das Blues Duo Oliver Mally und Peter Schneider ziehen das Publikum von der ersten Note an in ihren Bann. Der 2 Meter große Blues Riese Michael van Merwyk feiert sein 40-jähriges Bühnenjubiläum mit einer tiefen Verbindung zu den Wurzeln des Blues. Als krönender Abschluss tritt Kai Strauss auf, ein Aushängeschild der deutschen Blues-Szene.",
+   "description": "Zwei Ansätze prägen den Abend im Zeichen des Blues. Biber Herrmann präsentiert präzises Fingerstyle-Gitarrenspiel und erzählerische Texte. Justina Lee Brown verbindet Tradition mit Soul und Gospel, getragen von ihrer markanten Stimme. Gemeinsam fächern sie die Facetten des Blues auf, von der reduzierten Ballade bis zum expressiven Ausdruck.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -2906,7 +2970,7 @@
    "id": ""
   },
   {
-   "title": "Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich",
+   "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
    "type": "concert",
    "start": "2026-12-01T20:00",
    "end": null,
@@ -2994,7 +3058,7 @@
    "id": ""
   },
   {
-   "title": "Bin I Kini?! – Der Prinzregenten-Blues",
+   "title": "Bin I Kini?! - Der Prinzregenten-Blues",
    "type": "concert",
    "start": "2026-11-17T20:00",
    "end": null,
@@ -3016,7 +3080,7 @@
    "id": ""
   },
   {
-   "title": "Martin Schmitt – Schmitt happens",
+   "title": "Martin Schmitt - Schmitt happens",
    "type": "concert",
    "start": "2026-11-26T20:00",
    "end": "2026-11-26T23:00",
@@ -3082,7 +3146,7 @@
    "id": ""
   },
   {
-   "title": "Da Huawa und I – Schokoladenseit’n",
+   "title": "Da Huawa und I - Schokoladenseit'n",
    "type": "concert",
    "start": "2026-11-20T20:00",
    "end": "2026-11-20T23:00",

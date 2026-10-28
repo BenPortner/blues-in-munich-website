@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T09:15:33+00:00",
+  "generated_at": "2026-10-28T09:56:30+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -2273,47 +2273,15 @@
       "id": "a473a482e0ed"
     },
     {
-      "title": "Blues 2 mit Clara",
+      "title": "Solo Blues · alle Level ab 28.10.",
       "type": "class",
-      "start": "2026-10-06T19:35",
-      "end": "2026-10-06T20:35",
-      "url": "https://hepcatclub.com/",
-      "venue": "Hep Cat Club",
-      "address": "Viktoriastraße 3b, 86150 Augsburg",
-      "description": "",
-      "recurrence": "Tuesdays 19:35–20:35",
-      "dates": [
-        "2026-10-06",
-        "2026-10-13",
-        "2026-10-20",
-        "2026-10-27",
-        "2026-11-03",
-        "2026-11-10",
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15"
-      ],
-      "tags": [],
-      "source_id": "hepcat-club",
-      "source_name": "Hep Cat Club",
-      "school_name": "Hep Cat Club",
-      "school_url": "https://hepcatclub.com/",
-      "artists": [],
-      "known_artists": [],
-      "id": "bee1392c97b8"
-    },
-    {
-      "title": "Blues · alle Level",
-      "type": "class",
-      "start": "2026-10-21T18:45",
-      "end": "2026-10-21T19:45",
+      "start": "2026-10-21T17:30",
+      "end": "2026-10-21T18:30",
       "url": "https://www.vintage-club.de/classes.aspx",
       "venue": "Vintage Club (VC Studio 2)",
       "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
-      "description": "Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen, wesentliche Schritte und Figuren, um dich auf der Tanzfläche sicher und wohl zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkundet, die zu verschiedenen Musikstilen getanzt werden können.",
-      "recurrence": "Wednesdays 18:45–19:45",
+      "description": "Advance registration by email required.",
+      "recurrence": "Wednesdays 17:30–18:30",
       "dates": [
         "2026-10-21",
         "2026-10-28",
@@ -2329,7 +2297,7 @@
       "school_url": "https://www.vintage-club.de/",
       "artists": [],
       "known_artists": [],
-      "id": "5b0f8477edc0"
+      "id": "6981c836dd7b"
     },
     {
       "title": "Körber Krohn Fliegauf",
@@ -2566,6 +2534,38 @@
       "id": "2b490c7cd538"
     },
     {
+      "title": "Blues 2 mit Clara",
+      "type": "class",
+      "start": "2026-10-06T19:35",
+      "end": "2026-10-06T20:35",
+      "url": "https://hepcatclub.com/",
+      "venue": "Hep Cat Club",
+      "address": "Viktoriastraße 3b, 86150 Augsburg",
+      "description": "",
+      "recurrence": "Tuesdays 19:35–20:35",
+      "dates": [
+        "2026-10-06",
+        "2026-10-13",
+        "2026-10-20",
+        "2026-10-27",
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15"
+      ],
+      "tags": [],
+      "source_id": "hepcat-club",
+      "source_name": "Hep Cat Club",
+      "school_name": "Hep Cat Club",
+      "school_url": "https://hepcatclub.com/",
+      "artists": [],
+      "known_artists": [],
+      "id": "bee1392c97b8"
+    },
+    {
       "title": "The Temperance Movement",
       "type": "concert",
       "start": "2026-11-03T20:00",
@@ -2756,7 +2756,7 @@
       "title": "Anni und Hans: Blues & Jazz",
       "type": "concert",
       "start": "2026-11-07T20:00",
-      "end": null,
+      "end": "2026-11-07T22:00",
       "url": "https://stragula.de/events.html#:~:text=Anni%20und%20Hans%3A%20Blues%20%26%20Jazz",
       "venue": "Stragula",
       "address": "Bergmannstr. 66, 80339 München",
@@ -2898,7 +2898,7 @@
       "id": "ff05effc904f"
     },
     {
-      "title": "Bin I Kini?! – Der Prinzregenten-Blues",
+      "title": "Bin I Kini?! - Der Prinzregenten-Blues",
       "type": "concert",
       "start": "2026-11-17T20:00",
       "end": null,
@@ -3047,14 +3047,14 @@
       "id": "8ee51229236f"
     },
     {
-      "title": "Blues Night",
+      "title": "Justina Lee Brown + Biber Herrmann",
       "type": "concert",
       "start": "2026-11-21T19:30",
       "end": "2026-11-21T22:30",
       "url": "https://www.in-muenchen.de/events/blues-night.html",
       "venue": "Bürgerhaus Garching",
       "address": "Bürgerplatz 9, 85748 Garching bei München",
-      "description": "Die Garchinger Blues Night präsentiert eine Nacht voller treibender Sounds und virtuoser Riffs. Im Zentrum des Abends stehen die einzigartigen Künstler der Blues, Soul und Rock’n’Roll Szene. Das Blues Duo Oliver Mally und Peter Schneider ziehen das Publikum von der ersten Note an in ihren Bann. Der 2 Meter große Blues Riese Michael van Merwyk feiert sein 40-jähriges Bühnenjubiläum mit einer tiefen Verbindung zu den Wurzeln des Blues. Als krönender Abschluss tritt Kai Strauss auf, ein Aushängeschild der deutschen Blues-Szene.",
+      "description": "Zwei Ansätze prägen den Abend im Zeichen des Blues. Biber Herrmann präsentiert präzises Fingerstyle-Gitarrenspiel und erzählerische Texte. Justina Lee Brown verbindet Tradition mit Soul und Gospel, getragen von ihrer markanten Stimme. Gemeinsam fächern sie die Facetten des Blues auf, von der reduzierten Ballade bis zum expressiven Ausdruck.",
       "recurrence": null,
       "dates": [],
       "tags": [
@@ -3064,9 +3064,18 @@
       "source_name": "IN München",
       "school_name": null,
       "school_url": null,
-      "artists": [],
+      "artists": [
+        {
+          "name": "Justina Lee Brown",
+          "url": "https://www.last.fm/music/Justina+Lee+Brown"
+        },
+        {
+          "name": "Biber Herrmann",
+          "url": "https://www.last.fm/music/Biber+Herrmann"
+        }
+      ],
       "known_artists": [],
-      "id": "5eb683876302"
+      "id": "35981d2a1203"
     },
     {
       "title": "Band of Friends (GBR)",
@@ -3431,7 +3440,7 @@
       "id": "4e657f549678"
     },
     {
-      "title": "Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich",
+      "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
       "type": "concert",
       "start": "2026-12-01T20:00",
       "end": null,
@@ -3740,6 +3749,33 @@
       ],
       "known_artists": [],
       "id": "c95393ea1ae8"
+    },
+    {
+      "title": "ZZ COP",
+      "type": "concert",
+      "start": "2026-12-11T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/zz-cop.html",
+      "venue": "Sugar Shack",
+      "address": "Atelierstraße 16, 81671 München",
+      "description": "Im Sugar Shack steht druckvoller Bluesrock im Mittelpunkt. ZZ Cop interpretiert ikonische Songs und verbindet sie mit einer unverwechselbaren Note. Das Bühnenkonzept im Police-Style schafft eine besondere Atmosphäre. Die erfahrenen Musiker sorgen für ein tightes Zusammenspiel und eine souveräne Performance.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Bluesrock"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "ZZ COP",
+          "url": "https://www.last.fm/music/ZZ+COP"
+        }
+      ],
+      "known_artists": [],
+      "id": "40eb9858f3bb"
     },
     {
       "title": "Boogiemen’s Friends",
@@ -4173,7 +4209,7 @@
       "id": "bab14bcaa9e9"
     },
     {
-      "title": "Stephan Zinner – Großstadtblues",
+      "title": "Stephan Zinner - Großstadtblues",
       "type": "concert",
       "start": "2027-01-26T20:00",
       "end": "2027-01-26T23:00",
@@ -4771,7 +4807,7 @@
       "id": "03c5839afbdb"
     },
     {
-      "title": "Stephan Zinner – Großstadtblues",
+      "title": "Stephan Zinner - Großstadtblues",
       "type": "concert",
       "start": "2027-04-24T19:30",
       "end": "2027-04-24T22:30",
@@ -5062,7 +5098,7 @@
       "url": "https://www.vintage-club.de/",
       "kind": "school",
       "status": "ok",
-      "found": 55,
+      "found": 53,
       "kept": 9
     },
     {
@@ -5071,7 +5107,7 @@
       "url": "https://www.boogie-baeren.de/",
       "kind": "school",
       "status": "ok",
-      "found": 109,
+      "found": 110,
       "kept": 14
     },
     {
@@ -5125,7 +5161,7 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 59,
+      "found": 58,
       "kept": 1
     },
     {
@@ -5188,8 +5224,8 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 157,
-      "kept": 58
+      "found": 160,
+      "kept": 59
     },
     {
       "id": "ticketmaster",

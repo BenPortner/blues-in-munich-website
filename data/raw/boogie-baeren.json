@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-10-27T09:11:57+00:00",
+ "scraped_at": "2026-10-28T09:52:58+00:00",
  "status": {
   "id": "boogie-baeren",
   "name": "Boogie-Bären München",
   "url": "https://www.boogie-baeren.de/",
   "kind": "school",
   "status": "ok",
-  "found": 109
+  "found": 110
  },
  "events": [
   {
@@ -154,6 +154,28 @@
    "dates": [],
    "tags": [
     "Turnier"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "CARLA AND THE GREAT BALLS ON FIRE",
+   "type": "social",
+   "start": "2026-11-13",
+   "end": null,
+   "url": "https://www.boogie-baeren.de/eventleser/carla-and-the-great-balls-on-fire",
+   "venue": null,
+   "address": null,
+   "description": "CARLA AND THE GREAT BALLS ON FIRE spielen in der Schießstätte in Allach",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Extern"
    ],
    "source_id": "",
    "source_name": "",

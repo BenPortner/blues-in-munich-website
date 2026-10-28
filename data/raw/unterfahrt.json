@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-10-27T09:12:35+00:00",
+ "scraped_at": "2026-10-28T09:53:33+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 59
+  "found": 58
  },
  "events": [
-  {
-   "title": "BILL STEWART TRIO",
-   "type": "concert",
-   "start": "2026-10-27T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11677",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Sold out. Da sind drei Giganten am Werk: der Schlagzeuger Bill Stewart, der Tenorsaxofonist Walter Smith III und der Bassist Larry Grenadier konnten in verschiedenen Konstellationen schon miteinander musizieren, ehe sie sich als Trio zusammen taten. Diese Vertrautheit macht sich in jedem Ton, jeder Wendung, jeder Sequenz bemerkbar. Kühn nutzen die drei Weltklasse-Spieler die Freiräume, die sich ohne Harmonie-Instrument auftun und ihre Kommunikation verrät, wie firm sie in der Jazzgeschichte, aber auch in neueren Strömungen sind.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "WOLFGANG LACKERSCHMID",
    "type": "concert",

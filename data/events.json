@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T19:16:48+00:00",
+  "generated_at": "2026-10-28T19:21:05+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -2456,6 +2456,28 @@
         "Aynsley Lister"
       ],
       "id": "d3bc8fac1751"
+    },
+    {
+      "title": "Jazz/Blues-Improvisation mit David Becker",
+      "type": "other",
+      "start": "2026-10-31T14:30",
+      "end": "2026-10-31T18:00",
+      "url": "https://www.einewelthaus.de/events/jazz-blues-improvisation-mit-david-becker/",
+      "venue": "EineWeltHaus München",
+      "address": "Schwanthalerstr. 80, München, 80336",
+      "description": "Am Tag vor seinem Konzert arbeitet David Becker mit einer kleinen Gruppe an Improvisation über Jazz- und Blues-Formen — Phrasierung, Ton und der Aufbau von Soli. Der Grammy- und Emmy-nominierte Gitarrist ist mit dem David Becker Tribune in mehr als 40 Ländern aufgetreten und unterrichtet seit Jahren an Hochschulen in den USA und Europa. 12 Plätze, für Fortgeschrittene Bitte akustisch klingende Gitarre mitbringen 50 €, ermäßigt 35 €, Zahlung vor Ort Anmeldung per E-Mail an info@ms-musicmanagement.de &nbsp; Flyer",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Workshop"
+      ],
+      "source_id": "einewelthaus",
+      "source_name": "EineWeltHaus",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "a4edeed112ee"
     },
     {
       "title": "San2 unplugged",
@@ -5323,6 +5345,15 @@
       "status": "ok",
       "found": 13,
       "kept": 0
+    },
+    {
+      "id": "einewelthaus",
+      "name": "EineWeltHaus",
+      "url": "https://www.einewelthaus.de/",
+      "kind": "venue",
+      "status": "ok",
+      "found": 25,
+      "kept": 1
     },
     {
       "id": "swinginmunich",

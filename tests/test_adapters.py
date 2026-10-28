@@ -259,6 +259,19 @@ def test_ical_expands_weekly_rule():
     events = ical.parse(ics, "social", TODAY, horizon_days=30)
     assert [e.start for e in events] == ["2026-10-21T20:00", "2026-10-28T20:00", "2026-11-04T20:00", "2026-11-11T20:00"]
     assert events[0].end == "2026-10-21T23:00"
+    assert (events[0].venue, events[0].address, events[0].tags) == ("Somewhere", None, [])
+
+
+def test_ical_events_manager_feed():
+    events = ical.parse(fixture("einewelthaus_events.ics").encode(), "concert", TODAY)
+    jam = next(e for e in events if e.title == "Jazz/Blues-Improvisation mit David Becker")
+    # a "Workshop" category on an improvisation course: music, not dancing
+    assert (jam.start, jam.end, jam.type, jam.tags) == ("2026-10-31T14:30", "2026-10-31T18:00", "other", ["Workshop"])
+    assert (jam.venue, jam.address) == ("EineWeltHaus München", "Schwanthalerstr. 80, München, 80336")
+    assert jam.url == "https://www.einewelthaus.de/events/jazz-blues-improvisation-mit-david-becker/"
+    tango = next(e for e in events if "Antojitos" in e.title)
+    assert tango.tags == ["Benefizveranstaltung", "Musik & Tanz", "Performance", "Tanz"]
+    assert [e.title for e in events if keep(e, "blues")] == ["Jazz/Blues-Improvisation mit David Becker"]
 
 
 RP = "https://rheinpfalz-schwabing.de/veranstaltungen/"

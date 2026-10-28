@@ -1,9 +1,13 @@
 """Generic adapter: an iCalendar (.ics) feed, e.g. a public Google Calendar.
 
-Recurring events (RRULE) are expanded for the next params.horizon_days days.
+Recurring events (RRULE) are expanded for the next params.horizon_days days. CATEGORIES become tags
+and count toward the event type (a "Workshop" category). Venue and address come from
+X-APPLE-STRUCTURED-LOCATION (X-TITLE, X-ADDRESS) when the feed has it (WordPress Events Manager does),
+otherwise LOCATION is the venue.
 """
 from __future__ import annotations
 
+import html
 from datetime import date, datetime, timedelta
 from zoneinfo import ZoneInfo
 
@@ -51,14 +55,35 @@ def parse(raw: bytes, default_type: str, today: date, horizon_days: int = 120) -
             else:
                 starts = [d.date() for d in rule.between(lo, hi, inc=True)]
         title = clean_text(str(comp.get("SUMMARY", "")))
+        tags = _categories(comp)
+        venue, address = _location(comp)
         for occurrence in starts:
             events.append(Event(
                 title=title,
-                type=guess_type(title, default_type),
+                type=guess_type(" ".join([title, *tags]), default_type),
                 start=_local(occurrence),
                 end=_local(occurrence + duration) if duration else None,
                 url=str(comp.get("URL")) if comp.get("URL") else None,
-                venue=clean_text(str(comp.get("LOCATION", ""))) or None,
+                venue=venue,
+                address=address,
                 description=clean_text(str(comp.get("DESCRIPTION", ""))),
+                tags=tags,
             ))
     return events
+
+
+def _categories(comp) -> list[str]:
+    value = comp.get("CATEGORIES")
+    props = value if isinstance(value, list) else [value] if value is not None else []
+    # Events Manager escapes "&" in category names ("Musik &amp; Tanz")
+    return [clean_text(html.unescape(str(c))) for prop in props for c in prop.cats]
+
+
+def _location(comp) -> tuple[str | None, str | None]:
+    """(venue, address). 'Schwanthalerstr. 80, München, 80336, Deutschland' keeps its parts but the country."""
+    structured = comp.get("X-APPLE-STRUCTURED-LOCATION")
+    if structured is not None and structured.params.get("X-TITLE"):
+        parts = [p.strip() for p in structured.params.get("X-ADDRESS", "").split(",")]
+        address = ", ".join(p for p in parts if p and p not in ("Deutschland", "Germany"))
+        return clean_text(structured.params["X-TITLE"]), clean_text(address) or None
+    return clean_text(str(comp.get("LOCATION", ""))) or None, None

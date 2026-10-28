@@ -7,7 +7,7 @@
 #                 events from a `school` get a link to the school (url below)
 #   url           homepage — the school/venue link on the site
 #   adapter       how to read it: one of the modules in scraper/adapters/
-#                 generic: jsonld (schema.org JSON-LD pages), ical (.ics feed),
+#                 generic: jsonld (schema.org JSON-LD pages), ical (.ics feed, e.g. Events Manager),
 #                          mfgigcal (WordPress gig calendar plugin), manual
 #                 site-specific: vintage_club, boogie_baeren, unterfahrt,
 #                          glockenbachwerkstatt, misterbs, swinginmunich, ticketmaster,
@@ -226,6 +226,17 @@ sources:
       venue: Bürgersaal Fürstenried   # events rarely name a venue, and theirs is misspelled
       address: Züricher Str. 35, 81476 München
 
+  - id: einewelthaus
+    name: EineWeltHaus
+    kind: venue
+    url: https://www.einewelthaus.de/
+    adapter: ical
+    enabled: true
+    default_type: concert
+    filter: blues          # intercultural centre (talks, films, world music); now and then a jazz/blues workshop
+    params:
+      ics_url: https://www.einewelthaus.de/events.ics   # WordPress Events Manager feed, upcoming events
+
   # --- Aggregators ---------------------------------------------------------
   - id: swinginmunich
     name: SwinginMunich.de
@@ -306,11 +317,9 @@ sources:
 #      blues dates seen. Its listings appear on IN München, which catches blues-titled ones.
 #  Neighbourhood culture associations (Stadtteilkultur), checked 2026-10-28 from the city's lists
 #  (stadt.muenchen.de/infos/kulturvereine-initiativen.html and the Stadtteilkulturzentren listing):
-#  (UBO 9, Kunst in Sendling and Bürgersaal Fürstenried run The Events Calendar and are scraped above.)
+#  (UBO 9, Kunst in Sendling, Bürgersaal Fürstenried and EineWeltHaus are scraped above.)
 #  - Truderinger Kulturkreis — https://www.truderingerkulturkreis.de
 #      recurring Haberjazzband concerts (blues, Dixieland, swing). Jimdo site, no feed; needs a custom adapter.
-#  - EineWeltHaus — http://www.einewelthaus.de
-#      occasional jazz/blues improvisation workshops (David Becker), WordPress without a calendar API.
 #  - Others with music programmes but no blues seen on their homepage: Kulturhaus Milbertshofen,
 #      Kulturzentrum Trudering, Kultur-Forum2, Kulturforum München-West, Pelkovenschlössl, LUISE Kulturzentrum
 #      (ars musica's venue, covered above), Kulturkeller, Seidlvilla, Die Linie 1, Mohr-Villa.

@@ -8,6 +8,8 @@ Tags become event tags, so `filter: blues_title` also keeps events tagged e.g. "
 params.categories: category slugs to read (default: all events)
 params.max_pages:  pages of 50 events to read (default 5)
 params.venue_prefix: put before room names, e.g. "Pasinger Fabrik" -> "Pasinger Fabrik – Wagenhalle"
+params.venue, params.address: fixed venue and address for single-hall sites (their own are often
+                   missing or garbled)
 """
 from __future__ import annotations
 
@@ -32,13 +34,15 @@ def scrape(source, ctx):
     events = []
     for page in range(1, params.get("max_pages", 5) + 1):
         data = json.loads(ctx.http.text(api, {**query, "page": page}))
-        events.extend(parse(data, source.get("default_type", "concert"), params.get("venue_prefix")))
+        events.extend(parse(data, source.get("default_type", "concert"), params.get("venue_prefix"),
+                            params.get("venue"), params.get("address")))
         if page >= data.get("total_pages", 1):
             break
     return events
 
 
-def parse(data: dict, default_type: str = "concert", venue_prefix: str | None = None) -> list[Event]:
+def parse(data: dict, default_type: str = "concert", venue_prefix: str | None = None,
+          fixed_venue: str | None = None, fixed_address: str | None = None) -> list[Event]:
     events = []
     for item in data.get("events", []):
         title = clean_text(html.unescape(item["title"]))
@@ -53,8 +57,8 @@ def parse(data: dict, default_type: str = "concert", venue_prefix: str | None = 
             start=start,
             end=end if end != start else None,
             url=item.get("url"),
-            venue=_venue(clean_text(html.unescape(venue.get("venue") or "")), venue_prefix),
-            address=_address(venue),
+            venue=fixed_venue or _venue(clean_text(html.unescape(venue.get("venue") or "")), venue_prefix),
+            address=fixed_address or _address(venue),
             description=description,
             tags=[clean_text(html.unescape(t["name"])) for t in item.get("tags", [])],
         ))
@@ -69,9 +73,9 @@ def _local(value: str | None, all_day: bool = False) -> str | None:
 
 
 def _venue(name: str, prefix: str | None) -> str | None:
-    if prefix and not name.startswith(prefix):
-        return f"{prefix} – {name}" if name else prefix
-    return name or None
+    if prefix and name and not name.startswith(prefix):
+        return f"{prefix} – {name}"
+    return name or prefix
 
 
 def _address(venue: dict) -> str | None:

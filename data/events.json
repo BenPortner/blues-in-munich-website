@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T19:04:11+00:00",
+  "generated_at": "2026-10-28T19:08:50+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -4470,7 +4470,7 @@
       "end": "2027-02-13T22:30",
       "url": "https://pasinger-fabrik.de/veranstaltung/guenter-gruenwald-rad-gumbo-bayerisches-kabarett-trifft-southern-blues/",
       "venue": "Pasinger Fabrik – Wagenhalle",
-      "address": "August-Exter-Straße 1, 81245 München",
+      "address": "August-Exter-Str. 1, 81245 München",
       "description": "Günter Grünwald & RAD GUMBO Bayerisches Kabarett trifft Southern Blues Günter Grünwald ist einer der ganz großen bayerischen Kabarettisten und das seit über drei Jahrzehnten. Unzählige ausverkaufte Shows, seit vielen Jahren eine eigene TV-Sendung und ein einzigartiger Humor. Was viele allerdings nicht wissen: Günter Grünwald ist seit seiner Jugend ein leidenschaftlicher Gitarrist und Musikfan. Und wenn es die Zeit erlaubt dann steht er mit seinen befreundeten Vollblutmusikern von RAD GUMBO auf der Bühne und lässt es richtig krachen. Das Motto ist „Bayerisches Kabarett trifft Southern Blues“. W",
       "recurrence": null,
       "dates": [],
@@ -5296,6 +5296,33 @@
       "status": "ok",
       "found": 14,
       "kept": 2
+    },
+    {
+      "id": "ubo9",
+      "name": "UBO 9",
+      "url": "https://www.ubo9.de/",
+      "kind": "venue",
+      "status": "ok",
+      "found": 13,
+      "kept": 0
+    },
+    {
+      "id": "kunst-in-sendling",
+      "name": "Kunst in Sendling e.V.",
+      "url": "https://www.kunst-in-sendling.com/",
+      "kind": "venue",
+      "status": "ok",
+      "found": 18,
+      "kept": 0
+    },
+    {
+      "id": "buergersaal-fuerstenried",
+      "name": "Bürgersaal Fürstenried",
+      "url": "https://www.buergersaal-fuerstenried.de/",
+      "kind": "venue",
+      "status": "ok",
+      "found": 13,
+      "kept": 0
     },
     {
       "id": "swinginmunich",

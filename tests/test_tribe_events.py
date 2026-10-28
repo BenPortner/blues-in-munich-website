@@ -39,3 +39,9 @@ def test_tribe_events_venue_prefix():
     events = tribe_events.parse(json.loads(fixture("ackermannbogen_events.json")), venue_prefix="Ackermannbogen")
     soul = next(e for e in events if e.title == "Be My Guest - Soul Charade")
     assert soul.venue == "Ackermannbogen – KreativGarage Studio"
+
+
+def test_tribe_events_fixed_venue():
+    events = tribe_events.parse(json.loads(fixture("ackermannbogen_events.json")),
+                                fixed_venue="Ackermannbogen", fixed_address="Rosa-Aschenbrenner-Bogen 9, 80797 München")
+    assert {(e.venue, e.address) for e in events} == {("Ackermannbogen", "Rosa-Aschenbrenner-Bogen 9, 80797 München")}

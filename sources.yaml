@@ -181,6 +181,7 @@ sources:
     params:
       categories: [musik]  # ~35 upcoming; the rest is theatre, cabaret, opera, film, courses
       venue_prefix: Pasinger Fabrik   # the API names only the room ("Wagenhalle", "Kleine Bühne")
+      address: August-Exter-Str. 1, 81245 München   # missing on some rooms
 
   - id: ars-musica
     name: ars musica e.V.
@@ -190,6 +191,41 @@ sources:
     enabled: true
     default_type: concert
     filter: blues          # Sendling music association; small folk/songwriter concerts, genre line kept as a tag
+
+  - id: ubo9
+    name: UBO 9
+    kind: venue
+    url: https://www.ubo9.de/
+    adapter: tribe_events
+    enabled: true
+    default_type: concert
+    filter: blues_title    # Aubing culture centre; open stages, jazz, tango jams; blurbs mention blues in passing
+    exclude: ["^(ausstellung|vernissage|finissage)"]   # had a "Faces of the Blues" photo exhibition
+    params:
+      venue: UBO 9         # events rarely name a venue
+      address: Ubostraße 9, 81245 München
+
+  - id: kunst-in-sendling
+    name: Kunst in Sendling e.V.
+    kind: venue
+    url: https://www.kunst-in-sendling.com/
+    adapter: tribe_events
+    enabled: true
+    default_type: concert
+    filter: blues          # artists' association: exhibitions at the Sendlinger Kulturschmiede with concerts alongside
+    exclude: ["^(ausstellung|vernissage|finissage)"]
+
+  - id: buergersaal-fuerstenried
+    name: Bürgersaal Fürstenried
+    kind: venue
+    url: https://www.buergersaal-fuerstenried.de/
+    adapter: tribe_events
+    enabled: true
+    default_type: concert
+    filter: blues          # neighbourhood hall: dance-band afternoons, sing-alongs, amateur theatre
+    params:
+      venue: Bürgersaal Fürstenried   # events rarely name a venue, and theirs is misspelled
+      address: Züricher Str. 35, 81476 München
 
   # --- Aggregators ---------------------------------------------------------
   - id: swinginmunich
@@ -271,13 +307,7 @@ sources:
 #      blues dates seen. Its listings appear on IN München, which catches blues-titled ones.
 #  Neighbourhood culture associations (Stadtteilkultur), checked 2026-10-28 from the city's lists
 #  (stadt.muenchen.de/infos/kulturvereine-initiativen.html and the Stadtteilkulturzentren listing):
-#  - UBO 9 (Sendling) — http://www.ubo9.de
-#      runs The Events Calendar (adapter: tribe_events works as-is). Mostly swing/jazz; only blues hit
-#      so far was a photo exhibition ("Faces of the Blues"). Enable with filter: blues_title if that changes.
-#  - Kunst in Sendling e.V. — https://www.kunst-in-sendling.com
-#      runs The Events Calendar (tribe_events works); 18 upcoming events, none blues.
-#  - Bürgersaal Fürstenried — http://www.buergersaal-fuerstenried.de
-#      runs The Events Calendar (tribe_events works); 13 upcoming events, none blues.
+#  (UBO 9, Kunst in Sendling and Bürgersaal Fürstenried run The Events Calendar and are scraped above.)
 #  - Truderinger Kulturkreis — https://www.truderingerkulturkreis.de
 #      recurring Haberjazzband concerts (blues, Dixieland, swing). Jimdo site, no feed; needs a custom adapter.
 #  - EineWeltHaus — http://www.einewelthaus.de

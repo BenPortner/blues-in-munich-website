@@ -10,6 +10,7 @@ from . import (  # noqa: F401
     jsonld,
     manual,
     mfgigcal,
+    muenchen_online,
     misterbs,
     mvp,
     oksanapavlova,

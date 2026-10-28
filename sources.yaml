@@ -14,7 +14,8 @@
 #                          inmuenchen,
 #                          oksanapavlova, rheinpfalz_schwabing, gansamwasser,
 #                          village, hepcat, tollwood, stragula, arsmusica,
-#                          truderinger_kulturkreis, mvp
+#                          truderinger_kulturkreis, mvp,
+#                          muenchen_online (a venue's page on muenchen-online.de)
 #                 generic WordPress: tribe_events (The Events Calendar REST API)
 #   enabled       false to keep an entry without scraping it
 #   default_type  class | workshop | social | concert | other (when not inferable;
@@ -115,6 +116,17 @@ sources:
     filter: blues_title    # jazz club: only gigs billed as blues (title or "Blues" series)
     params:
       months: 4
+
+  - id: jazzbar-vogler
+    name: Jazzbar Vogler
+    kind: venue
+    url: https://www.jazzbar-vogler.com/
+    adapter: muenchen_online
+    enabled: true
+    default_type: concert
+    filter: blues_title    # jazz/Latin/soul bar; its own site has no programme (newsletter, FB, Instagram only)
+    params:
+      page_url: https://www.muenchen-online.de/veranstaltungsorte/jazzbar-vogler-2361/
 
   - id: misterbs
     name: Mister B's

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T19:23:11+00:00",
+  "generated_at": "2026-10-28T19:35:51+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -5325,6 +5325,15 @@
       "status": "ok",
       "found": 58,
       "kept": 1
+    },
+    {
+      "id": "jazzbar-vogler",
+      "name": "Jazzbar Vogler",
+      "url": "https://www.jazzbar-vogler.com/",
+      "kind": "venue",
+      "status": "ok",
+      "found": 16,
+      "kept": 0
     },
     {
       "id": "misterbs",

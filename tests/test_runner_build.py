@@ -211,7 +211,7 @@ def test_load_archive(tmp_path):
     path = tmp_path / "sources.yaml"
     path.write_text("archive:\n  since: 2026-01-01\nsources: []\n")
     assert load_archive(path) == {"since": "2026-01-01",
-                                  "types": ["class", "workshop", "social", "concert"]}
+                                  "types": ["class", "workshop", "social", "concert", "other"]}
     path.write_text("archive:\n  since: 2026-01-01\n  types: [class, workshop]\nsources: []\n")
     assert load_archive(path) == ARCHIVE
     path.write_text("sources: []\n")
@@ -316,9 +316,10 @@ def test_build_site_past_section(tmp_path):
     assert [h.get_text() for h in page.select("#past .month h2")] == ["September 2026", "March 2026"]
     assert "Sessions: 23 Sep, 30 Sep" in page.select_one("#past .card").get_text()
     assert page.select_one("#past summary span").get_text() == "2"
-    # chips count upcoming events, but past-only types still get one
+    # one dance chip for classes, workshops and socials; it counts upcoming events only
     chips = {b["data-filter"]: b.span.get_text() for b in page.select(".chip[data-filter]")}
-    assert chips == {"all": "1", "class": "0", "workshop": "0", "social": "1"}
+    assert chips == {"all": "1", "dance": "1"}
+    assert [c["data-group"] for c in page.select(".card")] == ["dance"] * 3
     cal = json.loads(page.select_one("#calendar-data").string)
     assert [c["start"] for c in cal] == ["2026-03-07T16:00", "2026-09-23T18:45", "2026-09-30T18:45",
                                          "2026-10-21T20:00"]
@@ -335,7 +336,7 @@ def test_calendar_events():
     assert (cal["f-0"]["end"], cal["f-0"]["allDay"]) == ("2026-10-26", True)  # exclusive end
     assert (cal["n-0"]["end"], cal["n-0"]["allDay"]) == ("2026-10-25T02:00", False)
     assert cal["l-0"]["end"] == "2026-11-01T00:00"  # mixed date/time stretches to end of day
-    assert cal["c-0"]["extendedProps"] == {"type": "class", "source": "", "label": "Class", "venue": None, "time": "18:45–19:45"}
+    assert cal["c-0"]["extendedProps"] == {"type": "class", "group": "dance", "source": "", "label": "Class", "venue": None, "time": "18:45–19:45"}
 
 
 def test_calendar_json_is_script_safe(tmp_path):
@@ -386,7 +387,7 @@ def test_region_switch(tmp_path):
         "Munich 2", "Munich and region 5"]
     # chips count without and with the region; without JS the page lists everything
     counts = {b["data-filter"]: (b["data-counts"], b.span.get_text()) for b in page.select(".chip[data-filter]")}
-    assert counts == {"all": ("2 5", "5"), "highlight": ("1 2", "2"), "class": ("0 1", "1"), "concert": ("2 4", "4")}
+    assert counts == {"all": ("2 5", "5"), "highlight": ("1 2", "2"), "dance": ("0 1", "1"), "concert": ("2 4", "4")}
     # an out-of-town highlight is a highlight like any other, marked so the page can leave it out
     assert [li.a.get_text() for li in page.select("#spotlight li[data-regional]")] == ["Village gig"]
     cal = {c["title"]: c["extendedProps"] for c in json.loads(page.select_one("#calendar-data").string)}
@@ -425,3 +426,18 @@ def test_months_later():
     assert months_later(date(2026, 10, 16), 3) == date(2027, 1, 16)
     assert months_later(date(2026, 11, 30), 3) == date(2027, 2, 28)  # no 30 Feb
     assert months_later(date(2026, 1, 31), 1) == date(2026, 2, 28)
+
+
+def test_other_chip(tmp_path):
+    data = {"generated_at": "2026-10-16T04:00:00+00:00", "sources": [], "events": [
+        Event(title="Faces of the Blues", type="other", start="2026-10-21", id="x").to_dict(),
+        Event(title="Blues Night", type="concert", start="2026-10-22T20:00", id="y").to_dict(),
+    ]}
+    data_path = tmp_path / "events.json"
+    data_path.write_text(json.dumps(data))
+    build(data_path, tmp_path / "dist", TODAY)
+    page = BeautifulSoup((tmp_path / "dist" / "index.html").read_text(encoding="utf-8"), "lxml")
+    chips = [b.get_text(" ", strip=True) for b in page.select(".chip[data-filter]")]
+    assert chips == ["All 2", "Concerts 1", "Other 1"]
+    other = page.select_one(".card.type-other")
+    assert other["data-group"] == "other" and "Other" in other.get_text()

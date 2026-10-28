@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-10-28T19:08:12+00:00",
+ "scraped_at": "2026-10-28T19:16:48+00:00",
  "status": {
   "id": "kunst-in-sendling",
   "name": "Kunst in Sendling e.V.",
@@ -35,7 +35,7 @@
   },
   {
    "title": "Vernissage – ANTARKTIS – der 6. Kontinent",
-   "type": "concert",
+   "type": "other",
    "start": "2026-10-29T18:00",
    "end": "2026-10-29T22:00",
    "url": "https://www.kunst-in-sendling.com/event/vernissage-antarktis-der-6-kontinent/",
@@ -99,7 +99,7 @@
   },
   {
    "title": "Finissage – ANTARKTIS – der 6. Kontinent",
-   "type": "concert",
+   "type": "other",
    "start": "2026-11-08T15:00",
    "end": "2026-11-08T18:00",
    "url": "https://www.kunst-in-sendling.com/event/finissage-antarktis-der-6-kontinent/",
@@ -119,7 +119,7 @@
   },
   {
    "title": "Zwischen den Welten – Vernissage",
-   "type": "concert",
+   "type": "other",
    "start": "2026-11-12T18:00",
    "end": "2026-11-12T22:00",
    "url": "https://www.kunst-in-sendling.com/event/zwischen-den-welten-vernissage/",
@@ -139,7 +139,7 @@
   },
   {
    "title": "Zwischen den Welten – Ausstellung",
-   "type": "concert",
+   "type": "other",
    "start": "2026-11-14T15:00",
    "end": "2026-11-22T20:00",
    "url": "https://www.kunst-in-sendling.com/event/zwischen-den-welten-ausstellung/",
@@ -219,7 +219,7 @@
   },
   {
    "title": "Zwischen den Welten – Finissage mit Cosmic Guitar Duo",
-   "type": "concert",
+   "type": "other",
    "start": "2026-11-22T16:00",
    "end": "2026-11-22T20:00",
    "url": "https://www.kunst-in-sendling.com/event/zwischen-den-welten-finissage-mit-cosmic-guitar-duo/",
@@ -239,7 +239,7 @@
   },
   {
    "title": "Vernissage – MASKIERTE & VERSCHLEIERTE",
-   "type": "concert",
+   "type": "other",
    "start": "2026-12-03T19:00",
    "end": "2026-12-03T21:00",
    "url": "https://www.kunst-in-sendling.com/event/vernissage-maskierte-verschleierte/",
@@ -299,7 +299,7 @@
   },
   {
    "title": "Finissage – EVA RAISER-JOHANSON IM DIALOG MIT STEFAN HUNDBISS UND CHRISTINE ZELLNER – IM FLEZ",
-   "type": "concert",
+   "type": "other",
    "start": "2026-12-13T14:00",
    "end": "2026-12-13T17:00",
    "url": "https://www.kunst-in-sendling.com/event/finissage-eva-raiser-johanson-im-dialog-mit-stefan-hundbiss-und-christine-zellner-im-flez/",
@@ -359,7 +359,7 @@
   },
   {
    "title": "Finissage mit Filmvorführung – MASKIERTE & VERSCHLEIERTE",
-   "type": "concert",
+   "type": "other",
    "start": "2027-01-14T19:00",
    "end": "2027-01-14T21:00",
    "url": "https://www.kunst-in-sendling.com/event/finissage-mit-filmvorfuehrung-maskierte-verschleierte/",

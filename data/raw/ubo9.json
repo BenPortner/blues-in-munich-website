@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-10-28T19:08:40+00:00",
+ "scraped_at": "2026-10-28T19:16:45+00:00",
  "status": {
   "id": "ubo9",
   "name": "UBO 9",
@@ -31,7 +31,7 @@
   },
   {
    "title": "Herbstausstellung Aubinger Künstlerkreis",
-   "type": "concert",
+   "type": "other",
    "start": "2026-11-06T18:00",
    "end": "2026-11-22T00:00",
    "url": "https://www.ubo9.de/veranstaltung/herbstausstellung-aubinger-kuenstlerkreis-2/",
@@ -151,7 +151,7 @@
   },
   {
    "title": "AUSSTELLUNG: das seh ich anders",
-   "type": "concert",
+   "type": "other",
    "start": "2026-11-27T19:00",
    "end": "2027-01-09T00:00",
    "url": "https://www.ubo9.de/veranstaltung/das-seh-ich-anders/",

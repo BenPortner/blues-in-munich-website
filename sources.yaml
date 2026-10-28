@@ -16,7 +16,8 @@
 #                          village, hepcat, tollwood, stragula, arsmusica
 #                 generic WordPress: tribe_events (The Events Calendar REST API)
 #   enabled       false to keep an entry without scraping it
-#   default_type  class | workshop | social | concert (when not inferable)
+#   default_type  class | workshop | social | concert | other (when not inferable;
+#                 other = exhibitions, instrument/singing courses)
 #   filter        blues        keep events mentioning blues (title/description/tags)
 #                 blues_title  only title/tags count (venues that mention blues in passing)
 #                 none         keep everything (all-blues sources)
@@ -200,7 +201,6 @@ sources:
     enabled: true
     default_type: concert
     filter: blues_title    # Aubing culture centre; open stages, jazz, tango jams; blurbs mention blues in passing
-    exclude: ["^(ausstellung|vernissage|finissage)"]   # had a "Faces of the Blues" photo exhibition
     params:
       venue: UBO 9         # events rarely name a venue
       address: Ubostraße 9, 81245 München
@@ -213,7 +213,6 @@ sources:
     enabled: true
     default_type: concert
     filter: blues          # artists' association: exhibitions at the Sendlinger Kulturschmiede with concerts alongside
-    exclude: ["^(ausstellung|vernissage|finissage)"]
 
   - id: buergersaal-fuerstenried
     name: Bürgersaal Fürstenried

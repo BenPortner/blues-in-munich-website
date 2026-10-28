@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-10-28T19:03:13+00:00",
+ "scraped_at": "2026-10-28T19:16:43+00:00",
  "status": {
   "id": "ars-musica",
   "name": "ars musica e.V.",
@@ -99,7 +99,7 @@
   },
   {
    "title": "Singende Säge - Anfängerkurs",
-   "type": "class",
+   "type": "other",
    "start": "2026-11-14T14:00",
    "end": null,
    "url": "https://www.ars-musica-muenchen.de/event_details.php?id=1979&title=Singende%20S%C3%A4ge%20-%20Anf%C3%A4ngerkurs",

@@ -7,7 +7,8 @@ import unicodedata
 from dataclasses import asdict, dataclass, field
 from datetime import date
 
-EVENT_TYPES = ("class", "workshop", "social", "concert")
+# "other": exhibitions, instrument and singing courses — blues-related, but neither dancing nor a gig
+EVENT_TYPES = ("class", "workshop", "social", "concert", "other")
 
 
 @dataclass
@@ -94,7 +95,14 @@ def slug(text: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", text).strip("-")
 
 
+_INSTRUMENT = (r"gitarre|guitar|harmonica|mundharmonika|blues\s*harp|piano|klavier|ukulele|bass|drums?|"
+               r"schlagzeug|gesang|vocals?|singing|instrument|improvisation|singende\s*säge|slide")
+_COURSE = r"workshop|kurs|seminar|class|unterricht|lesson"
+
 _TYPE_HINTS = [
+    ("other", r"ausstellung|vernissage|finissage|exhibition"),
+    # Music courses (a guitar workshop, a singing class) are not dance workshops
+    ("other", rf"({_INSTRUMENT}).{{0,40}}({_COURSE})|({_COURSE}).{{0,40}}({_INSTRUMENT})"),
     # Dance festivals (weekenders, camps) are workshops; music festivals are concerts
     ("workshop", r"workshop|weekend|weekender|camp\b"),
     ("concert", r"festival"),

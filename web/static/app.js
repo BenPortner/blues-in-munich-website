@@ -5,7 +5,8 @@
 })();
 
 // Type filter chips and the List / Calendar switch. The page works without JS as a plain list.
-// URL hash keeps the state: "#concert", "#calendar", "#calendar/concert", "#concert/region". "highlight"
+// URL hash keeps the state: "#concert", "#calendar", "#calendar/dance", "#concert/region". Chips filter by
+// group (dance = classes, workshops and socials). "highlight"
 // is a filter too (see highlights.yaml). Events outside Munich (data-regional) are left out everywhere
 // until the place menu is set to "Munich and region" ("region" at the end of the hash).
 // "#source/<id>" (the event counts in the Sources footer) lists one source's events, whatever the type or place.
@@ -40,6 +41,7 @@
     state.region = !!areas && parts[parts.length - 1] === "region";
     if (state.region) parts.pop();
     var type = parts[0] || "all";
+    if (/^(class|workshop|social)$/.test(type)) type = "dance";  // links from before the dance chip
     state.type = document.querySelector('.chip[data-filter="' + type + '"]') ? type : "all";
   }
 
@@ -56,16 +58,16 @@
     return id && document.querySelector('[data-source-link="' + CSS.escape(id) + '"]');
   }
 
-  function shown(type, highlight, regional, source) {
+  function shown(group, highlight, regional, source) {
     if (state.source) return source === state.source;
     if (regional && areas && !state.region) return false;
     if (state.type === "highlight") return highlight;
-    return state.type === "all" || type === state.type;
+    return state.type === "all" || group === state.type;
   }
 
   function applyList() {
     document.querySelectorAll(".card").forEach(function (card) {
-      card.hidden = !shown(card.dataset.type, "highlight" in card.dataset, "regional" in card.dataset, card.dataset.source);
+      card.hidden = !shown(card.dataset.group, "highlight" in card.dataset, "regional" in card.dataset, card.dataset.source);
     });
     // Hide days and months that have nothing left to show
     document.querySelectorAll(".day").forEach(function (day) {
@@ -194,7 +196,7 @@
       navLinkDayClick: function (date) { calendar.changeView(weekView, date); },
       events: function (info, success) {
         success(all.filter(function (e) {
-          return shown(e.extendedProps.type, !!e.extendedProps.highlight, !!e.extendedProps.regional, e.extendedProps.source);
+          return shown(e.extendedProps.group, !!e.extendedProps.highlight, !!e.extendedProps.regional, e.extendedProps.source);
         }).map(function (e) {
           var color = typeColor(e.extendedProps.type);
           return Object.assign({}, e, { backgroundColor: color, borderColor: color });

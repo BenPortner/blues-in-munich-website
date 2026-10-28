@@ -78,3 +78,8 @@ def test_guess_type():
     assert guess_type("Halb-Akro Workshop", "social") == "workshop"
     assert guess_type("West Coast Swing Party", "class") == "social"
     assert guess_type("Something", "concert") == "concert"
+    # exhibitions and music courses are "other", dance workshops stay workshops
+    assert guess_type("AUSSTELLUNG: Faces of the Blues", "concert") == "other"
+    assert guess_type("Blues Harmonica Workshop", "workshop") == "other"
+    assert guess_type("Gitarrenkurs für Einsteiger", "concert") == "other"
+    assert guess_type("Blues Workshop Weekend", "workshop") == "workshop"

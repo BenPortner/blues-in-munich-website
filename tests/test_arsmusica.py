@@ -20,7 +20,7 @@ def test_arsmusica_events():
     delta = next(e for e in events if e.title.startswith("Delta X"))
     assert delta.address == "Pfeuferstr. 32, 81377 München"
     saw = next(e for e in events if e.title.startswith("Singende Säge"))
-    assert (saw.start, saw.type) == ("2026-11-14T14:00", "class")
+    assert (saw.start, saw.type) == ("2026-11-14T14:00", "other")  # an instrument course, not dancing
 
 
 def test_arsmusica_blues_filter():

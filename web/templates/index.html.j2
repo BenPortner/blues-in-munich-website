@@ -33,7 +33,7 @@
         <h3 class="day-label"><time datetime="{{ day.day.isoformat() }}">{{ day.label }}</time>{% if day.is_today %} <em>today</em>{% endif %}</h3>
         <div class="cards">
           {% for c in day.cards %}{% set e = c.e %}
-          <article class="card type-{{ e.type }}{% if c.highlight %} highlight{% endif %}" data-type="{{ e.type }}" data-source="{{ e.source_id }}"{% if c.highlight %} data-highlight{% endif %}{% if c.regional %} data-regional{% endif %}>
+          <article class="card type-{{ e.type }}{% if c.highlight %} highlight{% endif %}" data-type="{{ e.type }}" data-group="{{ c.group }}" data-source="{{ e.source_id }}"{% if c.highlight %} data-highlight{% endif %}{% if c.regional %} data-regional{% endif %}>
             <p class="meta">
               <span class="badge">{{ c.label }}</span>
               {% if c.highlight %}<span class="star">★ Highlight</span>{% endif %}

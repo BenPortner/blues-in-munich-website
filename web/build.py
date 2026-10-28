@@ -37,10 +37,12 @@ LEGAL = {
 
 TYPE_LABELS = {
     "class": "Class", "workshop": "Workshop", "social": "Social",
-    "concert": "Concert",
+    "concert": "Concert", "other": "Other",
 }
-FILTERS = [("class", "Classes"), ("workshop", "Workshops"), ("social", "Socials"),
-           ("concert", "Concerts")]
+# Filter chips: (group, label, event types). Cards keep their own type label (Class, Workshop, …)
+FILTERS = [("dance", "Dance", ("class", "workshop", "social")), ("concert", "Concerts", ("concert",)),
+           ("other", "Other", ("other",))]
+TYPE_GROUP = {t: group for group, _, types in FILTERS for t in types}
 COURSE_HORIZON_MONTHS = 2  # course blocks starting later than this aren't listed yet
 # The city's own postcodes; anything else is the region (the place menu: "Munich" / "Munich and region")
 MUNICH_POSTCODES = range(80331, 81930)
@@ -88,6 +90,7 @@ def card(e: Event, today: date, highlights: Highlights) -> dict:
         "e": e,
         "day": _day(e.start if past else e.next_date(today)),
         "label": TYPE_LABELS.get(e.type, e.type.title()),
+        "group": TYPE_GROUP.get(e.type, e.type),
         "time": fmt_time(e),
         "span": fmt_span(e),
         "sessions": ", ".join(fmt_day(d, False) for d in sessions),
@@ -146,7 +149,6 @@ def view_model(data: dict, today: date, highlights: Highlights) -> dict:
     generated = datetime.fromisoformat(data["generated_at"]).astimezone(MUNICH)
     calendar_json = json.dumps(calendar_events(past[::-1] + upcoming, highlights),
                                ensure_ascii=False).replace("</", "<\\/")
-    counts = {t: sum(1 for c in cards if c["e"].type == t) for t, _ in FILTERS}
     this_month, next_month = spotlight_months(today)
     after = (next_month + timedelta(days=32)).replace(day=1)
     spotlight = [{**c, "day_label": fmt_day(c["day"])} for c in cards if c["highlight"] and c["day"] < after]
@@ -171,8 +173,8 @@ def view_model(data: dict, today: date, highlights: Highlights) -> dict:
         "total": len(cards),
         "total_counts": chip_counts(lambda c: True),
         # Chips count upcoming events; a type with only past ones still gets a chip
-        "filters": [(t, label, chip_counts(lambda c, t=t: c["e"].type == t)) for t, label in FILTERS
-                    if counts[t] or any(c["e"].type == t for c in past_cards)],
+        "filters": [(g, label, chip_counts(lambda c, g=g: c["group"] == g)) for g, label, _ in FILTERS
+                    if any(c["group"] == g for c in cards + past_cards)],
         # Place menu ("Munich" / "Munich and region"), when some event is out of town
         "region_switch": any(c["regional"] for c in cards + past_cards),
         "region_extra": len(cards) - len(in_town),
@@ -224,6 +226,7 @@ def calendar_events(events: list[Event], highlights: Highlights | None = None) -
                 "url": e.url,
                 "extendedProps": {
                     "type": e.type,
+                    "group": TYPE_GROUP.get(e.type, e.type),
                     "source": e.source_id,
                     "label": TYPE_LABELS.get(e.type, e.type.title()),
                     "venue": e.venue,

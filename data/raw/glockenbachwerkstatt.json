@@ -1,37 +1,14 @@
 {
- "scraped_at": "2026-10-28T09:53:19+00:00",
+ "scraped_at": "2026-10-29T10:14:40+00:00",
  "status": {
   "id": "glockenbachwerkstatt",
   "name": "Glockenbachwerkstatt – Fish'n Blues",
   "url": "https://www.glockenbachwerkstatt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 7
+  "found": 6
  },
  "events": [
-  {
-   "title": "Leonie singt!",
-   "type": "concert",
-   "start": "2026-10-28T20:30",
-   "end": null,
-   "url": "https://www.glockenbachwerkstatt.de/events/leonie-singt/",
-   "venue": "Glockenbachwerkstatt",
-   "address": "Blumenstraße 7, 80331 München",
-   "description": "Fisch: 19:00 Uhr · kostenfrei",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Fish'n Blues",
-    "Konzert"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "The Secret Songwriter's Union",
    "type": "concert",

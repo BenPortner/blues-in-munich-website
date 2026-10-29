@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-10-28T19:16:42+00:00",
+ "scraped_at": "2026-10-29T10:17:49+00:00",
  "status": {
   "id": "pasinger-fabrik",
   "name": "Pasinger Fabrik",
   "url": "https://www.pasinger-fabrik.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 35
+  "found": 34
  },
  "events": [
-  {
-   "title": "Jasmin Bayer & Davide Roberts: Let There Be Love!",
-   "type": "concert",
-   "start": "2026-10-28T20:00",
-   "end": "2026-10-28T22:00",
-   "url": "https://pasinger-fabrik.de/veranstaltung/jasmin-bayer-davide-roberts-let-there-be-love/",
-   "venue": "Pasinger Fabrik – Kleine Bühne",
-   "address": "August-Exter-Str. 1, 81245 München",
-   "description": "Mit ihrem neuen Programm Let There Be Love! widmet sich die Sängerin Jasmin Bayer ganz der wohl stärksten Kraft der Musik: der Liebe. Mit ihrer warmen, unverwechselbaren Stimme und ihrer starken und charismatischen Bühnenpräsenz interpretiert sie gefühlvoll Klassiker und verborgene Schätze des romantischen Jazz und Pop – wie L-O-V-E, Saving All My Love For You, There Is No Greater Love und viele mehr. Let There Be Love! ist mehr als ein Konzertabend – es ist eine Einladung, sich für einen Moment dem Zauber der Liebe hinzugeben. Jasmin Bayer gelingt es, große Gefühle mit künstlerischer Raffinesse zu verbinden und eine Atmosphäre zu schaffen, in der Romantik, Wärme und musikalische Eleganz harmonisch verschmelzen. Mit bislang vier Studioalben hat sich Jasmin Bayer als profilierte Stimme im deutschen Jazz etabliert. Summer Melodies (ENJA Records), The Green Unicorn (ENJA Records), Merry Christmas Baby (Timezone Records) und Poetic License (Timezone Records) bilden ihre künstlerische Entwicklung ab, die sich nun auch im neuen Live-Programm Let There Be Love! Überzeugend fortsetzt. An ihrer Seite stehen Pianist, Mitkomponist und Arrangeur Davide Roberts, ein Musiker, der in seinem Jazz Leidenschaft und spielerische Eleganz, Akkuratesse und improvisatorische Beweglichkeit virtuos vereint. Let There Be Love! mit Jasmin Bayer & Davide Roberts – ein Programm für alle, die Liebe nicht nur hören, sondern spüren möchten. · Eintritt: 16€ – 20€",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Und Sonntag regnets sowieso",
    "type": "concert",

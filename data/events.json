@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T19:41:34+00:00",
+  "generated_at": "2026-10-29T10:19:32+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -2273,33 +2273,6 @@
       "id": "a473a482e0ed"
     },
     {
-      "title": "Solo Blues · alle Level ab 28.10.",
-      "type": "class",
-      "start": "2026-10-21T17:30",
-      "end": "2026-10-21T18:30",
-      "url": "https://www.vintage-club.de/classes.aspx",
-      "venue": "Vintage Club (VC Studio 2)",
-      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
-      "description": "Advance registration by email required.",
-      "recurrence": "Wednesdays 17:30–18:30",
-      "dates": [
-        "2026-10-21",
-        "2026-10-28",
-        "2026-11-04",
-        "2026-11-11"
-      ],
-      "tags": [
-        "course block"
-      ],
-      "source_id": "vintage-club",
-      "source_name": "Vintage Club",
-      "school_name": "Vintage Club",
-      "school_url": "https://www.vintage-club.de/",
-      "artists": [],
-      "known_artists": [],
-      "id": "6981c836dd7b"
-    },
-    {
       "title": "Körber Krohn Fliegauf",
       "type": "concert",
       "start": "2026-10-28T19:00",
@@ -2617,7 +2590,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues Rock"
+        "Blues-Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -2663,6 +2636,33 @@
       "artists": [],
       "known_artists": [],
       "id": "736bb6181162"
+    },
+    {
+      "title": "Solo Blues · alle Level ab 28.10.",
+      "type": "class",
+      "start": "2026-10-21T17:30",
+      "end": "2026-10-21T18:30",
+      "url": "https://www.vintage-club.de/classes.aspx",
+      "venue": "Vintage Club (VC Studio 2)",
+      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+      "description": "Advance registration by email required.",
+      "recurrence": "Wednesdays 17:30–18:30",
+      "dates": [
+        "2026-10-21",
+        "2026-10-28",
+        "2026-11-04",
+        "2026-11-11"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "vintage-club",
+      "source_name": "Vintage Club",
+      "school_name": "Vintage Club",
+      "school_url": "https://www.vintage-club.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "6981c836dd7b"
     },
     {
       "title": "Eric Bibb",
@@ -2796,7 +2796,7 @@
       "title": "Anni und Hans: Blues & Jazz",
       "type": "concert",
       "start": "2026-11-07T20:00",
-      "end": "2026-11-07T22:00",
+      "end": null,
       "url": "https://stragula.de/events.html#:~:text=Anni%20und%20Hans%3A%20Blues%20%26%20Jazz",
       "venue": "Stragula",
       "address": "Bergmannstr. 66, 80339 München",
@@ -3314,6 +3314,28 @@
       ],
       "known_artists": [],
       "id": "0a7033e7e1da"
+    },
+    {
+      "title": "Körber Krohn Fliegauf",
+      "type": "concert",
+      "start": "2026-11-25T19:00",
+      "end": "2026-11-25T22:00",
+      "url": "https://www.in-muenchen.de/events/koerber-krohn-fliegauf.html",
+      "venue": "Barschwein",
+      "address": "Franzstraße 3, 80802 München",
+      "description": "Eine groovende Reise durch Blues und Americana erwartet die Zuhörer. Zwei akustische Gitarren, Blues-Harp und Gesang entführen in unbekannte Ecken des Songbooks. Von den Allmann Brothers bis John Mayall reichen die musikalischen Inspirationen.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues-Americana"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "a6be4f854ebb"
     },
     {
       "title": "Dr. Will & The Wizards",
@@ -4015,7 +4037,7 @@
       "id": "62c8b6e8743a"
     },
     {
-      "title": "13. American Bar Night – „Midlife or Crisis?“ & Friends",
+      "title": "13. American Bar Night - „Midlife or Crisis?“ & Friends",
       "type": "concert",
       "start": "2026-12-19T18:00",
       "end": null,
@@ -4026,7 +4048,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues Rock"
+        "Blues-Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -4071,7 +4093,7 @@
       "url": "https://www.tollwood.de/veranstaltungen/2026/muddy-what-3/",
       "venue": "Tollwood – Hexenkessel",
       "address": "Theresienwiese, 80336 München",
-      "description": "New Blues",
+      "description": "New Blues Moderne Bluesmusik, die lebt und inspiriert: Muddy What? sind zurück auf Tour und machen Halt auf dem Tollwood Sommerfestival. Das Trio um die Geschwister Ina und Fabian Spang aus München präsentiert vitalen Blues mit eigener Handschrift und dynamischer Spielfreude. Ihr selbsternannter „New Blues“ ist erfrischend, facettenreich und auf Bühnen weltweit live erlebbar.",
       "recurrence": null,
       "dates": [],
       "tags": [
@@ -4147,7 +4169,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues Rock"
+        "Blues-Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -4492,7 +4514,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues Rock"
+        "Blues-Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -4550,12 +4572,7 @@
       "source_name": "mvp.de (Jazz & Blues)",
       "school_name": null,
       "school_url": null,
-      "artists": [
-        {
-          "name": "Blues Briederchen",
-          "url": "https://www.last.fm/music/Blues+Briederchen"
-        }
-      ],
+      "artists": [],
       "known_artists": [],
       "id": "a58af08e42b0"
     },
@@ -5113,7 +5130,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues Rock"
+        "Blues-Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -5217,7 +5234,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues Rock"
+        "Blues-Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -5343,7 +5360,7 @@
       "url": "https://hepcatclub.com/",
       "kind": "school",
       "status": "ok",
-      "found": 221,
+      "found": 225,
       "kept": 3
     },
     {
@@ -5352,7 +5369,7 @@
       "url": "https://www.glockenbachwerkstatt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 7,
+      "found": 6,
       "kept": 43
     },
     {
@@ -5379,7 +5396,7 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 58,
+      "found": 57,
       "kept": 1
     },
     {
@@ -5424,7 +5441,7 @@
       "url": "https://www.tollwood.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 101,
+      "found": 100,
       "kept": 8
     },
     {
@@ -5437,12 +5454,21 @@
       "kept": 3
     },
     {
+      "id": "ackermannbogen",
+      "name": "Ackermannbogen e.V.",
+      "url": "https://ackermannbogen-ev.de/programm-alles",
+      "kind": "venue",
+      "status": "ok",
+      "found": 16,
+      "kept": 0
+    },
+    {
       "id": "pasinger-fabrik",
       "name": "Pasinger Fabrik",
       "url": "https://www.pasinger-fabrik.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 35,
+      "found": 34,
       "kept": 4
     },
     {
@@ -5451,7 +5477,7 @@
       "url": "https://www.ars-musica-muenchen.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 14,
+      "found": 13,
       "kept": 2
     },
     {
@@ -5514,8 +5540,8 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 160,
-      "kept": 55
+      "found": 158,
+      "kept": 56
     },
     {
       "id": "mvp",
@@ -5532,7 +5558,7 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 240,
+      "found": 237,
       "kept": 4
     },
     {

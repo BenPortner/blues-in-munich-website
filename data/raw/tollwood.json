@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-10-28T09:55:52+00:00",
+ "scraped_at": "2026-10-29T10:17:41+00:00",
  "status": {
   "id": "tollwood",
   "name": "Tollwood",
   "url": "https://www.tollwood.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 101
+  "found": 100
  },
  "events": [
   {
@@ -954,28 +954,6 @@
    "id": ""
   },
   {
-   "title": "Tom und Heiner",
-   "type": "concert",
-   "start": "2026-12-12T13:30",
-   "end": "2026-12-12T14:30",
-   "url": "https://www.tollwood.de/veranstaltungen/2026/tom-und-heiner/",
-   "venue": "Tollwood – Hexenkessel",
-   "address": "Theresienwiese, 80336 München",
-   "description": "Coole Musik für Kids zum Mitsingen & Tanzen Die Münchner Originale haben lustige Lieder zum Mitsingen und Tanzen eingepackt. Sie singen von Freundschaft, Träumen und dem Sommer. Mittanzen unbedingt erlaubt!",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Coole Musik für Kids zum Mitsingen & Tanzen"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Boogiemen’s Friends",
    "type": "concert",
    "start": "2026-12-12T16:00",
@@ -1401,7 +1379,7 @@
    "url": "https://www.tollwood.de/veranstaltungen/2026/timerunner-2/",
    "venue": "Tollwood – Hexenkessel",
    "address": "Theresienwiese, 80336 München",
-   "description": "Rockgiganten live on stage",
+   "description": "Rockgiganten live on stage Die fünf Musiker von Timerunner bringen weltbekannte Rock-Hits in den Hexenkessel. Als Tribute-Band spielen sie Songs von AC/DC, Queen, Bon Jovi, und Toto. Sie haben über 100 Hits in ihrem Repertoire, die wirklich alle kennen.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -1438,28 +1416,6 @@
    "id": ""
   },
   {
-   "title": "Honky Tonk Five",
-   "type": "concert",
-   "start": "2026-12-19T16:00",
-   "end": "2026-12-19T18:00",
-   "url": "https://www.tollwood.de/veranstaltungen/2026/honky-tonk-five/",
-   "venue": "Tollwood – Hexenkessel",
-   "address": "Theresienwiese, 80336 München",
-   "description": "Country, Rockabilly & Boogie Woogie",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Country, Rockabilly & Boogie Woogie"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Kunstpfeifer Sirus Madjderey",
    "type": "concert",
    "start": "2026-12-19T16:00",
@@ -1472,6 +1428,28 @@
    "dates": [],
    "tags": [
     "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Honky Tonk Five",
+   "type": "concert",
+   "start": "2026-12-19T16:00",
+   "end": "2026-12-19T18:00",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/honky-tonk-five/",
+   "venue": "Tollwood – Hexenkessel",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Country, Rockabilly & Boogie Woogie Die seit 1994 existierende Band Honky Tonk Five füllt den Hexenkessel mit dem Flair der 50er Jahre. Sie begeistern mit einem abwechslungsreichen Mix von Covern aus verschiedenen Genres wie Rock ’n’ Roll, Rockabilly oder Swing. Ihre Auftritte umfassen sowohl eigene Songs als auch authentische Cover von Musik-Legenden wie Chuck, Berry, Elvis Presley und Johnny Cash.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Country, Rockabilly & Boogie Woogie"
    ],
    "source_id": "",
    "source_name": "",
@@ -1555,7 +1533,7 @@
    "url": "https://www.tollwood.de/veranstaltungen/2026/gerry-gary-3/",
    "venue": "Tollwood – Hexenkessel",
    "address": "Theresienwiese, 80336 München",
-   "description": "Welthit-Covers von den Münchner Originalen",
+   "description": "Welthit-Covers von den Münchner Originalen Seit über 20 Jahren musizieren Gerry & Gary mit vier musikalischen Mitstreitern als internationaler Top Act oder auch als schräge Oktoberfestkapelle. Optional auch mit Sängerinnen und Bläsern. Sie spielen Klassiker aus den 70ern, Sounds aus den 80ern, Beats aus den 90ern oder aktuelle Hits aus den Charts.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -1643,7 +1621,7 @@
    "url": "https://www.tollwood.de/veranstaltungen/2026/ammer-brass-company-2/",
    "venue": "Tollwood – Hexenkessel",
    "address": "Theresienwiese, 80336 München",
-   "description": "Moderne & groovige Bläsermusik",
+   "description": "Moderne & groovige Bläsermusik Die Ammer Brass Company macht Musik aus Messing – und das mit voller Wucht. Mal im klassischen Swing-Sound, der nach verrauchten Bars und durchtanzten Nächten klingt, mal in glänzend frischen Arrangements aktueller Hits. Mit sattem Bigband-Sound bringt das 18-köpfige Ensemble vom Ammersee die ganze Bandbreite auf die Bühne: von jazziger Patina mit samtigem Schimmer bis zu funkelnagelneuen Interpretationen, die nach Welt-Hits, Filmmusik und südamerikanischem Flair duften. Jedes Mitglied bringt eigene Ideen und Spielfreude ein – und genau diese Mischung macht den unverwechselbaren Charme der in Türkenfeld beheimateten Ammer Brass Company aus.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -1709,7 +1687,7 @@
    "url": "https://www.tollwood.de/veranstaltungen/2026/roaring-zucchinis/",
    "venue": "Tollwood – Hexenkessel",
    "address": "Theresienwiese, 80336 München",
-   "description": "Swing & Jive – the Roaring 20s are back",
+   "description": "Swing & Jive – the Roaring 20s are back The Roaring Zucchinis nehmen ihr Publikum mit auf eine musikalische Reise von den 20er Jahren bis heute. Die Band verbindet Swing, Blues und Jazz mit Rock’n’Roll, Pop-Hits und einer Prise Funk – gewürzt mit dem unverwechselbaren Charme vom New Orleans GumboSoul. Seit über 30 Jahren begeistern Sänger Toby Mulherrin und fünf erstklassige Musiker mit Style, Charme und eine ordentliche Portion Partystimmung – sie bringen selbst Tanzmuffel auf die Tanzfläche.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -2039,7 +2017,7 @@
    "url": "https://www.tollwood.de/veranstaltungen/2026/muddy-what-3/",
    "venue": "Tollwood – Hexenkessel",
    "address": "Theresienwiese, 80336 München",
-   "description": "New Blues",
+   "description": "New Blues Moderne Bluesmusik, die lebt und inspiriert: Muddy What? sind zurück auf Tour und machen Halt auf dem Tollwood Sommerfestival. Das Trio um die Geschwister Ina und Fabian Spang aus München präsentiert vitalen Blues mit eigener Handschrift und dynamischer Spielfreude. Ihr selbsternannter „New Blues“ ist erfrischend, facettenreich und auf Bühnen weltweit live erlebbar.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -2164,28 +2142,6 @@
    "id": ""
   },
   {
-   "title": "LiaB – Lost in a Bar",
-   "type": "concert",
-   "start": "2026-12-23T19:00",
-   "end": "2026-12-23T21:30",
-   "url": "https://www.tollwood.de/veranstaltungen/2026/liab-lost-in-a-bar-5/",
-   "venue": "Tollwood – Hexenkessel",
-   "address": "Theresienwiese, 80336 München",
-   "description": "Jazz, Soul & a LiaBe Weihnachtsg’schicht",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Jazz, Soul & a LiaBe Weihnachtsg’schicht"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Kunstpfeifer Sirus Madjderey",
    "type": "concert",
    "start": "2026-12-23T19:00",
@@ -2198,6 +2154,28 @@
    "dates": [],
    "tags": [
     "Alle Termine"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "LiaB – Lost in a Bar",
+   "type": "concert",
+   "start": "2026-12-23T19:00",
+   "end": "2026-12-23T21:30",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/liab-lost-in-a-bar-5/",
+   "venue": "Tollwood – Hexenkessel",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Jazz, Soul & a LiaBe Weihnachtsg’schicht Charmant und mit viel Humor erhalten traditionelle Weihnachtslieder und aktuelle Hits von LIAB (Lost in a Bar) einen neuen besinnlichen Anstrich. Auf Tollwood verlegen sie die Weihnachtsgeschichte in die Gegenwart. Mit ihrer modernen musikalischen Interpretation zeigen sie wie die klassische Geschichte heute hätte passieren können.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Jazz, Soul & a LiaBe Weihnachtsg’schicht"
    ],
    "source_id": "",
    "source_name": "",

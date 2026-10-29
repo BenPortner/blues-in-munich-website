@@ -1,36 +1,14 @@
 {
- "scraped_at": "2026-10-28T19:16:43+00:00",
+ "scraped_at": "2026-10-29T10:17:50+00:00",
  "status": {
   "id": "ars-musica",
   "name": "ars musica e.V.",
   "url": "https://www.ars-musica-muenchen.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 14
+  "found": 13
  },
  "events": [
-  {
-   "title": "LA VIDA LOCA - Ricardo Volkert & Ensemble",
-   "type": "concert",
-   "start": "2026-10-28T19:30",
-   "end": null,
-   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2587&title=LA%20VIDA%20LOCA%20-%20Ricardo%20Volkert%20%26amp%3B%20Ensemble",
-   "venue": "LUISE Kulturzentrum",
-   "address": "Ruppertstraße 5, 80337 München",
-   "description": "„La Vida Loca“ - nach ein paar Tönen schon träumt sich der von seiner Bandscheibe geplagte Mitteleuropäer jenseits von Schreibtisch und Werkstatt nach Andalusien- Flamenco, Rumba - und ans endlos schöne Meer.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Flamenco - Rumba - Fiesta"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "That Friday Feeling",
    "type": "concert",

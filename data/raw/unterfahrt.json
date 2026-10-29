@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-10-28T09:53:33+00:00",
+ "scraped_at": "2026-10-29T10:14:52+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 58
+  "found": 57
  },
  "events": [
-  {
-   "title": "WOLFGANG LACKERSCHMID",
-   "type": "concert",
-   "start": "2026-10-28T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11678",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Vor kurzem musste Wolfgang Lackerschmid ganz tief einatmen – denn es galt 70 Kerzen auf seiner Geburtstagstorte auszublasen. Seinen Ehrentag feiert der Vibrafonist und Komponist nun mit dem israelischen Gitarristen Yotam Silberstein, dem Bassisten Stefan Rademacher und dem amerikanischen Schlagzeuger Karl Latham bei uns nach. Lackerschmid verspricht uns ein Jubiläums-Programm, das funky, groovy, swingend werden soll und in ausgesuchten Balladen so richtig in die Tiefe der Seele vordringt.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "IMMANUEL WILKINS QUARTET",
    "type": "concert",
@@ -227,7 +207,7 @@
    "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11687",
    "venue": "Jazzclub Unterfahrt",
    "address": "Einsteinstraße 42, 81675 München",
-   "description": "Der Junge Münchner Jazzpreis (JMJP) wird in diesem Jahr das vierzehnte Mal vergeben. Er ist ein Förderpreis von ‘mucjazz – Münchner Verein zur Förderung von Jazz e.V.’ und ist ausgeschrieben für Jazzmusiker:innen bis 28 Jahre. Heute treten die 3 von der hochkarätig besetzten Jury ausgewählten Bands zum Konzertfinale an.",
+   "description": "Sold out. Der Junge Münchner Jazzpreis (JMJP) wird in diesem Jahr das vierzehnte Mal vergeben. Er ist ein Förderpreis von ‘mucjazz – Münchner Verein zur Förderung von Jazz e.V.’ und ist ausgeschrieben für Jazzmusiker:innen bis 28 Jahre. Heute treten die 3 von der hochkarätig besetzten Jury ausgewählten Bands zum Konzertfinale an.",
    "recurrence": null,
    "dates": [],
    "tags": [],
@@ -872,7 +852,7 @@
    "id": ""
   },
   {
-   "title": "TINEKE POSTMA GROUP FEAT. THEO BLECKMANN",
+   "title": "TINEKE POSTMA GROUP",
    "type": "concert",
    "start": "2026-12-15T20:30",
    "end": null,

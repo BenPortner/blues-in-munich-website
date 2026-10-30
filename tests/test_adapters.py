@@ -249,6 +249,19 @@ def test_jsonld_events():
     assert (e.title, e.start, e.venue, e.address) == ("Blues Night", "2026-11-20T20:00", "Venue", "Str. 1, 80331 München")
 
 
+def test_jsonld_kilians_fallbacks():
+    events = jsonld.parse(fixture("kilians_live_music.html"), "https://www.kiliansirishpub.de/de/kilians/live-music",
+                          "concert", "Kilians Irish Pub", "Frauenplatz 11, 80331 München", "16:00", "21:00")
+    found = {e.title: e for e in events}
+    assert len(events) == 8  # the breadcrumb/WebPage graph is skipped
+    band = found["The Badrock Blues Band"]
+    assert (band.start, band.end) == ("2026-11-07T21:00", "2026-11-08T00:30")  # placeholder 16:00, end after midnight
+    assert (band.venue, band.address) == ("Kilians Irish Pub", "Frauenplatz 11, 80331 München")
+    assert band.url == "https://reservierung.heyrosi.de/event/kilians-irish-pub/the-badrock-blues-band"
+    assert found["Paddy Whack"].start == "2026-10-31T20:30"  # a real time stays
+    assert [e.title for e in blues(events, "blues_title")] == ["The Badrock Blues Band"]
+
+
 def test_ical_expands_weekly_rule():
     ics = (
         "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:test\r\n"

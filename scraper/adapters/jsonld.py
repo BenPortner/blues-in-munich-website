@@ -3,10 +3,16 @@
 Works for any venue whose pages carry <script type="application/ld+json">
 with @type Event / MusicEvent / DanceEvent / ... . params.urls lists the pages
 to read (defaults to the source url).
+
+params.venue, params.address: fallbacks for events whose location is only an @id reference
+params.placeholder_time, params.start_time: a start at placeholder_time (a booking system's default,
+  e.g. Kilians' "16:00" when the bands start at 21:00) is replaced by start_time
+An end time earlier than the start on the same day is taken to be after midnight.
 """
 from __future__ import annotations
 
 import json
+from datetime import date, timedelta
 
 from ..models import Event, clean_text, guess_type
 from ..registry import adapter
@@ -18,7 +24,8 @@ def scrape(source, ctx):
     params = source.get("params", {})
     events = []
     for url in params.get("urls", [source["url"]]):
-        events.extend(parse(ctx.http.text(url), url, source.get("default_type", "concert")))
+        events.extend(parse(ctx.http.text(url), url, source.get("default_type", "concert"), params.get("venue"),
+                            params.get("address"), params.get("placeholder_time"), params.get("start_time")))
     return events
 
 
@@ -43,7 +50,15 @@ def _local(iso: str | None) -> str | None:
     return iso[:16] if "T" in iso else iso[:10]
 
 
-def parse(html, page_url, default_type="concert"):
+def _after_midnight(start: str, end: str | None) -> str | None:
+    """'…T00:30' ending a '…T21:00' start on the same day is the next morning."""
+    if end and "T" in end and end[:10] == start[:10] and end < start:
+        return (date.fromisoformat(end[:10]) + timedelta(days=1)).isoformat() + end[10:]
+    return end
+
+
+def parse(html, page_url, default_type="concert", fixed_venue=None, fixed_address=None,
+          placeholder_time=None, start_time=None):
     events = []
     for script in soup(html).find_all("script", type="application/ld+json"):
         try:
@@ -54,6 +69,8 @@ def parse(html, page_url, default_type="concert"):
             start = _local(item.get("startDate"))
             if not start or not item.get("name"):
                 continue
+            if placeholder_time and start_time and start[11:] == placeholder_time:
+                start = f"{start[:10]}T{start_time}"
             location = item.get("location") or {}
             location = location[0] if isinstance(location, list) and location else location
             address = location.get("address") if isinstance(location, dict) else None
@@ -67,10 +84,10 @@ def parse(html, page_url, default_type="concert"):
                 title=name,
                 type=guess_type(name, default_type),
                 start=start,
-                end=_local(item.get("endDate")),
+                end=_after_midnight(start, _local(item.get("endDate"))),
                 url=item.get("url") or page_url,
-                venue=location.get("name") if isinstance(location, dict) else None,
-                address=address or None,
+                venue=(location.get("name") if isinstance(location, dict) else None) or fixed_venue,
+                address=address or fixed_address,
                 description=clean_text(item.get("description")),
             ))
     return events

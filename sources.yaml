@@ -137,6 +137,20 @@ sources:
     default_type: concert
     filter: blues_title    # small jazz/live bar: artist bios mention blues in passing
 
+  - id: kilians
+    name: Kilians Irish Pub
+    kind: venue
+    url: https://www.kiliansirishpub.de/de/kilians/live-music
+    adapter: jsonld
+    enabled: true
+    default_type: concert
+    filter: blues_title    # free live bands five nights a week (folk, rock, RnB); blurbs list blues among other styles
+    params:
+      venue: Kilians Irish Pub   # the JSON-LD location is only an @id reference
+      address: Frauenplatz 11, 80331 München
+      placeholder_time: "16:00"  # the booking system's default; the page says bands start at 21:00
+      start_time: "21:00"
+
   - id: gans-am-wasser
     name: Café Gans am Wasser
     kind: venue
@@ -358,3 +372,18 @@ sources:
 #  - Others with music programmes but no blues seen on their homepage: Kulturhaus Milbertshofen,
 #      Kulturzentrum Trudering, Kultur-Forum2, Kulturforum München-West, Pelkovenschlössl, LUISE Kulturzentrum
 #      (ars musica's venue, covered above), Kulturkeller, Seidlvilla, Die Linie 1, Mohr-Villa.
+#  - Bayerischer Hof Night Club (jazz club booking blues acts, e.g. Mojo Blues Band, Kai Strauss) —
+#      https://www.bayerischerhof.de/de/erleben-geniessen/night-club.html
+#      found 2026-10-30. Returns 403 to scrapers; its blues gigs already come in through IN München.
+#  - eventfinder.de concert listings (München and surrounding towns) — https://www.eventfinder.de/muenchen/konzerte/
+#      found 2026-10-30. Returns 403 to scrapers; the blues gigs seen there were already in the scrape.
+#  - Hide-Out 2 (blues pub, Volkartstraße, Neuhausen; successor of the 1989 Hide-Out at Rotkreuzplatz) —
+#      hideout-muenchen.de
+#      checked 2026-10-30. Apparently closed (a farewell party was announced); the domain now hosts an
+#      unrelated casino page. Nothing to scrape.
+#  - Werkhaus / Neuhauser Werkhaus e.V. (said to have taken over Hide-Out's Thursday sessions, Leonrodstr. 19) —
+#      https://werkhaus.de/
+#      checked 2026-10-30. Only the Friday open stage "verzupft" is listed (on IN München); no current Thursday
+#      blues session could be confirmed.
+#  - Bluesclub Chiemgau (presents blues gigs in Rosenheim, e.g. Eric Johanson, 28.02.2027, Saal Bayern) —
+#      checked 2026-10-30. Only a Songkick mention found, no own site; ~60 km out.

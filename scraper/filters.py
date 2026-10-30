@@ -5,6 +5,10 @@ Filter modes (set per source in sources.yaml):
   blues_title  keyword in title or tags only — for venues (e.g. jazz clubs)
                whose descriptions mention blues in passing
   none         keep everything (source is all-blues, e.g. a blues band)
+
+`include` regexes (sources.yaml's global list, matched against the title) keep blues acts that
+listings don't bill as blues, whatever the mode; a source's `exclude` regexes drop events the mode
+would keep.
 """
 from __future__ import annotations
 
@@ -28,7 +32,9 @@ def is_blues(text: str, exclude: list[str] | None = None) -> bool:
     return bool(_BLUES.search(text))
 
 
-def keep(event: Event, mode: str, exclude: list[str] | None = None) -> bool:
+def keep(event: Event, mode: str, exclude: list[str] | None = None, include: list[str] | None = None) -> bool:
+    if any(re.search(pattern, event.title, re.I) for pattern in include or []):
+        return True
     if mode == "none":
         return True
     fields = [event.title, *event.tags]

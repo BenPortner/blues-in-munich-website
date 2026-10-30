@@ -32,6 +32,12 @@
 archive:
   since: 2026-01-01
 
+# Blues acts that listings bill under another genre: events whose title matches one of these
+# regexes are kept from every source, whatever its filter (a source's `exclude` doesn't apply either).
+include:
+  - Willy Michl            # Bavarian blues singer, billed as Musiktheater/Liedermacher
+  - Eddie 9V               # Atlanta blues-rock, billed as Southern Rock
+
 sources:
   # --- Dance schools -------------------------------------------------------
   - id: vintage-club

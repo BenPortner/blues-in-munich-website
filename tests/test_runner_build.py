@@ -4,7 +4,7 @@ from datetime import date
 from bs4 import BeautifulSoup
 
 from scraper.__main__ import ROOT, scrape_source
-from scraper.assemble import assemble, load_archive, load_raw, load_sources
+from scraper.assemble import assemble, load_archive, load_include, load_raw, load_sources
 from scraper.models import Event, slug
 from scraper.registry import ADAPTERS, SkipSource, adapter
 from web.build import build, calendar_events, months_later, regional
@@ -171,6 +171,9 @@ def test_assemble_reapplies_filters_without_scraping(make_ctx):
     assert len(assemble([loose], raw_dir, {"events": []}, TODAY)["events"]) == 2
     strict = {**source, "exclude": ["jam"]}
     assert assemble([strict], raw_dir, {"events": []}, TODAY)["events"] == []
+    # the global include list keeps a matching act from any source, whatever its filter
+    titles = [e["title"] for e in assemble([strict], raw_dir, {"events": []}, TODAY, include=["jazz trio"])["events"]]
+    assert titles == ["Jazz Trio"]
 
 
 def test_partial_scrape_leaves_other_raw_files(make_ctx):
@@ -231,6 +234,14 @@ def test_load_archive(tmp_path):
     assert load_archive(path) == ARCHIVE
     path.write_text("sources: []\n")
     assert load_archive(path) is None
+
+
+def test_load_include(tmp_path):
+    path = tmp_path / "sources.yaml"
+    path.write_text("include:\n  - Willy Michl\nsources: []\n")
+    assert load_include(path) == ["Willy Michl"]
+    path.write_text("sources: []\n")
+    assert load_include(path) == []
 
 
 def test_archive_keeps_past_classes_and_workshops(make_ctx):

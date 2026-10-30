@@ -41,6 +41,11 @@ def load_archive(path: Path) -> dict | None:
     return {"since": str(archive["since"]), "types": list(archive.get("types", EVENT_TYPES))}
 
 
+def load_include(path: Path) -> list[str]:
+    """The global `include` list of sources.yaml: title regexes kept from every source."""
+    return list(yaml.safe_load(path.read_text(encoding="utf-8")).get("include") or [])
+
+
 def is_listed(event: Event, today: str, archive: dict | None) -> bool:
     """Upcoming events, plus past ones the archive keeps."""
     if event.last_date >= today:
@@ -144,7 +149,8 @@ def dedupe(events: list[Event]) -> list[Event]:
     return result
 
 
-def source_events(source: dict, raw_dir: Path, previous: dict) -> tuple[list[Event], dict | None, list[Event]]:
+def source_events(source: dict, raw_dir: Path, previous: dict,
+                  include: list[str] = ()) -> tuple[list[Event], dict | None, list[Event]]:
     """A source's listed events, status and the events its filter dropped, from its raw file. Before its
     first scrape into data/raw, its events and status from the last events.json stand in; a source never
     scraped has neither."""
@@ -154,7 +160,7 @@ def source_events(source: dict, raw_dir: Path, previous: dict) -> tuple[list[Eve
         status = next((s for s in previous.get("sources", []) if s["id"] == source["id"]), None)
         return events, status and dict(status), []
     events = [Event.from_dict(e).finalize(source) for e in raw["events"]]
-    kept = [e for e in events if keep(e, source.get("filter", "blues"), source.get("exclude"))]
+    kept = [e for e in events if keep(e, source.get("filter", "blues"), source.get("exclude"), include)]
     # Name and link may have changed in sources.yaml since the scrape
     status = {**raw["status"], "id": source["id"], "name": source["name"], "url": source["url"],
               "kind": source["kind"]}
@@ -169,12 +175,12 @@ def same_artist_gigs(kept: list[Event], dropped: list[Event]) -> list[Event]:
 
 
 def assemble(sources: list[dict], raw_dir: Path, previous: dict, today: date,
-             archive: dict | None = None) -> dict:
+             archive: dict | None = None, include: list[str] = ()) -> dict:
     events, statuses, dropped = [], [], []
     for source in sources:
         if not source.get("enabled", True):
             continue
-        found, status, filtered_out = source_events(source, raw_dir, previous)
+        found, status, filtered_out = source_events(source, raw_dir, previous, include)
         events.extend(found)
         dropped.extend(filtered_out)
         if status:
@@ -206,7 +212,8 @@ def build_json(sources_path: Path, raw_dir: Path, out: Path, today: date, http=N
                dry_run: bool = False) -> dict:
     """Assemble, look up artists and write events.json (or print it, for a dry run)."""
     sources = load_sources(sources_path)
-    result = assemble(sources, raw_dir, load_previous(out), today, load_archive(sources_path))
+    result = assemble(sources, raw_dir, load_previous(out), today, load_archive(sources_path),
+                      load_include(sources_path))
     if dry_run:
         for e in result["events"]:
             print(f"{e['start']:<17} {e['type']:<9} {e['title'][:60]:<60} [{e['source_id']}]")

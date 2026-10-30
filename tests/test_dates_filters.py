@@ -60,6 +60,13 @@ def test_rhythm_and_blues_is_not_blues_dance():
     assert not is_blues("Follow us on Bluesky")
 
 
+def test_include_patterns():
+    e = Event(title="Willy Michl – Isarindianer-Weihnacht", type="concert", start="2026-12-25", tags=["Musiktheater"])
+    assert not keep(e, "blues_title")
+    assert keep(e, "blues_title", include=["Willy Michl"])
+    assert not keep(e, "blues_title", include=["Eddie 9V"])
+
+
 def test_exclude_patterns():
     assert not is_blues("Blues Brothers Tribute", exclude=["tribute"])
 

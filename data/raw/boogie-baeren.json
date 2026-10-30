@@ -1,36 +1,14 @@
 {
- "scraped_at": "2026-10-29T10:14:20+00:00",
+ "scraped_at": "2026-10-30T10:16:12+00:00",
  "status": {
   "id": "boogie-baeren",
   "name": "Boogie-Bären München",
   "url": "https://www.boogie-baeren.de/",
   "kind": "school",
   "status": "ok",
-  "found": 110
+  "found": 116
  },
  "events": [
-  {
-   "title": "ZAP Lindy Hop",
-   "type": "social",
-   "start": "2026-10-29",
-   "end": null,
-   "url": "https://www.boogie-baeren.de/eventleser/zap-lindy-oktober-2026",
-   "venue": "Boogie-Bären Vereinsheim",
-   "address": "Gneisenaustraße 16, 80992 München",
-   "description": "19:00 Uhr levelübergreifendes Training für alle Lindy Hop Tänzer:innen 20:00 Uhr ZAP - Offenes Lindy Hop Training mit Social Dance für alle Level",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Vereinsheim"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Solo Jazz & Latin Grooves with Felipe",
    "type": "workshop",
@@ -516,6 +494,28 @@
    "id": ""
   },
   {
+   "title": "Turnier: World Cup Boogie-Woogie Wuppertal, Deutschland",
+   "type": "social",
+   "start": "2027-01-17",
+   "end": null,
+   "url": "https://www.boogie-baeren.de/eventleser/turnier-world-cup-boogie-woogie-wuppertal-deutschland",
+   "venue": "Boogie-Bären Vereinsheim",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Turnier"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "Balboa Übungsabend",
    "type": "social",
    "start": "2027-01-23",
@@ -648,6 +648,28 @@
    "id": ""
   },
   {
+   "title": "Turnier: World Cup Boogie-Woogie Västerås, Schweden",
+   "type": "social",
+   "start": "2027-04-24",
+   "end": null,
+   "url": "https://www.boogie-baeren.de/eventleser/turnier-world-cup-boogie-woogie-vaesteras-schweden",
+   "venue": "Boogie-Bären Vereinsheim",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Turnier"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "Swing & Boogie Übungsabend",
    "type": "social",
    "start": "2027-05-08",
@@ -704,6 +726,116 @@
    "dates": [],
    "tags": [
     "Übungsabend"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Turnier: World Cup Boogie Woogie / GOC Stuttgart",
+   "type": "social",
+   "start": "2027-08-13",
+   "end": null,
+   "url": "https://www.boogie-baeren.de/eventleser/turnier-world-cup-boogie-woogie-goc-stuttgart-4",
+   "venue": "Boogie-Bären Vereinsheim",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Turnier"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Turnier: World Cup Boogie Woogie / GOC Stuttgart",
+   "type": "social",
+   "start": "2027-08-14",
+   "end": null,
+   "url": "https://www.boogie-baeren.de/eventleser/turnier-world-cup-boogie-woogie-goc-stuttgart-5",
+   "venue": "Boogie-Bären Vereinsheim",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Turnier"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Turnier: World Cup Boogie-Woogie Zielona Góra, Polen",
+   "type": "social",
+   "start": "2027-10-16",
+   "end": null,
+   "url": "https://www.boogie-baeren.de/eventleser/turnier-world-cup-boogie-woogie-zielona-gora-polen",
+   "venue": "Boogie-Bären Vereinsheim",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Turnier"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Turnier: Weltmeisterschaft Boogie-Woogie Prag, Tschechien",
+   "type": "social",
+   "start": "2027-11-20",
+   "end": null,
+   "url": "https://www.boogie-baeren.de/eventleser/turnier-weltmeisterschaft-boogie-woogie-prag-tschechien",
+   "venue": "Boogie-Bären Vereinsheim",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Turnier"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Turnier: World Cup Finale Krakau, Polen",
+   "type": "social",
+   "start": "2027-12-04",
+   "end": null,
+   "url": "https://www.boogie-baeren.de/eventleser/turnier-world-cup-finale-krakau-polen",
+   "venue": "Boogie-Bären Vereinsheim",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Turnier"
    ],
    "source_id": "",
    "source_name": "",

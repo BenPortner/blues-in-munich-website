@@ -1,37 +1,14 @@
 {
- "scraped_at": "2026-10-29T10:14:54+00:00",
+ "scraped_at": "2026-10-30T10:16:52+00:00",
  "status": {
   "id": "jazzbar-vogler",
   "name": "Jazzbar Vogler",
   "url": "https://www.jazzbar-vogler.com/",
   "kind": "venue",
   "status": "ok",
-  "found": 16
+  "found": 15
  },
  "events": [
-  {
-   "title": "Michael Stephenson meets The Alexander Claffy Trio",
-   "type": "concert",
-   "start": "2026-10-28T19:30",
-   "end": null,
-   "url": "https://www.muenchen-online.de/veranstaltung/michael-stephenson-meets-the-alexander-claffy-trio-468261",
-   "venue": "Jazzbar Vogler",
-   "address": "Rumfordstr. 17, 80469 München",
-   "description": "",
-   "recurrence": null,
-   "dates": [
-    "2026-10-28",
-    "2026-10-29"
-   ],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Liberdjango",
    "type": "concert",

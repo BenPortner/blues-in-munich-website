@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-10-29T10:18:49+00:00",
+ "scraped_at": "2026-10-30T10:22:36+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 158
+  "found": 154
  },
  "events": [
   {
@@ -17,10 +17,12 @@
    "url": "https://www.in-muenchen.de/events/anni-hans-blues-jazz.html",
    "venue": "Stragula Realwirtschaft",
    "address": "Bergmannstraße 66, 80339 München",
-   "description": "Das Duo Anni & Hans mit Gospel und Blues afroamerikanischer Sängerinnen im Stragula, Eintritt frei.",
+   "description": "Das Duo mit Gospel und Blues afroamerikanischer Sängerinnen, Songs von Simon, Croce, Dylan in eigenen Fassungen sowie eigenen Stücken, Eintritt frei",
    "recurrence": null,
    "dates": [],
-   "tags": [],
+   "tags": [
+    "Blues"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -752,7 +754,7 @@
    "id": ""
   },
   {
-   "title": "Lange Shopping-Nacht - Haidhausen Busketeers",
+   "title": "Lange Shopping-Nacht – Haidhausen Busketeers",
    "type": "concert",
    "start": "2026-10-30T19:00",
    "end": "2026-10-30T22:00",
@@ -874,28 +876,6 @@
    "dates": [],
    "tags": [
     "Jazz"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "That Friday Feeling",
-   "type": "concert",
-   "start": "2026-10-29T19:30",
-   "end": "2026-10-29T21:00",
-   "url": "https://www.in-muenchen.de/events/that-friday-feeling.html",
-   "venue": "Wirtshaus Tannengarten",
-   "address": "Pfeuferstr. 32, 81373 München",
-   "description": "Zwei Gitarren, zwei Stimmen und jede Menge Groove – das Duo THAT FRIDAY FEELING präsentiert eine Mischung aus Blues und Folk mit eigenen Songs und Cover-Versionen. Die Musik spannt einen Bogen von humorvollen Alltagssorgen bis hin zu politischen Protestsongs.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Blues Folk"
    ],
    "source_id": "",
    "source_name": "",
@@ -1170,7 +1150,7 @@
    "id": ""
   },
   {
-   "title": "Matthias Bublath's Hammond B3 Band",
+   "title": "Matthias Bublath’s Hammond B3 Band",
    "type": "concert",
    "start": "2026-10-30T19:30",
    "end": "2026-10-30T22:00",
@@ -1204,28 +1184,6 @@
    "dates": [],
    "tags": [
     "Soul"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Immanuel Wilkins Quartet",
-   "type": "concert",
-   "start": "2026-10-29T20:30",
-   "end": "2026-10-29T22:30",
-   "url": "https://www.in-muenchen.de/events/immanuel-wilkins-quartet.html",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstr. 42, 81675 München",
-   "description": "Immanuel Wilkins, ein junger Altsaxophonist, verbindet in seiner Musik archaische Klänge mit futuristischen Elementen. Sein Quartett, zu den prägenden Jazz-Formationen der letzten Dekaden zählend, präsentiert eine unwirkliche Intensität und charismatische Spielweise. Die Aufführung wird Stücke aus seinen Alben Live At The Village Vanguard und Blues Blood beinhalten.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Jazz"
    ],
    "source_id": "",
    "source_name": "",
@@ -1324,28 +1282,6 @@
    "id": ""
   },
   {
-   "title": "Blaimer - Wechseljahre",
-   "type": "concert",
-   "start": "2026-10-29T20:00",
-   "end": "2026-10-29T22:00",
-   "url": "https://www.in-muenchen.de/events/blaimer-wechseljahre.html",
-   "venue": "Schlachthof",
-   "address": "Zenettistraße 9, 80337 München",
-   "description": "In seiner musikalischen Lesung erzählt Blaimer von den Herausforderungen der Männerwechseljahre. Mit Gitarre, Humor und Selbstironie schildert er Hormonschwankungen, Stimmungstiefs und die Suche nach Linderung.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Comedy"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Hank Davidson & Friends",
    "type": "concert",
    "start": "2027-02-19T20:00",
@@ -1414,8 +1350,8 @@
   {
    "title": "British Musical Duo",
    "type": "concert",
-   "start": "2026-10-29T20:00",
-   "end": "2026-10-29T22:00",
+   "start": "2026-12-03T20:00",
+   "end": "2026-12-03T22:00",
    "url": "https://www.in-muenchen.de/events/british-musical-duo.html",
    "venue": "Galli Theater",
    "address": "in der Amalienpassage 86, 80799 München",
@@ -1564,7 +1500,7 @@
    "id": ""
   },
   {
-   "title": "Das \"frühe\" Frauenfest",
+   "title": "Das „frühe“ Frauenfest",
    "type": "concert",
    "start": "2026-11-06T18:00",
    "end": "2026-11-06T23:00",
@@ -1630,7 +1566,7 @@
    "id": ""
   },
   {
-   "title": "Ü30 Party - einfach legendär",
+   "title": "Ü30 Party – einfach legendär",
    "type": "social",
    "start": "2026-11-07T20:30",
    "end": null,
@@ -1960,7 +1896,7 @@
    "id": ""
   },
   {
-   "title": "Stephan Zinner - Großstadtblues",
+   "title": "Stephan Zinner – Großstadtblues",
    "type": "concert",
    "start": "2027-04-24T19:30",
    "end": "2027-04-24T22:30",
@@ -2048,7 +1984,7 @@
    "id": ""
   },
   {
-   "title": "Heiner Lauterbach - Like a Hobo",
+   "title": "Heiner Lauterbach – Like a Hobo",
    "type": "concert",
    "start": "2027-02-05T20:00",
    "end": null,
@@ -2092,7 +2028,7 @@
    "id": ""
   },
   {
-   "title": "Martin Schmitt - Schmitt happens",
+   "title": "Martin Schmitt – Schmitt happens",
    "type": "concert",
    "start": "2027-01-28T20:00",
    "end": "2027-01-28T22:00",
@@ -2114,7 +2050,7 @@
    "id": ""
   },
   {
-   "title": "Stephan Zinner - Großstadtblues",
+   "title": "Stephan Zinner – Großstadtblues",
    "type": "concert",
    "start": "2027-01-26T20:00",
    "end": "2027-01-26T23:00",
@@ -2170,28 +2106,6 @@
    "dates": [],
    "tags": [
     "Gospel"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Ludwig Seuss Band",
-   "type": "concert",
-   "start": "2026-10-29T20:00",
-   "end": "2026-10-29T23:00",
-   "url": "https://www.in-muenchen.de/events/ludwig-seuss-band-kupferhaus-planegg.html",
-   "venue": "Kupferhaus Planegg",
-   "address": "Feodor-Lynen-Straße 5, 82152 Planegg",
-   "description": "Mit klassischem Piano-Boogie, Jump-Blues und Louisiana-R&B verschmelzen die Klänge der Ludwig Seuss Band zu einem extrem tanzbaren Sound. Der Münchner Blues- und Boogiepianist Ludwig Seuss, bekannt für seine Arbeit mit der Spider Murphy Gang, vermischt diese Stile mit Zydeco aus New Orleans. Die Band, unterstützt von herausragenden Musikern, erzeugt eine unwiderstehliche Groove-Atmosphäre.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Blues, Zydeco"
    ],
    "source_id": "",
    "source_name": "",
@@ -2574,7 +2488,7 @@
    "id": ""
   },
   {
-   "title": "13. American Bar Night - „Midlife or Crisis?“ & Friends",
+   "title": "13. American Bar Night – „Midlife or Crisis?“ & Friends",
    "type": "concert",
    "start": "2026-12-19T18:00",
    "end": null,
@@ -2684,7 +2598,7 @@
    "id": ""
   },
   {
-   "title": "Willy Michl - Isarindianer-Weihnacht",
+   "title": "Willy Michl – Isarindianer-Weihnacht",
    "type": "concert",
    "start": "2026-12-25T20:00",
    "end": "2026-12-25T23:00",
@@ -2706,7 +2620,7 @@
    "id": ""
   },
   {
-   "title": "Andrea Limmer - Flintenweib",
+   "title": "Andrea Limmer – Flintenweib",
    "type": "concert",
    "start": "2026-11-29T19:00",
    "end": null,
@@ -2948,7 +2862,7 @@
    "id": ""
   },
   {
-   "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
+   "title": "Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich",
    "type": "concert",
    "start": "2026-12-01T20:00",
    "end": null,
@@ -3036,7 +2950,7 @@
    "id": ""
   },
   {
-   "title": "Bin I Kini?! - Der Prinzregenten-Blues",
+   "title": "Bin I Kini?! – Der Prinzregenten-Blues",
    "type": "concert",
    "start": "2026-11-17T20:00",
    "end": null,
@@ -3058,7 +2972,7 @@
    "id": ""
   },
   {
-   "title": "Martin Schmitt - Schmitt happens",
+   "title": "Martin Schmitt – Schmitt happens",
    "type": "concert",
    "start": "2026-11-26T20:00",
    "end": "2026-11-26T23:00",
@@ -3124,7 +3038,7 @@
    "id": ""
   },
   {
-   "title": "Da Huawa und I - Schokoladenseit'n",
+   "title": "Da Huawa und I – Schokoladenseit’n",
    "type": "concert",
    "start": "2026-11-20T20:00",
    "end": "2026-11-20T23:00",

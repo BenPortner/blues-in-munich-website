@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-10-29T10:17:53+00:00",
+ "scraped_at": "2026-10-30T10:19:24+00:00",
  "status": {
   "id": "ubo9",
   "name": "UBO 9",
   "url": "https://www.ubo9.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 13
+  "found": 12
  },
  "events": [
-  {
-   "title": "Kulturrunde",
-   "type": "concert",
-   "start": "2026-10-29T16:00",
-   "end": null,
-   "url": "https://www.ubo9.de/veranstaltung/kulturrunde-17/",
-   "venue": "UBO 9",
-   "address": "Ubostraße 9, 81245 München",
-   "description": "Jeweils am letzten Donnerstag im Monat laden wir Aktive und Kulturinteressierte aus dem gesamten 22. Stadtbezirk – Aubing, Neuaubing, Langwied, Lochhausen, Westkreuz und Freiham – zur Kulturrunde ein. Gemeinsam tauschen wir uns zu aktuellen Fragen aus, sammeln Ideen für das kulturelle Leben im Stadtteil und möchten diese konkret umsetzen. Alle sind willkommen, eine Anmeldung ist nicht notwendig.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Herbstausstellung Aubinger Künstlerkreis",
    "type": "other",

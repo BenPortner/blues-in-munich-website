@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-10-29T10:18:04+00:00",
+ "scraped_at": "2026-10-30T10:22:08+00:00",
  "status": {
   "id": "einewelthaus",
   "name": "EineWeltHaus",
   "url": "https://www.einewelthaus.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 25
+  "found": 24
  },
  "events": [
   {
@@ -22,50 +22,6 @@
    "dates": [],
    "tags": [
     "Benefizveranstaltung"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Von der Wunde zur Stimme – Express Your Feminist Voice!",
-   "type": "workshop",
-   "start": "2026-10-29T20:00",
-   "end": "2026-10-29T22:00",
-   "url": "https://www.einewelthaus.de/events/von-der-wunde-zur-stimme-express-your-feminist-voice/",
-   "venue": "EineWeltHaus München",
-   "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "Ein künstlerischer Workshop für Widerstand, Erinnerung, Selbstbestimmung und dekolonialen Feminismus Im Rahmen des Projekts „Spuren der Vergangenheit – Stimmen der Zukunft“ (Sensing Sites) „Kunst ist kein Spiegel, den man der Wirklichkeit vorhält, sondern ein Hammer, mit dem man sie gestaltet.“ – Wann hast du das letzte Mal Kunst als Ausdruck deines Widerstands genutzt? Wir laden dich herzlich zu einem partizipativen feministischen Kunst-Workshop ein. Gemeinsam schaffen wir einen geschützten Raum der Sororidad, der Solidarität unter Frauen, in dem Kreativität auf dekoloniale Erinnerungskultur und transkulturellen Austausch trifft. Ausgangspunkt ist eine einfache, kraftvolle Idee: Unser Körper ist unser erstes Territorium. Er ist weder Ressource noch Besitz, sondern der Ort, an dem Selbstbestimmung, Würde und Freiheit beginnen. Die Aus- beutung von Mensch und Natur entspringt denselben Machtverhältnissen – deshalb setzen wir uns für beides ein: für den Schutz unserer Körper und unserer Lebensgrundlagen. Gemeinsam schlagen wir eine Brücke von München nach Abya Yala (Lateinamerika). Wir lernen von den Erfahrungen, dem Wissen und den Kämpfen afrodiasporischer und migrantischer Gemeinschaften wie auch der verschiedenen Ur-Völker und fragen, was sie mit unserem Leben hier verbindet. Dabei begegnen wir dem Konzept des Buen Vivir – der Vision eines guten Lebens für alle, im Einklang miteinander und mit der Natur. 10Mit Stoff, Farbe und Karton gestalten wir Banner und Plakate, die Haltung zeigen. Wir erinnern an die Kämpfe unserer Ahninnen, teilen Erfahrungen und verbinden Vergangenheit und Gegenwart, um gemeinsam Zukunft zu gestalten. Unsere Banner tragen die Botschaft: „¡Vivas, libres y descolonizadas nos queremos!“ – Wir wollen lebendig, frei und dekolonisiert leben! ▪ Somos las nietas, bisnietas y descendientes de las brujas que no pudieron quemar ni matar. – Wir sind die Enkelinnen, Urenkelinnen und Nachfahrinnen derer, die sie weder verbrennen noch töten konnten. ▪ Somos el grito de las que ya no están. – Wir sind der Schrei derer, die nicht mehr da sind. – Lateinamerikanische NiUnaMenos-Bewegung. ▪ NiUnaMenos || KeineEinzigeMehr ▪ Ni la tierra ni nuestros cuerpos son territorio de conquista. – Weder die Erde noch unsere Körper sind Eroberungsgebiet. ▪ La tierra no se vende, se ama y se defiende. – Das Land wird nicht verkauft, es wird geliebt und verteidigt. – Pueblos Originarios-Widerstand gegen Landraub ▪ Vivas, libres y sin miedo nos queremos. – Lebendig, frei und ohne Angst wollen wir uns. ▪ Si tocan a una, respondemos todas. – Wenn sie eine von uns angreifen, antworten wir alle. Im Workshop erwartet dich: ▪ Stoff und Farbe: Bedrucke, bemale und besticke Stoffe mit feministischen Symbolen und Slogans. ▪ Karton und Klebstoff: Erschaffe unübersehbar, dreidimensionale Botschaften, die Raum einfordern. ▪ Perspektiven aus Abya Yala: Erfahrungen, Erzählungen und Kunstformen widerständiger Frauen. ▪ Austausch und Empowerment: Du musst gesellschaftliche Ungerechtigkeiten nicht allein tragen – finde Solidarität, Kraft und Gemeinschaft im gemeinsamen schöpferischen Prozess. Kunst wird dabei zu einem Werkzeug für Empowerment, Solidarität und gesellschaftliche Veränderung. Egal,ob du regelmäßig malst, bastelst oder zum ersten Mal kreativ wirst – du brauchst keine Vorkenntnisse. Was zählt, sind deine Erfahrungen, deine Perspektive und deine Stimme. Komm vorbei, gestalte mit uns und werde Teil eines kreativen, solidarischen Widerstands. Bring deine Neugier und Lust am Experimentieren mit. Für alles andere ist gesorgt.Lass uns gemeinsam Raum einnehmen, Banner gestalten und unsere Stimmen sichtbar machen. Lass uns Spuren hinterlassen, Präsenz zeigen und den öffentlichen Raum mit unseren Perspektiven füllen. Eintritt frei (Materialien werden gestellt) Wir freuen uns riesig auf dich! Die Zahl der Plätze ist bewusst begrenzt, damit eine vertraute, und geschützte Atmosphäre entstehen kann. Anmeldung: anmeldung@frau-kunst-politik.de Mehr Infos zum Projekt hier.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Workshop"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Die Linke: Klassenpartei, Regierungsalternative, Kümmerer – was denn nun?",
-   "type": "concert",
-   "start": "2026-10-29T20:30",
-   "end": "2026-10-29T23:00",
-   "url": "https://www.einewelthaus.de/events/die-linke-klassenpartei-regierungsalternative-kuemmerer-was-denn-nun/",
-   "venue": "EineWeltHaus München",
-   "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "Die Linke zeichnet das Bild einer furchtbaren Klassengesellschaft, gespalten in eine arbeitende Mehrheit und (Super-)Reiche, die von der Ausbeutung der Ersteren leben. Dazu kommt eine Politik, die das genau so haben will. Auch Krieg und Rassismus sind nach Auskunft der Linkspartei kein Zufall. Ausgerechnet diese Gesellschaft erklärt sie zugleich zu der „unseren“. Sie will die Spaltung durch „Solidarität“ überwinden und sie endlich sozial gerecht regieren. Bis dahin will sie sich „kümmern“ und demokratiemüden AfD-Wählern mit Volksnähe vom Typ Mieterberatung und Sozialsprechstunde „Hoffnung“ spenden – auf dass sie in den Schoß der Republik zurückkehren.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Diskussionsveranstaltung"
    ],
    "source_id": "",
    "source_name": "",
@@ -297,6 +253,28 @@
    "id": ""
   },
   {
+   "title": "Auf in den Krieg? Wie Wirtschaft, Politik und Gesellschaft militarisiert werden",
+   "type": "concert",
+   "start": "2026-11-16T19:00",
+   "end": "2026-11-16T22:00",
+   "url": "https://www.einewelthaus.de/events/auf-in-den-krieg-wie-wirtschaft-politik-und-gesellschaft-militarisiert-werden/",
+   "venue": "EineWeltHaus München",
+   "address": "Schwanthalerstr. 80, München, 80336",
+   "description": "Vortrag und Diskussion mit Andreas Seifert, Informationsstelle Militarisierung Deutschland wird mit Gesetzen, Rüstung und Mobilmachung auf Krieg eingeschworen. Insbesondere Bayern ist hier vorn mit dabei und versucht sich, die Aufrüstung als Sicherheitsmaßnahme und Wirtschaftsprogramm schön zu reden. Die Ertüchtigung der Industrie, die \"Erfolgsgeschichten\" von Startup-Unternehmen, die tödliche Produkte entwickeln, verdecken die Einschränkungen, die für die Gesellschaft damit einhergehen und den Verlust an demokratischer Mitsprache. Der Vortrag möchte daran erinnern, wer an der Rüstung verdient und die Frage stellen, wie wir als Gesellschaft uns gegen den Narrativ von \"Sicherheit durch Rüstung\" wehren können. Andreas Seifert ist im Vorstand der Informationsstelle Militarisierung (IMI) und arbeitet so kritisch zur deutschen Rüstungsindustrie. Er brachte für die IMI u.a. das \"Handbuch Rüstung\" heraus, eine Fundgrube für unsere militärkritischen Exkursionen (\"Ostermarsch Draußen\")",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Vortrag und Diskussion"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "Das kalte Herz des Sexismus - Bilder und Worte als Waffe gegen Frauen",
    "type": "concert",
    "start": "2026-11-16T20:00",
@@ -310,28 +288,6 @@
    "tags": [
     "Austausch",
     "Informationsveranstaltung"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Auf in den Krieg? Wie Wirtschaft, Politik und Gesellschaft militarisiert werden",
-   "type": "concert",
-   "start": "2026-11-16T19:00",
-   "end": "2026-11-16T22:00",
-   "url": "https://www.einewelthaus.de/events/auf-in-den-krieg-wie-wirtschaft-politik-und-gesellschaft-militarisiert-werden/",
-   "venue": "EineWeltHaus München",
-   "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "Vortrag und Diskussion mit Andreas Seifert, Informationsstelle Militarisierung Deutschland wird mit Gesetzen, Rüstung und Mobilmachung auf Krieg eingeschworen. Insbesondere Bayern ist hier vorn mit dabei und versucht sich, die Aufrüstung als Sicherheitsmaßnahme und Wirtschaftsprogramm schön zu reden. Die Ertüchtigung der Industrie, die \"Erfolgsgeschichten\" von Startup-Unternehmen, die tödliche Produkte entwickeln, verdecken die Einschränkungen, die für die Gesellschaft damit einhergehen und den Verlust an demokratischer Mitsprache. Der Vortrag möchte daran erinnern, wer an der Rüstung verdient und die Frage stellen, wie wir als Gesellschaft uns gegen den Narrativ von \"Sicherheit durch Rüstung\" wehren können. Andreas Seifert ist im Vorstand der Informationsstelle Militarisierung (IMI) und arbeitet so kritisch zur deutschen Rüstungsindustrie. Er brachte für die IMI u.a. das \"Handbuch Rüstung\" heraus, eine Fundgrube für unsere militärkritischen Exkursionen (\"Ostermarsch Draußen\")",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Vortrag und Diskussion"
    ],
    "source_id": "",
    "source_name": "",
@@ -421,6 +377,29 @@
    "dates": [],
    "tags": [
     "Vortrag und Diskussion"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Die Zeiten werden härter, wir stärker! Panel mit Britta Schellenberg und Hannes Kreschel",
+   "type": "concert",
+   "start": "2026-11-26T19:30",
+   "end": "2026-11-26T22:00",
+   "url": "https://www.einewelthaus.de/events/die-zeiten-werden-haerter-wir-staerker-panel-mit-britta-schellenberg-und-hannes-kreschel/",
+   "venue": "EineWeltHaus München",
+   "address": "Schwanthalerstr. 80, München, 80336",
+   "description": "Der Ton wird rauer, rechte Positionen gewinnen an Einfluss und demokratische Strukturen geraten unter Druck. Was bedeutet das für Menschen, die sich für Vielfalt, Menschenrechte und eine offene Gesellschaft einsetzen? Und wie stärken wir uns gegenseitig, statt in der Opferrolle zu bleiben? Darüber sprechen wir am 26. November mit Hannes Kreschel und Dr. Britta Schellenberg im Münchner EineWeltHaus. Es ist eine Folgeveranstaltung des Workshops „Starke Zivilgesellschaft – Räume für Vielfalt“, der im Rahmen des 25jährigen Jubiläums des EineWeltHauses veranstaltet wurde. Wann? 26. November 2026, 18:30 – 21:00 Uhr Wo? EineWeltHaus, Schwanthalerstraße 80, München Anmeldung hier. Die Plätze sind auf 100 Personen begrenzt. Melde dich rechtzeitig an und diskutiere mit uns, wie wir unsere Demokratie gemeinsam stärken können. Wir fragen, welche Auswirkungen der Rechtsruck auf die Zivilgesellschaft hat, welche Erfahrungen unterschiedliche Akteurinnen machen und welche Strategien helfen, demokratische Räume zu verteidigen und solidarische Bündnisse zu stärken. Dabei werfen wir auch einen Blick nach Sachsen-Anhalt und Mecklenburg-Vorpommern, wo rechtsradikale Akteurinnen schon viel Einfluss haben. Dazu schauen wir natürlich auch nach vorne: Wie schaffen wir Solidarität und schützende Strukturen für unsere Demokratie? Wer ist dabei? Hannes Kreschel – politischer Influencer aus Sachsen-Anhalt: Hannes Kreschel ist 23 Jahre alt, Jurist und in Sachsen-Anhalt aufgewachsen. Auf Social Media dokumentiert er Gespräche mit den Wütenden dieses Landes und Menschen aus dem rechtsextremen Spektrum. Dafür besucht er unter anderem Wahlkampfveranstaltungen und Demonstrationen. Mit seinen Videos macht er rechtsextreme Parolen und Widersprüche sichtbar und engagiert er sich für Demokratie. Dabei setzt er auf hartnäckige Fragen und direkte Gespräche auch wenn ihm Gegenwind entgegenschlägt. Dr. Britta Schellenberg – Politikwissenschaftlerin an der LMU München: Dr. Britta Schellenberg beschäftigt sich am Geschwister-Scholl-Institut für Politikwissenschaft der LMU München mit Rechtsextremismus, Rassismus und Strategien für eine demokratische Gesellschaft. Sie untersucht, wie rechte Ideologien entstehen, wie sie öffentliche Debatten prägen und wie Politik und Zivilgesellschaft darauf reagieren können. Dabei verbindet sie wissenschaftliche Erkenntnisse mit praktischer Erfahrung: Sie berät staatliche und zivilgesellschaftliche Organisationen und entwickelt Bildungsprojekte. So läuft der Abend Gespräch und Interview: Hannes Kreschel und Dr. Britta Schellenberg bringen ihre Erfahrungen und Perspektiven ein. Dialog und Interaktion: Du bist gefragt! Mit Abstimmungen, Fragen und einem gemeinsamen Stimmungsbild beziehen wir das Publikum ein. Die Zielgruppe sind interessierte Einzelpersonen, die den Radikalisierungsprozess mitten in unserer Gesellschaft verstehen wollen und nach Lösungen für einen Dialog suchen. Die Veranstaltung richtet sich an Menschen, die sich vernetzen und Antworten finden wollen, wie wir unsere Demokratie in diesen schweren Zeiten stärken können. Fotos: Hannes Kreschel &amp; ForGeRex",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Austausch",
+    "Diskussionsveranstaltung"
    ],
    "source_id": "",
    "source_name": "",

@@ -5,8 +5,8 @@
   "name": "Oksana Pavlova",
   "url": "https://oksanapavlova.de/",
   "kind": "school",
-  "status": "ok",
-  "found": 16
+  "status": "failed",
+  "error": "ConnectionError: HTTPSConnectionPool(host='oksanapavlova.de', port=443): Max retries exceeded with url: /wp-json/wp/v2/posts?per_page=20&_fields=id%2Cdate%2Clink%2Ctitle%2Ccontent (Caused by NewConnectionError(\"HTTPSConnection(host='oksanapavlova.de', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
  },
  "events": [
   {

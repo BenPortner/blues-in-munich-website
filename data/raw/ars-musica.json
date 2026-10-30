@@ -1,36 +1,14 @@
 {
- "scraped_at": "2026-10-29T10:17:50+00:00",
+ "scraped_at": "2026-10-30T10:19:21+00:00",
  "status": {
   "id": "ars-musica",
   "name": "ars musica e.V.",
   "url": "https://www.ars-musica-muenchen.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 13
+  "found": 12
  },
  "events": [
-  {
-   "title": "That Friday Feeling",
-   "type": "concert",
-   "start": "2026-10-29T19:30",
-   "end": null,
-   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2586&title=That%20Friday%20Feeling",
-   "venue": "Salettl im Tannengarten",
-   "address": "Pfeuferstraße 32, 81373 München",
-   "description": "Hinter dem Namen „THAT FRIDAY FEELING“ verbirgt sich ein neues Singer/Songwriter-Duo, bestehend aus der talentierten Sängerin und Gitarristin Kristina McClave sowie dem Bluesgitarristen und Songwriter Robert Richter.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Singer-/Songwriter Blues Folk"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Matching Ties Duo & Special Guest Rosena Horan-Irland",
    "type": "concert",

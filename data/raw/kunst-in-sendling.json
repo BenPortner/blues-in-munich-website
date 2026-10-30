@@ -5,8 +5,8 @@
   "name": "Kunst in Sendling e.V.",
   "url": "https://www.kunst-in-sendling.com/",
   "kind": "venue",
-  "status": "ok",
-  "found": 18
+  "status": "failed",
+  "error": "ConnectionError: HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Max retries exceeded with url: /wp-json/tribe/events/v1/events?per_page=50&page=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Read timed out. (read timeout=30.0)\"))"
  },
  "events": [
   {

@@ -1,36 +1,14 @@
 {
- "scraped_at": "2026-10-29T10:14:52+00:00",
+ "scraped_at": "2026-10-30T10:16:50+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 57
+  "found": 56
  },
  "events": [
-  {
-   "title": "IMMANUEL WILKINS QUARTET",
-   "type": "concert",
-   "start": "2026-10-29T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11679",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Sold out. Keine 30 Jahre alt und schon eine Art Legende im Wartestand. Dieser Immanuel Wilkins, da sind sich Kenner irgendwie alle einig, wird in nicht allzu ferner Zukunft zu den Säulenheiligen des Jazz zählen. Seine visionäre, spirituell durchdrungene Musik, in der Archaisches und diverse Traditionen sich mit Zukunftsklängen paaren, sein Forscherdrang, aber auch die unwirkliche Intensität seines Tuns und das charismatische Spiel des Altsaxofonisten haben wohl zu dieser Einschätzung geführt. Der zitiert jetzt bei uns aus seinen Alben Live At The Village Vanguard und Blues Blood.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Highlight"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "PETER GALL QUINTETT",
    "type": "concert",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T10:19:32+00:00",
+  "generated_at": "2026-10-30T10:23:16+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -2796,7 +2796,7 @@
       "title": "Anni und Hans: Blues & Jazz",
       "type": "concert",
       "start": "2026-11-07T20:00",
-      "end": null,
+      "end": "2026-11-07T22:00",
       "url": "https://stragula.de/events.html#:~:text=Anni%20und%20Hans%3A%20Blues%20%26%20Jazz",
       "venue": "Stragula",
       "address": "Bergmannstr. 66, 80339 München",
@@ -3005,7 +3005,7 @@
       "id": "ff05effc904f"
     },
     {
-      "title": "Bin I Kini?! - Der Prinzregenten-Blues",
+      "title": "Bin I Kini?! – Der Prinzregenten-Blues",
       "type": "concert",
       "start": "2026-11-17T20:00",
       "end": null,
@@ -3183,6 +3183,26 @@
       ],
       "known_artists": [],
       "id": "35981d2a1203"
+    },
+    {
+      "title": "Sweety Swing Night",
+      "type": "social",
+      "start": "2026-11-21T20:00",
+      "end": "2026-11-21T24:00",
+      "url": "https://www.vintage-club.de/parties.aspx",
+      "venue": "Vintage Club",
+      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+      "description": "Lindy Hop, Balboa, Shag & Blues – Erlebe einen Abend voller Swing, Energie & guter Vibes! Lindy Hop, Shag, Balboa & Blues auf einer Tanzfläche – für Anfänger & Profis gleichermaßen 💃🕺 🕗 20:00 – 24:00 Uhr 🎵 DJ Dr. No 🎟 Eintritt: 10 Euro Let the music move you! 🎶✨ --------------------",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "vintage-club",
+      "source_name": "Vintage Club",
+      "school_name": "Vintage Club",
+      "school_url": "https://www.vintage-club.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "b8381e12355c"
     },
     {
       "title": "Band of Friends (GBR)",
@@ -3567,7 +3587,7 @@
       "id": "4e657f549678"
     },
     {
-      "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
+      "title": "Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich",
       "type": "concert",
       "start": "2026-12-01T20:00",
       "end": null,
@@ -4037,7 +4057,7 @@
       "id": "62c8b6e8743a"
     },
     {
-      "title": "13. American Bar Night - „Midlife or Crisis?“ & Friends",
+      "title": "13. American Bar Night – „Midlife or Crisis?“ & Friends",
       "type": "concert",
       "start": "2026-12-19T18:00",
       "end": null,
@@ -4057,6 +4077,26 @@
       "artists": [],
       "known_artists": [],
       "id": "64fcbc3ac2b0"
+    },
+    {
+      "title": "Sweety Swing Night",
+      "type": "social",
+      "start": "2026-12-19T20:00",
+      "end": "2026-12-19T24:00",
+      "url": "https://www.vintage-club.de/parties.aspx",
+      "venue": "Vintage Club",
+      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+      "description": "Lindy Hop, Balboa, Shag & Blues – Erlebe einen Abend voller Swing, Energie & guter Vibes! Lindy Hop, Shag, Balboa & Blues auf einer Tanzfläche – für Anfänger & Profis gleichermaßen 💃🕺 🕗 20:00 – 24:00 Uhr 🎵 DJ TBA 🎟 Eintritt: 10 Euro Let the music move you! 🎶✨ --------------------",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "vintage-club",
+      "source_name": "Vintage Club",
+      "school_name": "Vintage Club",
+      "school_url": "https://www.vintage-club.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "1e7b7fac87c9"
     },
     {
       "title": "Axel Zwingenberger",
@@ -4426,7 +4466,7 @@
       "id": "ce4a5f87b3bb"
     },
     {
-      "title": "Stephan Zinner - Großstadtblues",
+      "title": "Stephan Zinner – Großstadtblues",
       "type": "concert",
       "start": "2027-01-26T20:00",
       "end": "2027-01-26T23:00",
@@ -5042,7 +5082,7 @@
       "id": "03c5839afbdb"
     },
     {
-      "title": "Stephan Zinner - Großstadtblues",
+      "title": "Stephan Zinner – Großstadtblues",
       "type": "concert",
       "start": "2027-04-24T19:30",
       "end": "2027-04-24T22:30",
@@ -5333,8 +5373,8 @@
       "url": "https://www.vintage-club.de/",
       "kind": "school",
       "status": "ok",
-      "found": 53,
-      "kept": 9
+      "found": 70,
+      "kept": 11
     },
     {
       "id": "boogie-baeren",
@@ -5342,7 +5382,7 @@
       "url": "https://www.boogie-baeren.de/",
       "kind": "school",
       "status": "ok",
-      "found": 110,
+      "found": 116,
       "kept": 14
     },
     {
@@ -5350,8 +5390,8 @@
       "name": "Oksana Pavlova",
       "url": "https://oksanapavlova.de/",
       "kind": "school",
-      "status": "ok",
-      "found": 16,
+      "status": "failed",
+      "error": "ConnectionError: HTTPSConnectionPool(host='oksanapavlova.de', port=443): Max retries exceeded with url: /wp-json/wp/v2/posts?per_page=20&_fields=id%2Cdate%2Clink%2Ctitle%2Ccontent (Caused by NewConnectionError(\"HTTPSConnection(host='oksanapavlova.de', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
       "kept": 3
     },
     {
@@ -5360,7 +5400,7 @@
       "url": "https://hepcatclub.com/",
       "kind": "school",
       "status": "ok",
-      "found": 225,
+      "found": 232,
       "kept": 3
     },
     {
@@ -5396,7 +5436,7 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 57,
+      "found": 56,
       "kept": 1
     },
     {
@@ -5405,7 +5445,7 @@
       "url": "https://www.jazzbar-vogler.com/",
       "kind": "venue",
       "status": "ok",
-      "found": 16,
+      "found": 15,
       "kept": 0
     },
     {
@@ -5477,7 +5517,7 @@
       "url": "https://www.ars-musica-muenchen.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 13,
+      "found": 12,
       "kept": 2
     },
     {
@@ -5486,7 +5526,7 @@
       "url": "https://www.ubo9.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 13,
+      "found": 12,
       "kept": 0
     },
     {
@@ -5494,8 +5534,8 @@
       "name": "Kunst in Sendling e.V.",
       "url": "https://www.kunst-in-sendling.com/",
       "kind": "venue",
-      "status": "ok",
-      "found": 18,
+      "status": "failed",
+      "error": "ConnectionError: HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Max retries exceeded with url: /wp-json/tribe/events/v1/events?per_page=50&page=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Read timed out. (read timeout=30.0)\"))",
       "kept": 0
     },
     {
@@ -5513,7 +5553,7 @@
       "url": "https://www.einewelthaus.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 25,
+      "found": 24,
       "kept": 1
     },
     {
@@ -5540,7 +5580,7 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 158,
+      "found": 154,
       "kept": 56
     },
     {
@@ -5558,7 +5598,7 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 237,
+      "found": 231,
       "kept": 4
     },
     {

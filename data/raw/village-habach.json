@@ -5,8 +5,8 @@
   "name": "Village Habach",
   "url": "https://www.village-habach.de/",
   "kind": "venue",
-  "status": "ok",
-  "found": 48
+  "status": "failed",
+  "error": "RuntimeError: adapter found no events at all — page layout may have changed"
  },
  "events": [
   {

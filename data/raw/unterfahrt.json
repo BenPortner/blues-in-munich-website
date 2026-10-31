@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-10-30T10:16:50+00:00",
+ "scraped_at": "2026-10-31T09:51:05+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 56
+  "found": 57
  },
  "events": [
-  {
-   "title": "PETER GALL QUINTETT",
-   "type": "concert",
-   "start": "2026-10-30T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11680",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Warum Peter Galls Love Avatar den Deutschen Jazzpreis in der Kategorie Album des Jahres gewann? Bestimmt, weil es weit mehr bot als treibende Grooves, Melodien, die nachhallen und virtuose Improvisationen aller Beteiligten. Denn die Musik, die der Schlagzeuger für sich und sein handverlesenes Quintett schrieb, entwickelt eine ganz eigene Aura, wartet mit klanglichen, mit strukturellen Überraschungen auf, birgt so manches kleine Geheimnis, besitzt eine mitunter futuristische Note sowie erzählerischen Schwung und ist so detailreich, dass sie einen ganz eigenen Genre-Namen verdiente.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "OTOMO YOSHIHIDE NEW JAZZ QUINTET",
    "type": "concert",
@@ -574,6 +554,29 @@
    "id": ""
   },
   {
+   "title": "/INSHI/ KATERYNA KRAVCHENKO & BÉLA BLUCHE",
+   "type": "concert",
+   "start": "2026-11-26T20:30",
+   "end": null,
+   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11707",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstraße 42, 81675 München",
+   "description": "Ein Fluss von Einflüssen und Elementen improvisierter Sprache, flüstert Volkslieder und Gedichte aus der Ukraine. /inshi/ (andere) - ist das Duett von Kateryna Kravchenko und Bela Bluche. „Innovativ, kraftvoll und zutiefst bewegend„ - ein Flimmern aus Klang und Poesie, die die Tradition neu einflechten.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Vocal Jazz",
+    "Next Generation"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "CAROLINA BUBBICO",
    "type": "concert",
    "start": "2026-11-27T20:30",
@@ -735,6 +738,26 @@
    "tags": [
     "Bigband Night"
    ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "ETHAN IVERSON / GREG OSBY",
+   "type": "concert",
+   "start": "2026-12-08T20:30",
+   "end": null,
+   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11719",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstraße 42, 81675 München",
+   "description": "Zwei markante Stimmen des zeitgenössischen Jazz treffen aufeinander: Der Pianist Ethan Iverson und der Altsaxophonist Greg Osby präsentieren sich als Duo. Ihr gemeinsamer Auftritt ist einen Dialog zwischen zwei sehr unterschiedlichen musikalischen Biografien, die dennoch viele Berührungs- punkte teilen.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,

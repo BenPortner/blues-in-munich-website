@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-10-30T10:22:08+00:00",
+ "scraped_at": "2026-10-31T09:53:49+00:00",
  "status": {
   "id": "einewelthaus",
   "name": "EineWeltHaus",
   "url": "https://www.einewelthaus.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 24
+  "found": 23
  },
  "events": [
   {
@@ -23,26 +23,6 @@
    "tags": [
     "Benefizveranstaltung"
    ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Infoabend der EinDollarBrille Gruppe München",
-   "type": "concert",
-   "start": "2026-10-30T20:00",
-   "end": "2026-10-30T22:00",
-   "url": "https://www.einewelthaus.de/events/infoabend-der-eindollarbrille-gruppe-muenchen/",
-   "venue": "EineWeltHaus München",
-   "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "Wollt ihr sehen, wie eine Brille hergestellt wird? Und erfahren, wie damit schon das Leben von über einer Million Menschen verändert wurde? Herzlich willkommen zum Infoabend der EinDollarBrille Regionalgruppe München – kommt, schaut, staunt und lernt uns kennen.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -253,28 +233,6 @@
    "id": ""
   },
   {
-   "title": "Auf in den Krieg? Wie Wirtschaft, Politik und Gesellschaft militarisiert werden",
-   "type": "concert",
-   "start": "2026-11-16T19:00",
-   "end": "2026-11-16T22:00",
-   "url": "https://www.einewelthaus.de/events/auf-in-den-krieg-wie-wirtschaft-politik-und-gesellschaft-militarisiert-werden/",
-   "venue": "EineWeltHaus München",
-   "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "Vortrag und Diskussion mit Andreas Seifert, Informationsstelle Militarisierung Deutschland wird mit Gesetzen, Rüstung und Mobilmachung auf Krieg eingeschworen. Insbesondere Bayern ist hier vorn mit dabei und versucht sich, die Aufrüstung als Sicherheitsmaßnahme und Wirtschaftsprogramm schön zu reden. Die Ertüchtigung der Industrie, die \"Erfolgsgeschichten\" von Startup-Unternehmen, die tödliche Produkte entwickeln, verdecken die Einschränkungen, die für die Gesellschaft damit einhergehen und den Verlust an demokratischer Mitsprache. Der Vortrag möchte daran erinnern, wer an der Rüstung verdient und die Frage stellen, wie wir als Gesellschaft uns gegen den Narrativ von \"Sicherheit durch Rüstung\" wehren können. Andreas Seifert ist im Vorstand der Informationsstelle Militarisierung (IMI) und arbeitet so kritisch zur deutschen Rüstungsindustrie. Er brachte für die IMI u.a. das \"Handbuch Rüstung\" heraus, eine Fundgrube für unsere militärkritischen Exkursionen (\"Ostermarsch Draußen\")",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Vortrag und Diskussion"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Das kalte Herz des Sexismus - Bilder und Worte als Waffe gegen Frauen",
    "type": "concert",
    "start": "2026-11-16T20:00",
@@ -288,6 +246,28 @@
    "tags": [
     "Austausch",
     "Informationsveranstaltung"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Auf in den Krieg? Wie Wirtschaft, Politik und Gesellschaft militarisiert werden",
+   "type": "concert",
+   "start": "2026-11-16T19:00",
+   "end": "2026-11-16T22:00",
+   "url": "https://www.einewelthaus.de/events/auf-in-den-krieg-wie-wirtschaft-politik-und-gesellschaft-militarisiert-werden/",
+   "venue": "EineWeltHaus München",
+   "address": "Schwanthalerstr. 80, München, 80336",
+   "description": "Vortrag und Diskussion mit Andreas Seifert, Informationsstelle Militarisierung Deutschland wird mit Gesetzen, Rüstung und Mobilmachung auf Krieg eingeschworen. Insbesondere Bayern ist hier vorn mit dabei und versucht sich, die Aufrüstung als Sicherheitsmaßnahme und Wirtschaftsprogramm schön zu reden. Die Ertüchtigung der Industrie, die \"Erfolgsgeschichten\" von Startup-Unternehmen, die tödliche Produkte entwickeln, verdecken die Einschränkungen, die für die Gesellschaft damit einhergehen und den Verlust an demokratischer Mitsprache. Der Vortrag möchte daran erinnern, wer an der Rüstung verdient und die Frage stellen, wie wir als Gesellschaft uns gegen den Narrativ von \"Sicherheit durch Rüstung\" wehren können. Andreas Seifert ist im Vorstand der Informationsstelle Militarisierung (IMI) und arbeitet so kritisch zur deutschen Rüstungsindustrie. Er brachte für die IMI u.a. das \"Handbuch Rüstung\" heraus, eine Fundgrube für unsere militärkritischen Exkursionen (\"Ostermarsch Draußen\")",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Vortrag und Diskussion"
    ],
    "source_id": "",
    "source_name": "",

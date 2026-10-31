@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-10-30T10:22:36+00:00",
+ "scraped_at": "2026-10-31T09:54:40+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 154
+  "found": 149
  },
  "events": [
   {
@@ -754,28 +754,6 @@
    "id": ""
   },
   {
-   "title": "Lange Shopping-Nacht – Haidhausen Busketeers",
-   "type": "concert",
-   "start": "2026-10-30T19:00",
-   "end": "2026-10-30T22:00",
-   "url": "https://www.in-muenchen.de/events/lange-shopping-nacht-haidhausen-busketeers.html",
-   "venue": "Hugendubel Marienplatz",
-   "address": "Marienplatz 22, 80331 München",
-   "description": "Bei der langen Shopping-Nacht sorgt die Band Haidhausen Busketeers in der Hugendubel-Buchhandlung für musikalische Unterhaltung. Im Obergeschoss wird ab 19.30 Uhr ein abwechslungsreiches Programm geboten, das zum Stöbern und Verweilen einlädt.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Live-Musik"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Saschmo",
    "type": "concert",
    "start": "2026-12-11T19:30",
@@ -1003,7 +981,7 @@
    "url": "https://www.in-muenchen.de/events/balduin-und-der-jazz-bergson-barbastelle.html",
    "venue": "Bergson Kunstkraftwerk / Bergson Barbastelle",
    "address": "Am Bergson Kunstkraftwerk 2, 81245 München",
-   "description": "Eine verzweifelte Theaterdirektorin und eine amerikanische Millionärin begeben sich mit Kindern und Musiker:innen auf eine turbulente Reise durch die Welt des Jazz. Von traurigen Bluesklängen bis zu wilden Boogie-Woogie-Rhythmen erleben die Zuschauer ein Erlebnis mit Interaktion, Staunen, Tanzen, Klatschen und Lachen.",
+   "description": "Eine verzweifelte Theaterdirektorin und eine amerikanische Millionärin begeben sich mit Kindern und Musiker*innen auf eine turbulente Reise durch die Welt des Jazz. Von traurigen Bluesklängen bis zu wilden Boogie-Woogie-Rhythmen erleben die Zuschauer ein Erlebnis mit Interaktion, Staunen, Tanzen, Klatschen und Lachen.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -1140,28 +1118,6 @@
    "dates": [],
    "tags": [
     "Blues-Rock"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Matthias Bublath’s Hammond B3 Band",
-   "type": "concert",
-   "start": "2026-10-30T19:30",
-   "end": "2026-10-30T22:00",
-   "url": "https://www.in-muenchen.de/events/matthias-bublaths-hammond-b3-band.html",
-   "venue": "KiWi Jazz Lounge im Kirchenwirt Wörthsee",
-   "address": "Wesslinger Str. 1a, 82237 Wörthsee",
-   "description": "Die KiWi Jazz Lounge präsentiert den unverwechselbaren Sound der Hammond B3 Orgel. Zwischen Jazz, Blues und Funk entfaltet sich ein Abend, getragen vom warmen, kraftvollen Klang des Instruments. Vier herausragende Musiker der Münchner Szene treffen aufeinander.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Jazz"
    ],
    "source_id": "",
    "source_name": "",
@@ -1534,28 +1490,6 @@
    "dates": [],
    "tags": [
     "Volksmusik"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Andreas Diehlmann Band",
-   "type": "concert",
-   "start": "2026-10-30T20:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/andreas-diehlmann-band.html",
-   "venue": "Backstage Club",
-   "address": "Reitknechtstr. 6, 80639 München",
-   "description": "Die Andreas Diehlmann Band, Gewinner des German Blues Awards, präsentiert einen kraftvollen Bluesrock-Sound. Die Eigenkompositionen der Band sind traditionell verwurzelt, aber modern und eigenständig. Jörg Sebald am Bass und Martin Gunkel an den Drums bilden das rhythmische Fundament des Powertrios um den Gitarristen Andreas Diehlmann.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Bluesrock"
    ],
    "source_id": "",
    "source_name": "",
@@ -2270,28 +2204,6 @@
    "id": ""
   },
   {
-   "title": "Werner Meier – Echt?!",
-   "type": "concert",
-   "start": "2026-10-30T20:00",
-   "end": "2026-10-30T22:00",
-   "url": "https://www.in-muenchen.de/events/werner-meier-echt.html",
-   "venue": "Kulturwerkstatt am Olchinger Mühlbach – KOM",
-   "address": "Hauptstraße 68, 82140 Olching",
-   "description": "Im Zentrum des Abends steht Werner Meier, der mit seinem feinsinnigen bayerischen Musik-Kabarett gesellschaftliche Fragen und den Blues unserer Zeit aufgreift. Untermalt von grooviger Gitarre lädt er zu einem Streifzug durch analoge Zufluchtsorte im digitalen Alltagswahnsinn ein.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Kabarett"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Merry Jazzmas! Swingende Weihnachtsmusik",
    "type": "concert",
    "start": "2026-12-19T17:00",
@@ -2930,8 +2842,8 @@
   {
    "title": "Roman Hofbauer",
    "type": "concert",
-   "start": "2026-10-30T20:00",
-   "end": "2026-10-30T23:00",
+   "start": "2027-02-13T20:00",
+   "end": null,
    "url": "https://www.in-muenchen.de/events/roman-hofbauer.html",
    "venue": "Schlachthof – Kuhbar",
    "address": "Zenettistraße 9, 80337 München",
@@ -3159,7 +3071,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Jam Session"
+    "Jam-Session"
    ],
    "source_id": "",
    "source_name": "",
@@ -3258,28 +3170,6 @@
    "id": ""
   },
   {
-   "title": "Kitty, Daisy & Lewis",
-   "type": "concert",
-   "start": "2026-10-30T20:00",
-   "end": "2026-10-30T23:00",
-   "url": "https://www.in-muenchen.de/events/kitty-daisy-lewis.html",
-   "venue": "Werksviertel / Technikum",
-   "address": "Speicherstraße 26, 81671 München",
-   "description": "Kitty, Daisy und Lewis Durham entführen das Publikum mit ihrem Retro-Stil aus Swing, Blues, Country, Bluegrass und Rock’n’Roll in vergangene Jahrzehnte. Die Geschwister, geprägt durch musikalische Einflüsse aus dem Elternhaus, interpretieren Klassiker und eigene Produktionen mit Multiinstrumentalität und nostalgischer Klangästhetik.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Retro-Rock'n'Roll"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Stoppok",
    "type": "concert",
    "start": "2026-11-03T20:00",
@@ -3348,8 +3238,8 @@
   {
    "title": "Midnightbazar Nachtflohmarkt",
    "type": "concert",
-   "start": "2026-10-30T17:00",
-   "end": "2026-10-30T00:00",
+   "start": "2026-10-31T17:00",
+   "end": "2026-10-31T00:00",
    "url": "https://www.in-muenchen.de/events/midnightbazar-nachtflohmarkt.html",
    "venue": "Alte Paketposthalle – Pineapple Park",
    "address": "Arnulfstraße 195, 80634 München",

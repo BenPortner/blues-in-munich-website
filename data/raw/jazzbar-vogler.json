@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-10-30T10:16:52+00:00",
+ "scraped_at": "2026-10-31T09:51:06+00:00",
  "status": {
   "id": "jazzbar-vogler",
   "name": "Jazzbar Vogler",
   "url": "https://www.jazzbar-vogler.com/",
   "kind": "venue",
   "status": "ok",
-  "found": 15
+  "found": 14
  },
  "events": [
-  {
-   "title": "Liberdjango",
-   "type": "concert",
-   "start": "2026-10-30T19:30",
-   "end": null,
-   "url": "https://www.muenchen-online.de/veranstaltung/liberdjango-484870",
-   "venue": "Jazzbar Vogler",
-   "address": "Rumfordstr. 17, 80469 München",
-   "description": "",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "David Hazeltine Trio",
    "type": "concert",

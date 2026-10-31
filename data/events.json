@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T10:23:16+00:00",
+  "generated_at": "2026-10-31T09:55:20+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -2825,7 +2825,7 @@
       "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "venue": "Rheinpfalz Schwabing",
       "address": "Kurfürstenstraße 35, 80801 München",
-      "description": "Die „blue traces“ wurden 2011 als Blues- und Rockband gegründet. Seitdem spielen die Münchner Musiker Michael Drescher (voc + git), Viktor Magdolen (keys), Fritz Winbeck (drums), Markus Roithmaier (bass) und Sven Kesselring (git) unverändert in dieser Besetzung. Michi Dreschers unverkennbare Stimme prägt den Sound der Band, seine Vorbilder Eric Burdon, Joe Cocker und Tom Waits haben ganz sicher ihre „Spuren“ (engl. traces) hinterlassen. Das gilt auch für den Rest der Band. Ihr ehrlicher und geradliniger Sound trägt den Gesang und begeistert durch mitreißende Spielfreude. Immer wieder aufs Neue",
+      "description": "Liebe Freunde des Rhythm & Blues, Der Sommer ist kaum vorbei, schon laden die blue traces zu einem ihrer stets legendären Clubkonzerte in die Schwabinger Kultkneipe „Rheinpfalz“ ein. Dort fühlen wir uns wohl und das sehr geschätzte Publikum hat sich auf uns eingegroovt und schwingt gerne mal das Tanzbein zum kernigen Blues! Eine perfekte Basis für wirklich tolle Konzerte! Guckt mal hier, wie’s in der Rheinpfalz typischerweise bei unseren Konzerten zugeht: https://youtu.be/XArGGNyBG7w Daher, nichts wie hin, am Samstag, 7. November. Das Konzert beginnt um 20 Uhr (die Plätze sind stets knapp, dah",
       "recurrence": null,
       "dates": [],
       "tags": [],
@@ -2861,6 +2861,31 @@
       ],
       "known_artists": [],
       "id": "b7e79af2bc23"
+    },
+    {
+      "title": "The Badrock Blues Band",
+      "type": "concert",
+      "start": "2026-11-07T21:00",
+      "end": "2026-11-08T00:30",
+      "url": "https://reservierung.heyrosi.de/event/kilians-irish-pub/the-badrock-blues-band",
+      "venue": "Kilians Irish Pub",
+      "address": "Frauenplatz 11, 80331 München",
+      "description": "aus Österreich - spielt Cover-Versionen alter Rock, Blues und Rock'n'Roll-Klassiker",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "kilians",
+      "source_name": "Kilians Irish Pub",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "The Badrock Blues Band",
+          "url": "https://www.last.fm/music/The+Badrock+Blues+Band"
+        }
+      ],
+      "known_artists": [],
+      "id": "dbac678fe242"
     },
     {
       "title": "Sundog & Monomanic",
@@ -4153,6 +4178,33 @@
       "id": "5e5edfb8d418"
     },
     {
+      "title": "Willy Michl – Isarindianer-Weihnacht",
+      "type": "concert",
+      "start": "2026-12-25T20:00",
+      "end": "2026-12-25T23:00",
+      "url": "https://www.in-muenchen.de/events/willy-michl-isarindianer-weihnacht.html",
+      "venue": "Lustspielhaus",
+      "address": "Occamstr. 8, 80802 München",
+      "description": "Im Lustspielhaus präsentiert Willy Michl die traditionelle Isarindianer-Weihnacht. Mit Blues, Rock’n’Roll und bayerischen Klängen verzaubert er das Publikum. Seine unverkennbare Stimme und die ungeschliffene Poesie seiner Texte schaffen eine einzigartige Atmosphäre.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Musiktheater"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Willy Michl",
+          "url": "https://www.last.fm/music/Willy+Michl"
+        }
+      ],
+      "known_artists": [],
+      "id": "888fe0946266"
+    },
+    {
       "title": "AL JONES BLUES BAND",
       "type": "concert",
       "start": "2026-12-26T20:30",
@@ -4982,6 +5034,35 @@
       "id": "c780e652c65f"
     },
     {
+      "title": "Eddie 9V",
+      "type": "concert",
+      "start": "2027-04-02T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/eddie-9v.html",
+      "venue": "Strom",
+      "address": "Lindwurmstr. 88, 80337 München",
+      "description": "Eddie 9V verbindet Southern Rock, Blues und Soul zu einem unverkennbaren Sound. Mit rauem Gitarrenspiel und kraftvoller Stimme präsentiert er eine Mischung aus Blues, Rock, Country und Gospel. Live-Aufnahmen unter der Leitung von Dan Auerbach fangen die Essenz klassischer Southern-Aufnahmen ein.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Southern Rock"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Eddie 9V",
+          "url": "https://www.last.fm/music/Eddie+9V"
+        }
+      ],
+      "known_artists": [
+        "Eddie 9V"
+      ],
+      "id": "f97d2e7aaa27"
+    },
+    {
       "title": "Ash Grunwald",
       "type": "concert",
       "start": "2027-04-03T20:00",
@@ -5390,8 +5471,8 @@
       "name": "Oksana Pavlova",
       "url": "https://oksanapavlova.de/",
       "kind": "school",
-      "status": "failed",
-      "error": "ConnectionError: HTTPSConnectionPool(host='oksanapavlova.de', port=443): Max retries exceeded with url: /wp-json/wp/v2/posts?per_page=20&_fields=id%2Cdate%2Clink%2Ctitle%2Ccontent (Caused by NewConnectionError(\"HTTPSConnection(host='oksanapavlova.de', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
+      "status": "ok",
+      "found": 16,
       "kept": 3
     },
     {
@@ -5418,7 +5499,7 @@
       "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "kind": "venue",
       "status": "ok",
-      "found": 16,
+      "found": 15,
       "kept": 7
     },
     {
@@ -5436,7 +5517,7 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 56,
+      "found": 57,
       "kept": 1
     },
     {
@@ -5445,7 +5526,7 @@
       "url": "https://www.jazzbar-vogler.com/",
       "kind": "venue",
       "status": "ok",
-      "found": 15,
+      "found": 14,
       "kept": 0
     },
     {
@@ -5456,6 +5537,15 @@
       "status": "ok",
       "found": 11,
       "kept": 0
+    },
+    {
+      "id": "kilians",
+      "name": "Kilians Irish Pub",
+      "url": "https://www.kiliansirishpub.de/de/kilians/live-music",
+      "kind": "venue",
+      "status": "ok",
+      "found": 8,
+      "kept": 1
     },
     {
       "id": "gans-am-wasser",
@@ -5471,8 +5561,8 @@
       "name": "Village Habach",
       "url": "https://www.village-habach.de/",
       "kind": "venue",
-      "status": "ok",
-      "found": 48,
+      "status": "failed",
+      "error": "RuntimeError: adapter found no events at all — page layout may have changed",
       "kept": 26
     },
     {
@@ -5508,7 +5598,7 @@
       "url": "https://www.pasinger-fabrik.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 34,
+      "found": 33,
       "kept": 4
     },
     {
@@ -5534,8 +5624,8 @@
       "name": "Kunst in Sendling e.V.",
       "url": "https://www.kunst-in-sendling.com/",
       "kind": "venue",
-      "status": "failed",
-      "error": "ConnectionError: HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Max retries exceeded with url: /wp-json/tribe/events/v1/events?per_page=50&page=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Read timed out. (read timeout=30.0)\"))",
+      "status": "ok",
+      "found": 16,
       "kept": 0
     },
     {
@@ -5553,7 +5643,7 @@
       "url": "https://www.einewelthaus.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 24,
+      "found": 23,
       "kept": 1
     },
     {
@@ -5571,7 +5661,7 @@
       "url": "https://www.swinginmunich.de/en",
       "kind": "aggregator",
       "status": "failed",
-      "error": "RetryError: HTTPSConnectionPool(host='www.swinginmunich.de', port=443): Max retries exceeded with url: /de/kalender (Caused by ResponseError('too many 500 error responses'))",
+      "error": "RuntimeError: adapter found no events at all — page layout may have changed",
       "kept": 2
     },
     {
@@ -5580,8 +5670,8 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 154,
-      "kept": 56
+      "found": 149,
+      "kept": 58
     },
     {
       "id": "mvp",
@@ -5598,7 +5688,7 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 231,
+      "found": 227,
       "kept": 4
     },
     {

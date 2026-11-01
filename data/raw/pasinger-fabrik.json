@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-10-31T09:53:36+00:00",
+ "scraped_at": "2026-11-01T10:43:24+00:00",
  "status": {
   "id": "pasinger-fabrik",
   "name": "Pasinger Fabrik",
   "url": "https://www.pasinger-fabrik.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 33
+  "found": 32
  },
  "events": [
-  {
-   "title": "San2 unplugged",
-   "type": "concert",
-   "start": "2026-10-31T20:00",
-   "end": "2026-10-31T22:00",
-   "url": "https://pasinger-fabrik.de/veranstaltung/san2-unplugged-2/",
-   "venue": "Pasinger Fabrik – Kleine Bühne",
-   "address": "August-Exter-Str. 1, 81245 München",
-   "description": "Gefeierte Albumveröffentlichungen, zahlreiche Radio- und Fernsehauftritte, gemeinsame Live-Shows mit Jazzweltstar Jamie Cullum und der britischen TV Legende Jools Holland, eine begeisterte Presse und mehr als 500 Konzerte – auf all das kann San2 in den letzten 10 Jahren seiner mittlerweile international erfolgreichen Kariere zurückblicken. Nun kommt er mit einem akustischen live & unplugged Programm in die Pasinger Fabrik zurück. Dafür hat er einen absoluten Ausnahmegitarristen dabei: Sebastian Schwarzenberger ist eine feste Größe in der Süddeutschen Bluesszene. Er brilliert auf einer Vielzahl von Gitarren – egal ob akustische Gitarre, Dobro, Lapsteel oder Mandoline – sein Spiel ist kraftvoll und energiegeladen. An den Tasten glänzt München’s Boogie Woogie-Meister und Spider Murphy Gang -Pianist Ludwig Seuss. Voller Esprit und Charme führt San2 durch ein gehaltvolles und abwechslungsreiches Programm, scheinbar mühelos spielen sich Schwarzenberger und Seuss die musikalischen Bälle zu. Der dreistimmige Gesang sorgt dabei für echte Gänsehaut-Momente und San2 zündet regelmäßig wahre Feuerwerke auf der Bluesharp. Für das Publikum machen vor allem beeindruckende Soli an den Instrumenten und San2s unvergleichliche Stimme, die stets ein wenig über allem zu schweben scheint, die Konzertabende zu einem ganz besonderen Erlebnis. · Eintritt: 28€",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Komm, hol den Mond… Chansons von Gabriele Misch & Günter Edin",
    "type": "concert",

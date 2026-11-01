@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T09:55:20+00:00",
+  "generated_at": "2026-11-01T10:45:10+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -2549,18 +2549,14 @@
     {
       "title": "Blues 2 mit Clara",
       "type": "class",
-      "start": "2026-10-06T19:35",
-      "end": "2026-10-06T20:35",
+      "start": "2026-11-03T19:35",
+      "end": "2026-11-03T20:35",
       "url": "https://hepcatclub.com/",
       "venue": "Hep Cat Club",
       "address": "Viktoriastraße 3b, 86150 Augsburg",
       "description": "",
       "recurrence": "Tuesdays 19:35–20:35",
       "dates": [
-        "2026-10-06",
-        "2026-10-13",
-        "2026-10-20",
-        "2026-10-27",
         "2026-11-03",
         "2026-11-10",
         "2026-11-17",
@@ -2576,7 +2572,7 @@
       "school_url": "https://hepcatclub.com/",
       "artists": [],
       "known_artists": [],
-      "id": "bee1392c97b8"
+      "id": "d1bb00bef152"
     },
     {
       "title": "The Temperance Movement",
@@ -4518,7 +4514,7 @@
       "id": "ce4a5f87b3bb"
     },
     {
-      "title": "Stephan Zinner – Großstadtblues",
+      "title": "Stephan Zinner - Großstadtblues",
       "type": "concert",
       "start": "2027-01-26T20:00",
       "end": "2027-01-26T23:00",
@@ -5126,7 +5122,11 @@
         "2027-09-07",
         "2027-09-14",
         "2027-09-21",
-        "2027-09-28"
+        "2027-09-28",
+        "2027-10-05",
+        "2027-10-12",
+        "2027-10-19",
+        "2027-10-26"
       ],
       "tags": [],
       "source_id": "hepcat-club",
@@ -5163,7 +5163,7 @@
       "id": "03c5839afbdb"
     },
     {
-      "title": "Stephan Zinner – Großstadtblues",
+      "title": "Stephan Zinner - Großstadtblues",
       "type": "concert",
       "start": "2027-04-24T19:30",
       "end": "2027-04-24T22:30",
@@ -5454,7 +5454,7 @@
       "url": "https://www.vintage-club.de/",
       "kind": "school",
       "status": "ok",
-      "found": 70,
+      "found": 69,
       "kept": 11
     },
     {
@@ -5463,7 +5463,7 @@
       "url": "https://www.boogie-baeren.de/",
       "kind": "school",
       "status": "ok",
-      "found": 116,
+      "found": 115,
       "kept": 14
     },
     {
@@ -5481,7 +5481,7 @@
       "url": "https://hepcatclub.com/",
       "kind": "school",
       "status": "ok",
-      "found": 232,
+      "found": 229,
       "kept": 3
     },
     {
@@ -5499,7 +5499,7 @@
       "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "kind": "venue",
       "status": "ok",
-      "found": 15,
+      "found": 14,
       "kept": 7
     },
     {
@@ -5517,7 +5517,7 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 57,
+      "found": 59,
       "kept": 1
     },
     {
@@ -5526,7 +5526,7 @@
       "url": "https://www.jazzbar-vogler.com/",
       "kind": "venue",
       "status": "ok",
-      "found": 14,
+      "found": 13,
       "kept": 0
     },
     {
@@ -5535,7 +5535,7 @@
       "url": "https://mister-bs.bar/",
       "kind": "venue",
       "status": "ok",
-      "found": 11,
+      "found": 10,
       "kept": 0
     },
     {
@@ -5561,8 +5561,8 @@
       "name": "Village Habach",
       "url": "https://www.village-habach.de/",
       "kind": "venue",
-      "status": "failed",
-      "error": "RuntimeError: adapter found no events at all — page layout may have changed",
+      "status": "ok",
+      "found": 46,
       "kept": 26
     },
     {
@@ -5598,7 +5598,7 @@
       "url": "https://www.pasinger-fabrik.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 33,
+      "found": 32,
       "kept": 4
     },
     {
@@ -5643,7 +5643,7 @@
       "url": "https://www.einewelthaus.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 23,
+      "found": 20,
       "kept": 1
     },
     {
@@ -5688,7 +5688,7 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 227,
+      "found": 224,
       "kept": 4
     },
     {

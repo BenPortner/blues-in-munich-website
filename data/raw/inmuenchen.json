@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-10-31T09:54:40+00:00",
+ "scraped_at": "2026-11-01T10:44:29+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
@@ -10,6 +10,48 @@
  },
  "events": [
   {
+   "title": "Malaka Hostel",
+   "type": "concert",
+   "start": "2027-01-22T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/malaka-hostel-2027.html",
+   "venue": "Backstage Halle",
+   "address": "Reitknechtstraße 6, 80639 München",
+   "description": "Folk, Balkan Beats, Pop und Global Umpa: Die Band singt Spanisch, Deutsch, Tschechisch und Englisch und zielt auf kollektive Tanz-Ekstase.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lynch Mob",
+   "type": "concert",
+   "start": "2027-05-01T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/lynch-mob.html",
+   "venue": "Strom",
+   "address": "Lindwurmstr. 88, 80337 München",
+   "description": "Mit der „Farewell World Tour“ verabschiedet sich Gitarrist George Lynch mit seiner Band von der Bühne, in Deutschland gibt es nur drei Termine.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Hardrock"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "Anni & Hans",
    "type": "concert",
    "start": "2026-11-07T20:00",
@@ -17,7 +59,7 @@
    "url": "https://www.in-muenchen.de/events/anni-hans-blues-jazz.html",
    "venue": "Stragula Realwirtschaft",
    "address": "Bergmannstraße 66, 80339 München",
-   "description": "Das Duo mit Gospel und Blues afroamerikanischer Sängerinnen, Songs von Simon, Croce, Dylan in eigenen Fassungen sowie eigenen Stücken, Eintritt frei",
+   "description": "Das Duo widmet sich Gospel und Blues afroamerikanischer Sängerinnen und spielt Songs von Paul Simon, Jim Croce und Bob Dylan in eigenen Fassungen sowie eigene Stücke.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -699,7 +741,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Indie Rock"
+    "Indie-Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -1227,7 +1269,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Indie Rock"
+    "Indie-Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -1456,7 +1498,7 @@
    "id": ""
   },
   {
-   "title": "Das „frühe“ Frauenfest",
+   "title": "Das \"frühe\" Frauenfest",
    "type": "concert",
    "start": "2026-11-06T18:00",
    "end": "2026-11-06T23:00",
@@ -1500,7 +1542,7 @@
    "id": ""
   },
   {
-   "title": "Ü30 Party – einfach legendär",
+   "title": "Ü30 Party - einfach legendär",
    "type": "social",
    "start": "2026-11-07T20:30",
    "end": null,
@@ -1720,28 +1762,6 @@
    "id": ""
   },
   {
-   "title": "San2 unplugged",
-   "type": "concert",
-   "start": "2026-10-31T20:00",
-   "end": "2026-10-31T22:00",
-   "url": "https://www.in-muenchen.de/events/san2-unplugged.html",
-   "venue": "Pasinger Fabrik – Kleine Bühne",
-   "address": "August-Exter-Straße 1, 81245 München",
-   "description": "San2 präsentiert ein akustisches Live-Programm mit außergewöhnlichen Musikern. Sebastian Schwarzenberger, bekannt für sein virtuoses Gitarrenspiel, und Ludwig Seuss, Münchens Boogie Woogie-Meister, begleiten San2. Der Abend verspricht Gänsehaut-Momente durch dreistimmigen Gesang und beeindruckende Soli.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Blues"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Tord Gustavsen Trio",
    "type": "concert",
    "start": "2027-04-03T19:00",
@@ -1830,7 +1850,7 @@
    "id": ""
   },
   {
-   "title": "Stephan Zinner – Großstadtblues",
+   "title": "Stephan Zinner - Großstadtblues",
    "type": "concert",
    "start": "2027-04-24T19:30",
    "end": "2027-04-24T22:30",
@@ -1918,7 +1938,7 @@
    "id": ""
   },
   {
-   "title": "Heiner Lauterbach – Like a Hobo",
+   "title": "Heiner Lauterbach - Like a Hobo",
    "type": "concert",
    "start": "2027-02-05T20:00",
    "end": null,
@@ -1962,7 +1982,7 @@
    "id": ""
   },
   {
-   "title": "Martin Schmitt – Schmitt happens",
+   "title": "Martin Schmitt - Schmitt happens",
    "type": "concert",
    "start": "2027-01-28T20:00",
    "end": "2027-01-28T22:00",
@@ -1984,7 +2004,7 @@
    "id": ""
   },
   {
-   "title": "Stephan Zinner – Großstadtblues",
+   "title": "Stephan Zinner - Großstadtblues",
    "type": "concert",
    "start": "2027-01-26T20:00",
    "end": "2027-01-26T23:00",
@@ -2116,7 +2136,7 @@
    "id": ""
   },
   {
-   "title": "Mathias Kellner – Can you BOARISCH, please?",
+   "title": "Mathias Kellner - Can you BOARISCH, please?",
    "type": "concert",
    "start": "2026-12-07T20:00",
    "end": "2026-12-07T23:00",
@@ -2675,7 +2695,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Indie Rock"
+    "Indie-Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -3226,28 +3246,6 @@
    "dates": [],
    "tags": [
     "Jazz"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Midnightbazar Nachtflohmarkt",
-   "type": "concert",
-   "start": "2026-10-31T17:00",
-   "end": "2026-10-31T00:00",
-   "url": "https://www.in-muenchen.de/events/midnightbazar-nachtflohmarkt.html",
-   "venue": "Alte Paketposthalle – Pineapple Park",
-   "address": "Arnulfstraße 195, 80634 München",
-   "description": "Großflächiger Event-Flohmarkt im Pineapple Park mit Clubkultur, Drinks, internationalem Streetfood & Live-Musik (Samstag mit Ticket) – für Nachteulen, Musikfans, Schnäppchenjäger*innen. (Freitag Eintritt frei)",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Nachtflohmarkt"
    ],
    "source_id": "",
    "source_name": "",

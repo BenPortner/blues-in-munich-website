@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-10-31T09:50:38+00:00",
+ "scraped_at": "2026-11-01T10:39:56+00:00",
  "status": {
   "id": "boogie-baeren",
   "name": "Boogie-Bären München",
   "url": "https://www.boogie-baeren.de/",
   "kind": "school",
   "status": "ok",
-  "found": 116
+  "found": 115
  },
  "events": [
   {
@@ -22,28 +22,6 @@
    "dates": [],
    "tags": [
     "Workshop"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Halloween Übungsabend 🎃",
-   "type": "social",
-   "start": "2026-10-31",
-   "end": null,
-   "url": "https://www.boogie-baeren.de/eventleser/halloween-uebungsabend-2026",
-   "venue": "Boogie-Bären Vereinsheim",
-   "address": "Gneisenaustraße 16, 80992 München",
-   "description": "",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Übungsabend"
    ],
    "source_id": "",
    "source_name": "",

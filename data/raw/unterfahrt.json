@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-10-31T09:51:05+00:00",
+ "scraped_at": "2026-11-01T10:40:33+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 57
+  "found": 59
  },
  "events": [
-  {
-   "title": "OTOMO YOSHIHIDE NEW JAZZ QUINTET",
-   "type": "concert",
-   "start": "2026-10-31T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11681",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Er ist ein Radikaler. Heutzutage klingt eine solche Einordnung eher nach extremen politischen Rändern und wird gern als Beschimpfung hergenommen. Doch in Otomo Yoshihides Fall hat der Begriff mit Tugenden zu tun, mit Neugier und Wagemut, mit Forscherdrang. Auf über zweihundert Produktionen ist der japanische Gitarrist und Elektroniker zu hören – die meisten davon stattete er mit kuriosem Sounddesign, mit ungehörten und unerhörten Klängen aus, mit differenziertem Noise. Doch der 67jährige fühlt sich auch diversen Traditionen verpflichtet – etwa denen des Spiritual Jazz.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "JAM SESSION",
    "type": "concert",
@@ -960,7 +940,7 @@
    "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11732",
    "venue": "Jazzclub Unterfahrt",
    "address": "Einsteinstraße 42, 81675 München",
-   "description": "Irgendwann kann man sie alle nicht mehr hören, diese Klassiker, denen man in der staden Zeit kaum entkommen kann, die einem in den Ohren liegen und dann auch bald auf die Nerven gehen. Warum also nicht mal neues Material schreiben, das frischen Wind und satten Swing unter die Kufen vom Weihnachtsmannschlitten bläst? Die kultige Jazzrausch Big Band macht XMas nun zur ausgelassenen Sause, mischt Evergreens mit erfrischendem neuen Material aus der Feder von Leonhard Kuhn, das er zu Texten von Tucholsky, Theodor Storm, Theodor Fontane oder Hoffmann von Fallerleben schrieb.",
+   "description": "Sold out. Irgendwann kann man sie alle nicht mehr hören, diese Klassiker, denen man in der staden Zeit kaum entkommen kann, die einem in den Ohren liegen und dann auch bald auf die Nerven gehen. Warum also nicht mal neues Material schreiben, das frischen Wind und satten Swing unter die Kufen vom Weihnachtsmannschlitten bläst? Die kultige Jazzrausch Big Band macht XMas nun zur ausgelassenen Sause, mischt Evergreens mit erfrischendem neuen Material aus der Feder von Leonhard Kuhn, das er zu Texten von Tucholsky, Theodor Storm, Theodor Fontane oder Hoffmann von Fallerleben schrieb.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -1197,6 +1177,73 @@
    "dates": [],
    "tags": [
     "Jazz for Kids"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "GIRLS IN AIRPORTS",
+   "type": "concert",
+   "start": "2027-02-11T20:30",
+   "end": null,
+   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11088",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstraße 42, 81675 München",
+   "description": "Kein Wunder, dass so viele Menschen auf die Musik der dänischen Band Girls in Airports abfliegen. Seit 2009 nutzt sie einen ganzen Hangar voller Ideen, um aus ihnen etwas Unverwechselbares zu kreieren. Sie hebt mit der Schubkraft des Jazz und des Indierock ab, lässt mystische nordische Sounds schweben und folkloristische Klänge aus aller Welt durch die Luft wirbeln. Genau genommen macht sie Weltmusik, die so bunt ist wie das Publikum, das am Terminal auf den nächsten Flug wartet oder in Richtung Gate hetzt.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "European Jazz"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "KAROLINE WEIDT",
+   "type": "concert",
+   "start": "2027-02-12T20:30",
+   "end": null,
+   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11055",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstraße 42, 81675 München",
+   "description": "Karoline Weidt begeistert mit glasklarer Stimme, außergewöhnlicher Bühnenpräsenz und Musik voller Charakter, Eleganz und künstlerischer Raffinesse. Mit ihrem zweiten, im Februar 2027 erscheinenden Album 'Shifting Horizons' richtet die vielfach ausgezeichnete Sängerin und Komponistin den Blick auf eine Welt im Wandel. Ihre Songs erzählen von der Suche nach Orientierung, neuen Perspektiven und der Schönheit im Chaos. Mit modern-jazzigen Grooves, komplexen Harmonien und eingängigen Melodien kreiert Karoline Weidt einen Soundtrack, der Hoffnung macht und erzählt Jazz dabei auf ihre ganz eigene Weise: persönlich, zeitgemäß und emotional berührend für Jazzpublikum und Neuentdeckende gleichermaßen.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Vocal Jazz",
+    "Album Präsentation"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "GRÉGORY PRIVAT",
+   "type": "concert",
+   "start": "2027-02-15T19:30",
+   "end": null,
+   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=15123",
+   "venue": "Einstein Kultur",
+   "address": "Einsteinstraße 42, 81675 München",
+   "description": "Dieses Konzert der Reihe Einsteins Piano findet in der Halle 4 des Einstein statt. Dort tritt ein besonderer Klavierspieler solo auf, einer, der zunächst klassisch ausgebildet, aber eben auch von den Tänzen und Rhythmen seiner karibischen Heimat Martinique geprägt wurde und dann später ein Faible für Jazz entwickelte: Grégory Privat. In seiner Musik verbinden sich alle Einflüsse und Vorlieben aufs Trefflichste, bringt der Wahl-Franzose Strenge, Lebendigkeit, Offenheit und die unbeschwerte Leichtigkeit des Seins zusammen.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Einstein Kultur"
    ],
    "source_id": "",
    "source_name": "",

@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-10-31T09:50:58+00:00",
+ "scraped_at": "2026-11-01T10:40:24+00:00",
  "status": {
   "id": "rheinpfalz-schwabing",
   "name": "Rheinpfalz Schwabing",
   "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
   "kind": "venue",
   "status": "ok",
-  "found": 15
+  "found": 14
  },
  "events": [
-  {
-   "title": "Die k:pelle : Classic Rock",
-   "type": "concert",
-   "start": "2026-10-31T20:00",
-   "end": null,
-   "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
-   "venue": "Rheinpfalz Schwabing",
-   "address": "Kurfürstenstraße 35, 80801 München",
-   "description": "Liebe Gäste, es könnte voll werden, bitte frühzeitig kommen. Wir freuen uns riesig auf die Jungs von „der K:pelle“, die wieder voi krass bei uns aufspielen – und noch dazu an Halloween. Nehmt Eure Kürbisse unter den Arm, Parole: „sweet or sour“. Fetzige Classicrock-Formation mit dem großartigen Münchner Szene-Gitarristen Landy Landinger. Es gibt kein Keyboard. Dafür zwei rotzige Gitarren – irre! Bass, Schlagzeug – tight! Eine erdig raue Rockstimme – mächtig! Geschmeidige Auswahl: Rockige „kapellenversionen“ von AC/DC, über Deep Purple bis Led Zeppelin. Bitte frühzeitig kommen, wenn voll ist, ist voll… Besetzung: Ernst Harwalik – voc Landy Landinger – git Gerd Hofer – git Andi Kerker, bass Herbert Sänger – drums, vocals Das wird eine Sause, die Jungs verdienen einen vollen Hut!",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Lost in Bavaria",
    "type": "concert",

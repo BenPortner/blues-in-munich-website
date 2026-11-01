@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-10-31T09:53:28+00:00",
+ "scraped_at": "2026-11-01T10:42:59+00:00",
  "status": {
   "id": "stragula",
   "name": "Stragula",
@@ -9,26 +9,6 @@
   "found": 27
  },
  "events": [
-  {
-   "title": "ROCKBITS – Rock ’n’ Roll, der Spaß macht!",
-   "type": "concert",
-   "start": "2026-10-31T20:00",
-   "end": null,
-   "url": "https://stragula.de/events.html#:~:text=ROCKBITS%20%E2%80%93%20Rock%20%E2%80%99n%E2%80%99%20Roll%2C%20der%20Spa%C3%9F%20macht%21",
-   "venue": "Stragula",
-   "address": "Bergmannstr. 66, 80339 München",
-   "description": "Seit 2013 stehen die ROCKBITS für handgemachten Rock’n’Roll mit Leidenschaft, Spielfreude und jeder Menge Bühnenerfahrung. Fünf Musiker – Schlagzeug, Bass, Gitarre und Keyboard – lassen die großen Klassiker aus über 60 Jahren Musikgeschichte wieder aufleben. Mit Songs von Tom Petty & The Heartbreakers, E.L.O., CCR, den Beatles, Elvis Presley, Johnny Cash, Carl Perkins und vielen anderen bringen sie das Publikum zum Mitsingen, Tanzen und Feiern. Jedes Konzert ist eine musikalische Zeitreise – energiegeladen, authentisch und immer mit einem Augenzwinkern präsentiert. Die Bandmitglieder sind erfahrene Musiker, die seit Jahrzehnten auf den Bühnen zuhause sind und wissen, wie man das Publikum begeistert. ROCKBITRS - Die Band für Ihr Event Ob Rock’n’Roll- oder Rockabilly-Party, Stadtfest, Betriebsfeier, Tanzabend oder Open-Air-Konzert – die ROCKBITSsorgen für Stimmung und beste Unterhaltung! Mit einem Repertoire von über vier Stunden Live-Musik und einer charmant-professionellen Bühnenpräsenz sind sie der Garant für einen unvergesslichen Abend voller Rhythmus, Energie und guter Laune. · Eintritt: Frei (Hutspende)",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Anni und Hans: Blues & Jazz",
    "type": "concert",
@@ -518,6 +498,26 @@
    "venue": "Stragula",
    "address": "Bergmannstr. 66, 80339 München",
    "description": "Die Munich Rhythm and Blues Band begeistert mit einer Mischung aus Funk, Soul, Pop; Rock und R&B Musik. Wir präsentieren viele Musikstile wie Rhythm and Blues, Funk, Soul, Blues von Aretha Franklin über Blues Brothers bis Johnny Cash. Unser Repertoire beinhaltet Stücke wie Sweet Home Chicago, Mustang Sally, Ring of Fire, Summertime aber auch modernere Stücke wie Haunted Heart von Christina Aguilera. Unsere Bandmitglieder haben sich durch jahrelange Liveerfahrungen auch in anderen Bands zu Spitzenmusikern gesteigert. · Eintritt: Frei (Hutspende)",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "ROCKBITS – Rock ’n’ Roll, der Spaß macht!",
+   "type": "concert",
+   "start": "2027-10-30T20:00",
+   "end": null,
+   "url": "https://stragula.de/events.html#:~:text=ROCKBITS%20%E2%80%93%20Rock%20%E2%80%99n%E2%80%99%20Roll%2C%20der%20Spa%C3%9F%20macht%21",
+   "venue": "Stragula",
+   "address": "Bergmannstr. 66, 80339 München",
+   "description": "Seit 2013 stehen die ROCKBITS für handgemachten Rock’n’Roll mit Leidenschaft, Spielfreude und jeder Menge Bühnenerfahrung. Fünf Musiker – Schlagzeug, Bass, Gitarre und Keyboard – lassen die großen Klassiker aus über 60 Jahren Musikgeschichte wieder aufleben. Mit Songs von Tom Petty & The Heartbreakers, E.L.O., CCR, den Beatles, Elvis Presley, Johnny Cash, Carl Perkins und vielen anderen bringen sie das Publikum zum Mitsingen, Tanzen und Feiern. Jedes Konzert ist eine musikalische Zeitreise – energiegeladen, authentisch und immer mit einem Augenzwinkern präsentiert. Die Bandmitglieder sind erfahrene Musiker, die seit Jahrzehnten auf den Bühnen zuhause sind und wissen, wie man das Publikum begeistert. ROCKBITRS - Die Band für Ihr Event Ob Rock’n’Roll- oder Rockabilly-Party, Stadtfest, Betriebsfeier, Tanzabend oder Open-Air-Konzert – die ROCKBITSsorgen für Stimmung und beste Unterhaltung! Mit einem Repertoire von über vier Stunden Live-Musik und einer charmant-professionellen Bühnenpräsenz sind sie der Garant für einen unvergesslichen Abend voller Rhythmus, Energie und guter Laune. · Eintritt: Frei (Hutspende)",
    "recurrence": null,
    "dates": [],
    "tags": [],

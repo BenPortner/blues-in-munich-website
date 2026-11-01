@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-10-31T09:50:32+00:00",
+ "scraped_at": "2026-11-01T10:39:51+00:00",
  "status": {
   "id": "vintage-club",
   "name": "Vintage Club",
   "url": "https://www.vintage-club.de/",
   "kind": "school",
   "status": "ok",
-  "found": 70
+  "found": 69
  },
  "events": [
   {
@@ -1326,26 +1326,6 @@
    "id": ""
   },
   {
-   "title": "🎃👻 Halloween im Vintage Club 👻🎃",
-   "type": "social",
-   "start": "2026-10-31",
-   "end": null,
-   "url": "https://www.vintage-club.de/parties.aspx",
-   "venue": "Vintage Club",
-   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
-   "description": "Lust auf eine schaurig-schöne Halloween-Nacht? 🦇💀 Dann kommt zu uns in den Vintage Club und tanzt mit uns durch die Geisterstunde! 🎧 Spooky DJ Mani Stürzer sorgt mit seiner Musik für den richtigen Halloween-Vibe und eine volle Tanzfläche! Also: Kostüm an, Tanzschuhe geschnürt und ab auf die Tanzfläche! 🕗 20:15 – 00:15 Uhr 🎵 DJ Mani Stürzer 🎟 Eintritt: 10 Euro Wir freuen uns auf eine schaurig-schöne Halloween-Party mit euch! 🧡👻 --------------------",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Fifties Record Hop – Gegen Tanzverbot und Stille Tage",
    "type": "social",
    "start": "2026-11-01",
@@ -1613,7 +1593,7 @@
    "url": "https://www.vintage-club.de/parties.aspx",
    "venue": "Vintage Club",
    "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
-   "description": "Unsere legendäre 50er-Jahre-Traditionsveranstaltung feiert am 13. Dezember 2026 ihren 54. Geburtstag – und das ist definitiv ein Grund zum Feiern! Kommt alle vorbei und stoßt mit uns auf über fünf Jahrzehnte Musik, Tanz und Gemeinschaft an! Seit 1972 findet der Fifties Record Hop jeden Sonntag mit wechselnden DJs statt – eine echte Institution! Freut euch auf eine bunte Mischung aus: Rock'n'Roll, Boogie Woogie, Rockabilly, Jive, Bop, Rhythm'n'Blues, Western Swing, Neoswing, Soul-Cha-Cha etc. – alles ist dabei! 🕗 19:15 – 23:15 Uhr 🎵 Mit allen DJs vom Fifties Record Hop 🎟 Eintritt 10 Euro Bis zum Sonntag! Wir freuen uns auf euch! --------------------",
+   "description": "Unsere legendäre 50er-Jahre-Traditionsveranstaltung feiert am 13. Dezember 2026 ihren 54. Geburtstag – und das ist definitiv ein Grund zum Feiern! Kommt alle vorbei und stoßt mit uns auf über fünf Jahrzehnte Musik, Tanz und Gemeinschaft an! Seit 1972 findet der Fifties Record Hop jeden Sonntag mit wechselnden DJs statt – eine echte Institution! Freut euch auf eine bunte Mischung aus: Rock'n'Roll, Boogie Woogie, Rockabilly, Jive, Bop, Rhythm'n'Blues, Western Swing, Neoswing, Soul-Cha-Cha etc. – alles ist dabei! 🕗 19:15 – 24:00 Uhr 🎵 Mit allen DJs vom Fifties Record Hop 🎟 Eintritt 10 Euro Bis zum Sonntag! Wir freuen uns auf euch! --------------------",
    "recurrence": null,
    "dates": [],
    "tags": [],

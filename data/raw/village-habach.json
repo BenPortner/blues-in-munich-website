@@ -1,54 +1,14 @@
 {
- "scraped_at": "2026-10-30T10:17:03+00:00",
+ "scraped_at": "2026-11-01T10:40:46+00:00",
  "status": {
   "id": "village-habach",
   "name": "Village Habach",
   "url": "https://www.village-habach.de/",
   "kind": "venue",
-  "status": "failed",
-  "error": "RuntimeError: adapter found no events at all — page layout may have changed"
+  "status": "ok",
+  "found": 46
  },
  "events": [
-  {
-   "title": "Aynsley Lister (GBR)",
-   "type": "concert",
-   "start": "2026-10-30T20:15",
-   "end": null,
-   "url": "https://village-habach.de/programm/?single=9ca1ac1692d324ae3fecaefe254b423e",
-   "venue": "Village Habach",
-   "address": "Obermühle 1, 82392 Habach",
-   "description": "Mischung aus Blues, Rock und Soul Freut euch auf einen Abend, der rockt, groovt und berührt! Wenn Aynsley Lister und seine Band loslegen, wird klar, warum sie zu den besten Acts der internationalen Bluesrock-Szene gehören. Mit seiner einzigartigen Mischung aus packenden Gitarrenriffs, ehrlichem ...",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Aynsley Lister (GBR)",
-   "type": "concert",
-   "start": "2026-10-31T20:15",
-   "end": null,
-   "url": "https://village-habach.de/programm/?single=33d2ad8dc5b40e819e2eb23c4921ea2f",
-   "venue": "Village Habach",
-   "address": "Obermühle 1, 82392 Habach",
-   "description": "Mischung aus Blues, Rock und Soul Freut euch auf einen Abend, der rockt, groovt und berührt! Wenn Aynsley Lister und seine Band loslegen, wird klar, warum sie zu den besten Acts der internationalen Bluesrock-Szene gehören. Mit seiner einzigartigen Mischung aus packenden Gitarrenriffs, ehrlichem ...",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Village Session und gemütliches Treffen für Alle",
    "type": "concert",

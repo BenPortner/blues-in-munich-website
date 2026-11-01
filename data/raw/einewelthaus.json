@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-10-31T09:53:49+00:00",
+ "scraped_at": "2026-11-01T10:43:37+00:00",
  "status": {
   "id": "einewelthaus",
   "name": "EineWeltHaus",
   "url": "https://www.einewelthaus.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 23
+  "found": 20
  },
  "events": [
   {
@@ -22,73 +22,6 @@
    "dates": [],
    "tags": [
     "Benefizveranstaltung"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Jazz/Blues-Improvisation mit David Becker",
-   "type": "other",
-   "start": "2026-10-31T14:30",
-   "end": "2026-10-31T18:00",
-   "url": "https://www.einewelthaus.de/events/jazz-blues-improvisation-mit-david-becker/",
-   "venue": "EineWeltHaus München",
-   "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "Am Tag vor seinem Konzert arbeitet David Becker mit einer kleinen Gruppe an Improvisation über Jazz- und Blues-Formen — Phrasierung, Ton und der Aufbau von Soli. Der Grammy- und Emmy-nominierte Gitarrist ist mit dem David Becker Tribune in mehr als 40 Ländern aufgetreten und unterrichtet seit Jahren an Hochschulen in den USA und Europa. 12 Plätze, für Fortgeschrittene Bitte akustisch klingende Gitarre mitbringen 50 €, ermäßigt 35 €, Zahlung vor Ort Anmeldung per E-Mail an info@ms-musicmanagement.de &nbsp; Flyer",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Workshop"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Halloween Criollo im LIMA",
-   "type": "concert",
-   "start": "2026-10-31T20:00",
-   "end": null,
-   "url": "https://www.einewelthaus.de/events/halloween-criollo-im-lima/",
-   "venue": "LIMA Restaurant",
-   "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Konzert"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "UYARIY – FILMVORFÜHRUNG IN MÜNCHEN",
-   "type": "concert",
-   "start": "2026-10-31T21:00",
-   "end": null,
-   "url": "https://www.einewelthaus.de/events/uyariy-filmvorfuehrung-in-muenchen/",
-   "venue": "EineWeltHaus München",
-   "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "Wir laden Euch herzlich zu einem ganz besonderen Abend ein. Kommt und entdeckt UYARIY (Zuhören), den preisgekrönten Dokumentarfilm von Javier Corcuera – eine Geschichte, die uns einlädt, zuzuhören, uns zu erinnern und nachzudenken. Der preisgekrönte Film nimmt uns mit in die politischen Kämpfe in Peru, bei denen die andine Bevölkerung eine besondere Rolle spielt. Ihre \"madre tierra\", ihre Mutter Erde, wird verletzt, ausgeraubt und unterdrückt, was ihren ungebrochenen Widerstand seit vielen Jahrhunderten erklärt. Koloniale Gewalt bleiben in Peru, auch nach der politischen Unabhängigkeit, an der Tagesordnung und die Aufstände sind von den Erinnerung an die vorkoloniale Geschichte geprägt, die Freiheit und die Einheit mit der Natur.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Film",
-    "Gespräch"
    ],
    "source_id": "",
    "source_name": "",
@@ -233,6 +166,28 @@
    "id": ""
   },
   {
+   "title": "Auf in den Krieg? Wie Wirtschaft, Politik und Gesellschaft militarisiert werden",
+   "type": "concert",
+   "start": "2026-11-16T19:00",
+   "end": "2026-11-16T22:00",
+   "url": "https://www.einewelthaus.de/events/auf-in-den-krieg-wie-wirtschaft-politik-und-gesellschaft-militarisiert-werden/",
+   "venue": "EineWeltHaus München",
+   "address": "Schwanthalerstr. 80, München, 80336",
+   "description": "Vortrag und Diskussion mit Andreas Seifert, Informationsstelle Militarisierung Deutschland wird mit Gesetzen, Rüstung und Mobilmachung auf Krieg eingeschworen. Insbesondere Bayern ist hier vorn mit dabei und versucht sich, die Aufrüstung als Sicherheitsmaßnahme und Wirtschaftsprogramm schön zu reden. Die Ertüchtigung der Industrie, die \"Erfolgsgeschichten\" von Startup-Unternehmen, die tödliche Produkte entwickeln, verdecken die Einschränkungen, die für die Gesellschaft damit einhergehen und den Verlust an demokratischer Mitsprache. Der Vortrag möchte daran erinnern, wer an der Rüstung verdient und die Frage stellen, wie wir als Gesellschaft uns gegen den Narrativ von \"Sicherheit durch Rüstung\" wehren können. Andreas Seifert ist im Vorstand der Informationsstelle Militarisierung (IMI) und arbeitet so kritisch zur deutschen Rüstungsindustrie. Er brachte für die IMI u.a. das \"Handbuch Rüstung\" heraus, eine Fundgrube für unsere militärkritischen Exkursionen (\"Ostermarsch Draußen\")",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Vortrag und Diskussion"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "Das kalte Herz des Sexismus - Bilder und Worte als Waffe gegen Frauen",
    "type": "concert",
    "start": "2026-11-16T20:00",
@@ -246,28 +201,6 @@
    "tags": [
     "Austausch",
     "Informationsveranstaltung"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Auf in den Krieg? Wie Wirtschaft, Politik und Gesellschaft militarisiert werden",
-   "type": "concert",
-   "start": "2026-11-16T19:00",
-   "end": "2026-11-16T22:00",
-   "url": "https://www.einewelthaus.de/events/auf-in-den-krieg-wie-wirtschaft-politik-und-gesellschaft-militarisiert-werden/",
-   "venue": "EineWeltHaus München",
-   "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "Vortrag und Diskussion mit Andreas Seifert, Informationsstelle Militarisierung Deutschland wird mit Gesetzen, Rüstung und Mobilmachung auf Krieg eingeschworen. Insbesondere Bayern ist hier vorn mit dabei und versucht sich, die Aufrüstung als Sicherheitsmaßnahme und Wirtschaftsprogramm schön zu reden. Die Ertüchtigung der Industrie, die \"Erfolgsgeschichten\" von Startup-Unternehmen, die tödliche Produkte entwickeln, verdecken die Einschränkungen, die für die Gesellschaft damit einhergehen und den Verlust an demokratischer Mitsprache. Der Vortrag möchte daran erinnern, wer an der Rüstung verdient und die Frage stellen, wie wir als Gesellschaft uns gegen den Narrativ von \"Sicherheit durch Rüstung\" wehren können. Andreas Seifert ist im Vorstand der Informationsstelle Militarisierung (IMI) und arbeitet so kritisch zur deutschen Rüstungsindustrie. Er brachte für die IMI u.a. das \"Handbuch Rüstung\" heraus, eine Fundgrube für unsere militärkritischen Exkursionen (\"Ostermarsch Draußen\")",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Vortrag und Diskussion"
    ],
    "source_id": "",
    "source_name": "",

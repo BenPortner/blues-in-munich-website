@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-11-01T10:40:33+00:00",
+ "scraped_at": "2026-11-02T11:29:38+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 59
+  "found": 58
  },
  "events": [
-  {
-   "title": "JAM SESSION",
-   "type": "concert",
-   "start": "2026-11-01T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11682",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Für unsere November-Sessions übernimmt die Bassistin Ida Koch die Verantwortung. Inspirierte Einsteiger sind wie immer herzlich willkommen. Gerade erst wurde die junge Musikerin mit dem wohl dotierten BMW Young Artist Jazz Award prämiert. In der Begründung der Jury heißt es: Die Bassistin Ida Koch überzeugt durch musikalische Vielseitigkeit, klangliche Sensibilität und einen ausgeprägten Gestaltungswillen...Die Auszeichnung ist die folgerichtige Würdigung ihres großen Talents und ihrer leidenschaftlichen Hingabe.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "FABLES OF MINGUS",
    "type": "concert",
@@ -165,7 +145,7 @@
    "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11688",
    "venue": "Jazzclub Unterfahrt",
    "address": "Einsteinstraße 42, 81675 München",
-   "description": "Sold out. Einer schrieb mal, Mark Lettieri würde Biss zum funky Bellen von Snarky Puppy hinzufügen. Keine Angst, der will doch nur spielen. Und wie das tut. Der Kalifornier ist eine Art Allzweckwaffe, überall einsetzbar, weil: fit in jedem Genre. Und zur Authentizität kommt bei ihm stets noch die eigene Note hinzu. Der Gitarrist, der als Teil der Kult-Truppe Snarky Puppy zu Weltruhm kam, ist ein Rhythmus-Ass, bringt tragende Melodien auf seinem Instrument zum Singen und wenn er Soli spielt, entfährt Vielen im Publikum nur ein Wow. Sein neuestes Album stellt die Frage Can I Tell You Something? Wir sagen: bitteschön!",
+   "description": "Sold out. Einer schrieb mal, Mark Lettieri würde Biss zum funky Bellen von Snarky Puppy hinzufügen. Keine Angst, der will doch nur spielen. Und wie er das tut. Der Kalifornier ist eine Art Allzweckwaffe, überall einsetzbar, weil: fit in jedem Genre. Und zur Authentizität kommt bei ihm stets noch die eigene Note hinzu. Der Gitarrist, der als Teil der Kult-Truppe Snarky Puppy zu Weltruhm kam, ist ein Rhythmus-Ass, bringt tragende Melodien auf seinem Instrument zum Singen und wenn er Soli spielt, entfährt Vielen im Publikum nur ein Wow. Sein neuestes Album stellt die Frage Can I Tell You Something? Wir sagen: bitteschön!",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -274,7 +254,9 @@
    "description": "Es war eine aufwühlende Zeit damals: in den wilden 60ern klang Musik nach kompromisslosem Freiheitsdrang, nach Protest, nach Revolution. Dabei war es eigentlich egal, ob die Bands dieser Epoche Underground-Rock oder Free Jazz-spielten. In ihrer Haltung ähnelten sie sich schon sehr. Im Sound der Mezzthetics, die sich immer wieder mit dem gefeierten Tenorsaxofonisten James Brandon Lewis verbünden, kommen das Urwüchsige, Draufgängerische, Rotzige des Rock und Post-Punk und die ungezügelte Energie des Spiritual Jazz zusammen.",
    "recurrence": null,
    "dates": [],
-   "tags": [],
+   "tags": [
+    "Highlight"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -524,7 +506,9 @@
    "description": "Thought Distortions heißt das aktuelle Album des Keyboarders Scott Kinsey, übersetzt: Gedanken-Störungen oder -Verzerrungen. Die mögen bei dem Amerikaner durchaus vorhanden sein, vor allem, weil ihm so viele Ideen gleichzeitig durch den Kopf schießen. Wer sein jüngstes Werk hört, merkt aber schnell, dass der Virtuose am Ende alles so zu ordnen weiß, dass einfach nur großartige, vielschichtige, überraschende Musik im Fusion-Gewand dabei herauskommt.",
    "recurrence": null,
    "dates": [],
-   "tags": [],
+   "tags": [
+    "Highlight"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -541,7 +525,7 @@
    "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11707",
    "venue": "Jazzclub Unterfahrt",
    "address": "Einsteinstraße 42, 81675 München",
-   "description": "Ein Fluss von Einflüssen und Elementen improvisierter Sprache, flüstert Volkslieder und Gedichte aus der Ukraine. /inshi/ (andere) - ist das Duett von Kateryna Kravchenko und Bela Bluche. „Innovativ, kraftvoll und zutiefst bewegend„ - ein Flimmern aus Klang und Poesie, die die Tradition neu einflechten.",
+   "description": "Gerade jetzt ist es so wichtig, dass Menschen aus der Ukraine ihre Traditionen und Erinnerungen leben. Im bewegenden Duo-Projekt /inshi/ (übersetzt: andere) zitiert Kateryna Kravchenko aus Volkliedern, flüstert, wispert, raunt heimische Gedichtzeilen, improvisiert mit Sprachfetzen und Lauten, bringt Strophen zum geheimnisvollen Flimmern. Béla Buche spielt ihr am Kontrabass zu, grundiert das Gesungene, unterstreicht Betonungen, rhythmisiert die Sprache neu.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -567,7 +551,10 @@
    "description": "Unser Dasein ist kein Ponyhof. Es steckt voller Widrigkeiten und Probleme. Wohl denen, die trotzdem Das Beste daraus machen, Menschen wie Carolina Bubbico. Vocàlia, das neue (und vierte) Album der Sängerin und Percussionistin ist ein in vielen Sprachen verfasster Liebesbrief an das Leben und möchte zukünftigen Generationen Hoffnungen mitgeben. Und vielleicht gehen Besucher nach ihrem Konzert ja mit leichterem Herzen und reichlich Glücksgefühlen nach Hause.",
    "recurrence": null,
    "dates": [],
-   "tags": [],
+   "tags": [
+    "Highlight",
+    "Vocal Jazz"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -672,7 +659,8 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Album Präsentation"
+    "Album Präsentation",
+    "Vocal Jazz"
    ],
    "source_id": "",
    "source_name": "",
@@ -737,7 +725,9 @@
    "description": "Zwei markante Stimmen des zeitgenössischen Jazz treffen aufeinander: Der Pianist Ethan Iverson und der Altsaxophonist Greg Osby präsentieren sich als Duo. Ihr gemeinsamer Auftritt ist einen Dialog zwischen zwei sehr unterschiedlichen musikalischen Biografien, die dennoch viele Berührungs- punkte teilen.",
    "recurrence": null,
    "dates": [],
-   "tags": [],
+   "tags": [
+    "Highlight"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -779,7 +769,10 @@
    "description": "Für San2 ist eigentlich jedes Konzert wie ein Heimspiel, doch in der Unterfahrt ganz besonders - und das Publikum liebt es! Wenn der charismatische Sänger mit seiner musikalisch hochkarätig besetzten Soul Patrol die Bühne betritt, springt eines sofort über: Seele. Als langjähriger Hohner Botschafter zählt er nicht nur auf der Bluesharp zur absoluten Oberliga, seine Bühnenshow ist pure Leidenschaft und hat inzwischen Kultstatus - jeder Ton wird hier zelebriert und in Körpersprache übersetzt. Mit seiner nicht weniger strahlenden Soul Patrol ist der smarte Entertainer kaum zu schlagen. Was San2 da treibt, löst in allen Ecken Europas seit Jahren große Begeisterung aus.",
    "recurrence": null,
    "dates": [],
-   "tags": [],
+   "tags": [
+    "German Jazz",
+    "Vocal Jazz"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -843,7 +836,10 @@
    "description": "Dass die Saxofonistin Tineke Postma 2020 von der Académie du Jazz zur Europäischen Jazzmusikerin des Jahres gewählt wurde, verwundert eigentlich nicht weiter. Denn es gibt auf unserem Kontinent Wenige, die in der letzten Zeit solche Spuren in der internationalen Szene hinterlassen haben wie die Niederländerin. Beschrieben wird sie in der Presse immer wieder als absolut furchtlos. Ja, Tineke Postma stellt sich musikalischen Herausforderungen und meistert sie – jetzt mit einem Quintett, dem der charismatische Sänger Theo Bleckmann angehört.",
    "recurrence": null,
    "dates": [],
-   "tags": [],
+   "tags": [
+    "Highlight",
+    "Vocal Jazz"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -863,7 +859,10 @@
    "description": "Wenn Unterschiede sich aufs Schönste ergänzen...ein neues Trio bringt den österreichischen Gitarristen Wolfgang Muthspiel, seinen Instrumentenkollegen Lionel Loueke aus Benin und die australische Bassistin Linda May Han Oh zusammen. Im intimen Miteinander entsteht ein Kaleidoskop, in dem Einflüsse, Prägungen, Backgrounds, Spielweisen, Vorlieben und Traditionen faszinierend schillern und changieren. Confluence, Zusammenfluss also, nennt Muthspiel den Trialog dieser Allstar-Band, in der alles musikalisch ineinander mündet.",
    "recurrence": null,
    "dates": [],
-   "tags": [],
+   "tags": [
+    "Highlight",
+    "German Jazz"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -903,7 +902,9 @@
    "description": "Da steckt drin was drüber steht: Pianist Claus Raible präsentiert in Quintett-Besetzung sein heftig swingendes, in der Unterfahrt für die Ewigkeit dokumentiertes Programm Groove, Grooved, Groovin` - eine Sammlung von Nummern aus dem Bebop-Idiom, die Raible und seine vier Freunde dem Publikum mit Inbrunst, ja fast Besessenheit, mit Traditionsbewusstsein wie modernistischem Flair anbieten.",
    "recurrence": null,
    "dates": [],
-   "tags": [],
+   "tags": [
+    "German Jazz"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,

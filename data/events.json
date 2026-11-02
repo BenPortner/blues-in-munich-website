@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T10:45:10+00:00",
+  "generated_at": "2026-11-02T11:34:38+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -2956,26 +2956,6 @@
       "id": "755798ee4fdb"
     },
     {
-      "title": "Jazz & Blues",
-      "type": "concert",
-      "start": "2026-11-12T20:00",
-      "end": null,
-      "url": "https://www.muenchen-online.de/veranstaltung/jazz-blues-482835",
-      "venue": "Galli Theater",
-      "address": "Türkenstr. 86/ Amalienpassage, 80799 München",
-      "description": "mit Neil Bacher und John Brunton",
-      "recurrence": null,
-      "dates": [],
-      "tags": [],
-      "source_id": "muenchen-online-jazz",
-      "source_name": "muenchen-online.de (Jazz & Co.)",
-      "school_name": null,
-      "school_url": null,
-      "artists": [],
-      "known_artists": [],
-      "id": "ae91a2c880c5"
-    },
-    {
       "title": "Volker Gieseks Colorbox",
       "type": "concert",
       "start": "2026-11-13T20:00",
@@ -3026,7 +3006,7 @@
       "id": "ff05effc904f"
     },
     {
-      "title": "Bin I Kini?! – Der Prinzregenten-Blues",
+      "title": "Bin I Kini?! - Der Prinzregenten-Blues",
       "type": "concert",
       "start": "2026-11-17T20:00",
       "end": null,
@@ -3608,7 +3588,7 @@
       "id": "4e657f549678"
     },
     {
-      "title": "Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich",
+      "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
       "type": "concert",
       "start": "2026-12-01T20:00",
       "end": null,
@@ -4514,7 +4494,7 @@
       "id": "ce4a5f87b3bb"
     },
     {
-      "title": "Stephan Zinner - Großstadtblues",
+      "title": "Stephan Zinner – Großstadtblues",
       "type": "concert",
       "start": "2027-01-26T20:00",
       "end": "2027-01-26T23:00",
@@ -5163,7 +5143,7 @@
       "id": "03c5839afbdb"
     },
     {
-      "title": "Stephan Zinner - Großstadtblues",
+      "title": "Stephan Zinner – Großstadtblues",
       "type": "concert",
       "start": "2027-04-24T19:30",
       "end": "2027-04-24T22:30",
@@ -5454,7 +5434,7 @@
       "url": "https://www.vintage-club.de/",
       "kind": "school",
       "status": "ok",
-      "found": 69,
+      "found": 67,
       "kept": 11
     },
     {
@@ -5463,7 +5443,7 @@
       "url": "https://www.boogie-baeren.de/",
       "kind": "school",
       "status": "ok",
-      "found": 115,
+      "found": 114,
       "kept": 14
     },
     {
@@ -5517,7 +5497,7 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 59,
+      "found": 58,
       "kept": 1
     },
     {
@@ -5526,7 +5506,7 @@
       "url": "https://www.jazzbar-vogler.com/",
       "kind": "venue",
       "status": "ok",
-      "found": 13,
+      "found": 16,
       "kept": 0
     },
     {
@@ -5625,7 +5605,7 @@
       "url": "https://www.kunst-in-sendling.com/",
       "kind": "venue",
       "status": "ok",
-      "found": 16,
+      "found": 15,
       "kept": 0
     },
     {
@@ -5643,7 +5623,7 @@
       "url": "https://www.einewelthaus.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 20,
+      "found": 21,
       "kept": 1
     },
     {
@@ -5670,7 +5650,7 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 149,
+      "found": 148,
       "kept": 58
     },
     {
@@ -5688,8 +5668,8 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 224,
-      "kept": 4
+      "found": 229,
+      "kept": 3
     },
     {
       "id": "ticketmaster",

@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-01T10:44:29+00:00",
+ "scraped_at": "2026-11-02T11:33:59+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 149
+  "found": 148
  },
  "events": [
   {
@@ -1104,28 +1104,6 @@
    "id": ""
   },
   {
-   "title": "Frühschoppen mit Williams Wetsox Trio",
-   "type": "concert",
-   "start": "2026-11-01T11:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/fruhschoppen-mit-williams-wetsox-trio.html",
-   "venue": "Fraunhofer Theater",
-   "address": "Fraunhoferstr. 9, 80469 München",
-   "description": "Bayerischer Blues vom Trio mit Gesang, Gitarre, Orgel und Schlagzeug.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Blues"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Ludwigsfelder Chor & Groove Garden",
    "type": "concert",
    "start": "2026-11-15T18:00",
@@ -1498,7 +1476,7 @@
    "id": ""
   },
   {
-   "title": "Das \"frühe\" Frauenfest",
+   "title": "Das „frühe“ Frauenfest",
    "type": "concert",
    "start": "2026-11-06T18:00",
    "end": "2026-11-06T23:00",
@@ -1542,7 +1520,7 @@
    "id": ""
   },
   {
-   "title": "Ü30 Party - einfach legendär",
+   "title": "Ü30 Party – einfach legendär",
    "type": "social",
    "start": "2026-11-07T20:30",
    "end": null,
@@ -1850,7 +1828,7 @@
    "id": ""
   },
   {
-   "title": "Stephan Zinner - Großstadtblues",
+   "title": "Stephan Zinner – Großstadtblues",
    "type": "concert",
    "start": "2027-04-24T19:30",
    "end": "2027-04-24T22:30",
@@ -1938,7 +1916,7 @@
    "id": ""
   },
   {
-   "title": "Heiner Lauterbach - Like a Hobo",
+   "title": "Heiner Lauterbach – Like a Hobo",
    "type": "concert",
    "start": "2027-02-05T20:00",
    "end": null,
@@ -1982,7 +1960,7 @@
    "id": ""
   },
   {
-   "title": "Martin Schmitt - Schmitt happens",
+   "title": "Martin Schmitt – Schmitt happens",
    "type": "concert",
    "start": "2027-01-28T20:00",
    "end": "2027-01-28T22:00",
@@ -2004,7 +1982,7 @@
    "id": ""
   },
   {
-   "title": "Stephan Zinner - Großstadtblues",
+   "title": "Stephan Zinner – Großstadtblues",
    "type": "concert",
    "start": "2027-01-26T20:00",
    "end": "2027-01-26T23:00",
@@ -2136,7 +2114,7 @@
    "id": ""
   },
   {
-   "title": "Mathias Kellner - Can you BOARISCH, please?",
+   "title": "Mathias Kellner – Can you BOARISCH, please?",
    "type": "concert",
    "start": "2026-12-07T20:00",
    "end": "2026-12-07T23:00",
@@ -2794,7 +2772,7 @@
    "id": ""
   },
   {
-   "title": "Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich",
+   "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
    "type": "concert",
    "start": "2026-12-01T20:00",
    "end": null,
@@ -2882,7 +2860,7 @@
    "id": ""
   },
   {
-   "title": "Bin I Kini?! – Der Prinzregenten-Blues",
+   "title": "Bin I Kini?! - Der Prinzregenten-Blues",
    "type": "concert",
    "start": "2026-11-17T20:00",
    "end": null,
@@ -2904,7 +2882,7 @@
    "id": ""
   },
   {
-   "title": "Martin Schmitt – Schmitt happens",
+   "title": "Martin Schmitt - Schmitt happens",
    "type": "concert",
    "start": "2026-11-26T20:00",
    "end": "2026-11-26T23:00",
@@ -2970,7 +2948,7 @@
    "id": ""
   },
   {
-   "title": "Da Huawa und I – Schokoladenseit’n",
+   "title": "Da Huawa und I - Schokoladenseit'n",
    "type": "concert",
    "start": "2026-11-20T20:00",
    "end": "2026-11-20T23:00",

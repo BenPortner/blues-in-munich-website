@@ -1,36 +1,14 @@
 {
- "scraped_at": "2026-11-01T10:39:56+00:00",
+ "scraped_at": "2026-11-02T11:29:06+00:00",
  "status": {
   "id": "boogie-baeren",
   "name": "Boogie-Bären München",
   "url": "https://www.boogie-baeren.de/",
   "kind": "school",
   "status": "ok",
-  "found": 115
+  "found": 114
  },
  "events": [
-  {
-   "title": "Solo Jazz & Latin Grooves with Felipe",
-   "type": "workshop",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "url": "https://www.boogie-baeren.de/eventleser/solo-jazz-latin-grooves-with-felipe",
-   "venue": "Boogie-Bären Vereinsheim",
-   "address": "Gneisenaustraße 16, 80992 München",
-   "description": "8 hours of intensive workshop Übungsabend (social) on Saturday evening, Shared potluck lunches to recharge together each day.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Workshop"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Boogie Party im Pelkovenschlösschen - Yellow Boogie Dancers",
    "type": "social",
@@ -1065,7 +1043,7 @@
    "url": "https://www.boogie-baeren.de/training",
    "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
    "address": "Gneisenaustraße 16, 80992 München",
-   "description": "Teachers: Jens. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+   "description": "Teachers: Jens & Steffi. (Erstes Training am 03.11. mit Simon) Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
    "recurrence": "Tuesdays 19:00–20:30",
    "dates": [
     "2026-11-03",

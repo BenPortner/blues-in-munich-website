@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T11:34:38+00:00",
+  "generated_at": "2026-11-03T11:14:32+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -2586,7 +2586,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues-Rock"
+        "Blues Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -2821,7 +2821,7 @@
       "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "venue": "Rheinpfalz Schwabing",
       "address": "Kurfürstenstraße 35, 80801 München",
-      "description": "Liebe Freunde des Rhythm & Blues, Der Sommer ist kaum vorbei, schon laden die blue traces zu einem ihrer stets legendären Clubkonzerte in die Schwabinger Kultkneipe „Rheinpfalz“ ein. Dort fühlen wir uns wohl und das sehr geschätzte Publikum hat sich auf uns eingegroovt und schwingt gerne mal das Tanzbein zum kernigen Blues! Eine perfekte Basis für wirklich tolle Konzerte! Guckt mal hier, wie’s in der Rheinpfalz typischerweise bei unseren Konzerten zugeht: https://youtu.be/XArGGNyBG7w Daher, nichts wie hin, am Samstag, 7. November. Das Konzert beginnt um 20 Uhr (die Plätze sind stets knapp, dah",
+      "description": "Liebe Freunde des Rhythm & Blues, Der Sommer ist kaum vorbei, schon laden die blue traces zu einem ihrer stets legendären Clubkonzerte in die Schwabinger Kultkneipe „Rheinpfalz“ ein. Dort fühlen wir uns wohl und das sehr geschätzte Publikum hat sich auf uns eingegroovt und schwingt gerne mal das Tanzbein zum kernigen Blues! Eine perfekte Basis für wirklich tolle Konzerte! Guckt mal hier, wie’s in der Rheinpfalz typischerweise bei unseren Konzerten zugeht: https://youtu.be/XArGGNyBG7w The „blue traces“ wurden 2011 als Blues- und Rockband gegründet. Seitdem spielen die Münchner Musiker Michael D",
       "recurrence": null,
       "dates": [],
       "tags": [],
@@ -2956,6 +2956,26 @@
       "id": "755798ee4fdb"
     },
     {
+      "title": "Jazz & Blues",
+      "type": "concert",
+      "start": "2026-11-12T20:00",
+      "end": null,
+      "url": "https://www.muenchen-online.de/veranstaltung/jazz-blues-482835",
+      "venue": "Galli Theater",
+      "address": "Türkenstr. 86/ Amalienpassage, 80799 München",
+      "description": "mit Neil Bacher und John Brunton",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "muenchen-online-jazz",
+      "source_name": "muenchen-online.de (Jazz & Co.)",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "ae91a2c880c5"
+    },
+    {
       "title": "Volker Gieseks Colorbox",
       "type": "concert",
       "start": "2026-11-13T20:00",
@@ -3006,7 +3026,7 @@
       "id": "ff05effc904f"
     },
     {
-      "title": "Bin I Kini?! - Der Prinzregenten-Blues",
+      "title": "Bin I Kini?! – Der Prinzregenten-Blues",
       "type": "concert",
       "start": "2026-11-17T20:00",
       "end": null,
@@ -3588,7 +3608,7 @@
       "id": "4e657f549678"
     },
     {
-      "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
+      "title": "Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich",
       "type": "concert",
       "start": "2026-12-01T20:00",
       "end": null,
@@ -4069,7 +4089,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues-Rock"
+        "Blues Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -4237,7 +4257,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues-Rock"
+        "Blues Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -4582,7 +4602,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues-Rock"
+        "Blues Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -5231,7 +5251,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues-Rock"
+        "Blues Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -5335,7 +5355,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues-Rock"
+        "Blues Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -5443,7 +5463,7 @@
       "url": "https://www.boogie-baeren.de/",
       "kind": "school",
       "status": "ok",
-      "found": 114,
+      "found": 119,
       "kept": 14
     },
     {
@@ -5452,7 +5472,7 @@
       "url": "https://oksanapavlova.de/",
       "kind": "school",
       "status": "ok",
-      "found": 16,
+      "found": 17,
       "kept": 3
     },
     {
@@ -5497,7 +5517,7 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 58,
+      "found": 57,
       "kept": 1
     },
     {
@@ -5568,8 +5588,8 @@
       "name": "Ackermannbogen e.V.",
       "url": "https://ackermannbogen-ev.de/programm-alles",
       "kind": "venue",
-      "status": "ok",
-      "found": 16,
+      "status": "failed",
+      "error": "RetryError: HTTPSConnectionPool(host='ackermannbogen-ev.de', port=443): Max retries exceeded with url: /wp-json/tribe/events/v1/events?per_page=50&categories=musik%2Cmusik-gesang&page=1 (Caused by ResponseError('too many 500 error responses'))",
       "kept": 0
     },
     {
@@ -5604,8 +5624,8 @@
       "name": "Kunst in Sendling e.V.",
       "url": "https://www.kunst-in-sendling.com/",
       "kind": "venue",
-      "status": "ok",
-      "found": 15,
+      "status": "failed",
+      "error": "ConnectionError: HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Max retries exceeded with url: /wp-json/tribe/events/v1/events?per_page=50&page=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Read timed out. (read timeout=30.0)\"))",
       "kept": 0
     },
     {
@@ -5668,8 +5688,8 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 229,
-      "kept": 3
+      "found": 228,
+      "kept": 4
     },
     {
       "id": "ticketmaster",

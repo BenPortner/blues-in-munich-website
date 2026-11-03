@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-02T11:33:26+00:00",
+ "scraped_at": "2026-11-03T11:13:01+00:00",
  "status": {
   "id": "einewelthaus",
   "name": "EineWeltHaus",
@@ -128,7 +128,7 @@
    "url": "https://www.einewelthaus.de/events/lesung-wolfgang-kaleck-die-staerke-des-rechts-vs-das-recht-des-staerkeren-2/",
    "venue": "EineWeltHaus München",
    "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "Ein Plädoyer für Völkerrecht und Menschenrechte \"Wie sollen wir mit dieser ständigen Flut von Schreckensmeldungen aus aller Welt umgehen?\" fragt angesichts der massiven Völkerrechtsverletzungen Wolfgang Kaleck in seinem neuen Buch. Systemisches Unrecht und Verbrechen gegen die Menschlichkeit gab es zu jeder Zeit. Neu ist aber die Wucht, mit der das Völkerrecht und seine Institutionen heute angegriffen werden. Der Angriff Russlands auf die Ukraine, die Eskalation des Nahostkonflikts nach dem 7. Oktober, der Angriff Israels auf den Iran – das sind nur einige, wenn auch entscheidende Entwicklungen der letzten Jahre, die zeigen, wie die »alte« internationale Ordnung erodiert und das Völkerrecht und die Menschenrechte zunehmend missachtet werden. In dieser viel beschworenen Zeitenwende stellt sich die fundamentale Frage, ob das internationale Recht stark genug ist diesem Sturm zu widerstehen, oder in Zukunft einfach das Recht des Stärkeren gilt. Wolfgang Kaleck, einer der international renommiertesten Menschenrechtsanwälte, sagt, dass Völkerrecht und Menschenrechte nicht zur Disposition stehen dürfen, gerade weil sie im Kern, trotz aller Ambivalenzen, Erschütterungen und Rückschläge, einen immensen Fortschritt auf dem Weg zu einer gerechteren Welt darstellen. Er erinnert nicht nur daran, dass der Traum »vom ewigen Frieden« aus dem Trauma des Krieges geboren wurde, sondern zeigt, wie notwendig es gerade jetzt ist, an diesem »utopischen Projekt« festzuhalten, welche Reformen des internationalen Rechts und seiner Institutionen es stärken könnten und wie und mit wem wir gemeinsam dafür streiten können.",
+   "description": "&nbsp; Ein Plädoyer für Völkerrecht und Menschenrechte \"Wie sollen wir mit dieser ständigen Flut von Schreckensmeldungen aus aller Welt umgehen?\" fragt angesichts der massiven Völkerrechtsverletzungen Wolfgang Kaleck in seinem neuen Buch. Systemisches Unrecht und Verbrechen gegen die Menschlichkeit gab es zu jeder Zeit. Neu ist aber die Wucht, mit der das Völkerrecht und seine Institutionen heute angegriffen werden. Der Angriff Russlands auf die Ukraine, die Eskalation des Nahostkonflikts nach dem 7. Oktober, der Angriff Israels auf den Iran – das sind nur einige, wenn auch entscheidende Entwicklungen der letzten Jahre, die zeigen, wie die »alte« internationale Ordnung erodiert und das Völkerrecht und die Menschenrechte zunehmend missachtet werden. In dieser viel beschworenen Zeitenwende stellt sich die fundamentale Frage, ob das internationale Recht stark genug ist diesem Sturm zu widerstehen, oder in Zukunft einfach das Recht des Stärkeren gilt. Wolfgang Kaleck, einer der international renommiertesten Menschenrechtsanwälte, sagt, dass Völkerrecht und Menschenrechte nicht zur Disposition stehen dürfen, gerade weil sie im Kern, trotz aller Ambivalenzen, Erschütterungen und Rückschläge, einen immensen Fortschritt auf dem Weg zu einer gerechteren Welt darstellen. Er erinnert nicht nur daran, dass der Traum »vom ewigen Frieden« aus dem Trauma des Krieges geboren wurde, sondern zeigt, wie notwendig es gerade jetzt ist, an diesem »utopischen Projekt« festzuhalten, welche Reformen des internationalen Rechts und seiner Institutionen es stärken könnten und wie und mit wem wir gemeinsam dafür streiten können. &nbsp;",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -399,7 +399,7 @@
    "url": "https://www.einewelthaus.de/events/2-loewen-shogi-cup/",
    "venue": "EineWeltHaus",
    "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "- Schedule - Player List",
+   "description": "Schedule Player List",
    "recurrence": null,
    "dates": [],
    "tags": [],
@@ -419,7 +419,7 @@
    "url": "https://www.einewelthaus.de/events/2-loewen-shogi-cup-2/",
    "venue": "EineWeltHaus",
    "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "- Schedule - Player List",
+   "description": "Schedule Player List",
    "recurrence": null,
    "dates": [],
    "tags": [],

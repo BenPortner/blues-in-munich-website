@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-02T11:29:23+00:00",
+ "scraped_at": "2026-11-03T11:06:22+00:00",
  "status": {
   "id": "hepcat-club",
   "name": "Hep Cat Club",
@@ -3746,26 +3746,6 @@
    "id": ""
   },
   {
-   "title": "West Coast Swing Beginner Weekend",
-   "type": "workshop",
-   "start": "2027-01-18T10:30",
-   "end": "2027-01-18T12:30",
-   "url": "https://hepcatclub.com/",
-   "venue": "Hep Cat Club",
-   "address": "Viktoriastraße 3b, 86150 Augsburg",
-   "description": "",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "West Coast Swing Technique & Training Class",
    "type": "class",
    "start": "2027-01-28T20:40",
@@ -6267,14 +6247,14 @@
    "id": ""
   },
   {
-   "title": "Frida Special: tba",
+   "title": "Friday Special: tba",
    "type": "workshop",
    "start": "2027-04-16T18:45",
    "end": "2027-04-16T21:45",
    "url": "https://hepcatclub.com/",
    "venue": "Hep Cat Club",
    "address": "Viktoriastraße 3b, 86150 Augsburg",
-   "description": "",
+   "description": "West Coast Swing Advanced Basics – Dein 3-stündiger Special Workshop zum Trainingslager am Freitag In entspannter Runde arbeiten wir am Connection Triangle: Our Center, the Floor & Partner. Mach mit und hab Spaß am Tanzen – wir freuen uns auf dich! Mach mit und hab Spaß am Tanzen – wir freuen uns auf dich!",
    "recurrence": null,
    "dates": [],
    "tags": [],
@@ -6287,7 +6267,7 @@
    "id": ""
   },
   {
-   "title": "West Coast Swing Trainingslager mit Thomas",
+   "title": "West Coast Swing Trainingslager",
    "type": "workshop",
    "start": "2027-04-17T10:30",
    "end": "2027-04-17T11:45",
@@ -6307,7 +6287,7 @@
    "id": ""
   },
   {
-   "title": "West Coast Swing Trainingslager mit Thomas",
+   "title": "West Coast Swing Trainingslager",
    "type": "workshop",
    "start": "2027-04-17T12:00",
    "end": "2027-04-17T13:15",
@@ -6327,7 +6307,7 @@
    "id": ""
   },
   {
-   "title": "West Coast Swing Trainingslager mit Thomas",
+   "title": "West Coast Swing Trainingslager",
    "type": "workshop",
    "start": "2027-04-17T14:45",
    "end": "2027-04-17T16:15",
@@ -6347,7 +6327,27 @@
    "id": ""
   },
   {
-   "title": "West Coast Swing Trainingslager mit Thomas",
+   "title": "West Coast Swing Party - Trainingslager",
+   "type": "social",
+   "start": "2027-04-17T20:30",
+   "end": "2027-04-17T23:55",
+   "url": "https://hepcatclub.com/",
+   "venue": "Hep Cat Club",
+   "address": "Viktoriastraße 3b, 86150 Augsburg",
+   "description": "20.30 – 00.30 Uhr West Coast Swing Party zum Trainingslager. Eintritt auf Spendenbasis – Pay What You Can. Empfehlung mindestens 10 Euro. Kostenfrei für alle Teilnehmer des Trainingslager.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "West Coast Swing Trainingslager",
    "type": "workshop",
    "start": "2027-04-18T10:30",
    "end": "2027-04-18T11:45",
@@ -6367,7 +6367,7 @@
    "id": ""
   },
   {
-   "title": "West Coast Swing Trainingslager mit Thomas",
+   "title": "West Coast Swing Trainingslager",
    "type": "workshop",
    "start": "2027-04-18T12:00",
    "end": "2027-04-18T13:15",
@@ -6387,7 +6387,7 @@
    "id": ""
   },
   {
-   "title": "West Coast Swing Trainingslager mit Thomas",
+   "title": "West Coast Swing Trainingslager",
    "type": "workshop",
    "start": "2027-04-18T14:45",
    "end": "2027-04-18T16:15",

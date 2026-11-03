@@ -1,14 +1,34 @@
 {
- "scraped_at": "2026-11-02T11:29:11+00:00",
+ "scraped_at": "2026-11-03T11:06:10+00:00",
  "status": {
   "id": "oksana-pavlova",
   "name": "Oksana Pavlova",
   "url": "https://oksanapavlova.de/",
   "kind": "school",
   "status": "ok",
-  "found": 16
+  "found": 17
  },
  "events": [
+  {
+   "title": "SHIM-SHAM ist wieder zurück",
+   "type": "workshop",
+   "start": "2026-11-08T15:30",
+   "end": "2026-11-08T18:30",
+   "url": "https://oksanapavlova.de/aktuelles/shim-sham-ist-wieder-zurueck/",
+   "venue": null,
+   "address": "Arnulfstr. 195, 1.OG, München",
+   "description": "Aufgrund der großen Nachfrage biete ich einen weiteren Shim-Sham-Wiederholungsworkshop an. Selbst wenn du den Shim Sham schon einmal gelernt hast, wirst du diesen Workshop sicher wieder spannend und hilfreich finden – das haben auch die Teilnehmer des letzten Kurses gesagt! Wenn du die einzelnen Schritte in aller Ruhe und gründlich durchgehen möchtest, freue ich mich darauf, dich dort zu sehen! Du kannst am Sonntag, den 08. November von 15:30 bis 18:30 den Shim-Sham lernen oder dein Wissen auffrischen. ✨ Ein Tanz, den wirklich alle mittanzen können ✨ Kein Partner nötig ✨ Perfekt, um sofort Teil der Community zu werden. Egal in welcher Stadt: Stell dich in die Reihe – und du bist dabei. Diese legendäre Routine entstand in den 1920ern und wurde durch Frankie Manning in den 80ern wiederbelebt – seitdem gehört sie einfach dazu. Adresse : Arnulfstr. 195, 1.OG, München Preis : 55 EUR 👉 Bei Interesse kannst du den untenstehenden Google-Form-Link nutzen, um dich anzumelden oder Fragen zu stellen: https://forms.gle/y4jkt8LG636kpEAQ8 Oder Oksana direkt schreiben und sich einen Platz sichern! +4915129198976 (WhatsApp, Signal, Telegram)",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
   {
    "title": "08.11.26 Lindy Hop – Taster und Workshops",
    "type": "workshop",

@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-02T11:33:59+00:00",
+ "scraped_at": "2026-11-03T11:13:54+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
@@ -9,6 +9,28 @@
   "found": 148
  },
  "events": [
+  {
+   "title": "Jacques Stotzem",
+   "type": "concert",
+   "start": "2026-11-07T19:00",
+   "end": "2026-11-27T22:00",
+   "url": "https://www.in-muenchen.de/events/jacques-stotzem.html",
+   "venue": "Bräustüberl Maisach – Räuber Kneißl Keller",
+   "address": "Hauptstraße 24, 82216 Maisach",
+   "description": "Im Zentrum des Abends steht die Gitarrenkunst von Jacques Stotzem. Seine Musik verbindet akustische Fingerstyle-Techniken mit bluesigen und folkloristischen Elementen. Die Atmosphäre ist intim und melodisch, wobei die Saitenklänge des belgischen Meistergitarristen den Zuhörer in eine Welt voller Emotionen und Geschichten entführen.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Fingerstyle"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
   {
    "title": "Malaka Hostel",
    "type": "concert",
@@ -174,28 +196,6 @@
    "dates": [],
    "tags": [
     "Fusion"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Fables of Mingus",
-   "type": "concert",
-   "start": "2026-11-02T20:30",
-   "end": "2026-11-02T22:30",
-   "url": "https://www.in-muenchen.de/events/fables-of-mingus.html",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstr. 42, 81675 München",
-   "description": "Martin Zenker bringt mit seinem internationalen Ensemble das legendäre Jazzalbum von Charles Mingus auf die Bühne. Die Musik verbindet Blues und Gospel mit dem Zeitgeist der 60er Jahre und dem Spirit von heute. Als Gast tritt der griechische Trompeter Evangelos Menetsopoulos auf, und weitere Mingus-Stücke erklingen in neuen Arrangements.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Jazz"
    ],
    "source_id": "",
    "source_name": "",
@@ -697,7 +697,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Blues-Rock"
+    "Blues Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -1137,7 +1137,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Blues-Rock"
+    "Blues Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -2343,7 +2343,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Blues-Rock"
+    "Blues Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -2409,7 +2409,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Blues-Rock"
+    "Blues Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -2739,7 +2739,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Blues-Rock"
+    "Blues Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -2772,7 +2772,7 @@
    "id": ""
   },
   {
-   "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
+   "title": "Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich",
    "type": "concert",
    "start": "2026-12-01T20:00",
    "end": null,
@@ -2827,7 +2827,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Blues-Rock"
+    "Blues Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -2860,7 +2860,7 @@
    "id": ""
   },
   {
-   "title": "Bin I Kini?! - Der Prinzregenten-Blues",
+   "title": "Bin I Kini?! – Der Prinzregenten-Blues",
    "type": "concert",
    "start": "2026-11-17T20:00",
    "end": null,
@@ -2882,7 +2882,7 @@
    "id": ""
   },
   {
-   "title": "Martin Schmitt - Schmitt happens",
+   "title": "Martin Schmitt – Schmitt happens",
    "type": "concert",
    "start": "2026-11-26T20:00",
    "end": "2026-11-26T23:00",
@@ -2948,7 +2948,7 @@
    "id": ""
   },
   {
-   "title": "Da Huawa und I - Schokoladenseit'n",
+   "title": "Da Huawa und I – Schokoladenseit’n",
    "type": "concert",
    "start": "2026-11-20T20:00",
    "end": "2026-11-20T23:00",

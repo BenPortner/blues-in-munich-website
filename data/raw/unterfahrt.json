@@ -1,36 +1,14 @@
 {
- "scraped_at": "2026-11-02T11:29:38+00:00",
+ "scraped_at": "2026-11-03T11:06:39+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 58
+  "found": 57
  },
  "events": [
-  {
-   "title": "FABLES OF MINGUS",
-   "type": "concert",
-   "start": "2026-11-02T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11683",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Alle Jubeljahre wird die internationale Kritikergemeinde dazu aufgerufen, die wichtigsten Alben der Jazzgeschichte zu ermitteln. Eines, das es dann stets in die Bestenliste schafft, ist das 1963 erschienene The Black Saint and The Sinner Lady von Charles Mingus. Die Wucht, Leidenschaft, Finesse und Komplexität dieses Werks sollte gewichtigen Einfluss auf die weitere Entwicklung des Avantgarde-Jazz nehmen. Der Bassist Martin Zenker stellt diesen mit Blues und Gospel eingefärbten musikalischen Meilenstein jetzt mit einem international besetzten Ensemble neu auf.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Bigband Night"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "KAT EATON",
    "type": "concert",
@@ -722,7 +700,7 @@
    "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11719",
    "venue": "Jazzclub Unterfahrt",
    "address": "Einsteinstraße 42, 81675 München",
-   "description": "Zwei markante Stimmen des zeitgenössischen Jazz treffen aufeinander: Der Pianist Ethan Iverson und der Altsaxophonist Greg Osby präsentieren sich als Duo. Ihr gemeinsamer Auftritt ist einen Dialog zwischen zwei sehr unterschiedlichen musikalischen Biografien, die dennoch viele Berührungs- punkte teilen.",
+   "description": "Diese zwei noch jungen Altmeister haben sich viel zu erzählen. Ihr musikalischer Dialog lebt unterschiedlichen Erfahrungswerten, Backgrounds, Vorlieben und Spiel-Philosophien, ebenso von Gemeinsamkeiten sowie einer Risiko-Bereitschaft und Offenheit, die alles möglich macht. Wir freuen uns unbändig auf das Duo des Pianisten Ethan Iverson und des Altsaxofonisten Greg Osby, das viel Spannung und Erkenntnis verspricht.",
    "recurrence": null,
    "dates": [],
    "tags": [

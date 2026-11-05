@@ -1,54 +1,14 @@
 {
- "scraped_at": "2026-11-03T11:06:41+00:00",
+ "scraped_at": "2026-11-05T11:15:45+00:00",
  "status": {
   "id": "jazzbar-vogler",
   "name": "Jazzbar Vogler",
   "url": "https://www.jazzbar-vogler.com/",
   "kind": "venue",
   "status": "ok",
-  "found": 16
+  "found": 14
  },
  "events": [
-  {
-   "title": "Maximilian Geller & Heinz Frommeyer",
-   "type": "concert",
-   "start": "2026-11-03T19:30",
-   "end": null,
-   "url": "https://www.muenchen-online.de/veranstaltung/maximilian-geller-heinz-frommeyer-486297",
-   "venue": "Jazzbar Vogler",
-   "address": "Rumfordstr. 17, 80469 München",
-   "description": "",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Joe Haider Quintet",
-   "type": "concert",
-   "start": "2026-11-04T19:30",
-   "end": null,
-   "url": "https://www.muenchen-online.de/veranstaltung/joe-haider-quintet-477537",
-   "venue": "Jazzbar Vogler",
-   "address": "Rumfordstr. 17, 80469 München",
-   "description": "",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Sam Furlonger Quartet",
    "type": "concert",

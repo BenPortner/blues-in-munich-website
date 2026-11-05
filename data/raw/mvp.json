@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-03T11:14:00+00:00",
+ "scraped_at": "2026-11-05T11:20:16+00:00",
  "status": {
   "id": "mvp",
   "name": "mvp.de (Jazz & Blues)",
@@ -9,26 +9,6 @@
   "found": 40
  },
  "events": [
-  {
-   "title": "Eric Bibb",
-   "type": "concert",
-   "start": "2026-11-04",
-   "end": null,
-   "url": "https://www.mvp.de/muenchen/veranstaltungen/eric-bibb-hotel-bayerischer-hof-night-club-muenchen/",
-   "venue": "Hotel Bayerischer Hof/Night Club",
-   "address": null,
-   "description": "",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "From New Orleans to Brasil and Beyond",
    "type": "concert",
@@ -796,6 +776,26 @@
    "end": null,
    "url": "https://www.mvp.de/muenchen/veranstaltungen/muenchner-jazzsalon-art-blakey-muenchen/",
    "venue": "Deutsches Theater München / Silbersaal",
+   "address": null,
+   "description": "",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "John Scofield Combo 75",
+   "type": "concert",
+   "start": "2027-03-09",
+   "end": null,
+   "url": "https://www.mvp.de/muenchen/veranstaltungen/john-scofield-combo-75-prinzregententheater-muenchen/",
+   "venue": "Prinzregententheater",
    "address": null,
    "description": "",
    "recurrence": null,

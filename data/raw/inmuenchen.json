@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-03T11:13:54+00:00",
+ "scraped_at": "2026-11-05T11:20:09+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 148
+  "found": 142
  },
  "events": [
   {
@@ -466,28 +466,6 @@
    "id": ""
   },
   {
-   "title": "Noch Fragen! Was hilft bei einem Verlust?",
-   "type": "concert",
-   "start": "2026-11-03T18:30",
-   "end": "2026-11-03T20:30",
-   "url": "https://www.in-muenchen.de/events/noch-fragen-was-hilft-bei-einem-verlust.html",
-   "venue": "Münchner Volkshochschule (MVHS) / MVHS Einstein 28",
-   "address": "Einsteinstr. 28, 81675 München",
-   "description": "Der November lädt zum Innehalten ein: Ein Klinikseelsorger und eine Psychologin suchen mit dem Publikum nach Wegen, mit Trauer und Verlust umzugehen.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Diskussion"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Mojo Blues Band",
    "type": "concert",
    "start": "2026-12-01T20:00",
@@ -764,28 +742,6 @@
    "dates": [],
    "tags": [
     "Blues"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "The Secret Songwriter’s Union",
-   "type": "concert",
-   "start": "2026-11-04T20:30",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/the-secret-songwriters-union.html",
-   "venue": "Glockenbachwerkstatt",
-   "address": "Blumenstraße 7, 80331 München",
-   "description": "Die schwedisch-finnische Singer/Songwriterin Nightbird und der finnische Folk Noir-Künstler Mäkkelä vereinen sich mit dem deutschen Americana-Musiker Frieder Graef zu einem außergewöhnlichen Konzertabend, der zwischen Folksong, minimalistischem Blues und Folk Noir changiert.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Folk"
    ],
    "source_id": "",
    "source_name": "",
@@ -1138,28 +1094,6 @@
    "dates": [],
    "tags": [
     "Blues Rock"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Kat Eaton",
-   "type": "concert",
-   "start": "2026-11-03T20:30",
-   "end": "2026-11-03T22:30",
-   "url": "https://www.in-muenchen.de/events/kat-eaton.html",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstr. 42, 81675 München",
-   "description": "Kat Eatons Musik bietet eine heilsame Mischung aus Soul, Blues, Jazz und Gospel. Ihre Texte sind sensibel und tiefgründig, die Botschaften ehrlich und emotional. Die aus Cardiff stammende, in Sheffield aufgewachsene und heute in London lebende Sängerin verbindet verschiedene Stile zu einem einzigartigen Klangerlebnis.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Soul"
    ],
    "source_id": "",
    "source_name": "",
@@ -1554,28 +1488,6 @@
    "dates": [],
    "tags": [
     "Jazz"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Eric Bibb",
-   "type": "concert",
-   "start": "2026-11-04T20:00",
-   "end": "2026-11-04T22:30",
-   "url": "https://www.in-muenchen.de/events/eric-bibb.html",
-   "venue": "Bayerischer Hof Night Club",
-   "address": "Promenadeplatz 2-6, 80333 München",
-   "description": "In einer bemerkenswerten Fusion von Blues, Folk und Jazz präsentiert sich ein Abend voller musikalischer Tiefe und Vielfalt. Im Zentrum stehen die eindringlichen Geschichten und kraftvollen Klänge von ERIC BIBB. Seine Gitarrenarbeit und Stimme verschmelzen zu einem einzigartigen Klangerlebnis.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Folk Blues"
    ],
    "source_id": "",
    "source_name": "",
@@ -2728,28 +2640,6 @@
    "id": ""
   },
   {
-   "title": "The Temperance Movement",
-   "type": "concert",
-   "start": "2026-11-03T20:00",
-   "end": "2026-11-03T23:00",
-   "url": "https://www.in-muenchen.de/events/the-temperance-movement-let-it-all-out-tour-backstage-werk.html",
-   "venue": "Backstage Werk",
-   "address": "Reitknechtstr. 6, 80639 München",
-   "description": "Die Let It All Out Tour 2025 von The Temperance Movement zeigt die Rückkehr der Band nach fünf Jahren Pause. Die Tournee begann als Testlauf und entwickelte sich zu einer großen Veranstaltungsreihe in Großbritannien und Europa.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Blues Rock"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Devon Allman Blues Summit feat. Jimmy Hall, Claudette King, Bernard Allison",
    "type": "concert",
    "start": "2027-03-27T20:00",
@@ -2772,7 +2662,7 @@
    "id": ""
   },
   {
-   "title": "Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich",
+   "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
    "type": "concert",
    "start": "2026-12-01T20:00",
    "end": null,
@@ -2860,7 +2750,7 @@
    "id": ""
   },
   {
-   "title": "Bin I Kini?! – Der Prinzregenten-Blues",
+   "title": "Bin I Kini?! - Der Prinzregenten-Blues",
    "type": "concert",
    "start": "2026-11-17T20:00",
    "end": null,
@@ -2882,7 +2772,7 @@
    "id": ""
   },
   {
-   "title": "Martin Schmitt – Schmitt happens",
+   "title": "Martin Schmitt - Schmitt happens",
    "type": "concert",
    "start": "2026-11-26T20:00",
    "end": "2026-11-26T23:00",
@@ -2948,7 +2838,7 @@
    "id": ""
   },
   {
-   "title": "Da Huawa und I – Schokoladenseit’n",
+   "title": "Da Huawa und I - Schokoladenseit'n",
    "type": "concert",
    "start": "2026-11-20T20:00",
    "end": "2026-11-20T23:00",
@@ -3126,7 +3016,7 @@
   {
    "title": "Jodeln beim Wirt",
    "type": "concert",
-   "start": "2026-11-03T19:00",
+   "start": "2026-12-01T19:00",
    "end": null,
    "url": "https://www.in-muenchen.de/events/jodeln-beim-wirt.html",
    "venue": "Fraunhofer Theater",
@@ -3168,28 +3058,6 @@
    "id": ""
   },
   {
-   "title": "Stoppok",
-   "type": "concert",
-   "start": "2026-11-03T20:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/stoppok.html",
-   "venue": "Muffatwerk / Ampere",
-   "address": "Zellstraße 4, 81667 München",
-   "description": "STOPPOK feiert seinen 70. Geburtstag mit einer einzigartigen Tournee und neuem Album.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Singer-Songwriter"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Mina Richman",
    "type": "concert",
    "start": "2026-11-08T20:00",
@@ -3214,8 +3082,8 @@
   {
    "title": "Jazz Kids",
    "type": "concert",
-   "start": "2026-11-03T19:00",
-   "end": "2026-11-03T21:30",
+   "start": "2026-12-01T19:00",
+   "end": "2026-12-01T21:30",
    "url": "https://www.in-muenchen.de/events/jazz-kids.html",
    "venue": "Wirtshaus zum Isartal",
    "address": "Brudermühlstr. 2, 81371 München",

@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-03T11:13:01+00:00",
+ "scraped_at": "2026-11-05T11:19:46+00:00",
  "status": {
   "id": "einewelthaus",
   "name": "EineWeltHaus",
   "url": "https://www.einewelthaus.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 21
+  "found": 28
  },
  "events": [
   {
@@ -44,29 +44,6 @@
    "dates": [],
    "tags": [
     "Ausstellung"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "ONLINE: Solidarische Kooperationen mit indigenen Partnerorganisationen. Wann dienen sie zu einem Frieden für Mensch und Natur?",
-   "type": "concert",
-   "start": "2026-11-04T20:30",
-   "end": null,
-   "url": "https://www.einewelthaus.de/events/online-solidarische-kooperationen-mit-indigenen-partnerorganisationen-wann-dienen-sie-zu-einem-frieden-fuer-mensch-und-natur/",
-   "venue": null,
-   "address": null,
-   "description": "Seit vielen Jahren gibt es eine intensive Zusammenarbeit vom Arbeitskreis München-Asháninka mit dem indigenen Volk der Asháninka im amazonischen Regenwald Perus. Die Grundlage dabei: Regenwaldschutz muss MIT und nicht für oder gar gegen die indigenen Völker geschehen. Wir schauen selbstkritisch darauf: Gibt es eine Kooperation auf Augenhöhe oder ist das eine ständige Herausforderung? Was bedeutet das: Voneinander Lernen und welche Haltung mit Praxis ist dafür notwendig? Wir schauen im Gespräch mit Frau Jhenny Munoz Hilares, (indigene Nichtregierungsorganisation im zentralen Regenwald Perus) darauf, welche konkrete Unterstützung positiv für eine Stärkung indigener Organisationen, Menschenrechte für Frauen, Kinder, Landsicherung oder Schutz von Umweltschützer*innen war oder auch, was total schief lief. Es geht auch um die Frage: Kann eine solidarische Kooperation zu einem Frieden mit Mensch und Natur beitragen? Mit Jhenny Muños Hilares der Koordinatorin der kleinen indigenen Nichtregierungsorganisation Imperita in der Provinz Satipo. Ehemalige stellvertretende Landrätin der Regenwaldprovinz Satipo. Zoom: https://us06web.zoom.us/j/86314785352?pwd=IYgvUjfXzfHZaA3qXfqLnWHOjubYCR.1 * Die Veranstaltung findet in Spanisch mit Übersetzung statt",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Online - Vortrag und Diskussion",
-    "Online-Austausch"
    ],
    "source_id": "",
    "source_name": "",
@@ -144,6 +121,28 @@
    "id": ""
   },
   {
+   "title": "Auf in den Krieg? Wie Wirtschaft, Politik und Gesellschaft militarisiert werden",
+   "type": "concert",
+   "start": "2026-11-16T19:00",
+   "end": "2026-11-16T22:00",
+   "url": "https://www.einewelthaus.de/events/auf-in-den-krieg-wie-wirtschaft-politik-und-gesellschaft-militarisiert-werden/",
+   "venue": "EineWeltHaus München",
+   "address": "Schwanthalerstr. 80, München, 80336",
+   "description": "Vortrag und Diskussion mit Andreas Seifert, Informationsstelle Militarisierung Deutschland wird mit Gesetzen, Rüstung und Mobilmachung auf Krieg eingeschworen. Insbesondere Bayern ist hier vorn mit dabei und versucht sich, die Aufrüstung als Sicherheitsmaßnahme und Wirtschaftsprogramm schön zu reden. Die Ertüchtigung der Industrie, die \"Erfolgsgeschichten\" von Startup-Unternehmen, die tödliche Produkte entwickeln, verdecken die Einschränkungen, die für die Gesellschaft damit einhergehen und den Verlust an demokratischer Mitsprache. Der Vortrag möchte daran erinnern, wer an der Rüstung verdient und die Frage stellen, wie wir als Gesellschaft uns gegen den Narrativ von \"Sicherheit durch Rüstung\" wehren können. Andreas Seifert ist im Vorstand der Informationsstelle Militarisierung (IMI) und arbeitet so kritisch zur deutschen Rüstungsindustrie. Er brachte für die IMI u.a. das \"Handbuch Rüstung\" heraus, eine Fundgrube für unsere militärkritischen Exkursionen (\"Ostermarsch Draußen\")",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Vortrag und Diskussion"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "Das kalte Herz des Sexismus - Bilder und Worte als Waffe gegen Frauen",
    "type": "concert",
    "start": "2026-11-16T20:00",
@@ -157,28 +156,6 @@
    "tags": [
     "Austausch",
     "Informationsveranstaltung"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Auf in den Krieg? Wie Wirtschaft, Politik und Gesellschaft militarisiert werden",
-   "type": "concert",
-   "start": "2026-11-16T19:00",
-   "end": "2026-11-16T22:00",
-   "url": "https://www.einewelthaus.de/events/auf-in-den-krieg-wie-wirtschaft-politik-und-gesellschaft-militarisiert-werden/",
-   "venue": "EineWeltHaus München",
-   "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "Vortrag und Diskussion mit Andreas Seifert, Informationsstelle Militarisierung Deutschland wird mit Gesetzen, Rüstung und Mobilmachung auf Krieg eingeschworen. Insbesondere Bayern ist hier vorn mit dabei und versucht sich, die Aufrüstung als Sicherheitsmaßnahme und Wirtschaftsprogramm schön zu reden. Die Ertüchtigung der Industrie, die \"Erfolgsgeschichten\" von Startup-Unternehmen, die tödliche Produkte entwickeln, verdecken die Einschränkungen, die für die Gesellschaft damit einhergehen und den Verlust an demokratischer Mitsprache. Der Vortrag möchte daran erinnern, wer an der Rüstung verdient und die Frage stellen, wie wir als Gesellschaft uns gegen den Narrativ von \"Sicherheit durch Rüstung\" wehren können. Andreas Seifert ist im Vorstand der Informationsstelle Militarisierung (IMI) und arbeitet so kritisch zur deutschen Rüstungsindustrie. Er brachte für die IMI u.a. das \"Handbuch Rüstung\" heraus, eine Fundgrube für unsere militärkritischen Exkursionen (\"Ostermarsch Draußen\")",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Vortrag und Diskussion"
    ],
    "source_id": "",
    "source_name": "",
@@ -432,6 +409,28 @@
    "id": ""
   },
   {
+   "title": "Künstlertreffen des REALTRAUM e. V. (Diskussion über eigene Literatur &amp; bildende Kunst)",
+   "type": "concert",
+   "start": "2026-12-06T17:30",
+   "end": "2026-12-06T19:00",
+   "url": "https://www.einewelthaus.de/events/kuenstlertreffen-des-realtraum-e-v-diskussion-ueber-eigene-literatur-bildende-kunst/",
+   "venue": "EineWeltHaus München",
+   "address": "Schwanthalerstr. 80, München, 80336",
+   "description": "Die Künstlertreffen des Vereins REALTRAUM e. V. sind ein offenes Forum für Literatur, Bildende Kunst und Musik. Mitglieder und Gäste stellen ihre aktuellen Werke vor und erhalten konstruktive Rückmeldungen. Im Mittelpunkt steht die gemeinsame Diskussion über das eigene künstlerische Werk – sei es ein Text, ein Bild oder ein Musikstück. Die Moderator*innen achten darauf, dass die Rückmeldungen auf literarische bzw. künstlerische Aspekte bezogen bleiben. Damit die Treffen gut strukturiert ablaufen können, ist eine Anmeldung per E-Mail sinnvoll. Zusätzlich zu den Treffen im EineWeltHaus finden auch Treffen per Videokonferenz statt. Alle Informationen finden Sie auf der Website des Vereins: https://www.realtraum-muenchen.de",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Diskussionsveranstaltung"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "Geschichten und Erzählungen für portugiesisch sprechende Kinder und Familien",
    "type": "concert",
    "start": "2026-12-12T16:00",
@@ -467,6 +466,160 @@
    "tags": [
     "Konzert",
     "Lesung & Klang"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Künstlertreffen des REALTRAUM e. V. (Diskussion über eigene Literatur &amp; bildende Kunst)",
+   "type": "concert",
+   "start": "2027-02-07T17:30",
+   "end": "2027-02-07T19:00",
+   "url": "https://www.einewelthaus.de/events/kuenstlertreffen-des-realtraum-e-v-diskussion-ueber-eigene-literatur-bildende-kunst/",
+   "venue": "EineWeltHaus München",
+   "address": "Schwanthalerstr. 80, München, 80336",
+   "description": "Die Künstlertreffen des Vereins REALTRAUM e. V. sind ein offenes Forum für Literatur, Bildende Kunst und Musik. Mitglieder und Gäste stellen ihre aktuellen Werke vor und erhalten konstruktive Rückmeldungen. Im Mittelpunkt steht die gemeinsame Diskussion über das eigene künstlerische Werk – sei es ein Text, ein Bild oder ein Musikstück. Die Moderator*innen achten darauf, dass die Rückmeldungen auf literarische bzw. künstlerische Aspekte bezogen bleiben. Damit die Treffen gut strukturiert ablaufen können, ist eine Anmeldung per E-Mail sinnvoll. Zusätzlich zu den Treffen im EineWeltHaus finden auch Treffen per Videokonferenz statt. Alle Informationen finden Sie auf der Website des Vereins: https://www.realtraum-muenchen.de",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Diskussionsveranstaltung"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Künstlertreffen des REALTRAUM e. V. (Diskussion über eigene Literatur &amp; bildende Kunst)",
+   "type": "concert",
+   "start": "2027-03-07T17:30",
+   "end": "2027-03-07T19:00",
+   "url": "https://www.einewelthaus.de/events/kuenstlertreffen-des-realtraum-e-v-diskussion-ueber-eigene-literatur-bildende-kunst/",
+   "venue": "EineWeltHaus München",
+   "address": "Schwanthalerstr. 80, München, 80336",
+   "description": "Die Künstlertreffen des Vereins REALTRAUM e. V. sind ein offenes Forum für Literatur, Bildende Kunst und Musik. Mitglieder und Gäste stellen ihre aktuellen Werke vor und erhalten konstruktive Rückmeldungen. Im Mittelpunkt steht die gemeinsame Diskussion über das eigene künstlerische Werk – sei es ein Text, ein Bild oder ein Musikstück. Die Moderator*innen achten darauf, dass die Rückmeldungen auf literarische bzw. künstlerische Aspekte bezogen bleiben. Damit die Treffen gut strukturiert ablaufen können, ist eine Anmeldung per E-Mail sinnvoll. Zusätzlich zu den Treffen im EineWeltHaus finden auch Treffen per Videokonferenz statt. Alle Informationen finden Sie auf der Website des Vereins: https://www.realtraum-muenchen.de",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Diskussionsveranstaltung"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Künstlertreffen des REALTRAUM e. V. (Diskussion über eigene Literatur &amp; bildende Kunst)",
+   "type": "concert",
+   "start": "2027-04-04T18:30",
+   "end": "2027-04-04T20:00",
+   "url": "https://www.einewelthaus.de/events/kuenstlertreffen-des-realtraum-e-v-diskussion-ueber-eigene-literatur-bildende-kunst/",
+   "venue": "EineWeltHaus München",
+   "address": "Schwanthalerstr. 80, München, 80336",
+   "description": "Die Künstlertreffen des Vereins REALTRAUM e. V. sind ein offenes Forum für Literatur, Bildende Kunst und Musik. Mitglieder und Gäste stellen ihre aktuellen Werke vor und erhalten konstruktive Rückmeldungen. Im Mittelpunkt steht die gemeinsame Diskussion über das eigene künstlerische Werk – sei es ein Text, ein Bild oder ein Musikstück. Die Moderator*innen achten darauf, dass die Rückmeldungen auf literarische bzw. künstlerische Aspekte bezogen bleiben. Damit die Treffen gut strukturiert ablaufen können, ist eine Anmeldung per E-Mail sinnvoll. Zusätzlich zu den Treffen im EineWeltHaus finden auch Treffen per Videokonferenz statt. Alle Informationen finden Sie auf der Website des Vereins: https://www.realtraum-muenchen.de",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Diskussionsveranstaltung"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Künstlertreffen des REALTRAUM e. V. (Diskussion über eigene Literatur &amp; bildende Kunst)",
+   "type": "concert",
+   "start": "2027-05-02T18:30",
+   "end": "2027-05-02T20:00",
+   "url": "https://www.einewelthaus.de/events/kuenstlertreffen-des-realtraum-e-v-diskussion-ueber-eigene-literatur-bildende-kunst/",
+   "venue": "EineWeltHaus München",
+   "address": "Schwanthalerstr. 80, München, 80336",
+   "description": "Die Künstlertreffen des Vereins REALTRAUM e. V. sind ein offenes Forum für Literatur, Bildende Kunst und Musik. Mitglieder und Gäste stellen ihre aktuellen Werke vor und erhalten konstruktive Rückmeldungen. Im Mittelpunkt steht die gemeinsame Diskussion über das eigene künstlerische Werk – sei es ein Text, ein Bild oder ein Musikstück. Die Moderator*innen achten darauf, dass die Rückmeldungen auf literarische bzw. künstlerische Aspekte bezogen bleiben. Damit die Treffen gut strukturiert ablaufen können, ist eine Anmeldung per E-Mail sinnvoll. Zusätzlich zu den Treffen im EineWeltHaus finden auch Treffen per Videokonferenz statt. Alle Informationen finden Sie auf der Website des Vereins: https://www.realtraum-muenchen.de",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Diskussionsveranstaltung"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Künstlertreffen des REALTRAUM e. V. (Diskussion über eigene Literatur &amp; bildende Kunst)",
+   "type": "concert",
+   "start": "2027-06-06T18:30",
+   "end": "2027-06-06T20:00",
+   "url": "https://www.einewelthaus.de/events/kuenstlertreffen-des-realtraum-e-v-diskussion-ueber-eigene-literatur-bildende-kunst/",
+   "venue": "EineWeltHaus München",
+   "address": "Schwanthalerstr. 80, München, 80336",
+   "description": "Die Künstlertreffen des Vereins REALTRAUM e. V. sind ein offenes Forum für Literatur, Bildende Kunst und Musik. Mitglieder und Gäste stellen ihre aktuellen Werke vor und erhalten konstruktive Rückmeldungen. Im Mittelpunkt steht die gemeinsame Diskussion über das eigene künstlerische Werk – sei es ein Text, ein Bild oder ein Musikstück. Die Moderator*innen achten darauf, dass die Rückmeldungen auf literarische bzw. künstlerische Aspekte bezogen bleiben. Damit die Treffen gut strukturiert ablaufen können, ist eine Anmeldung per E-Mail sinnvoll. Zusätzlich zu den Treffen im EineWeltHaus finden auch Treffen per Videokonferenz statt. Alle Informationen finden Sie auf der Website des Vereins: https://www.realtraum-muenchen.de",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Diskussionsveranstaltung"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Künstlertreffen des REALTRAUM e. V. (Diskussion über eigene Literatur &amp; bildende Kunst)",
+   "type": "concert",
+   "start": "2027-07-04T18:30",
+   "end": "2027-07-04T20:00",
+   "url": "https://www.einewelthaus.de/events/kuenstlertreffen-des-realtraum-e-v-diskussion-ueber-eigene-literatur-bildende-kunst/",
+   "venue": "EineWeltHaus München",
+   "address": "Schwanthalerstr. 80, München, 80336",
+   "description": "Die Künstlertreffen des Vereins REALTRAUM e. V. sind ein offenes Forum für Literatur, Bildende Kunst und Musik. Mitglieder und Gäste stellen ihre aktuellen Werke vor und erhalten konstruktive Rückmeldungen. Im Mittelpunkt steht die gemeinsame Diskussion über das eigene künstlerische Werk – sei es ein Text, ein Bild oder ein Musikstück. Die Moderator*innen achten darauf, dass die Rückmeldungen auf literarische bzw. künstlerische Aspekte bezogen bleiben. Damit die Treffen gut strukturiert ablaufen können, ist eine Anmeldung per E-Mail sinnvoll. Zusätzlich zu den Treffen im EineWeltHaus finden auch Treffen per Videokonferenz statt. Alle Informationen finden Sie auf der Website des Vereins: https://www.realtraum-muenchen.de",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Diskussionsveranstaltung"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Künstlertreffen des REALTRAUM e. V. (Diskussion über eigene Literatur &amp; bildende Kunst)",
+   "type": "concert",
+   "start": "2027-09-05T18:30",
+   "end": "2027-09-05T20:00",
+   "url": "https://www.einewelthaus.de/events/kuenstlertreffen-des-realtraum-e-v-diskussion-ueber-eigene-literatur-bildende-kunst/",
+   "venue": "EineWeltHaus München",
+   "address": "Schwanthalerstr. 80, München, 80336",
+   "description": "Die Künstlertreffen des Vereins REALTRAUM e. V. sind ein offenes Forum für Literatur, Bildende Kunst und Musik. Mitglieder und Gäste stellen ihre aktuellen Werke vor und erhalten konstruktive Rückmeldungen. Im Mittelpunkt steht die gemeinsame Diskussion über das eigene künstlerische Werk – sei es ein Text, ein Bild oder ein Musikstück. Die Moderator*innen achten darauf, dass die Rückmeldungen auf literarische bzw. künstlerische Aspekte bezogen bleiben. Damit die Treffen gut strukturiert ablaufen können, ist eine Anmeldung per E-Mail sinnvoll. Zusätzlich zu den Treffen im EineWeltHaus finden auch Treffen per Videokonferenz statt. Alle Informationen finden Sie auf der Website des Vereins: https://www.realtraum-muenchen.de",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Diskussionsveranstaltung"
    ],
    "source_id": "",
    "source_name": "",

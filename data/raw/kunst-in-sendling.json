@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-02T11:33:18+00:00",
+ "scraped_at": "2026-11-05T11:19:39+00:00",
  "status": {
   "id": "kunst-in-sendling",
   "name": "Kunst in Sendling e.V.",
   "url": "https://www.kunst-in-sendling.com/",
   "kind": "venue",
-  "status": "failed",
-  "error": "ConnectionError: HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Max retries exceeded with url: /wp-json/tribe/events/v1/events?per_page=50&page=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Read timed out. (read timeout=30.0)\"))"
+  "status": "ok",
+  "found": 15
  },
  "events": [
   {

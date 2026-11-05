@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-02T11:33:07+00:00",
+ "scraped_at": "2026-11-05T11:19:32+00:00",
  "status": {
   "id": "ackermannbogen",
   "name": "Ackermannbogen e.V.",
   "url": "https://ackermannbogen-ev.de/programm-alles",
   "kind": "venue",
-  "status": "failed",
-  "error": "RetryError: HTTPSConnectionPool(host='ackermannbogen-ev.de', port=443): Max retries exceeded with url: /wp-json/tribe/events/v1/events?per_page=50&categories=musik%2Cmusik-gesang&page=1 (Caused by ResponseError('too many 500 error responses'))"
+  "status": "ok",
+  "found": 16
  },
  "events": [
   {
@@ -39,7 +39,7 @@
    "id": ""
   },
   {
-   "title": "Be My Guest - La Dernière Danse",
+   "title": "Be My Guest – La Dernière Danse",
    "type": "concert",
    "start": "2026-11-10T20:00",
    "end": "2026-11-10T22:00",
@@ -104,7 +104,7 @@
    "start": "2026-11-23T15:00",
    "end": "2026-11-23T17:00",
    "url": "https://ackermannbogen-ev.de/programm/kulturcafe-fuer-seniorinnen-21/",
-   "venue": "Domicil Seniorencentrum - Festsaal (ehem. Cafeteria)",
+   "venue": "Domicil Seniorencentrum – Festsaal (ehem. Cafeteria)",
    "address": null,
    "description": "Kaffee & Kuchen und dazu ein kulturelles Schmankerl. Genießen Sie musikalische Darbietungen, Lesungen, gemeinsames Singen, Vorträge etc. in einem gemütlichen Rahmen. Ein musikalischer Blumenstrauß Einfühlsame Melodien entführen in die Zeit der Romantik voller Sehnsucht und Naturverbundenheit: Annette Mühlhans Gesang, Cornelia Lechner Gesang, Beate Gartner Gesang und Stanislava Stoytcheva Klavier.",
    "recurrence": null,
@@ -159,25 +159,22 @@
    "id": ""
   },
   {
-   "title": "SelberMarkt und WintersportBörse",
+   "title": "SelberMarkt",
    "type": "concert",
    "start": "2026-12-06T15:00",
    "end": "2026-12-06T17:00",
    "url": "https://ackermannbogen-ev.de/programm/selbermarkt-und-wintersportboerse-3/",
    "venue": "KulturPassage",
    "address": "Rosa-Aschenbrenner-Bogen 9, 80797 München",
-   "description": "Kreative aus dem Ackermannbogen verkaufen Selbstgemachtes. Mit Glühweinstand vom Rigoletto. Anmeldung für einen kostenlosen Stand (Tisch selbst mitbringen): selbermarkt@ackermannbogen-ev.de Für die WintersportBörse ist keine Anmeldung erforderlich: einfach zu klein gewordene Wintersportartikel mitbringen und tauschen (oder verkaufen). Trompeten werden den Markt eröffnen, später singt die Chorgemeinschaft Ackermannbogen mit uns Weihnachtslieder. Highlight für die Kinder ist der Besuch des Nikolaus. Sonntag, 6. Dezember 2026, 15-17 Uhr",
+   "description": "Kreative aus dem Ackermannbogen verkaufen Selbstgemachtes und die Kinder können sich auf den Besuch des Nikolauses freuen. Mit Glühweinstand vom Rigoletto. Anmeldung für einen kostenlosen Stand (Tisch selbst mitbringen): selbermarkt@ackermannbogen-ev.de Sonntag, 6. Dezember 2026, 15-17 Uhr",
    "recurrence": null,
    "dates": [],
    "tags": [
     "Flohmarkt",
-    "Kindertheater",
     "Kunsthandwerk",
-    "Linde Scheringer",
     "Weihnachtslieder",
     "WeihnachtsMarkt",
-    "Weihnachtssingen",
-    "Wintersport"
+    "Weihnachtssingen"
    ],
    "source_id": "",
    "source_name": "",
@@ -217,7 +214,7 @@
    "id": ""
   },
   {
-   "title": "Be My Guest - Baritonia In Miniatura",
+   "title": "Be My Guest – Baritonia In Miniatura",
    "type": "concert",
    "start": "2026-12-15T20:00",
    "end": "2026-12-15T22:00",
@@ -282,7 +279,7 @@
    "start": "2026-12-21T15:00",
    "end": "2026-12-21T17:00",
    "url": "https://ackermannbogen-ev.de/programm/kulturcafe-fuer-seniorinnen-20/",
-   "venue": "Domicil Seniorencentrum - Festsaal (ehem. Cafeteria)",
+   "venue": "Domicil Seniorencentrum – Festsaal (ehem. Cafeteria)",
    "address": null,
    "description": "Kaffee & Kuchen und dazu ein kulturelles Schmankerl. Genießen Sie musikalische Darbietungen, Lesungen, gemeinsames Singen, Vorträge etc. in einem gemütlichen Rahmen. Macht hoch die Tür, die Tor macht weit Gemeinsam singend in die Weihnachtszeit mit bekannten Advents- und Weihnachtsliedern, angeleitet und begleitet auf der Gitarre von Regina Röhrl.",
    "recurrence": null,
@@ -309,7 +306,7 @@
    "id": ""
   },
   {
-   "title": "Be My Guest - Way Out West Revisited",
+   "title": "Be My Guest – Way Out West Revisited",
    "type": "concert",
    "start": "2027-01-12T20:00",
    "end": "2027-01-12T22:00",
@@ -345,7 +342,7 @@
    "start": "2027-01-18T15:00",
    "end": "2027-01-18T17:00",
    "url": "https://ackermannbogen-ev.de/programm/kulturcafe-fuer-seniorinnen-22/",
-   "venue": "Domicil Seniorencentrum - Festsaal (ehem. Cafeteria)",
+   "venue": "Domicil Seniorencentrum – Festsaal (ehem. Cafeteria)",
    "address": null,
    "description": "Kaffee & Kuchen und dazu ein kulturelles Schmankerl. Genießen Sie musikalische Darbietungen, Lesungen, gemeinsames Singen, Vorträge etc. in einem gemütlichen Rahmen. Quiet Nights Duo Brasilianische Musik und zeitlose Jazz-Standards, mal leise und entspannt, mal mit Groove und Leidenschaft. Stimme und Gitarre im Dialog mit Christiane Palm und Georg Wiedmann.",
    "recurrence": null,
@@ -372,7 +369,7 @@
    "id": ""
   },
   {
-   "title": "Be My Guest - The Singing Saxophone",
+   "title": "Be My Guest – The Singing Saxophone",
    "type": "concert",
    "start": "2027-02-16T20:00",
    "end": "2027-02-16T22:00",
@@ -403,7 +400,7 @@
    "id": ""
   },
   {
-   "title": "Be My Guest - The Melody Sax",
+   "title": "Be My Guest – The Melody Sax",
    "type": "concert",
    "start": "2027-03-09T20:00",
    "end": "2027-03-09T22:00",
@@ -434,7 +431,7 @@
    "id": ""
   },
   {
-   "title": "Be My Guest - Couches And Rocking Chairs",
+   "title": "Be My Guest – Couches And Rocking Chairs",
    "type": "concert",
    "start": "2027-04-13T20:00",
    "end": "2027-04-13T22:00",
@@ -472,7 +469,7 @@
    "url": "https://ackermannbogen-ev.de/programm/be-my-guest-vol-13-konzert-abo/",
    "venue": "KreativGarage Studio",
    "address": "Rosa-Aschenbrenner-Bogen 9 / UG, 80797 München",
-   "description": "Breathing The Sound Live im Studio Ackermann - von und mit Stefan Noelle (Schlagzeug / Percussion) Seit hundert Jahren prägt das Saxophon den Sound der verschiedenen Stile im Jazz. Unsere 13. Saison bringt dieses Instrument in all seinen Facetten auf die Bühne. Freuen Sie sich mit uns auf bekannte Namen und spannende junge Entdeckungen – diesmal nicht „nur“ aus München! Herzlichst, Ihr Stefan Noelle Einlass 19.30 Uhr, Beginn 20 Uhr Die Konzerte im Überblick: 13. Oktober 2026 Tom Reinbrecht Soul Charade 10. November 2026 Laurent Maur La Dernière Danse 15. Dezember 2026 Valentina Oefele Baritonia In Miniatura 12. Januar 2027 Edi May Way Out West Revisited 16. Februar 2027 Chris Hopkins The Singing Saxophone 09. März 2027 Mulo Francel The Melody Sax 13. April 2027 Estelle Dupont Couches And Rocking Chairs Standardpreis oder Unterstützerpreis? Sie entscheiden! Mit dem Standardpreis ermöglichen wir weiterhin hochwertige Jazzkonzerte zu einem erschwinglichen Eintritt. Wer die Jazzreihe, die Kulturarbeit des Ackermannbogen e.V. und die beteiligten Musiker:innen zusätzlich unterstützen möchte, kann den Unterstützerpreis wählen. Der freiwillige Mehrbetrag hilft, die Reihe langfristig zu erhalten und kulturelle Teilhabe für mehr Menschen zu ermöglichen. Hinweis zur Sitzplatzauswahl Bitte tragen Sie im Kaufprozess Ihre gewünschte Sitzplatznummer in das entsprechende Feld ein. Die Sitzplatzvergabe wird manuell geprüft. Ist Ihr Wunschplatz verfügbar, erhalten Sie eine Bestätigung. Andernfalls schlagen wir Ihnen alternative Plätze vor. · Eintritt: 168,00€ – 189,00€",
+   "description": "Breathing The Sound Live im Studio Ackermann – von und mit Stefan Noelle (Schlagzeug / Percussion) Seit hundert Jahren prägt das Saxophon den Sound der verschiedenen Stile im Jazz. Unsere 13. Saison bringt dieses Instrument in all seinen Facetten auf die Bühne. Freuen Sie sich mit uns auf bekannte Namen und spannende junge Entdeckungen – diesmal nicht „nur“ aus München! Herzlichst, Ihr Stefan Noelle Einlass 19.30 Uhr, Beginn 20 Uhr Die Konzerte im Überblick: 13. Oktober 2026 Tom Reinbrecht Soul Charade 10. November 2026 Laurent Maur La Dernière Danse 15. Dezember 2026 Valentina Oefele Baritonia In Miniatura 12. Januar 2027 Edi May Way Out West Revisited 16. Februar 2027 Chris Hopkins The Singing Saxophone 09. März 2027 Mulo Francel The Melody Sax 13. April 2027 Estelle Dupont Couches And Rocking Chairs Standardpreis oder Unterstützerpreis? Sie entscheiden! Mit dem Standardpreis ermöglichen wir weiterhin hochwertige Jazzkonzerte zu einem erschwinglichen Eintritt. Wer die Jazzreihe, die Kulturarbeit des Ackermannbogen e.V. und die beteiligten Musiker:innen zusätzlich unterstützen möchte, kann den Unterstützerpreis wählen. Der freiwillige Mehrbetrag hilft, die Reihe langfristig zu erhalten und kulturelle Teilhabe für mehr Menschen zu ermöglichen. Hinweis zur Sitzplatzauswahl Bitte tragen Sie im Kaufprozess Ihre gewünschte Sitzplatznummer in das entsprechende Feld ein. Die Sitzplatzvergabe wird manuell geprüft. Ist Ihr Wunschplatz verfügbar, erhalten Sie eine Bestätigung. Andernfalls schlagen wir Ihnen alternative Plätze vor. · Eintritt: 168,00€ – 189,00€",
    "recurrence": null,
    "dates": [],
    "tags": [

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T11:14:32+00:00",
+  "generated_at": "2026-11-05T11:20:47+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -2547,34 +2547,6 @@
       "id": "2b490c7cd538"
     },
     {
-      "title": "Blues 2 mit Clara",
-      "type": "class",
-      "start": "2026-11-03T19:35",
-      "end": "2026-11-03T20:35",
-      "url": "https://hepcatclub.com/",
-      "venue": "Hep Cat Club",
-      "address": "Viktoriastraße 3b, 86150 Augsburg",
-      "description": "",
-      "recurrence": "Tuesdays 19:35–20:35",
-      "dates": [
-        "2026-11-03",
-        "2026-11-10",
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15"
-      ],
-      "tags": [],
-      "source_id": "hepcat-club",
-      "source_name": "Hep Cat Club",
-      "school_name": "Hep Cat Club",
-      "school_url": "https://hepcatclub.com/",
-      "artists": [],
-      "known_artists": [],
-      "id": "d1bb00bef152"
-    },
-    {
       "title": "The Temperance Movement",
       "type": "concert",
       "start": "2026-11-03T20:00",
@@ -2602,63 +2574,6 @@
         "The Temperance Movement"
       ],
       "id": "714b17e73942"
-    },
-    {
-      "title": "Blues Open Level",
-      "type": "class",
-      "start": "2026-11-03T20:45",
-      "end": "2026-11-03T22:15",
-      "url": "https://www.boogie-baeren.de/training",
-      "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
-      "address": "Gneisenaustraße 16, 80992 München",
-      "description": "Teachers: verschiedene. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
-      "recurrence": "Tuesdays 20:45–22:15",
-      "dates": [
-        "2026-11-03",
-        "2026-11-10",
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15"
-      ],
-      "tags": [
-        "course block"
-      ],
-      "source_id": "boogie-baeren",
-      "source_name": "Boogie-Bären München",
-      "school_name": "Boogie-Bären München",
-      "school_url": "https://www.boogie-baeren.de/",
-      "artists": [],
-      "known_artists": [],
-      "id": "736bb6181162"
-    },
-    {
-      "title": "Solo Blues · alle Level ab 28.10.",
-      "type": "class",
-      "start": "2026-10-21T17:30",
-      "end": "2026-10-21T18:30",
-      "url": "https://www.vintage-club.de/classes.aspx",
-      "venue": "Vintage Club (VC Studio 2)",
-      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
-      "description": "Advance registration by email required.",
-      "recurrence": "Wednesdays 17:30–18:30",
-      "dates": [
-        "2026-10-21",
-        "2026-10-28",
-        "2026-11-04",
-        "2026-11-11"
-      ],
-      "tags": [
-        "course block"
-      ],
-      "source_id": "vintage-club",
-      "source_name": "Vintage Club",
-      "school_name": "Vintage Club",
-      "school_url": "https://www.vintage-club.de/",
-      "artists": [],
-      "known_artists": [],
-      "id": "6981c836dd7b"
     },
     {
       "title": "Eric Bibb",
@@ -2906,6 +2821,91 @@
       "id": "6b74202bf1dd"
     },
     {
+      "title": "Blues 2 mit Clara",
+      "type": "class",
+      "start": "2026-11-03T19:35",
+      "end": "2026-11-03T20:35",
+      "url": "https://hepcatclub.com/",
+      "venue": "Hep Cat Club",
+      "address": "Viktoriastraße 3b, 86150 Augsburg",
+      "description": "",
+      "recurrence": "Tuesdays 19:35–20:35",
+      "dates": [
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15"
+      ],
+      "tags": [],
+      "source_id": "hepcat-club",
+      "source_name": "Hep Cat Club",
+      "school_name": "Hep Cat Club",
+      "school_url": "https://hepcatclub.com/",
+      "artists": [],
+      "known_artists": [],
+      "id": "d1bb00bef152"
+    },
+    {
+      "title": "Blues Open Level",
+      "type": "class",
+      "start": "2026-11-03T20:45",
+      "end": "2026-11-03T22:15",
+      "url": "https://www.boogie-baeren.de/training",
+      "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
+      "address": "Gneisenaustraße 16, 80992 München",
+      "description": "Teachers: verschiedene. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+      "recurrence": "Tuesdays 20:45–22:15",
+      "dates": [
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "boogie-baeren",
+      "source_name": "Boogie-Bären München",
+      "school_name": "Boogie-Bären München",
+      "school_url": "https://www.boogie-baeren.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "736bb6181162"
+    },
+    {
+      "title": "Solo Blues · alle Level ab 28.10.",
+      "type": "class",
+      "start": "2026-10-21T17:30",
+      "end": "2026-10-21T18:30",
+      "url": "https://www.vintage-club.de/classes.aspx",
+      "venue": "Vintage Club (VC Studio 2)",
+      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+      "description": "Advance registration by email required.",
+      "recurrence": "Wednesdays 17:30–18:30",
+      "dates": [
+        "2026-10-21",
+        "2026-10-28",
+        "2026-11-04",
+        "2026-11-11"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "vintage-club",
+      "source_name": "Vintage Club",
+      "school_name": "Vintage Club",
+      "school_url": "https://www.vintage-club.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "6981c836dd7b"
+    },
+    {
       "title": "Lonesome Andy & his One Man Band",
       "type": "concert",
       "start": "2026-11-11T20:30",
@@ -3026,7 +3026,7 @@
       "id": "ff05effc904f"
     },
     {
-      "title": "Bin I Kini?! – Der Prinzregenten-Blues",
+      "title": "Bin I Kini?! - Der Prinzregenten-Blues",
       "type": "concert",
       "start": "2026-11-17T20:00",
       "end": null,
@@ -3608,7 +3608,7 @@
       "id": "4e657f549678"
     },
     {
-      "title": "Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich",
+      "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
       "type": "concert",
       "start": "2026-12-01T20:00",
       "end": null,
@@ -3735,7 +3735,7 @@
       "title": "Bernd Bauer Blues Band: Live-Konzert",
       "type": "concert",
       "start": "2026-12-04T17:30",
-      "end": null,
+      "end": "2026-12-04T19:30",
       "url": "https://berndbauerbluesband.de/termine/",
       "venue": "Café Gans am Wasser",
       "address": "81373 München",
@@ -4028,6 +4028,28 @@
       "id": "1454ac8628c6"
     },
     {
+      "title": "SoulSalad",
+      "type": "concert",
+      "start": "2026-12-13T15:00",
+      "end": "2026-12-13T17:00",
+      "url": "https://www.gansamwasser.de/kulturprogramm/programm-dezember/",
+      "venue": "Café Gans am Wasser",
+      "address": "Mollsee im Westpark, 81373 München",
+      "description": "Wir sind eine 5-köpfige Live-Band aus München, die mit stilvoller Musik unter anderem aus Jazz, Soul, Swing und Blues besondere Events musikalisch veredelt. Wir sorgen für Abende, die in Erinnerung bleiben. Webseite",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Livemusik"
+      ],
+      "source_id": "gans-am-wasser",
+      "source_name": "Café Gans am Wasser",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "1c9c19cbe92e"
+    },
+    {
       "title": "Vlado Grizelj Band",
       "type": "concert",
       "start": "2026-12-17T20:00",
@@ -4078,6 +4100,33 @@
       "id": "62c8b6e8743a"
     },
     {
+      "title": "Tricia und Band",
+      "type": "concert",
+      "start": "2026-12-19T15:00",
+      "end": "2026-12-19T17:00",
+      "url": "https://www.gansamwasser.de/kulturprogramm/programm-dezember/",
+      "venue": "Café Gans am Wasser",
+      "address": "Mollsee im Westpark, 81373 München",
+      "description": "Die britische-irische Jazzsängerin begeistert seit 1999 auf Festivals in Grosßbritannien und Deutschland. Mit ihrer Band erweckt sie zeitlose Jazz-Standards zum Leben - voller Dynamik, Leidenschaft und Humor. Ihre umfangreiches Repertoire reicht von Swing und Blues bis hin zu gefühlvollen Balladen, stets mit einem Hauch Soul. Besonderen Wert legt sie auf die Texte: poetisch, kraftvoll, humorvoll, und berührend. Erlebt einen unvergesslichen Stunden voller Old-School Jazz! Musiker: John Brunton, Diego Riedemann, Ernie Butler, Robert Klinger, Manolo Diaz, Michael Donoughue Webseite",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Livemusik"
+      ],
+      "source_id": "gans-am-wasser",
+      "source_name": "Café Gans am Wasser",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Tricia",
+          "url": "https://www.last.fm/music/Tricia"
+        }
+      ],
+      "known_artists": [],
+      "id": "378d8ae70be3"
+    },
+    {
       "title": "13. American Bar Night – „Midlife or Crisis?“ & Friends",
       "type": "concert",
       "start": "2026-12-19T18:00",
@@ -4118,6 +4167,28 @@
       "artists": [],
       "known_artists": [],
       "id": "1e7b7fac87c9"
+    },
+    {
+      "title": "Malis Swing Connection",
+      "type": "concert",
+      "start": "2026-12-20T15:15",
+      "end": "2026-12-20T17:00",
+      "url": "https://www.gansamwasser.de/kulturprogramm/programm-dezember/",
+      "venue": "Café Gans am Wasser",
+      "address": "Mollsee im Westpark, 81373 München",
+      "description": "Seit Jahren bereichert die „Malis Swing Connection“ die Münchner Musikszene. Ihr breitgefächertes Repertoire reicht von Swing- und Jazz-Klassikern über Bossa Nova und Blues bis hin zu gefühlvollen Balladen. Mit ihrer ausdrucksstarken Stimme verleiht Malis jedem Stück eine eigene Note – mal sanft und berührend, mal kraftvoll und mitreißend. Ob in kleiner oder großer Besetzung: Die Musiker schaffen mit spürbarer Spielfreude ein eindrucksvolles Klangerlebnis, das die Musikgeschichte mehrerer Jahrzehnte lebendig werden lässt. Zur Weihnachtszeit präsentiert das Ensemble zudem ein stimmungsvolles „S",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Livemusik"
+      ],
+      "source_id": "gans-am-wasser",
+      "source_name": "Café Gans am Wasser",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "4e4c13462f46"
     },
     {
       "title": "Axel Zwingenberger",
@@ -4199,6 +4270,28 @@
       ],
       "known_artists": [],
       "id": "888fe0946266"
+    },
+    {
+      "title": "Franky’s Roadhouse Music",
+      "type": "concert",
+      "start": "2026-12-26T14:00",
+      "end": "2026-12-26T16:00",
+      "url": "https://www.gansamwasser.de/kulturprogramm/programm-dezember/",
+      "venue": "Café Gans am Wasser",
+      "address": "Mollsee im Westpark, 81373 München",
+      "description": "Wie es weiter geht wissen die Musiker (Fred: git, harp, voc und Stefan: git, voc) meist selbst nicht. Aber es geht weiter. Sicher ist dabei nur: es gibt Blues, Rock & Roll, Country und Western auf die Ohren und es macht ne Menge Spaß! Hier habe ich den Link zu meinem Instagram Account: https://www.instagram.com/frankysroadhouse?igsh=ODA1NTc5OTg5Nw%3D%3D&utm_source=qr",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Livemusik"
+      ],
+      "source_id": "gans-am-wasser",
+      "source_name": "Café Gans am Wasser",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "c2c3e76bfaa9"
     },
     {
       "title": "AL JONES BLUES BAND",
@@ -4446,7 +4539,7 @@
       "url": "https://village-habach.de/programm/?single=ed70dfed0a28191f40db988a163af514",
       "venue": "Village Habach",
       "address": "Obermühle 1, 82392 Habach",
-      "description": "++++INFOS FOLGEN++++ Karten: reservierung@village-habach.de Einlass: 19:00 Konzertbeginn: 20:15 Eintritt: €28 / *€25 *reduzierter Preis – keine Angabe von Gründen notwendig",
+      "description": "Blues, Bluesrock Der neue Blues Caravan 2027 ist da! Seit mittlerweile zwei Jahrzehnten steht die renommierte Tour für musikalische Entdeckungen, außergewöhnliche Talente und den Beginn großer Karrieren. Auch 2027 setzt der Blues Caravan diese Erfolgsgeschichte fort und bringt drei bemerkenswert...",
       "recurrence": null,
       "dates": [],
       "tags": [],
@@ -5145,7 +5238,7 @@
       "url": "https://village-habach.de/programm/?single=6815ffb2333d886064f457e15d409bda",
       "venue": "Village Habach",
       "address": "Obermühle 1, 82392 Habach",
-      "description": "+++INFOS FOLGEN+++",
+      "description": "Blues-Rock Running Wild – Tour 2027 Sari Schorr kehrt nach Europa zurück – und sie kommt nicht leise. In diesem Herbst bringt die New Yorker Rock- und Soul-Ausnahmekünstlerin ihr explosives neues Album „Running Wild“ auf die europäischen Bühnen. Die umfangreiche Tournee steht für kompromisslose...",
       "recurrence": null,
       "dates": [],
       "tags": [],
@@ -5161,6 +5254,31 @@
       ],
       "known_artists": [],
       "id": "03c5839afbdb"
+    },
+    {
+      "title": "Connor Selby (GBR)",
+      "type": "concert",
+      "start": "2027-04-23T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=6c44cedf8a6bc09640f20651ca7ac3e8",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Blues und Bluesrock, mit Einflüssen aus Soul, Folk und Singer-Songwriter-Traditionen. Connor Selby, ein aufstrebender Stern der internationalen Blues-Szene, der mit seiner warmen Stimme, seinem virtuosen Gitarrenspiel und seinen gefühlvollen Songs begeistert. Mit gerade einmal Mitte 20 bringt...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Connor Selby",
+          "url": "https://www.last.fm/music/Connor+Selby"
+        }
+      ],
+      "known_artists": [],
+      "id": "81ae49bbc3cb"
     },
     {
       "title": "Stephan Zinner – Großstadtblues",
@@ -5481,7 +5599,7 @@
       "url": "https://hepcatclub.com/",
       "kind": "school",
       "status": "ok",
-      "found": 229,
+      "found": 237,
       "kept": 3
     },
     {
@@ -5490,7 +5608,7 @@
       "url": "https://www.glockenbachwerkstatt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 6,
+      "found": 5,
       "kept": 43
     },
     {
@@ -5517,7 +5635,7 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 57,
+      "found": 59,
       "kept": 1
     },
     {
@@ -5526,7 +5644,7 @@
       "url": "https://www.jazzbar-vogler.com/",
       "kind": "venue",
       "status": "ok",
-      "found": 16,
+      "found": 14,
       "kept": 0
     },
     {
@@ -5553,8 +5671,8 @@
       "url": "https://www.gansamwasser.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 15,
-      "kept": 2
+      "found": 35,
+      "kept": 6
     },
     {
       "id": "village-habach",
@@ -5563,7 +5681,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 46,
-      "kept": 26
+      "kept": 27
     },
     {
       "id": "tollwood",
@@ -5588,8 +5706,8 @@
       "name": "Ackermannbogen e.V.",
       "url": "https://ackermannbogen-ev.de/programm-alles",
       "kind": "venue",
-      "status": "failed",
-      "error": "RetryError: HTTPSConnectionPool(host='ackermannbogen-ev.de', port=443): Max retries exceeded with url: /wp-json/tribe/events/v1/events?per_page=50&categories=musik%2Cmusik-gesang&page=1 (Caused by ResponseError('too many 500 error responses'))",
+      "status": "ok",
+      "found": 16,
       "kept": 0
     },
     {
@@ -5598,7 +5716,7 @@
       "url": "https://www.pasinger-fabrik.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 32,
+      "found": 30,
       "kept": 4
     },
     {
@@ -5624,8 +5742,8 @@
       "name": "Kunst in Sendling e.V.",
       "url": "https://www.kunst-in-sendling.com/",
       "kind": "venue",
-      "status": "failed",
-      "error": "ConnectionError: HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Max retries exceeded with url: /wp-json/tribe/events/v1/events?per_page=50&page=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Read timed out. (read timeout=30.0)\"))",
+      "status": "ok",
+      "found": 15,
       "kept": 0
     },
     {
@@ -5643,7 +5761,7 @@
       "url": "https://www.einewelthaus.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 21,
+      "found": 28,
       "kept": 1
     },
     {
@@ -5670,7 +5788,7 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 148,
+      "found": 142,
       "kept": 58
     },
     {
@@ -5688,7 +5806,7 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 228,
+      "found": 216,
       "kept": 4
     },
     {

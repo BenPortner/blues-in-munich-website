@@ -1,54 +1,14 @@
 {
- "scraped_at": "2026-11-03T11:10:21+00:00",
+ "scraped_at": "2026-11-05T11:19:34+00:00",
  "status": {
   "id": "pasinger-fabrik",
   "name": "Pasinger Fabrik",
   "url": "https://www.pasinger-fabrik.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 32
+  "found": 30
  },
  "events": [
-  {
-   "title": "Komm, hol den Mond… Chansons von Gabriele Misch & Günter Edin",
-   "type": "concert",
-   "start": "2026-11-03T20:00",
-   "end": "2026-11-03T22:00",
-   "url": "https://pasinger-fabrik.de/veranstaltung/komm-hol-den-mond-chansons-von-gabriele-misch-guenter-edin/",
-   "venue": "Pasinger Fabrik – Kleine Bühne",
-   "address": "August-Exter-Str. 1, 81245 München",
-   "description": "ZUR ERINNERUNG AN GÜNTER EDIN UND SEINE MELODIEN Deutsche Chansons? Doch, die gibt’s! Gedanken zwischen (All-) Tag & (Alb-) Traum, in Töne und Lieder gehüllt – das schillernde Leben einer Seifenblase, die heimlichen Träume eines Regenwurms, Etiketten- und Stilfragen, warum man mit dem Mond spazieren gehen sollte, Hoffnungen, Täuschungen und Enttäuschungen – neugierig geworden? Ein Programm mit ausschließlich eigenen Texten, vertont von Günter Edin – skurril, frech, bitterböse, poetisch, nachdenklich – auf jeden Fall eigenwillig. Das Programm „Komm, hol den Mond“ ist ein lyrischer Chansonabend, ausschließlich eigene Texte, von Günter Edin vertont, sowie einige kurze Klavierkompositionen von ihm. Mit Peter Wegele, der mich am Flügel begleitet, werde ich eine große Bandbreite seiner einfühlsamen, verträumten und auch witzigen Chanson-Melodien präsentieren, die er im Lauf der Jahre zu meinen Texten geschrieben hat – und auch einige seiner eigenen Texte und Chansons aus seiner Zeit als Liedermacher werden nicht fehlen. Günter Edin hatte eine unnachahmliche Art, Texte in Musik zu hüllen und damit zu verzaubern. Mit Gabriele Misch & Peter Wegele am Klavier Der Germeringer Komponist Günter Edin (1941-2016) lernte in jungen Jahren Carl Orff kennen, und ein bisschen „Orffsches“ ist aus seinen Melodien genauso herauszuhören wie Anklänge an Kurt Weill, Eisler, Kreisler, Dessau, oder auch Gershwin und Bernstein. Trotzdem hatten seine Melodien aber stets einen starken, eigenen Wiedererkennungswert, man wusste, das ist „EDIN“ ! Dieses Konzert ist eine Hommage an diesen vielseitigen Komponisten, der seine Frau, die Schauspielerin und Sängerin Gabriele Misch bis zu seinem Tod selbst am Klavier begleitet hatte. Die Bandbreite seiner Kompositionen reicht über Violin- und Sinfoniekonzerten über Kammermusik, Streichquartette uvm. bis zu Musicals. Sein Musical „Der Kleine Lord“ (Libretto und Liedtexte Gabriele Misch) ist seit 2008 mit A.Gon-Theater immer wieder auf Tournee. · Eintritt: 18€ – 22€",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "European Django Band",
-   "type": "concert",
-   "start": "2026-11-04T20:00",
-   "end": "2026-11-04T22:00",
-   "url": "https://pasinger-fabrik.de/veranstaltung/european-django-band/",
-   "venue": "Pasinger Fabrik – Kleine Bühne",
-   "address": "August-Exter-Str. 1, 81245 München",
-   "description": "Leidenschaft, Tempo und europäischer Swing: Die European Django Band Wenn die European Django Band die Bühne betritt, trifft das Erbe von Django Reinhardt auf den Sound von heute. Das internationale Ensemble bringt den Jazz Manouche ohne Schnörkel auf den Punkt: rhythmisch, pointiert und mit spürbarem Drang nach vorne. Zwischen rasenden Soli, Pariser Valse Musettes und modernen Eigeninterpretationen entsteht auf der Bühne ein direkter musikalischer Dialog. Die Band setzt auf präzises Zusammenspiel und eine unverstellte Spielfreude, die sofort den Funkeln im Raum entfacht und direkt auf das Publikum überspringt. Ein Konzert, das den Swing nicht im Museum ausstellt, sondern ihn im Hier und Jetzt lebendig macht. · Eintritt: 18€ – 22€",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Loopin‘ Lab – Vorführung Ausstellung „Fake noise – true image“ & Konzert",
    "type": "other",

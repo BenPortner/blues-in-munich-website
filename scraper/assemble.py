@@ -101,6 +101,9 @@ def same_event(a: Event, b: Event) -> bool:
     either side, the same start time), and the shorter title's telling words all in the longer one."""
     if a.start[:10] != b.start[:10]:
         return False
+    # A school's classes on one day: other time, other class ("Blues · alle Level", "Solo Blues · alle Level")
+    if a.type == b.type == "class" and "T" in a.start and "T" in b.start and a.start != b.start:
+        return False
     va, vb = slug(a.venue or ""), slug(b.venue or "")
     if va and vb:
         # sources also name the same place differently ("Groundlift Ammersee Live Studios" vs "Alte

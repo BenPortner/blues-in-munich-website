@@ -1,5 +1,6 @@
 from datetime import date
 
+from scraper.assemble import ROOT, load_include
 from scraper.dates import find_dates, find_time_range
 from scraper.filters import is_blues, keep
 from scraper.models import Event, guess_type
@@ -65,6 +66,13 @@ def test_include_patterns():
     assert not keep(e, "blues_title")
     assert keep(e, "blues_title", include=["Willy Michl"])
     assert not keep(e, "blues_title", include=["Eddie 9V"])
+
+
+def test_include_list_in_sources():
+    include = load_include(ROOT / "sources.yaml")
+    for title in ("SAN2", "San2", "Mr.ZigZag & Band", "STIFF HIPS"):
+        assert keep(Event(title=title, type="concert", start="2026-12-12"), "blues_title", include=include)
+    assert not keep(Event(title="Santana", type="concert", start="2026-12-12"), "blues_title", include=include)
 
 
 def test_exclude_patterns():

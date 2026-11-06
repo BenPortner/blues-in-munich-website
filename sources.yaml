@@ -37,6 +37,9 @@ archive:
 include:
   - Willy Michl            # Bavarian blues singer, billed as Musiktheater/Liedermacher
   - Eddie 9V               # Atlanta blues-rock, billed as Southern Rock
+  - \bSan2\b               # blues harp player, billed as Soul
+  - Mr\.? ?Zig ?Zag        # plays mostly blues; only the blurb says so (Tollwood)
+  - Stiff Hips             # modern blues to rock and country; only the blurb says so (Stragula)
 
 sources:
   # --- Dance schools -------------------------------------------------------
@@ -393,3 +396,15 @@ sources:
 #      blues session could be confirmed.
 #  - Bluesclub Chiemgau (presents blues gigs in Rosenheim, e.g. Eric Johanson, 28.02.2027, Saal Bayern) —
 #      checked 2026-10-30. Only a Songkick mention found, no own site; ~60 km out.
+#  - Veranstaltungsforum Fürstenfeld (Fürstenfeldbruck; "BluesFirst" concert series, "Blues & Boogie" genre filter) —
+#      https://www.fuerstenfeld.de/programm
+#      found 2026-11-06. Events are filled in by JavaScript (only a %eurl% template in the HTML); needs its data
+#      endpoint or a headless browser. Its blues gigs (Meena Cryle 26.11., Sir Oliver Mally 14.01.,
+#      Hans Theessink 20.05.) already come in through IN München.
+#  - Eventfrog Jazz & Blues in München (ticket platform with a genre page) — https://eventfrog.de/de/events/muenchen/jazz-blues-konzerte.html
+#      found 2026-11-06. Static HTML with date, title and venue. Mostly jazz; of ~10 upcoming listings the only
+#      blues one was Stormy Wednesday (18.11.), already in the scrape. Low yield so far.
+#  - ROODY Tanzcafé Giesing (bar, Candidplatz; free live gigs, Downtown Blues Buzz played there in 2025) —
+#      https://www.roody-giesing.de/programm
+#      found 2026-11-06. Wix site, but the event links are in the HTML. No blues among the upcoming dates
+#      (indie, DJ sets); only worth an adapter if blues acts return. Some gigs are on IN München.

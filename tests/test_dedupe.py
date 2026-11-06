@@ -59,3 +59,12 @@ def test_same_event_ignores_guests():
     b = Event(title="30. Münchner Bluesnacht mit Zither Manä, Abi Wallenstein, Ludwig Seuss & Band", type="concert",
               start="2026-11-20T20:00", venue="Schlachthof – Saal")
     assert same_event(a, b)
+
+
+def test_classes_at_other_times_are_other_classes():
+    solo = ev("Solo Blues · alle Level ab 28.10.", start="2026-10-21T17:30", type="class")
+    blues = ev("Blues · alle Level", start="2026-10-21T18:45", type="class")
+    assert not same_event(solo, blues)
+    assert [e.title for e in dedupe([solo, blues])] == [solo.title, blues.title]
+    # concerts still match across sources that give different times
+    assert same_event(ev(BAND), ev("Session Stormy Wednesday", start="2026-10-21T20:30"))

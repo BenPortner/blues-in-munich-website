@@ -31,6 +31,15 @@ def test_vintage_club_timetable_finds_blues_courses():
     assert course.description.startswith("Keine Vorkenntnisse")  # Blues Explorers text
 
 
+def test_vintage_club_course_starting_mid_block():
+    days = [date(2026, 10, 21), date(2026, 10, 28), date(2026, 11, 4)]
+    assert vintage_club._from_note("alle Level ab 28.10.", days) == days[1:]
+    assert vintage_club._from_note("alle Level", days) == days
+    assert vintage_club._from_note("ab Aufsteiger", days) == days
+    # another course takes over the slot: not a late start
+    assert vintage_club._from_note("ab 28.10.2026: **Electro Swing alle Level", days) == days
+
+
 def test_vintage_club_timetable_registration_marker():
     events = vintage_club.parse_timetable(fixture("vc_classes.html"), VC + "classes.aspx", TODAY)
     shag = next(e for e in events if e.title.startswith("Shag 1"))

@@ -24,6 +24,7 @@ WEEKDAYS_EN = {
     "donnerstag": "Thursdays", "freitag": "Fridays", "samstag": "Saturdays", "sonntag": "Sundays",
 }
 REGISTRATION_NOTE = "Advance registration by email required."
+_STARTS_FROM = re.compile(r"\bab (\d{1,2})\.(\d{1,2})\.(?:\d{2,4})?$")
 
 DEFAULT_PAGES = [
     {"path": "workshops.aspx", "type": "workshop"},
@@ -80,7 +81,8 @@ def parse_timetable(html, page_url, today=None):
                 if not dates:
                     continue
                 name, level, needs_registration = course
-                details = [descriptions.get(_level_key(name, level), "")]
+                dates = _from_note(level, dates)
+                details =[descriptions.get(_level_key(name, level), "")]
                 if needs_registration:
                     details.append(REGISTRATION_NOTE)
                 events.append(Event(
@@ -128,6 +130,17 @@ def _course(cell):
     name = name.lstrip("*").strip()
     level = " ".join(paragraphs[1:])
     return name, level, needs_registration
+
+
+def _from_note(level, dates):
+    """A course that starts mid-block says so at the end of its level ("alle Level ab 28.10."):
+    drop the sessions before that. "ab 18.02.2026: **Electro Swing" is another course taking over."""
+    note = _STARTS_FROM.search(level)
+    if note:
+        for index, day in enumerate(dates):
+            if (day.day, day.month) == (int(note[1]), int(note[2])):
+                return dates[index:]
+    return dates
 
 
 def _course_descriptions(doc):

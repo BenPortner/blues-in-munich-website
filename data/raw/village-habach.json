@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-11-05T11:15:52+00:00",
+ "scraped_at": "2026-11-06T11:13:47+00:00",
  "status": {
   "id": "village-habach",
   "name": "Village Habach",
   "url": "https://www.village-habach.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 46
+  "found": 45
  },
  "events": [
-  {
-   "title": "Village Session und gemütliches Treffen für Alle",
-   "type": "concert",
-   "start": "2026-11-05T19:00",
-   "end": null,
-   "url": "https://village-habach.de/programm/?single=d964b9f01daa83016fc208fbb573e008",
-   "venue": "Village Habach",
-   "address": "Obermühle 1, 82392 Habach",
-   "description": "Die legendäre Donnerstag Session ! Beginn:19:00 Ende: 24:00 Einfaches Essen, wie Pizza und Flammkuchen, ist im Angebot. Eintritt frei ! Keine Reservierungen. Wir freuen uns auf einen besonderen Abend !",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Yasi Hofer",
    "type": "concert",

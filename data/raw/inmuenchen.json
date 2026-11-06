@@ -1,14 +1,98 @@
 {
- "scraped_at": "2026-11-05T11:20:09+00:00",
+ "scraped_at": "2026-11-06T11:17:06+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 142
+  "found": 145
  },
  "events": [
+  {
+   "title": "Apollon’s Smile & Friends",
+   "type": "concert",
+   "start": "2027-04-17T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/apollons-smile-friends-springtimeconcert-lindenkeller-2027.html",
+   "venue": "Lindenkeller Freising",
+   "address": "Veitsmüllerweg 2, 85354 Freising",
+   "description": "Ein Duo und viele befreundete Musiker*innen spielen eigene Songs und Mitsing-Covers von Folk und Blues bis Soul und Klassik.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Laura Cox",
+   "type": "concert",
+   "start": "2027-11-16T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/laura-cox-2027.html",
+   "venue": "Backstage Halle",
+   "address": "Reitknechtstraße 6, 80639 München",
+   "description": "Die Gitarristin verbindet Classic Rock und Blues und wurde mit Gitarrencovern auf YouTube bekannt.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Rock"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Faces of the Blues – Robert Richter & Gaby von Sulkowski",
+   "type": "concert",
+   "start": "2026-11-21T20:00",
+   "end": "2026-11-21T22:00",
+   "url": "https://www.in-muenchen.de/events/faces-of-the-blues-robert-richter-gaby-von-sulkowski.html",
+   "venue": "La Cantina",
+   "address": "Elisabethstr. 53, 80796 München",
+   "description": "Ein Duo verbindet Bluesklassiker mit Lesungen aus dem Buch zur Ausstellung.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Queens Of The Stone Age",
+   "type": "concert",
+   "start": "2027-06-28T19:00",
+   "end": "2027-06-28T23:00",
+   "url": "https://www.in-muenchen.de/events/queens-of-the-stone-age.html",
+   "venue": "Olympiapark München / Tollwood Sommerfestival",
+   "address": "Spiridon-Louis-Ring, 80809 München",
+   "description": "Im Rahmen der Perfecth World Tour präsentiert Queens Of The Stone Age eine kraftvolle Mischung aus Rock und Wüsten-Blues. Die Band schafft eine intensive Atmosphäre mit ihren energiegeladenen Live-Performances.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Rock"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
   {
    "title": "Jacques Stotzem",
    "type": "concert",
@@ -412,28 +496,6 @@
    "dates": [],
    "tags": [
     "Folk-Pop"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Montack & The Ultimate Silverbeet",
-   "type": "concert",
-   "start": "2026-11-05T19:30",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/montack-the-ultimate-silverbeet.html",
-   "venue": "Drehleier – Szenerie",
-   "address": "Rosenheimer Str. 123, 81667 München",
-   "description": "Alternative Heavy Rock aus München trifft Blues, Rock und Funk aus Weilheim: zwei Bands, ein Abend im Drehleier.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Blues, Rock, Funk, Alternative"
    ],
    "source_id": "",
    "source_name": "",
@@ -1326,8 +1388,8 @@
   {
    "title": "Uli Wunner & John Brunton",
    "type": "concert",
-   "start": "2026-11-05T20:00",
-   "end": "2026-11-05T22:00",
+   "start": "2026-12-17T20:00",
+   "end": "2026-12-17T22:00",
    "url": "https://www.in-muenchen.de/events/from-new-orleans-to-brasil-and-beyond.html",
    "venue": "Galli Theater",
    "address": "in der Amalienpassage 86, 80799 München",
@@ -1368,8 +1430,8 @@
   {
    "title": "Die letzten Nächte der Bohème",
    "type": "concert",
-   "start": "2026-11-05T20:00",
-   "end": "2026-11-05T22:00",
+   "start": "2026-12-09T20:00",
+   "end": "2026-12-09T22:00",
    "url": "https://www.in-muenchen.de/events/die-letzten-nachte-der-boheme-heppel-ettlich.html",
    "venue": "Heppel & Ettlich",
    "address": "Feilitzschstraße 12, 80802 München",
@@ -2662,7 +2724,7 @@
    "id": ""
   },
   {
-   "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
+   "title": "Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich",
    "type": "concert",
    "start": "2026-12-01T20:00",
    "end": null,
@@ -2750,7 +2812,7 @@
    "id": ""
   },
   {
-   "title": "Bin I Kini?! - Der Prinzregenten-Blues",
+   "title": "Bin I Kini?! – Der Prinzregenten-Blues",
    "type": "concert",
    "start": "2026-11-17T20:00",
    "end": null,
@@ -2772,7 +2834,7 @@
    "id": ""
   },
   {
-   "title": "Martin Schmitt - Schmitt happens",
+   "title": "Martin Schmitt – Schmitt happens",
    "type": "concert",
    "start": "2026-11-26T20:00",
    "end": "2026-11-26T23:00",
@@ -2838,7 +2900,7 @@
    "id": ""
   },
   {
-   "title": "Da Huawa und I - Schokoladenseit'n",
+   "title": "Da Huawa und I – Schokoladenseit’n",
    "type": "concert",
    "start": "2026-11-20T20:00",
    "end": "2026-11-20T23:00",
@@ -2994,7 +3056,7 @@
   {
    "title": "Weiberwirtschaft",
    "type": "concert",
-   "start": "2026-11-05T20:00",
+   "start": "2026-11-06T20:00",
    "end": null,
    "url": "https://www.in-muenchen.de/events/weiberwirtschaft-iberl-buhne.html",
    "venue": "Iberl Bühne",

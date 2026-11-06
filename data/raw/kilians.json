@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-05T11:15:47+00:00",
+ "scraped_at": "2026-11-06T11:13:40+00:00",
  "status": {
   "id": "kilians",
   "name": "Kilians Irish Pub",
@@ -9,26 +9,6 @@
   "found": 8
  },
  "events": [
-  {
-   "title": "Acoustic Experience",
-   "type": "concert",
-   "start": "2026-11-05T21:00",
-   "end": "2026-11-06T00:30",
-   "url": "https://reservierung.heyrosi.de/event/kilians-irish-pub/acoustic-experience-2",
-   "venue": "Kilians Irish Pub",
-   "address": "Frauenplatz 11, 80331 München",
-   "description": "Oldies, Blues & Rock",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Crosstown Project",
    "type": "concert",
@@ -158,6 +138,26 @@
    "venue": "Kilians Irish Pub",
    "address": "Frauenplatz 11, 80331 München",
    "description": "spielt die Klassiker der Zukunft: von Hendrix bis Winehouse",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Dean Grace",
+   "type": "concert",
+   "start": "2026-11-16T21:00",
+   "end": "2026-11-17T00:30",
+   "url": "https://reservierung.heyrosi.de/event/kilians-irish-pub/dean-grace",
+   "venue": "Kilians Irish Pub",
+   "address": "Frauenplatz 11, 80331 München",
+   "description": "Coversongs und Eigenes mit dem richtigen britischen Gitarrensound",
    "recurrence": null,
    "dates": [],
    "tags": [],

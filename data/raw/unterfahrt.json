@@ -1,36 +1,14 @@
 {
- "scraped_at": "2026-11-05T11:15:43+00:00",
+ "scraped_at": "2026-11-06T11:13:36+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 59
+  "found": 58
  },
  "events": [
-  {
-   "title": "ALESSANDRO DI VIRGILIO TRIO",
-   "type": "concert",
-   "start": "2026-11-05T20:00",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=16659",
-   "venue": "Einstein Kultur",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Dieses Konzert der Reihe Swing Manouche findet in der Halle 4 des Einstein statt. Der Turiner Alessandro Di Virgilio ist ein preisgekrönter Filmkomponist. Seine Tätigkeit als Soundtrack-Spezialist offenbart sich auch wenn er an der Gitarre glänzt – sein von mediterranem Charme, italienischer Leidenschaft, goldenem Licht und der flirrenden Energie des Jazz Manouche durchdrungenes Spiel lässt bewegte und bewegende Bilder vor dem inneren Auge seiner Zuhörerinnen und Zuhörer aufziehen. Da spielt sich ein betörender Film ab, der einen nur aufseufzen lässt.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Einstein Kultur"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "JUNGER MÜNCHNER JAZZPREIS",
    "type": "concert",
@@ -415,7 +393,7 @@
    "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11703",
    "venue": "Jazzclub Unterfahrt",
    "address": "Einsteinstraße 42, 81675 München",
-   "description": "Was die Beiden eint: diese Neugier auf Unbekanntes, dieser Sinn für musikalische Poesie, für sehnsuchtsvolle zeitlose Melodien, die uns umwehen wie eine warme Sommerbrise. Summerwind heißt ein gemeinsames Album des schwedischen Bassisten/ Cellisten Lars Danielsson und des sardischen Trompeters/ Flügelhornisten Paolo Fresu. In ihrer Musik treffen sich luftige nordische und südliche Strömungen, entstehen atmosphärische Bilder, wohlige Farbmischungen, Räume, die die zwei Virtuosen meist offenlassen – für die Fantasie ihrs Publikums.",
+   "description": "Sold out. Was die Beiden eint: diese Neugier auf Unbekanntes, dieser Sinn für musikalische Poesie, für sehnsuchtsvolle zeitlose Melodien, die uns umwehen wie eine warme Sommerbrise. Summerwind heißt ein gemeinsames Album des schwedischen Bassisten/ Cellisten Lars Danielsson und des sardischen Trompeters/ Flügelhornisten Paolo Fresu. In ihrer Musik treffen sich luftige nordische und südliche Strömungen, entstehen atmosphärische Bilder, wohlige Farbmischungen, Räume, die die zwei Virtuosen meist offenlassen – für die Fantasie ihrs Publikums.",
    "recurrence": null,
    "dates": [],
    "tags": [

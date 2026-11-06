@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-05T11:19:39+00:00",
+ "scraped_at": "2026-11-06T11:16:43+00:00",
  "status": {
   "id": "kunst-in-sendling",
   "name": "Kunst in Sendling e.V.",
   "url": "https://www.kunst-in-sendling.com/",
   "kind": "venue",
   "status": "ok",
-  "found": 15
+  "found": 17
  },
  "events": [
   {
@@ -38,6 +38,26 @@
    "venue": "Sendlinger Kulturschmiede",
    "address": "Daiserstraße 22, 81371 München",
    "description": "Finissage der Ausstellung „ANTARKTIS – der 6. Kontinent“ von Heike Haun. Letzte Gelegenheit, die Gemälde sowie die begleitende Foto- und Videoshow mit Aufnahmen der Antarktisreise zu sehen.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Elke Reis: Farbe … Licht … und eine ungeahnte Freiheit",
+   "type": "concert",
+   "start": "2026-11-10",
+   "end": "2027-01-09",
+   "url": "https://www.kunst-in-sendling.com/event/elke-reis-farbe-licht-ungeahnte-freiheit/",
+   "venue": "Stadtbibliothek Neuhausen",
+   "address": "Nymphenburger Straße 171b, 80634 München",
+   "description": "Elke Reis zeigt minimalistische Malereien, in denen Farbe, Raum und Licht im Mittelpunkt stehen. Die Ausstellung lädt dazu ein, sich Zeit für die Wahrnehmung von Farbflächen und ihrer Wirkung zu nehmen. Ausstellungszeitraum laut Stadtbibliothek: 10. November 2026 bis 9. Januar 2027. Besichtigung ab Mittwoch, 11. November: Am 10. November bleibt die Bibliothek wegen einer internen Veranstaltung ganztägig geschlossen. Öffnungszeiten Dienstag bis Freitag 10–19 Uhr, Samstag 10–15 Uhr. Sonntag, Montag und an Feiertagen geschlossen. Bitte auch die aktuellen Sonderöffnungszeiten der Bibliothek beachten. Vernissage: Freitag, 20. November 2026, 19:30–21:30 Uhr. Stadtbibliothek Neuhausen, Nymphenburger Straße 171b, 80634 München. Eintritt frei, ohne Anmeldung. Aktuelle Öffnungszeiten der Stadtbibliothek Neuhausen · Webseite Elke Reis · Eintritt: Kostenlos",
    "recurrence": null,
    "dates": [],
    "tags": [],
@@ -118,6 +138,26 @@
    "venue": "Sendlinger Kulturschmiede",
    "address": "Daiserstraße 22, 81371 München",
    "description": "Ausstellung geöffnet 14–20 Uhr. Künstlerinnen-Gespräch um 16 Uhr. Gesellschaften verändern sich, Zugehörigkeiten werden neu verhandelt. Die Ausstellung macht Übergänge, Verschiebungen und Formen von Anders- oder Fremdartigem sichtbar. Edith Steiner erkundet das Zusammenspiel dieser Aspekte mittels Acryl-Malerei, geschütteter Farbe und Papiercollage. Ihre Arbeiten suchen nach Ausgewogenheit im Raum und Zwischenraum. Myriam Tümmers, selbst aus multikultureller Familie, verarbeitet gefundene Objekte, die sie entfremdet zu minimalistischen Collagen umgestaltet. Und immer wieder dieser (rote) Faden, der sich durchzieht und alles verbindet. Sendling lebt von genau diesen unterschiedlichen Lebenswelten. Die Kulturschmiede ist daher nicht nur Kulisse, sondern Teil des Themas. Programm Vernissage: Donnerstag, 12.11.2026, 18–21 Uhr Samstag, 14.11., 15–21 Uhr: Gesangstrio mit Jodlern und georgischem Gesang um 18 Uhr Sonntag, 15.11., 14–20 Uhr: Künstlerinnen-Gespräch um 16 Uhr Samstag, 21.11., 15–21 Uhr: Erzählkunst mit Ines Honsel um 18 Uhr Sonntag, 22.11., Ausstellung geöffnet 14–20 Uhr: Finissage mit Cosmic Guitar Duo um 16 Uhr Weitere Besichtigung nach Vereinbarung. Sendlinger Kulturschmiede, Daiserstraße 22, 81371 München Künstlerinnen: Edith Steiner und Myriam Tümmers Kontakte: www.m-artelier.com | www.edith-steiner.de",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Vernissage – Elke Reis: Farbe … Licht … und eine ungeahnte Freiheit",
+   "type": "other",
+   "start": "2026-11-20T19:30",
+   "end": "2026-11-20T21:30",
+   "url": "https://www.kunst-in-sendling.com/event/vernissage-elke-reis-farbe-licht-ungeahnte-freiheit/",
+   "venue": "Stadtbibliothek Neuhausen",
+   "address": "Nymphenburger Straße 171b, 80634 München",
+   "description": "Vernissage zur Kunstausstellung von Elke Reis am Freitag, 20. November 2026, von 19:30 bis 21:30 Uhr. Gelegenheit, die Künstlerin persönlich kennenzulernen und mit ihr ins Gespräch zu kommen. Elke Reis zeigt minimalistische Malereien, in denen Farbe, Raum und Licht im Mittelpunkt stehen. Die Ausstellung lädt dazu ein, sich Zeit für die Wahrnehmung von Farbflächen und ihrer Wirkung zu nehmen. Stadtbibliothek Neuhausen, Nymphenburger Straße 171b, 80634 München. Eintritt frei, ohne Anmeldung. Die Ausstellung läuft laut Stadtbibliothek vom 10. November 2026 bis 9. Januar 2027. Wegen der Schließung am 10. November ist die Besichtigung ab 11. November zu den regulären Öffnungszeiten möglich. · Eintritt: Kostenlos",
    "recurrence": null,
    "dates": [],
    "tags": [],

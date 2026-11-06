@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-05T11:18:34+00:00",
+ "scraped_at": "2026-11-06T11:15:56+00:00",
  "status": {
   "id": "stragula",
   "name": "Stragula",
   "url": "https://stragula.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 27
+  "found": 28
  },
  "events": [
   {
@@ -498,6 +498,26 @@
    "venue": "Stragula",
    "address": "Bergmannstr. 66, 80339 München",
    "description": "Die Munich Rhythm and Blues Band begeistert mit einer Mischung aus Funk, Soul, Pop; Rock und R&B Musik. Wir präsentieren viele Musikstile wie Rhythm and Blues, Funk, Soul, Blues von Aretha Franklin über Blues Brothers bis Johnny Cash. Unser Repertoire beinhaltet Stücke wie Sweet Home Chicago, Mustang Sally, Ring of Fire, Summertime aber auch modernere Stücke wie Haunted Heart von Christina Aguilera. Unsere Bandmitglieder haben sich durch jahrelange Liveerfahrungen auch in anderen Bands zu Spitzenmusikern gesteigert. · Eintritt: Frei (Hutspende)",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "pick up the music",
+   "type": "concert",
+   "start": "2027-10-09T20:00",
+   "end": null,
+   "url": "https://stragula.de/events.html#:~:text=pick%20up%20the%20music",
+   "venue": "Stragula",
+   "address": "Bergmannstr. 66, 80339 München",
+   "description": "Funk/Soul Pick up the music 2023 ist die Wiederbelebung der bereits seit Jahren in München aktiven Funk-Soulband, um Gitarrist Romano Pirc mit seinen langjährigen Bandkollegen Winfried Bochtler, Andreas Kandler und Gerhard Orth. Frischen Wind brachten nach der Corona bedingten Auszeit, die viele Jahre im Profibereich tätige Sängerin Kerstin Frank, der Münchner Schlagzeuger Fredi Maul und der ebenfalls aus München bekannte Bläserallrounder Sepp Schmölz und last but never least vervollständigt unseren Bläsersatz am Saxophon Peter Prestele. Die Band präsentiert Songs aus verschiedenen Jahrzehnten des Funk & Soul. · Eintritt: Frei (Hutspende)",
    "recurrence": null,
    "dates": [],
    "tags": [],

@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-05T11:15:27+00:00",
+ "scraped_at": "2026-11-06T11:13:17+00:00",
  "status": {
   "id": "hepcat-club",
   "name": "Hep Cat Club",
   "url": "https://hepcatclub.com/",
   "kind": "school",
   "status": "ok",
-  "found": 237
+  "found": 238
  },
  "events": [
   {
@@ -484,13 +484,7 @@
    "description": "",
    "recurrence": "Tuesdays 18:30–19:30",
    "dates": [
-    "2026-11-03",
-    "2026-11-10",
-    "2026-11-17",
-    "2026-11-24",
-    "2026-12-01",
-    "2026-12-08",
-    "2026-12-15"
+    "2026-11-03"
    ],
    "tags": [],
    "source_id": "",
@@ -1359,6 +1353,33 @@
   },
   {
    "title": "Hip Hop 1 mit Timo",
+   "type": "class",
+   "start": "2026-11-10T18:30",
+   "end": "2026-11-10T19:30",
+   "url": "https://hepcatclub.com/",
+   "venue": "Hep Cat Club",
+   "address": "Viktoriastraße 3b, 86150 Augsburg",
+   "description": "",
+   "recurrence": "Tuesdays 18:30–19:30",
+   "dates": [
+    "2026-11-10",
+    "2026-11-17",
+    "2026-11-24",
+    "2026-12-01",
+    "2026-12-08",
+    "2026-12-15"
+   ],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "West Coast Swing 2 mit Simon & Erik",
    "type": "class",
    "start": "2026-11-10T18:30",
    "end": "2026-11-10T19:30",
@@ -2865,7 +2886,7 @@
    "id": ""
   },
   {
-   "title": "West Coast Swing 2",
+   "title": "West Coast Swing 2 mit Simon & Erik",
    "type": "class",
    "start": "2027-01-12T18:30",
    "end": "2027-01-12T19:30",
@@ -4613,7 +4634,7 @@
    "id": ""
   },
   {
-   "title": "West Coast Swing 2",
+   "title": "West Coast Swing 2 mit Simon & Erik",
    "type": "class",
    "start": "2027-04-06T18:30",
    "end": "2027-04-06T19:30",

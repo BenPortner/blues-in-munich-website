@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T11:20:47+00:00",
+  "generated_at": "2026-11-06T11:17:36+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -3026,7 +3026,7 @@
       "id": "ff05effc904f"
     },
     {
-      "title": "Bin I Kini?! - Der Prinzregenten-Blues",
+      "title": "Bin I Kini?! – Der Prinzregenten-Blues",
       "type": "concert",
       "start": "2026-11-17T20:00",
       "end": null,
@@ -3204,6 +3204,26 @@
       ],
       "known_artists": [],
       "id": "35981d2a1203"
+    },
+    {
+      "title": "Faces of the Blues – Robert Richter & Gaby von Sulkowski",
+      "type": "concert",
+      "start": "2026-11-21T20:00",
+      "end": "2026-11-21T22:00",
+      "url": "https://www.in-muenchen.de/events/faces-of-the-blues-robert-richter-gaby-von-sulkowski.html",
+      "venue": "La Cantina",
+      "address": "Elisabethstr. 53, 80796 München",
+      "description": "Ein Duo verbindet Bluesklassiker mit Lesungen aus dem Buch zur Ausstellung.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "3b93210cc13c"
     },
     {
       "title": "Sweety Swing Night",
@@ -3608,7 +3628,7 @@
       "id": "4e657f549678"
     },
     {
-      "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
+      "title": "Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich",
       "type": "concert",
       "start": "2026-12-01T20:00",
       "end": null,
@@ -4048,6 +4068,33 @@
       "artists": [],
       "known_artists": [],
       "id": "1c9c19cbe92e"
+    },
+    {
+      "title": "Uli Wunner & John Brunton",
+      "type": "concert",
+      "start": "2026-12-17T20:00",
+      "end": "2026-12-17T22:00",
+      "url": "https://www.in-muenchen.de/events/from-new-orleans-to-brasil-and-beyond.html",
+      "venue": "Galli Theater",
+      "address": "in der Amalienpassage 86, 80799 München",
+      "description": "Klarinette, Saxofon und Gitarre auf Reisen von New Orleans nach Rio: Uli Wunner und John Brunton spielen Jazz, Choro und Samba mit britisch-bayrischem Humor.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Jazz und Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "John Brunton",
+          "url": "https://www.last.fm/music/John+Brunton"
+        }
+      ],
+      "known_artists": [],
+      "id": "4ecf34a30c77"
     },
     {
       "title": "Vlado Grizelj Band",
@@ -5599,7 +5646,7 @@
       "url": "https://hepcatclub.com/",
       "kind": "school",
       "status": "ok",
-      "found": 237,
+      "found": 238,
       "kept": 3
     },
     {
@@ -5635,7 +5682,7 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 59,
+      "found": 58,
       "kept": 1
     },
     {
@@ -5680,7 +5727,7 @@
       "url": "https://www.village-habach.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 46,
+      "found": 45,
       "kept": 27
     },
     {
@@ -5698,7 +5745,7 @@
       "url": "https://stragula.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 27,
+      "found": 28,
       "kept": 3
     },
     {
@@ -5743,7 +5790,7 @@
       "url": "https://www.kunst-in-sendling.com/",
       "kind": "venue",
       "status": "ok",
-      "found": 15,
+      "found": 17,
       "kept": 0
     },
     {
@@ -5761,7 +5808,7 @@
       "url": "https://www.einewelthaus.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 28,
+      "found": 30,
       "kept": 1
     },
     {
@@ -5788,8 +5835,8 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 142,
-      "kept": 58
+      "found": 145,
+      "kept": 60
     },
     {
       "id": "mvp",
@@ -5806,7 +5853,7 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 216,
+      "found": 210,
       "kept": 4
     },
     {

@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-11-06T11:13:36+00:00",
+ "scraped_at": "2026-11-07T10:30:02+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 58
+  "found": 57
  },
  "events": [
-  {
-   "title": "JUNGER MÜNCHNER JAZZPREIS",
-   "type": "concert",
-   "start": "2026-11-06T20:00",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11687",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Sold out. Der Junge Münchner Jazzpreis (JMJP) wird in diesem Jahr das vierzehnte Mal vergeben. Er ist ein Förderpreis von ‘mucjazz – Münchner Verein zur Förderung von Jazz e.V.’ und ist ausgeschrieben für Jazzmusiker:innen bis 28 Jahre. Heute treten die 3 von der hochkarätig besetzten Jury ausgewählten Bands zum Konzertfinale an.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "MARK LETTIERI",
    "type": "concert",
@@ -457,7 +437,7 @@
    "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11706",
    "venue": "Jazzclub Unterfahrt",
    "address": "Einsteinstraße 42, 81675 München",
-   "description": "Drei Bläser, eine Rhythmusgruppe und eine gemeinsame Liebe zum modalen Jazz der späten Fünfziger: Das junge Münchner Sextett orientiert sich am Klang der klassischen Miles-Davis-Besetzungen, an weiten, offenen Formen und an einem Swing, der nicht drängt, sondern trägt. Im Mittelpunkt steht aber das Zusammenspiel. Die Arrangements lassen viel Raum für Improvisation, jede Stimme bekommt ihren Platz. Wer coolen, ehrlichen Small-Group-Jazz in angenehmer Clubatmosphäre mag, ist hier genau richtig.",
+   "description": "Auf Weitwinkel-Bildern ist alles drauf, perspektivisch manchmal leicht verzerrt. Auf die Musik der Münchner Band Wide Angles übertragen heißt das – da ist alles drin, aber oft wird auch ganz nah ran gezoomt. Etwa auf den modalen, aber auch den coolen Jazz der späten 50er Jahre, auf Musik der klassischen Miles Davis Besetzungen also, auf Coltrane, auf die Beiden also, die heuer im Himmel ihren 100. Geburtstag feierten. Doch spielen die drei Bläser und die Rhythmusgruppe nicht nur verklärt nostalgisch, sondern sind unzweifelhaft auch im Hier und Jetzt verankert.",
    "recurrence": null,
    "dates": [],
    "tags": [],

@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-11-06T11:16:26+00:00",
+ "scraped_at": "2026-11-07T10:32:26+00:00",
  "status": {
   "id": "ubo9",
   "name": "UBO 9",
   "url": "https://www.ubo9.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 12
+  "found": 11
  },
  "events": [
-  {
-   "title": "Herbstausstellung Aubinger Künstlerkreis",
-   "type": "other",
-   "start": "2026-11-06T18:00",
-   "end": "2026-11-22T00:00",
-   "url": "https://www.ubo9.de/veranstaltung/herbstausstellung-aubinger-kuenstlerkreis-2/",
-   "venue": "UBO 9",
-   "address": "Ubostraße 9, 81245 München",
-   "description": "Der Aubinger Künstlerkreis lädt herzlich zur Vernissage der „Herbstausstellung“ ein. Die Ausstellung kann am Wochenende des 07. und 08. November (samstags in der Zeit von 13.00 bis 19.00 Uhr, sonntags von 13.00 bis 18.00 Uhr) besucht werden. Am Sonntag präsentiert der Künstelerkreis „Dichtung und Satire“ in der Zeit von 14.00 bis 15.30 Uhr. Die Ausstellung ist im Anschluss an das Eröffnungswochende zu den regulären Öffnungszeiten oder nach Vereinbarung zu besichtigen. Öffnungszeiten: Di 10-13 Uhr, Do 16-19 Uhr Eintritt frei",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Open Stage",
    "type": "concert",

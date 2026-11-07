@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-11-06T11:13:28+00:00",
+ "scraped_at": "2026-11-07T10:29:56+00:00",
  "status": {
   "id": "rheinpfalz-schwabing",
   "name": "Rheinpfalz Schwabing",
   "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
   "kind": "venue",
   "status": "ok",
-  "found": 14
+  "found": 13
  },
  "events": [
-  {
-   "title": "Lost in Bavaria",
-   "type": "concert",
-   "start": "2026-11-06T20:00",
-   "end": null,
-   "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
-   "venue": "Rheinpfalz Schwabing",
-   "address": "Kurfürstenstraße 35, 80801 München",
-   "description": "Lost in Bavaria sind ein Trio mit zwei akustischen Gitarren, Bass und dreistimmigem Gesang. „Ehrlicher Sound, locker und geil“ titelte die Süddeutsche Zeitung nach einem Konzert des Trios im Herrschinger Kurparkschlösschen. Das aktuelle Programm ist u.a. dem großartigen Singer-Songwriter John Prine aus Chicago gewidmet. Wir freuen uns, dass diese wunderbaren Musiker endlich einen Termin für uns haben. Bitte frühzeitig kommen, es könnte voll werden. Wir freuen uns auf einen Wunderbaren Abend und einen vollen Hut für die Muusi…",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Blue Traces",
    "type": "concert",
@@ -37,7 +17,7 @@
    "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
    "venue": "Rheinpfalz Schwabing",
    "address": "Kurfürstenstraße 35, 80801 München",
-   "description": "Liebe Freunde des Rhythm & Blues, Der Sommer ist kaum vorbei, schon laden die blue traces zu einem ihrer stets legendären Clubkonzerte in die Schwabinger Kultkneipe „Rheinpfalz“ ein. Dort fühlen wir uns wohl und das sehr geschätzte Publikum hat sich auf uns eingegroovt und schwingt gerne mal das Tanzbein zum kernigen Blues! Eine perfekte Basis für wirklich tolle Konzerte! Guckt mal hier, wie’s in der Rheinpfalz typischerweise bei unseren Konzerten zugeht: https://youtu.be/XArGGNyBG7w The „blue traces“ wurden 2011 als Blues- und Rockband gegründet. Seitdem spielen die Münchner Musiker Michael Drescher (voc + git), Viktor Magdolen (keys), Fritz Winbeck (drums), Markus Roithmaier (bass) und Sven Kesselring (git) unverändert in dieser Besetzung. Michi Dreschers unverkennbare Stimme prägt den Sound der Band, seine Vorbilder Eric Burdon, Joe Cocker und Tom Waits haben ganz sicher ihre „Spuren“ (engl. traces) hinterlassen. Das gilt auch für den Rest der Band. Ihr ehrlicher und geradliniger Sound trägt den Gesang und begeistert durch mitreißende Spielfreude. Immer wieder aufs Neue schaffen die fünf Musiker eine besondere Atmosphäre, frei nach dem Motto „All that makes you happy is the Blues“ (Buddy Guy). Ihnen gelingen so elektrisierende Interpretationen von bekannten und weniger vertrauten Klassikern. Das Repertoire der bluetraces reicht von der „alten“ Blues-Buddies Muddy Waters, T-Bone Walker und Ray Charles bis zu Eric Clapton, Eric Burdon, Joe Cocker, Amy Winehouse und Janis Joplin. Wir freuen uns auf diese Wahnsinns-Band https://youtu.be/XArGGNyBG7w (Rheinpfalz) Bitte an den Hut denken und frühzeitig kommen.",
+   "description": "Liebe Freunde des Rhythm & Blues, Der Sommer ist kaum vorbei, schon laden die blue traces zu einem ihrer stets legendären Clubkonzerte in die Schwabinger Kultkneipe „Rheinpfalz“ ein. Dort fühlen wir uns wohl und das sehr geschätzte Publikum hat sich auf uns eingegroovt und schwingt gerne mal das Tanzbein zum kernigen Blues! Eine perfekte Basis für wirklich tolle Konzerte! Guckt mal hier, wie’s in der Rheinpfalz typischerweise bei unseren Konzerten zugeht: https://youtu.be/XArGGNyBG7w The „blue traces“ wurden 2011 als Blues- und Rockband gegründet. Seitdem spielen die Münchner Musiker Michael Drescher (voc + git), Viktor Magdolen (keys), Fritz Winbeck (drums), Markus Roithmaier (bass) und Sven Kesselring (git) unverändert in dieser Besetzung. Michi Dreschers unverkennbare Stimme prägt den Sound der Band, seine Vorbilder Eric Burdon, Joe Cocker und Tom Waits haben ganz sicher ihre „Spuren“ (engl. traces) hinterlassen. Das gilt auch für den Rest der Band. Ihr ehrlicher und geradliniger Sound trägt den Gesang und begeistert durch mitreißende Spielfreude. Immer wieder aufs Neue schaffen die fünf Musiker eine besondere Atmosphäre, frei nach dem Motto „All that makes you happy is the Blues“ (Buddy Guy). Ihnen gelingen so elektrisierende Interpretationen von bekannten und weniger vertrauten Klassikern. Das Repertoire der bluetraces reicht von der „alten“ Blues-Buddies Muddy Waters, T-Bone Walker und Ray Charles bis zu Eric Clapton, Eric Burdon, Joe Cocker, Amy Winehouse und Janis Joplin. Wir freuen uns auf diese Wahnsinns-Band https://youtu.be/XArGGNyBG7w (Rheinpfalz) Bitte an den Hut denken und frühzeitig kommen. Liebe Freunde des Rhythm & Blues, vor einer Woche haben wir zum morgigen Konzert in die Schwabinger Kultkneipe „Rheinpfalz“ eingeladen. Wir haben inzwischen von der Wirtin Nachricht erhalten, dass sämtliche Sitzplätze ausreserviert sind. Nachdem auch Stehplätze äusserst limitiert sind, kann es bei einem Spontanbesuch leicht sein, dass man unverrichteter Dinge (also kein Einlass) weiterziehen muss. Wir haben dies bereits in früheren Konzerten in der Rheinpfalz erlebt (was für uns als Band super ist, wenn’s voll ist, für Abgewiesene natürlich blöd). Die blue traces können allerdings eine Super-Alternative vorschlagen, falls Ihr uns dieses Jahr noch ein letztes Mal hören wollt: wir spielen am Freitag, 20. November um 20 Uhr unser alljährliches Konzert in der Kulturbühne Hinterhalt in Gelting! Wenn Ihr uns schreibt, bekommt Ihr dann garantiert eine Sitzplatzreservierung für dieses Konzert im Hinterhalt. Bis bald, eure blue traces",
    "recurrence": null,
    "dates": [],
    "tags": [],

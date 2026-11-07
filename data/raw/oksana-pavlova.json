@@ -1,14 +1,34 @@
 {
- "scraped_at": "2026-11-06T11:13:06+00:00",
+ "scraped_at": "2026-11-07T10:29:39+00:00",
  "status": {
   "id": "oksana-pavlova",
   "name": "Oksana Pavlova",
   "url": "https://oksanapavlova.de/",
   "kind": "school",
   "status": "ok",
-  "found": 17
+  "found": 18
  },
  "events": [
+  {
+   "title": "Pre-Bluesverschwörungskurs am 03.12.2026",
+   "type": "workshop",
+   "start": "2026-12-03T18:30",
+   "end": "2026-12-03T20:00",
+   "url": "https://oksanapavlova.de/aktuelles/pre-bluesverschwoerungskurs-am-03-12-2026/",
+   "venue": null,
+   "address": null,
+   "description": "💜 Du möchtest Blues tanzen, weißt aber noch nicht, wie? 🎶 Einmal im Monat findet in der Münchner Kongress Bar die legendäre Bluesverschwörung statt – ein Abend voller Musik, Tanz und besonderer Atmosphäre! Du würdest gerne dabei sein, hast aber noch nie Blues getanzt? Dann sind unsere Pre-Bluesverschwörungskurse genau das Richtige für dich! 💃🕺 Vor der nächsten Bluesverschwörung bieten wir einen Crashkurs speziell für Anfänger an. Du lernst die wichtigsten Grundschritte und ein paar schöne Moves, die du direkt danach auf der Tanzfläche ausprobieren kannst! 📍 Der Kurs findet in der Arnulfstr. 195, 1. OG statt – von dort aus kommst du schnell zur Party! 📅 3. Dezember 2026 ⏰ 18:30–20:00 Uhr ✨ Keine Vorkenntnisse nötig – bring einfach Neugier und Lust auf Musik mit! 👉 Neugierig geworden? Dann melde dich hier an: https://forms.gle/79UX24mtuE86zZyr7 Wir freuen uns auf dich! 💜",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
   {
    "title": "SHIM-SHAM ist wieder zurück",
    "type": "workshop",

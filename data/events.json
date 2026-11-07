@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T11:17:36+00:00",
+  "generated_at": "2026-11-07T10:33:29+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -2879,15 +2879,15 @@
       "id": "736bb6181162"
     },
     {
-      "title": "Solo Blues · alle Level ab 28.10.",
+      "title": "Blues · alle Level",
       "type": "class",
-      "start": "2026-10-21T17:30",
-      "end": "2026-10-21T18:30",
+      "start": "2026-10-21T18:45",
+      "end": "2026-10-21T19:45",
       "url": "https://www.vintage-club.de/classes.aspx",
       "venue": "Vintage Club (VC Studio 2)",
       "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
-      "description": "Advance registration by email required.",
-      "recurrence": "Wednesdays 17:30–18:30",
+      "description": "Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen, wesentliche Schritte und Figuren, um dich auf der Tanzfläche sicher und wohl zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkundet, die zu verschiedenen Musikstilen getanzt werden können.",
+      "recurrence": "Wednesdays 18:45–19:45",
       "dates": [
         "2026-10-21",
         "2026-10-28",
@@ -2903,7 +2903,33 @@
       "school_url": "https://www.vintage-club.de/",
       "artists": [],
       "known_artists": [],
-      "id": "6981c836dd7b"
+      "id": "5b0f8477edc0"
+    },
+    {
+      "title": "Solo Blues · alle Level ab 28.10.",
+      "type": "class",
+      "start": "2026-10-28T17:30",
+      "end": "2026-10-28T18:30",
+      "url": "https://www.vintage-club.de/classes.aspx",
+      "venue": "Vintage Club (VC Studio 2)",
+      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+      "description": "Advance registration by email required.",
+      "recurrence": "Wednesdays 17:30–18:30",
+      "dates": [
+        "2026-10-28",
+        "2026-11-04",
+        "2026-11-11"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "vintage-club",
+      "source_name": "Vintage Club",
+      "school_name": "Vintage Club",
+      "school_url": "https://www.vintage-club.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "ba0114465f52"
     },
     {
       "title": "Lonesome Andy & his One Man Band",
@@ -3026,7 +3052,7 @@
       "id": "ff05effc904f"
     },
     {
-      "title": "Bin I Kini?! – Der Prinzregenten-Blues",
+      "title": "Bin I Kini?! - Der Prinzregenten-Blues",
       "type": "concert",
       "start": "2026-11-17T20:00",
       "end": null,
@@ -3601,6 +3627,28 @@
       "id": "02cad5d9c1f8"
     },
     {
+      "title": "Mr.ZigZag & Band",
+      "type": "concert",
+      "start": "2026-11-29T15:30",
+      "end": "2026-11-29T17:30",
+      "url": "https://www.tollwood.de/veranstaltungen/2026/mr-zigzag-band-3/",
+      "venue": "Tollwood – Hexenkessel",
+      "address": "Theresienwiese, 80336 München",
+      "description": "Rhythm ’n’ Fun, Rock & Soul Seit 1990 sind sie fester Bestandteil des Tollwood Festivals: Mr.ZigZag & Band. Die sieben Musiker nennen sich selbst die „älteste Boy-Group der Welt“ und spielen vor allem Blues, Soul, Rock und Swing-Musik.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Rhythm ’n’ Fun, Rock & Soul"
+      ],
+      "source_id": "tollwood",
+      "source_name": "Tollwood",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "f8f97b7af139"
+    },
+    {
       "title": "Mojo Blues Band",
       "type": "concert",
       "start": "2026-12-01T20:00",
@@ -3628,7 +3676,7 @@
       "id": "4e657f549678"
     },
     {
-      "title": "Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich",
+      "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
       "type": "concert",
       "start": "2026-12-01T20:00",
       "end": null,
@@ -3708,6 +3756,26 @@
       ],
       "known_artists": [],
       "id": "985e54d88dfa"
+    },
+    {
+      "title": "Pre-Bluesverschwörungskurs am 03.12.2026",
+      "type": "workshop",
+      "start": "2026-12-03T18:30",
+      "end": "2026-12-03T20:00",
+      "url": "https://oksanapavlova.de/aktuelles/pre-bluesverschwoerungskurs-am-03-12-2026/",
+      "venue": null,
+      "address": null,
+      "description": "💜 Du möchtest Blues tanzen, weißt aber noch nicht, wie? 🎶 Einmal im Monat findet in der Münchner Kongress Bar die legendäre Bluesverschwörung statt – ein Abend voller Musik, Tanz und besonderer Atmosphäre! Du würdest gerne dabei sein, hast aber noch nie Blues getanzt? Dann sind unsere Pre-Bluesverschwörungskurse genau das Richtige für dich! 💃🕺 Vor der nächsten Bluesverschwörung bieten wir einen Crashkurs speziell für Anfänger an. Du lernst die wichtigsten Grundschritte und ein paar schöne Moves, die du direkt danach auf der Tanzfläche ausprobieren kannst! 📍 Der Kurs findet in der Arnulfstr. 19",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "oksana-pavlova",
+      "source_name": "Oksana Pavlova",
+      "school_name": "Oksana Pavlova",
+      "school_url": "https://oksanapavlova.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "3ae4357e1471"
     },
     {
       "title": "Jazz & Blues",
@@ -4048,6 +4116,34 @@
       "id": "1454ac8628c6"
     },
     {
+      "title": "SAN2",
+      "type": "concert",
+      "start": "2026-12-12T20:30",
+      "end": null,
+      "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11723",
+      "venue": "Jazzclub Unterfahrt",
+      "address": "Einsteinstraße 42, 81675 München",
+      "description": "Für San2 ist eigentlich jedes Konzert wie ein Heimspiel, doch in der Unterfahrt ganz besonders - und das Publikum liebt es! Wenn der charismatische Sänger mit seiner musikalisch hochkarätig besetzten Soul Patrol die Bühne betritt, springt eines sofort über: Seele. Als langjähriger Hohner Botschafter zählt er nicht nur auf der Bluesharp zur absoluten Oberliga, seine Bühnenshow ist pure Leidenschaft und hat inzwischen Kultstatus - jeder Ton wird hier zelebriert und in Körpersprache übersetzt. Mit seiner nicht weniger strahlenden Soul Patrol ist der smarte Entertainer kaum zu schlagen. Was San2 d",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "German Jazz",
+        "Vocal Jazz"
+      ],
+      "source_id": "unterfahrt",
+      "source_name": "Jazzclub Unterfahrt",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "SAn2",
+          "url": "https://www.last.fm/music/SAn2"
+        }
+      ],
+      "known_artists": [],
+      "id": "0ee3b78f0ab0"
+    },
+    {
       "title": "SoulSalad",
       "type": "concert",
       "start": "2026-12-13T15:00",
@@ -4185,7 +4281,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues Rock"
+        "Blues-Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -4203,7 +4299,7 @@
       "url": "https://www.vintage-club.de/parties.aspx",
       "venue": "Vintage Club",
       "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
-      "description": "Lindy Hop, Balboa, Shag & Blues – Erlebe einen Abend voller Swing, Energie & guter Vibes! Lindy Hop, Shag, Balboa & Blues auf einer Tanzfläche – für Anfänger & Profis gleichermaßen 💃🕺 🕗 20:00 – 24:00 Uhr 🎵 DJ TBA 🎟 Eintritt: 10 Euro Let the music move you! 🎶✨ --------------------",
+      "description": "Lindy Hop, Balboa, Shag & Blues – Erlebe einen Abend voller Swing, Energie & guter Vibes! Lindy Hop, Shag, Balboa & Blues auf einer Tanzfläche – für Anfänger & Profis gleichermaßen 💃🕺 🕗 20:00 – 24:00 Uhr 🎵 DJ wird noch bekannt gegeben 🎟 Eintritt: 10 Euro Let the music move you! 🎶✨ --------------------",
       "recurrence": null,
       "dates": [],
       "tags": [],
@@ -4397,7 +4493,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues Rock"
+        "Blues-Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -4654,7 +4750,7 @@
       "id": "ce4a5f87b3bb"
     },
     {
-      "title": "Stephan Zinner – Großstadtblues",
+      "title": "Stephan Zinner - Großstadtblues",
       "type": "concert",
       "start": "2027-01-26T20:00",
       "end": "2027-01-26T23:00",
@@ -4742,7 +4838,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues Rock"
+        "Blues-Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -4909,6 +5005,26 @@
       ],
       "known_artists": [],
       "id": "b0e1c8042be8"
+    },
+    {
+      "title": "STIFF HIPS",
+      "type": "concert",
+      "start": "2027-02-20T20:00",
+      "end": null,
+      "url": "https://stragula.de/events.html#:~:text=STIFF%20HIPS",
+      "venue": "Stragula",
+      "address": "Bergmannstr. 66, 80339 München",
+      "description": "VON MODERN BLUES BIS ROCK UND COUNTRY - PURISTEN SIND WIR NICHT Der Name sagt es ja schon: die alten Männer mit den zunehmend steifen Hüften (oder die \"hippen Steifen\", wie es der ehemalige Sänger einmal verdrehte und ganz trocken auf die Totenstarre anspielte), nehmen sich selbst nicht so ernst. Ihre musikalischen Helden aber schon. Allerdings sagen die: kopiert nicht, findet eure eigene Version und euer Mojo. Also, wer den puristischen Blues sucht, ist hier falsch. Wer auf einen Abend mit Spaß und Leidenschaft hofft, ist hier richtig. Wir spielen die Musik, die wir lieben und mögen die Vielf",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "stragula",
+      "source_name": "Stragula",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "8385421c76b1"
     },
     {
       "title": "Meena Cryle & Chris Fillmore Band (AUT)",
@@ -5170,6 +5286,33 @@
       "id": "c780e652c65f"
     },
     {
+      "title": "San2",
+      "type": "concert",
+      "start": "2027-04-01T20:00",
+      "end": "2027-04-01T23:00",
+      "url": "https://www.in-muenchen.de/events/san2.html",
+      "venue": "Lustspielhaus",
+      "address": "Occamstr. 8, 80802 München",
+      "description": "Im Mittelpunkt des Abends steht ein akustisches Live-Programm mit San2, der durch sein neues Studioalbum und zahlreiche Auftritte bekannt ist. Begleitet wird er von Sebastian Schwarzenberger an verschiedenen Gitarren und Hansi Enzensperger an der Hammond Orgel.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Soul"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "SAn2",
+          "url": "https://www.last.fm/music/SAn2"
+        }
+      ],
+      "known_artists": [],
+      "id": "7ce68b3a1add"
+    },
+    {
       "title": "Eddie 9V",
       "type": "concert",
       "start": "2027-04-02T20:00",
@@ -5328,7 +5471,7 @@
       "id": "81ae49bbc3cb"
     },
     {
-      "title": "Stephan Zinner – Großstadtblues",
+      "title": "Stephan Zinner - Großstadtblues",
       "type": "concert",
       "start": "2027-04-24T19:30",
       "end": "2027-04-24T22:30",
@@ -5416,7 +5559,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues Rock"
+        "Blues-Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -5520,7 +5663,7 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Blues Rock"
+        "Blues-Rock"
       ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
@@ -5620,7 +5763,7 @@
       "kind": "school",
       "status": "ok",
       "found": 67,
-      "kept": 11
+      "kept": 12
     },
     {
       "id": "boogie-baeren",
@@ -5628,7 +5771,7 @@
       "url": "https://www.boogie-baeren.de/",
       "kind": "school",
       "status": "ok",
-      "found": 119,
+      "found": 118,
       "kept": 14
     },
     {
@@ -5637,8 +5780,8 @@
       "url": "https://oksanapavlova.de/",
       "kind": "school",
       "status": "ok",
-      "found": 17,
-      "kept": 3
+      "found": 18,
+      "kept": 4
     },
     {
       "id": "hepcat-club",
@@ -5664,7 +5807,7 @@
       "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "kind": "venue",
       "status": "ok",
-      "found": 14,
+      "found": 13,
       "kept": 7
     },
     {
@@ -5682,8 +5825,8 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 58,
-      "kept": 1
+      "found": 57,
+      "kept": 2
     },
     {
       "id": "jazzbar-vogler",
@@ -5691,7 +5834,7 @@
       "url": "https://www.jazzbar-vogler.com/",
       "kind": "venue",
       "status": "ok",
-      "found": 14,
+      "found": 13,
       "kept": 0
     },
     {
@@ -5737,7 +5880,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 100,
-      "kept": 8
+      "kept": 9
     },
     {
       "id": "stragula",
@@ -5746,7 +5889,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 28,
-      "kept": 3
+      "kept": 4
     },
     {
       "id": "ackermannbogen",
@@ -5763,7 +5906,7 @@
       "url": "https://www.pasinger-fabrik.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 30,
+      "found": 29,
       "kept": 4
     },
     {
@@ -5781,7 +5924,7 @@
       "url": "https://www.ubo9.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 12,
+      "found": 11,
       "kept": 0
     },
     {
@@ -5799,7 +5942,7 @@
       "url": "https://www.buergersaal-fuerstenried.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 13,
+      "found": 12,
       "kept": 0
     },
     {
@@ -5835,8 +5978,8 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 145,
-      "kept": 60
+      "found": 144,
+      "kept": 61
     },
     {
       "id": "mvp",
@@ -5853,7 +5996,7 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 210,
+      "found": 206,
       "kept": 4
     },
     {

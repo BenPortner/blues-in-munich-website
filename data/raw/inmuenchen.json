@@ -1,14 +1,36 @@
 {
- "scraped_at": "2026-11-07T10:33:00+00:00",
+ "scraped_at": "2026-11-08T10:42:38+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 144
+  "found": 142
  },
  "events": [
+  {
+   "title": "Ludwig Seuss Trio & Abi Wallenstein",
+   "type": "concert",
+   "start": "2027-03-12T20:00",
+   "end": "2027-03-12T22:00",
+   "url": "https://www.in-muenchen.de/events/ludwig-seuss-trio-abi-wallenstein-olching-2027.html",
+   "venue": "Kulturwerkstatt am Olchinger Mühlbach – KOM",
+   "address": "Hauptstraße 68, 82140 Olching",
+   "description": "Rauer Delta Blues trifft auf Piano-Boogie-Woogie und Zydeco-Klänge, wenn der Münchner Pianist und der Hamburger Blues-Gitarrist zusammen auf der Bühne stehen.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Blues"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
   {
    "title": "Songs am Kaminfeuer in Concert",
    "type": "concert",
@@ -180,28 +202,6 @@
    "id": ""
   },
   {
-   "title": "Anni & Hans",
-   "type": "concert",
-   "start": "2026-11-07T20:00",
-   "end": "2026-11-07T22:00",
-   "url": "https://www.in-muenchen.de/events/anni-hans-blues-jazz.html",
-   "venue": "Stragula Realwirtschaft",
-   "address": "Bergmannstraße 66, 80339 München",
-   "description": "Das Duo widmet sich Gospel und Blues afroamerikanischer Sängerinnen und spielt Songs von Paul Simon, Jim Croce und Bob Dylan in eigenen Fassungen sowie eigene Stücke.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Blues"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Raygun Rebels & Träsh",
    "type": "concert",
    "start": "2026-12-04T20:00",
@@ -332,28 +332,6 @@
    "id": ""
   },
   {
-   "title": "Blue Traces",
-   "type": "concert",
-   "start": "2026-11-07T20:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/blue-traces.html",
-   "venue": "Rheinpfalz Schwabing",
-   "address": "Kurfürstenstraße 35, 80801 München",
-   "description": "Blues mit Seele: Sänger Michi Drescher und seine Band spielen in der Rheinpfalz Schwabing, mit Anklängen an Eric Burdon, Joe Cocker und Tom Waits.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Blues"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Black Patti",
    "type": "concert",
    "start": "2026-12-11T20:00",
@@ -374,7 +352,7 @@
    "id": ""
   },
   {
-   "title": "Live im Lihotzky - mit Berhard Klier",
+   "title": "Live im Lihotzky – mit Berhard Klier",
    "type": "concert",
    "start": "2026-11-27T20:00",
    "end": "2026-11-27T22:00",
@@ -396,7 +374,7 @@
    "id": ""
   },
   {
-   "title": "Das \"frühe\" Frauenfest",
+   "title": "Das „frühe“ Frauenfest",
    "type": "concert",
    "start": "2026-12-04T18:00",
    "end": "2026-12-04T23:00",
@@ -1494,28 +1472,6 @@
    "id": ""
   },
   {
-   "title": "Ü30 Party - einfach legendär",
-   "type": "social",
-   "start": "2026-11-07T20:30",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/u30-party-einfach-legendar.html",
-   "venue": "Muffatwerk / Muffathalle",
-   "address": "Zellstr. 4, 81667 München",
-   "description": "Auf drei Areas über 1.500 qm bietet die Ü30 Party ein abwechslungsreiches Musikprogramm. In der Muffathalle sorgen die besten Partybeats der letzten 30 Jahre mit DJ Flo Sailer für Stimmung. Im Ampere spielt DJ Remake Oldschool RnB und HipHop. Im Muffat Café legen DJ Hyni mit House und Elektro auf.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Partymusik"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Münchner Jazzsalon: Jimmy Smith",
    "type": "concert",
    "start": "2027-07-10T20:00",
@@ -1780,7 +1736,7 @@
    "id": ""
   },
   {
-   "title": "Stephan Zinner - Großstadtblues",
+   "title": "Stephan Zinner – Großstadtblues",
    "type": "concert",
    "start": "2027-04-24T19:30",
    "end": "2027-04-24T22:30",
@@ -1868,7 +1824,7 @@
    "id": ""
   },
   {
-   "title": "Heiner Lauterbach - Like a Hobo",
+   "title": "Heiner Lauterbach – Like a Hobo",
    "type": "concert",
    "start": "2027-02-05T20:00",
    "end": null,
@@ -1912,7 +1868,7 @@
    "id": ""
   },
   {
-   "title": "Martin Schmitt - Schmitt happens",
+   "title": "Martin Schmitt – Schmitt happens",
    "type": "concert",
    "start": "2027-01-28T20:00",
    "end": "2027-01-28T22:00",
@@ -1934,7 +1890,7 @@
    "id": ""
   },
   {
-   "title": "Stephan Zinner - Großstadtblues",
+   "title": "Stephan Zinner – Großstadtblues",
    "type": "concert",
    "start": "2027-01-26T20:00",
    "end": "2027-01-26T23:00",
@@ -2066,7 +2022,7 @@
    "id": ""
   },
   {
-   "title": "Mathias Kellner - Can you BOARISCH, please?",
+   "title": "Mathias Kellner – Can you BOARISCH, please?",
    "type": "concert",
    "start": "2026-12-07T20:00",
    "end": "2026-12-07T23:00",
@@ -3034,7 +2990,7 @@
   {
    "title": "Weiberwirtschaft",
    "type": "concert",
-   "start": "2026-11-07T20:00",
+   "start": "2026-11-08T14:00",
    "end": null,
    "url": "https://www.in-muenchen.de/events/weiberwirtschaft-iberl-buhne.html",
    "venue": "Iberl Bühne",
@@ -3087,7 +3043,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Hard-Rock"
+    "Hard Rock"
    ],
    "source_id": "",
    "source_name": "",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T10:33:29+00:00",
+  "generated_at": "2026-11-08T10:43:09+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -2774,31 +2774,6 @@
       "id": "b7e79af2bc23"
     },
     {
-      "title": "The Badrock Blues Band",
-      "type": "concert",
-      "start": "2026-11-07T21:00",
-      "end": "2026-11-08T00:30",
-      "url": "https://reservierung.heyrosi.de/event/kilians-irish-pub/the-badrock-blues-band",
-      "venue": "Kilians Irish Pub",
-      "address": "Frauenplatz 11, 80331 München",
-      "description": "aus Österreich - spielt Cover-Versionen alter Rock, Blues und Rock'n'Roll-Klassiker",
-      "recurrence": null,
-      "dates": [],
-      "tags": [],
-      "source_id": "kilians",
-      "source_name": "Kilians Irish Pub",
-      "school_name": null,
-      "school_url": null,
-      "artists": [
-        {
-          "name": "The Badrock Blues Band",
-          "url": "https://www.last.fm/music/The+Badrock+Blues+Band"
-        }
-      ],
-      "known_artists": [],
-      "id": "dbac678fe242"
-    },
-    {
       "title": "Sundog & Monomanic",
       "type": "concert",
       "start": "2026-11-08T19:30",
@@ -4750,7 +4725,7 @@
       "id": "ce4a5f87b3bb"
     },
     {
-      "title": "Stephan Zinner - Großstadtblues",
+      "title": "Stephan Zinner – Großstadtblues",
       "type": "concert",
       "start": "2027-01-26T20:00",
       "end": "2027-01-26T23:00",
@@ -5160,6 +5135,37 @@
       "id": "71f2b05a60d5"
     },
     {
+      "title": "Ludwig Seuss Trio & Abi Wallenstein",
+      "type": "concert",
+      "start": "2027-03-12T20:00",
+      "end": "2027-03-12T22:00",
+      "url": "https://www.in-muenchen.de/events/ludwig-seuss-trio-abi-wallenstein-olching-2027.html",
+      "venue": "Kulturwerkstatt am Olchinger Mühlbach – KOM",
+      "address": "Hauptstraße 68, 82140 Olching",
+      "description": "Rauer Delta Blues trifft auf Piano-Boogie-Woogie und Zydeco-Klänge, wenn der Münchner Pianist und der Hamburger Blues-Gitarrist zusammen auf der Bühne stehen.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Ludwig Seuss",
+          "url": "https://www.last.fm/music/Ludwig+Seuss"
+        },
+        {
+          "name": "Abi Wallenstein",
+          "url": "https://www.last.fm/music/Abi+Wallenstein"
+        }
+      ],
+      "known_artists": [],
+      "id": "5c652cd18054"
+    },
+    {
       "title": "Allen Forrester Band (USA)",
       "type": "concert",
       "start": "2027-03-12T20:15",
@@ -5471,7 +5477,7 @@
       "id": "81ae49bbc3cb"
     },
     {
-      "title": "Stephan Zinner - Großstadtblues",
+      "title": "Stephan Zinner – Großstadtblues",
       "type": "concert",
       "start": "2027-04-24T19:30",
       "end": "2027-04-24T22:30",
@@ -5762,7 +5768,7 @@
       "url": "https://www.vintage-club.de/",
       "kind": "school",
       "status": "ok",
-      "found": 67,
+      "found": 66,
       "kept": 12
     },
     {
@@ -5771,7 +5777,7 @@
       "url": "https://www.boogie-baeren.de/",
       "kind": "school",
       "status": "ok",
-      "found": 118,
+      "found": 115,
       "kept": 14
     },
     {
@@ -5807,7 +5813,7 @@
       "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "kind": "venue",
       "status": "ok",
-      "found": 13,
+      "found": 12,
       "kept": 7
     },
     {
@@ -5825,7 +5831,7 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 57,
+      "found": 56,
       "kept": 2
     },
     {
@@ -5834,7 +5840,7 @@
       "url": "https://www.jazzbar-vogler.com/",
       "kind": "venue",
       "status": "ok",
-      "found": 13,
+      "found": 12,
       "kept": 0
     },
     {
@@ -5853,7 +5859,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 8,
-      "kept": 1
+      "kept": 0
     },
     {
       "id": "gans-am-wasser",
@@ -5870,7 +5876,7 @@
       "url": "https://www.village-habach.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 45,
+      "found": 44,
       "kept": 27
     },
     {
@@ -5888,7 +5894,7 @@
       "url": "https://stragula.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 28,
+      "found": 27,
       "kept": 4
     },
     {
@@ -5897,7 +5903,7 @@
       "url": "https://ackermannbogen-ev.de/programm-alles",
       "kind": "venue",
       "status": "ok",
-      "found": 16,
+      "found": 13,
       "kept": 0
     },
     {
@@ -5932,8 +5938,8 @@
       "name": "Kunst in Sendling e.V.",
       "url": "https://www.kunst-in-sendling.com/",
       "kind": "venue",
-      "status": "ok",
-      "found": 17,
+      "status": "failed",
+      "error": "ConnectionError: HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Max retries exceeded with url: /wp-json/tribe/events/v1/events?per_page=50&page=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Read timed out. (read timeout=30.0)\"))",
       "kept": 0
     },
     {
@@ -5942,7 +5948,7 @@
       "url": "https://www.buergersaal-fuerstenried.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 12,
+      "found": 11,
       "kept": 0
     },
     {
@@ -5951,7 +5957,7 @@
       "url": "https://www.einewelthaus.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 30,
+      "found": 29,
       "kept": 1
     },
     {
@@ -5978,8 +5984,8 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 144,
-      "kept": 61
+      "found": 142,
+      "kept": 62
     },
     {
       "id": "mvp",
@@ -5996,7 +6002,7 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 206,
+      "found": 202,
       "kept": 4
     },
     {

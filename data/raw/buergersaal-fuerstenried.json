@@ -1,38 +1,14 @@
 {
- "scraped_at": "2026-11-07T10:32:29+00:00",
+ "scraped_at": "2026-11-08T10:42:06+00:00",
  "status": {
   "id": "buergersaal-fuerstenried",
   "name": "Bürgersaal Fürstenried",
   "url": "https://www.buergersaal-fuerstenried.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 12
+  "found": 11
  },
  "events": [
-  {
-   "title": "d’Forstenriada – Das grüne Geheimnis",
-   "type": "concert",
-   "start": "2026-11-07T19:30",
-   "end": "2026-11-07T22:00",
-   "url": "https://buergersaal-fuerstenried.de/event/dforstenriada-das-gruene-geheimnis-2/",
-   "venue": "Bürgersaal Fürstenried",
-   "address": "Züricher Str. 35, 81476 München",
-   "description": "„ Das grüne Geheimnis oder Sag’s nicht weiter “ von Charly Gallenz steht diesen Herbst auf dem Spielplan. Eine kleine schwarze unmoralische Kriminalkomödie (Fassung mit 11 Spieler – Plausus Theaterverlag) Worum geht es? In einer kleinen Gärtnerei geraten mehrere Menschen, die seit Jahren zusammenarbeiten und einander vertrauen, zunehmend unter Druck. Finanzielle Sorgen, harte Konkurrenz und persönliche Rückschläge bringen den Alltag aus dem Gleichgewicht. Als ein überraschendes Ereignis eintritt, stehen sie plötzlich vor einer Entscheidung, die alles verändern könnte. Was zunächst wie ein Hoffnungsschimmer erscheint, entwickelt sich rasch zu einer moralischen Gratwanderung. Zwischen schwarzem Humor, Alltagskomik und leiser Tragik stellt das Stück die Frage, wie weit man gehen darf, wenn das Schicksal scheinbar ungerecht verteilt. Loyalität, Gewissen und Gemeinschaft geraten ins Wanken, während aus kleinen Gedankenspielen ein Plan entsteht, der niemanden unberührt lässt. Eine Komödie über Zufall, Verantwortung und darüber, was Menschen bereit sind zu tun, wenn sie glauben, nichts mehr zu verlieren Dieses Jahr erwartet uns ein ganz besonderer Moment Eine besondere Premiere für d’Forsteriada Mit „Das grüne Geheimnis oder Sag’s nicht weiter“ bringen wir eine Uraufführung auf die Bühne. Die Vorbereitungen laufen bereits auf Hochtouren. Viele Stunden Planung, Proben und gemeinsames Arbeiten stecken in unserem neuen Stück. Mit viel Freude, Leidenschaft und einem Augenzwinkern möchten wir Sie mitnehmen in die Welt unserer kleinen Gärtnerei – voller schwarzem Humor, überraschender Wendungen und spannender Fragen. Wir freuen uns sehr darauf, mit Ihnen die Premiere im November und alle weiteren Vorstellungen gemeinsam zu erleben. Lassen Sie sich von unserer neuen Komödie überraschen und genießen Sie einen unterhaltsamen Theaterabend voller Humor, Spannung und besonderer Momente. Die Reservierung ist ab 1. Oktober 2026 möglich. Einzelpreis ist 12,- € Liebe Theaterbesucherinnen und Theaterbesucher, der Einlass beginnt um 18.00 Uhr . Wenn Sie vor der Vorstellung gerne noch etwas essen möchten, bitten wir Sie, möglichst frühzeitig zu kommen , damit Sie Ihr Essen in Ruhe genießen können und die Vorstellung pünktlich beginnen kann. Wichtiger Hinweis zu Ihrer Kartenbuchung: Ihre Karten werden für Sie reserviert und die entsprechenden Plätze fest für Sie gebucht . Die Platzvergabe erfolgt nach Eingang der Reservierungen von vorne nach hinten . Je früher Sie reservieren, desto weiter vorne befinden sich daher in der Regel Ihre Plätze. Die Bezahlung der Karten erfolgt an der Abendkasse . Nach Ihrer Buchung erhalten Sie von uns innerhalb von 48 Stunden eine Buchungsbestätigung per E-Mail . Sollten Sie innerhalb von 48 Stunden keine Bestätigung erhalten , melden Sie sich bitte kurz telefonisch bei uns – dann ist bei der Übermittlung vermutlich etwas schiefgegangen. Falls Sie Ihre Karten krankheitsbedingt oder aus einem anderen Grund nicht benötigen , informieren Sie uns bitte möglichst 2–3 Tage vor der Vorstellung . So haben wir noch die Möglichkeit, die Karten anderweitig zu vergeben. Bei einer sehr kurzfristigen Absage bitten wir Sie ebenfalls, uns vorab zu informieren. Wenn es uns gelingt, die Karten weiterzuverkaufen, berechnen wir Ihnen diese selbstverständlich nicht. Sollte ein Weiterverkauf kurzfristig nicht mehr möglich sein, müssen wir die reservierten Karten leider berechnen. Weitere Informationen auf der Homepage von d’Forstenriada .",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Bürgersaal",
-    "d'Forstenriada",
-    "Theater"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Gute-Laune-Tanzkonzert",
    "type": "concert",

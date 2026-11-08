@@ -1,80 +1,14 @@
 {
- "scraped_at": "2026-11-07T10:29:34+00:00",
+ "scraped_at": "2026-11-08T10:36:46+00:00",
  "status": {
   "id": "boogie-baeren",
   "name": "Boogie-Bären München",
   "url": "https://www.boogie-baeren.de/",
   "kind": "school",
   "status": "ok",
-  "found": 118
+  "found": 115
  },
  "events": [
-  {
-   "title": "West Coast Swing Party",
-   "type": "social",
-   "start": "2026-11-07",
-   "end": null,
-   "url": "https://www.boogie-baeren.de/eventleser/wcs-party-07112026",
-   "venue": "Boogie-Bären Vereinsheim",
-   "address": "Gneisenaustraße 16, 80992 München",
-   "description": "West Coast Swing Party von der Community für die Community - powered by Boogie-Bären",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Übungsabend"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Balboa Übungsabend",
-   "type": "social",
-   "start": "2026-11-07",
-   "end": null,
-   "url": "https://www.boogie-baeren.de/eventleser/balboa-uebungsabend-november-2026",
-   "venue": "Boogie-Bären Vereinsheim",
-   "address": "Gneisenaustraße 16, 80992 München",
-   "description": "Balboa Übungsabend - die beste Möglichkeit, Erlerntes im Social anzuwenden, Neues auszuprobieren und nette Leute kennenzulernen.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Übungsabend"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Turnier: Boogie-Bären Cup",
-   "type": "social",
-   "start": "2026-11-07T14:00",
-   "end": null,
-   "url": "https://www.boogie-baeren.de/turnier/bb-cup",
-   "venue": "Boogie-Bären Vereinsheim",
-   "address": "Gneisenaustraße 16, 80992 München",
-   "description": "",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Turnier"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Social Dance Sunday",
    "type": "social",

@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-07T10:29:29+00:00",
+ "scraped_at": "2026-11-08T10:36:40+00:00",
  "status": {
   "id": "vintage-club",
   "name": "Vintage Club",
   "url": "https://www.vintage-club.de/",
   "kind": "school",
   "status": "ok",
-  "found": 67
+  "found": 66
  },
  "events": [
   {
@@ -1296,26 +1296,6 @@
    "tags": [
     "course block"
    ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Snowball Session – Change Partner",
-   "type": "social",
-   "start": "2026-11-07",
-   "end": null,
-   "url": "https://www.vintage-club.de/parties.aspx",
-   "venue": "Vintage Club",
-   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
-   "description": "Lindy Hop • Boogie Woogie • Rockabilly Jive • Balboa • Shag & more Du hast ganz alleine mit dem Tanzen angefangen und traust dich nicht auf unsere Übungssessions? Du hast das Gefühl, immer mit denselben Leuten zu tanzen? Du hast einen geheimen Dance Crush, traust dich aber nicht, sie/ihn aufzufordern? Du möchtest Abwechslung beim Tanzen? Dann bist du richtig beim „SNOWBALL!“ – Dieser Abend ist nichts für feste Tanzpaare! Mit lustigen Aktionen tauschen wir regelmäßig die Partner und helfen dir dabei, neue Leute aus der Community kennenzulernen. ✨ Bonus: 🕢 19:30 Uhr – kostenloser Survival-Swing-Crashkurs für Einsteiger (Partygäste) – So seid ihr bestens vorbereitet für die Tanzfläche! 🕗 20:00 – 24:00 Uhr 🎵 DJ Bianca 🎶 Boogie & Swing gemischt auf einer Tanzfläche 💥 Motto: CHAAANGE PARTNER! 🎟 Eintritt 10 Euro Let it snow on the dancefloor! 💃🕺❄️ --------------------",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,

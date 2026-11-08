@@ -1,36 +1,14 @@
 {
- "scraped_at": "2026-11-07T10:30:02+00:00",
+ "scraped_at": "2026-11-08T10:37:15+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 57
+  "found": 56
  },
  "events": [
-  {
-   "title": "MARK LETTIERI",
-   "type": "concert",
-   "start": "2026-11-07T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11688",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Sold out. Einer schrieb mal, Mark Lettieri würde Biss zum funky Bellen von Snarky Puppy hinzufügen. Keine Angst, der will doch nur spielen. Und wie er das tut. Der Kalifornier ist eine Art Allzweckwaffe, überall einsetzbar, weil: fit in jedem Genre. Und zur Authentizität kommt bei ihm stets noch die eigene Note hinzu. Der Gitarrist, der als Teil der Kult-Truppe Snarky Puppy zu Weltruhm kam, ist ein Rhythmus-Ass, bringt tragende Melodien auf seinem Instrument zum Singen und wenn er Soli spielt, entfährt Vielen im Publikum nur ein Wow. Sein neuestes Album stellt die Frage Can I Tell You Something? Wir sagen: bitteschön!",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Highlight"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "JAM SESSION",
    "type": "concert",

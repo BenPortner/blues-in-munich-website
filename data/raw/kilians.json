@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-07T10:30:05+00:00",
+ "scraped_at": "2026-11-08T10:37:19+00:00",
  "status": {
   "id": "kilians",
   "name": "Kilians Irish Pub",
@@ -9,26 +9,6 @@
   "found": 8
  },
  "events": [
-  {
-   "title": "The Badrock Blues Band",
-   "type": "concert",
-   "start": "2026-11-07T21:00",
-   "end": "2026-11-08T00:30",
-   "url": "https://reservierung.heyrosi.de/event/kilians-irish-pub/the-badrock-blues-band",
-   "venue": "Kilians Irish Pub",
-   "address": "Frauenplatz 11, 80331 München",
-   "description": "aus Österreich - spielt Cover-Versionen alter Rock, Blues und Rock'n'Roll-Klassiker",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Brendan",
    "type": "concert",
@@ -158,6 +138,26 @@
    "venue": "Kilians Irish Pub",
    "address": "Frauenplatz 11, 80331 München",
    "description": "Showcase - Aleza- Vitrinenclub- Quincy Sean",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Mad But Fine",
+   "type": "concert",
+   "start": "2026-11-19T21:00",
+   "end": "2026-11-19T23:30",
+   "url": "https://reservierung.heyrosi.de/event/kilians-irish-pub/mad-but-fine-kopie-2",
+   "venue": "Kilians Irish Pub",
+   "address": "Frauenplatz 11, 80331 München",
+   "description": "Präsentieren Pop-Rock-Acoustic-Covers.",
    "recurrence": null,
    "dates": [],
    "tags": [],

@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-07T10:32:40+00:00",
+ "scraped_at": "2026-11-08T10:42:14+00:00",
  "status": {
   "id": "einewelthaus",
   "name": "EineWeltHaus",
   "url": "https://www.einewelthaus.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 30
+  "found": 29
  },
  "events": [
   {
@@ -44,28 +44,6 @@
    "dates": [],
    "tags": [
     "Ausstellung"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "32. isw-forum: Jenseits der westlichen Linken – Eine marxistische Dialektik aus Antifaschismus und Antiimperialismus",
-   "type": "concert",
-   "start": "2026-11-07T20:00",
-   "end": "2026-11-07T23:30",
-   "url": "https://www.einewelthaus.de/events/32-isw-forum-jenseits-der-westlichen-linken-eine-marxistische-dialektik-aus-antifaschismus-und-antiimperialismus/",
-   "venue": "EineWeltHaus München",
-   "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "Ein Vortrag von Lukas Meisner (Philosoph &amp; Herausgeber \"Das Argument\") über die Zukunft des Marxismus. Marxismus ist keine starre Lehre, sondern eine 150-jährige internationale Geschichte aus Theorie und Praxis – zu der heute auch Ökologie, Feminismus und Antirassismus gehören. Umso mehr muss er sich gegen deren \"Entwendungen aus der Kommune\" (Ernst Bloch) zur Wehr setzen: Ökologie gibt es nicht olivgrün, Feminismus nicht bellizistisch, und ohne Antiimperialismus wird kein Kampf gegen Rassismus Erfolg haben. Dieses synthetische Denken marxistischer Strategie wird besonders wichtig in den heutigen Zeiten der Faschisierung. Faschisierung beschreibt nicht nur das Erstarken von AfD und Co., sondern den Rechtsdrift der gesamten bürgerlichen Mitte und ihrer Kapitalfraktionen als einen Prozess, bei dem die Bedingungen des Faschismus im 'Schoß' des Spätkapitalismus erzeugt werden. Eine Schmittsche Freund-Feind-Logik als Grenzregime ist eine dieser Bedingungen und reicht in der EU von der Remilitarisierung bis zur Aufrüstung der Grenzen nach innen wie außen. Wie schon 1917, ist darum einmal mehr \"Frieden und Brot\" (Lenin) die Losung eines revolutionären Pazifismus.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Vortrag und Diskussion"
    ],
    "source_id": "",
    "source_name": "",

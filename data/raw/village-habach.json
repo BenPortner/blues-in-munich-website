@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-11-07T10:30:11+00:00",
+ "scraped_at": "2026-11-08T10:37:24+00:00",
  "status": {
   "id": "village-habach",
   "name": "Village Habach",
   "url": "https://www.village-habach.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 45
+  "found": 44
  },
  "events": [
-  {
-   "title": "Yasi Hofer",
-   "type": "concert",
-   "start": "2026-11-07T20:15",
-   "end": null,
-   "url": "https://village-habach.de/programm/?single=6bcade06e6a5f77374db050e3a3d20a1",
-   "venue": "Village Habach",
-   "address": "Obermühle 1, 82392 Habach",
-   "description": "Rock, Blues und Progressive Rock, mit Einflüssen aus Fusion und Instrumental Rock BEST OF TOUR 2026 Nach über einem Jahrzehnt gemeinsamer Bühnenpräsenz und vier erfolgreichen Studioalben ist es Zeit, die musikalische Reise zu feiern. Yasi Hofer zählt heute zu den renommiertesten Gitarri...",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "RO CLAUSMAN BAND",
    "type": "concert",

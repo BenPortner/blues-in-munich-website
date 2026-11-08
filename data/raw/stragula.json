@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-11-07T10:32:17+00:00",
+ "scraped_at": "2026-11-08T10:39:41+00:00",
  "status": {
   "id": "stragula",
   "name": "Stragula",
   "url": "https://stragula.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 28
+  "found": 27
  },
  "events": [
-  {
-   "title": "Anni und Hans: Blues & Jazz",
-   "type": "concert",
-   "start": "2026-11-07T20:00",
-   "end": null,
-   "url": "https://stragula.de/events.html#:~:text=Anni%20und%20Hans%3A%20Blues%20%26%20Jazz",
-   "venue": "Stragula",
-   "address": "Bergmannstr. 66, 80339 München",
-   "description": "Der immerwährende Puls von Gospel und Blues treibt Anni & Hans an. Das Duo widmet sich der weiblichen Seite des Blues – denn die afroamerikanischen Frauen hatten verdammt viel zu sagen. Doch im Showbusiness konnten sich oft nur die „Artigen“ etablieren, die die Regeln „verstanden“ hatten. Ihre Geschichten erzählen von Talent und Ausbeutung, von Trotz und Tragödien. Auch Songs von Paul Simon, Jim Croce und Bob Dylan bekommen bei den beiden eine ganz eigene Note.Dazu kommen Eigenkompositionen, auf die Ihr gespannt sein dürft. Kommt vorbei und genießt mit uns den Abend! Wir freuen uns auf Euch. Anni & Hans · Eintritt: Frei (Hutspende)",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "GEH5 – Improvisationstheater",
    "type": "concert",

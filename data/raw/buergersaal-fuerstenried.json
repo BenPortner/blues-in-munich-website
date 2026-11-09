@@ -1,38 +1,14 @@
 {
- "scraped_at": "2026-11-08T10:42:06+00:00",
+ "scraped_at": "2026-11-09T11:57:31+00:00",
  "status": {
   "id": "buergersaal-fuerstenried",
   "name": "Bürgersaal Fürstenried",
   "url": "https://www.buergersaal-fuerstenried.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 11
+  "found": 10
  },
  "events": [
-  {
-   "title": "Gute-Laune-Tanzkonzert",
-   "type": "concert",
-   "start": "2026-11-08T14:30",
-   "end": "2026-11-08T17:00",
-   "url": "https://buergersaal-fuerstenried.de/event/gute-laune-tanzkonzerte-3/",
-   "venue": "Bürgersaal Fürstenried",
-   "address": "Züricher Str. 35, 81476 München",
-   "description": "Programm: Flotte Paartanz-Musik der 30er bis 70er Jahre Veranstalter: Evergreen Serenaders Bandbesetzung: Altsax, Tenorsax, Piano, Bass, Schlagzeug Unsere weiteren Termine für 2026: Sonntag 13.12. Eintritt: 5 € Achtung neue Uhrzeit: 14:30 Uhr – 17:00 Uhr Für Bewirtung sorgt das Bürgersaal-Restaurant Infos und Reservierung: Tel. 089 / 793 44 99",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Bürgersaal",
-    "Evergreen Serenaders",
-    "Tanzen"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Erinnerung an Opfer des NS-Regimes",
    "type": "concert",

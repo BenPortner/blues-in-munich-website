@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-08T10:36:40+00:00",
+ "scraped_at": "2026-11-09T11:52:22+00:00",
  "status": {
   "id": "vintage-club",
   "name": "Vintage Club",
   "url": "https://www.vintage-club.de/",
   "kind": "school",
   "status": "ok",
-  "found": 66
+  "found": 65
  },
  "events": [
   {
@@ -1296,26 +1296,6 @@
    "tags": [
     "course block"
    ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Fifties Record Hop",
-   "type": "social",
-   "start": "2026-11-08",
-   "end": null,
-   "url": "https://www.vintage-club.de/parties.aspx",
-   "venue": "Vintage Club",
-   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
-   "description": "Die 50er Jahre Traditionsveranstaltung! Seit 1972 jeden Sonntag Fifties Record Hop mit wechselnden DJs. Rock'n'Roll, Boogie Woogie, Rockabilly, Jive, Bop, Rhythm'n'Blues, Western Swing, Neoswing, Soul-Cha-Cha etc. – alles ist dabei! 🕗 19:15 – 23:15 Uhr 🎵 DJ Mani Stürzer 🎟 Eintritt: 10 Euro Bis zum Sonntag! Wir freuen uns auf euch! --------------------",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,

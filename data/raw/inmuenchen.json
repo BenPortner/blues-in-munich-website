@@ -1,14 +1,36 @@
 {
- "scraped_at": "2026-11-08T10:42:38+00:00",
+ "scraped_at": "2026-11-09T11:57:59+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 142
+  "found": 139
  },
  "events": [
+  {
+   "title": "Yvonne Isegrei & Band",
+   "type": "concert",
+   "start": "2026-11-21T19:30",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/yvonne-isegrei-band.html",
+   "venue": "Brennerei Pentenried",
+   "address": "Gutsstraße 4, 82349 Krailling",
+   "description": "Die Formation präsentiert eine Mischung aus Chicago Blues, Boogie Woogie und Funk & Soul. Yvonne Isegrei, erfahrene Gitarristin und Sängerin, führt mit ihrer Band durch ein Repertoire von Bluesklassikern und Eigenkompositionen. Die Musiker, aus der süddeutschen Bluesszene, bieten einen dynamischen und facettenreichen Sound.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Rhythm'n'Blues"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
   {
    "title": "Ludwig Seuss Trio & Abi Wallenstein",
    "type": "concert",
@@ -128,28 +150,6 @@
    "dates": [],
    "tags": [
     "Rock"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Jacques Stotzem",
-   "type": "concert",
-   "start": "2026-11-07T19:00",
-   "end": "2026-11-27T22:00",
-   "url": "https://www.in-muenchen.de/events/jacques-stotzem.html",
-   "venue": "Bräustüberl Maisach – Räuber Kneißl Keller",
-   "address": "Hauptstraße 24, 82216 Maisach",
-   "description": "Im Zentrum des Abends steht die Gitarrenkunst von Jacques Stotzem. Seine Musik verbindet akustische Fingerstyle-Techniken mit bluesigen und folkloristischen Elementen. Die Atmosphäre ist intim und melodisch, wobei die Saitenklänge des belgischen Meistergitarristen den Zuhörer in eine Welt voller Emotionen und Geschichten entführen.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Fingerstyle"
    ],
    "source_id": "",
    "source_name": "",
@@ -408,28 +408,6 @@
    "dates": [],
    "tags": [
     "Tanz / Performance"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "AllachArt: Allacher Kunst und Performance",
-   "type": "concert",
-   "start": "2026-11-08T14:00",
-   "end": "2026-11-08T19:00",
-   "url": "https://www.in-muenchen.de/events/allachart-allacher-kunst-und-performance.html",
-   "venue": "Allacher Schießstätte",
-   "address": "Servetstr. 1, 80999 München",
-   "description": "Ausstellung, Tanz und Livemusik gegen den Novemberblues: Die Künstlergruppe AllachArt zeigt im Podium Allach Werke von elf Kunstschaffenden, dazu gibt es Linedance, bulgarische Tänze, eigene Songs und Jazz und Blues.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Kunst & Performance"
    ],
    "source_id": "",
    "source_name": "",
@@ -914,28 +892,6 @@
    "dates": [],
    "tags": [
     "Blues-Americana"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Sundog & Monomanic",
-   "type": "concert",
-   "start": "2026-11-08T19:30",
-   "end": "2026-11-08T23:00",
-   "url": "https://www.in-muenchen.de/events/sundog-monomanic.html",
-   "venue": "Import Export",
-   "address": "Schwere-Reiter-Str. 2h, 80636 München",
-   "description": "Mit der Intensität eines rituellen Tanzes huldigen Sundog und Monomanic einer instinktiven und ominösen Manifestation von Rock und Blues. Rau, laut und ekstatisch entführen die Bands in eine Welt aus Bewegung, Chaos und Schmerz. Sundog präsentiert sein erstes Album, während Monomanic mit brachialen Riffs und hypnotischen Synths für atmosphärische Tiefe sorgt.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Bluesrock"
    ],
    "source_id": "",
    "source_name": "",
@@ -2990,7 +2946,7 @@
   {
    "title": "Weiberwirtschaft",
    "type": "concert",
-   "start": "2026-11-08T14:00",
+   "start": "2026-12-11T20:00",
    "end": null,
    "url": "https://www.in-muenchen.de/events/weiberwirtschaft-iberl-buhne.html",
    "venue": "Iberl Bühne",
@@ -3044,28 +3000,6 @@
    "dates": [],
    "tags": [
     "Hard Rock"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Mina Richman",
-   "type": "concert",
-   "start": "2026-11-08T20:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/mina-richman.html",
-   "venue": "Milla",
-   "address": "Holzstraße 28, 80469 München",
-   "description": "Mina Richman, die queer Deutsch-iranische Musikerin, präsentiert ihre Debüt-EP und das Album, das sich mit Themen wie Selbstbestimmung und kultureller Entwurzelung auseinandersetzt. Ihre Musik, beeinflusst von Soul, Blues, Folk und Hip Hop, verbindet Aktivismus mit Kunst.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Soul-Pop"
    ],
    "source_id": "",
    "source_name": "",

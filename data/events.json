@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T10:43:09+00:00",
+  "generated_at": "2026-11-09T11:58:28+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -5768,7 +5768,7 @@
       "url": "https://www.vintage-club.de/",
       "kind": "school",
       "status": "ok",
-      "found": 66,
+      "found": 65,
       "kept": 12
     },
     {
@@ -5777,7 +5777,7 @@
       "url": "https://www.boogie-baeren.de/",
       "kind": "school",
       "status": "ok",
-      "found": 115,
+      "found": 114,
       "kept": 14
     },
     {
@@ -5813,7 +5813,7 @@
       "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "kind": "venue",
       "status": "ok",
-      "found": 12,
+      "found": 15,
       "kept": 7
     },
     {
@@ -5831,7 +5831,7 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 56,
+      "found": 55,
       "kept": 2
     },
     {
@@ -5903,7 +5903,7 @@
       "url": "https://ackermannbogen-ev.de/programm-alles",
       "kind": "venue",
       "status": "ok",
-      "found": 13,
+      "found": 16,
       "kept": 0
     },
     {
@@ -5948,7 +5948,7 @@
       "url": "https://www.buergersaal-fuerstenried.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 11,
+      "found": 10,
       "kept": 0
     },
     {
@@ -5984,7 +5984,7 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 142,
+      "found": 139,
       "kept": 62
     },
     {
@@ -6002,7 +6002,7 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 202,
+      "found": 198,
       "kept": 4
     },
     {

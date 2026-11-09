@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-11-08T10:37:15+00:00",
+ "scraped_at": "2026-11-09T11:52:51+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 56
+  "found": 55
  },
  "events": [
-  {
-   "title": "JAM SESSION",
-   "type": "concert",
-   "start": "2026-11-08T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11689",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Für unsere November-Sessions übernimmt die Bassistin Ida Koch die Verantwortung. Inspirierte Einsteiger sind wie immer herzlich willkommen. Gerade erst wurde die junge Musikerin mit dem wohl dotierten BMW Young Artist Jazz Award prämiert. In der Begründung der Jury heißt es: Die Bassistin Ida Koch überzeugt durch musikalische Vielseitigkeit, klangliche Sensibilität und einen ausgeprägten Gestaltungswillen...Die Auszeichnung ist die folgerichtige Würdigung ihres großen Talents und ihrer leidenschaftlichen Hingabe.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "MITGLIEDERVERSAMMLUNG",
    "type": "concert",
@@ -331,7 +311,7 @@
    "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11702",
    "venue": "Jazzclub Unterfahrt",
    "address": "Einsteinstraße 42, 81675 München",
-   "description": "Harold López Nussa hat eine Autobiografie geschrieben – eine, die ohne Worte auskommt, dafür aber mit pulsierenden Rhythmen, hinreißenden Melodien und viel Corazón weite Kapitel seiner Lebensgeschichte erzählt. Sein Album Nueva Timba kündet von schmerzhaften Erfahrungen, vom Heimweh, beschreibt die sich immer weiter verschlechternden Lebensumstände auf Kuba, die Isolation der Corona-Zeit und lässt auch den Wechsel in eine neue Welt anklingen: López Nussa lebt jetzt in Frankreich.",
+   "description": "Sold out. Harold López Nussa hat eine Autobiografie geschrieben – eine, die ohne Worte auskommt, dafür aber mit pulsierenden Rhythmen, hinreißenden Melodien und viel Corazón weite Kapitel seiner Lebensgeschichte erzählt. Sein Album Nueva Timba kündet von schmerzhaften Erfahrungen, vom Heimweh, beschreibt die sich immer weiter verschlechternden Lebensumstände auf Kuba, die Isolation der Corona-Zeit und lässt auch den Wechsel in eine neue Welt anklingen: López Nussa lebt jetzt in Frankreich.",
    "recurrence": null,
    "dates": [],
    "tags": [],

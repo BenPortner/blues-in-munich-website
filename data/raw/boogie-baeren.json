@@ -1,36 +1,14 @@
 {
- "scraped_at": "2026-11-08T10:36:46+00:00",
+ "scraped_at": "2026-11-09T11:52:28+00:00",
  "status": {
   "id": "boogie-baeren",
   "name": "Boogie-Bären München",
   "url": "https://www.boogie-baeren.de/",
   "kind": "school",
   "status": "ok",
-  "found": 115
+  "found": 114
  },
  "events": [
-  {
-   "title": "Social Dance Sunday",
-   "type": "social",
-   "start": "2026-11-08",
-   "end": null,
-   "url": "https://www.boogie-baeren.de/eventleser/social-dance-sunday",
-   "venue": null,
-   "address": null,
-   "description": "Social Dance am Sonntag",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Extern"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "CARLA AND THE GREAT BALLS ON FIRE",
    "type": "social",

@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-09T11:57:59+00:00",
+ "scraped_at": "2026-11-10T11:30:23+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
@@ -9,6 +9,28 @@
   "found": 139
  },
  "events": [
+  {
+   "title": "Robert Jon & The Wreck",
+   "type": "concert",
+   "start": "2027-10-29T20:00",
+   "end": "2027-10-29T23:00",
+   "url": "https://www.in-muenchen.de/events/robert-jon-the-wreck-strom-2027.html",
+   "venue": "Strom",
+   "address": "Lindwurmstr. 88, 80337 München",
+   "description": "Eine kalifornische Band verbindet Southern Rock, Blues und Soul und gilt als Live-Act, der ein stetig wachsendes Publikum aufgebaut hat.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Southern Rock"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
   {
    "title": "Yvonne Isegrei & Band",
    "type": "concert",
@@ -2614,7 +2636,7 @@
    "id": ""
   },
   {
-   "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
+   "title": "Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich",
    "type": "concert",
    "start": "2026-12-01T20:00",
    "end": null,
@@ -2702,7 +2724,7 @@
    "id": ""
   },
   {
-   "title": "Bin I Kini?! - Der Prinzregenten-Blues",
+   "title": "Bin I Kini?! – Der Prinzregenten-Blues",
    "type": "concert",
    "start": "2026-11-17T20:00",
    "end": null,
@@ -2724,7 +2746,7 @@
    "id": ""
   },
   {
-   "title": "Martin Schmitt - Schmitt happens",
+   "title": "Martin Schmitt – Schmitt happens",
    "type": "concert",
    "start": "2026-11-26T20:00",
    "end": "2026-11-26T23:00",
@@ -2790,7 +2812,7 @@
    "id": ""
   },
   {
-   "title": "Da Huawa und I - Schokoladenseit'n",
+   "title": "Da Huawa und I – Schokoladenseit’n",
    "type": "concert",
    "start": "2026-11-20T20:00",
    "end": "2026-11-20T23:00",
@@ -3022,28 +3044,6 @@
    "dates": [],
    "tags": [
     "Jazz"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Die Montagsmörder",
-   "type": "concert",
-   "start": "2026-11-09T20:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/die-montagsmorder.html",
-   "venue": "Theater … und so fort",
-   "address": "Hinterbärenbadstraße 2, 81373 München",
-   "description": "Enthüllen Sie den Mörder in einem improvisierten Krimi-Abend! Das Ensemble spielt diesen Fall nur einmal und das Publikum bestimmt u.a. Mordwaffe und Täter*innen.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Improvisationstheater"
    ],
    "source_id": "",
    "source_name": "",

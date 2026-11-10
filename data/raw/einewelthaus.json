@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-09T11:57:37+00:00",
+ "scraped_at": "2026-11-10T11:30:07+00:00",
  "status": {
   "id": "einewelthaus",
   "name": "EineWeltHaus",
   "url": "https://www.einewelthaus.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 29
+  "found": 31
  },
  "events": [
   {
@@ -99,19 +99,21 @@
    "id": ""
   },
   {
-   "title": "Das kalte Herz des Sexismus - Bilder und Worte als Waffe gegen Frauen",
-   "type": "concert",
-   "start": "2026-11-16T20:00",
-   "end": "2026-11-16T22:30",
-   "url": "https://www.einewelthaus.de/events/das-kalte-herz-des-sexismus-bilder-und-worte-als-waffe-gegen-frauen/",
+   "title": "Arts and Sounds for Colombia",
+   "type": "other",
+   "start": "2026-11-14T17:30",
+   "end": null,
+   "url": "https://www.einewelthaus.de/events/arts-and-sounds-for-colombia-2/",
    "venue": "EineWeltHaus München",
    "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "Im Rahmen der Münchner Aktionswochen gegen Gewalt an Frauen und Mädchen Die Veranstaltung richtet sich an Frauen und Männer Pornografie ist eine Waffe gegen Frauen und eine der Grundlagen der Beherrschung von Frauen. Das Bild der Frau als verfügbares Objekt, entmenschlicht und entseelt, macht Frauen in der Gesellschaft zu Menschen 2. Klasse. Frauen leben in der Welt der Pornografen. Was den Frauen in der Pornografie angetan wird, ist keine Fantasie sondern Wirklichkeit. Pornografie zerstört demokratische Perspektiven und Empathie und ermutigt zu Gewalt gegen Frauen. Der Impulsvortrag stützt sich auf die Analyse der amerikanischen Feministinnen Catherine MacKinnon und Andrea Dworkin und greift die aktuelle Entwicklung auf.",
+   "description": "Still I Rise Deutschland lädt euch zu einem Abend voller Kunst und Live-Musik ein – für Bildung und Zukunftschancen von geflüchteten Kindern in Kolumbien. Kunst, die etwas bewegt Entdeckt unsere Gemäldeausstellung und lasst euch von Farben, Motiven und Geschichten inspirieren. Mit dem Kauf eines Bildes unterstützt ihr die Bildungsarbeit von STILL I RISE – und nehmt ein besonderes Stück des Abends mit nach Hause! Live-Musik für jeden Geschmack Freut euch auf mitreißende Rhythmen und jede Menge gute Musik – zum Tanzen, Mitsingen und Spaßhaben! Für Essen und Getränke ist ebenfalls gesorgt! 16:40 El Manton Negro · Flamenco 17:40 Alpha Zed · Rock 18:30 Thunderbones &amp; Sugar · Rock 19:20 oTunes Big Band · Swing/Jazz 20:30 Bagaria · Pop/Rock Außerdem erfahrt ihr mehr über Still I Rise und unsere Bildungsprojekte. Mit Euren Spenden unterstützt ihr STILL I RISE und den Schülertransport für die 50 Schülerinnen und Schüler unserer Schule in Bogotá, Kolumbien. Denn Bildung beginnt nicht erst im Klassenzimmer: Kinder müssen die Schule auch sicher und regelmäßig erreichen können. Besonders in Bogotá trägt der organisierte Schultransport dazu bei, Risiken auf dem Schulweg zu reduzieren und Bildung für alle zugänglich zu machen. Unser Ziel: Gemeinsam dazu beitragen, dass Kinder ihren Bildungsweg sicher fortsetzen können. Kommt vorbei, bringt Freunde mit und verbindet Kunstgenuss und Musik mit einer guten Sache! Bitte reserviert euch einen Platz über Eventbrite (https://tinyurl.com/w27azp3k)",
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Austausch",
-    "Informationsveranstaltung"
+    "Ausstellung",
+    "Benefizveranstaltung",
+    "Informationsveranstaltung",
+    "Musik"
    ],
    "source_id": "",
    "source_name": "",
@@ -134,6 +136,29 @@
    "dates": [],
    "tags": [
     "Vortrag und Diskussion"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Das kalte Herz des Sexismus - Bilder und Worte als Waffe gegen Frauen",
+   "type": "concert",
+   "start": "2026-11-16T20:00",
+   "end": "2026-11-16T22:30",
+   "url": "https://www.einewelthaus.de/events/das-kalte-herz-des-sexismus-bilder-und-worte-als-waffe-gegen-frauen/",
+   "venue": "EineWeltHaus München",
+   "address": "Schwanthalerstr. 80, München, 80336",
+   "description": "Im Rahmen der Münchner Aktionswochen gegen Gewalt an Frauen und Mädchen Die Veranstaltung richtet sich an Frauen und Männer Pornografie ist eine Waffe gegen Frauen und eine der Grundlagen der Beherrschung von Frauen. Das Bild der Frau als verfügbares Objekt, entmenschlicht und entseelt, macht Frauen in der Gesellschaft zu Menschen 2. Klasse. Frauen leben in der Welt der Pornografen. Was den Frauen in der Pornografie angetan wird, ist keine Fantasie sondern Wirklichkeit. Pornografie zerstört demokratische Perspektiven und Empathie und ermutigt zu Gewalt gegen Frauen. Der Impulsvortrag stützt sich auf die Analyse der amerikanischen Feministinnen Catherine MacKinnon und Andrea Dworkin und greift die aktuelle Entwicklung auf.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Austausch",
+    "Informationsveranstaltung"
    ],
    "source_id": "",
    "source_name": "",
@@ -380,6 +405,29 @@
    "recurrence": null,
    "dates": [],
    "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Zahiyat",
+   "type": "concert",
+   "start": "2026-12-05T20:00",
+   "end": null,
+   "url": "https://www.einewelthaus.de/events/zahiyat/",
+   "venue": null,
+   "address": null,
+   "description": "Duration of the film: 50 min – to be followed by a Q&amp;A session Language: Arabic with English subtitles Entrance: Donation-based with the purpose of building a playground in the women's village About the film: By shedding light on the lives of three women from the village of Al-Babiliya in the South of Lebanon, the short film, Zahiyat, seeks to remind us of the role women play in shaping our identity, values, social bonds, and relationship with the land. The filmmaker begins with memories of her grandmother, Zahiyyah, which lead her to discover her grandmother’s three friends: a poet, a traditional elegy reciter, and a woman who runs the village's bakery. Through conversations with these women, the film explores their experiences and perspectives on traditions, values, colonialism, occupation, and the transformations of life from the past to the present. This short film pays tribute to the memory of the filmmaker’s grandmother and to all the women of the South of Lebanon who remain deeply rooted in their land. Registration link: To help us plan, we’d love to know how many people are joining. Please register using the following link: https://forms.gle/f9Sn9UdcRDrK6ePr9",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Film",
+    "Vortrag und Diskussion"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,

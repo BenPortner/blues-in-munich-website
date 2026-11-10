@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T11:58:28+00:00",
+  "generated_at": "2026-11-10T11:30:53+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -3027,7 +3027,7 @@
       "id": "ff05effc904f"
     },
     {
-      "title": "Bin I Kini?! - Der Prinzregenten-Blues",
+      "title": "Bin I Kini?! – Der Prinzregenten-Blues",
       "type": "concert",
       "start": "2026-11-17T20:00",
       "end": null,
@@ -3651,7 +3651,7 @@
       "id": "4e657f549678"
     },
     {
-      "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
+      "title": "Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich",
       "type": "concert",
       "start": "2026-12-01T20:00",
       "end": null,
@@ -5831,7 +5831,7 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 55,
+      "found": 53,
       "kept": 2
     },
     {
@@ -5840,7 +5840,7 @@
       "url": "https://www.jazzbar-vogler.com/",
       "kind": "venue",
       "status": "ok",
-      "found": 12,
+      "found": 11,
       "kept": 0
     },
     {
@@ -5867,7 +5867,7 @@
       "url": "https://www.gansamwasser.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 35,
+      "found": 34,
       "kept": 6
     },
     {
@@ -5903,7 +5903,7 @@
       "url": "https://ackermannbogen-ev.de/programm-alles",
       "kind": "venue",
       "status": "ok",
-      "found": 16,
+      "found": 15,
       "kept": 0
     },
     {
@@ -5938,8 +5938,8 @@
       "name": "Kunst in Sendling e.V.",
       "url": "https://www.kunst-in-sendling.com/",
       "kind": "venue",
-      "status": "failed",
-      "error": "ConnectionError: HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Max retries exceeded with url: /wp-json/tribe/events/v1/events?per_page=50&page=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Read timed out. (read timeout=30.0)\"))",
+      "status": "ok",
+      "found": 15,
       "kept": 0
     },
     {
@@ -5948,7 +5948,7 @@
       "url": "https://www.buergersaal-fuerstenried.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 10,
+      "found": 9,
       "kept": 0
     },
     {
@@ -5957,7 +5957,7 @@
       "url": "https://www.einewelthaus.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 29,
+      "found": 31,
       "kept": 1
     },
     {
@@ -6002,7 +6002,7 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 198,
+      "found": 196,
       "kept": 4
     },
     {

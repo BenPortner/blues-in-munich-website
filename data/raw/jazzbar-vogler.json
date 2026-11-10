@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-11-09T11:52:52+00:00",
+ "scraped_at": "2026-11-10T11:27:18+00:00",
  "status": {
   "id": "jazzbar-vogler",
   "name": "Jazzbar Vogler",
   "url": "https://www.jazzbar-vogler.com/",
   "kind": "venue",
   "status": "ok",
-  "found": 12
+  "found": 11
  },
  "events": [
-  {
-   "title": "bop twenty-six",
-   "type": "concert",
-   "start": "2026-11-09T19:30",
-   "end": null,
-   "url": "https://www.muenchen-online.de/veranstaltung/bop-twenty-six-473905",
-   "venue": "Jazzbar Vogler",
-   "address": "Rumfordstr. 17, 80469 München",
-   "description": "",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Cosimo & The Hot Coals",
    "type": "concert",

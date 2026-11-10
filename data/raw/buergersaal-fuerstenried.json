@@ -1,39 +1,14 @@
 {
- "scraped_at": "2026-11-09T11:57:31+00:00",
+ "scraped_at": "2026-11-10T11:29:58+00:00",
  "status": {
   "id": "buergersaal-fuerstenried",
   "name": "Bürgersaal Fürstenried",
   "url": "https://www.buergersaal-fuerstenried.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 10
+  "found": 9
  },
  "events": [
-  {
-   "title": "Erinnerung an Opfer des NS-Regimes",
-   "type": "concert",
-   "start": "2026-11-09T18:00",
-   "end": "2026-11-09T19:30",
-   "url": "https://buergersaal-fuerstenried.de/event/erinnerung-an-opfer-des-ns-regimes/",
-   "venue": "Bürgersaal Fürstenried",
-   "address": "Züricher Str. 35, 81476 München",
-   "description": "Erinnerung an Opfer des NS-Regimes anhand des KulturGeschichtsPfads 19 Im KulturGeschichtsPfad für den Stadtbezirk 19 hat die Historikerin Dr. Karin Pohl u.a. die Biografien von Menschen erforscht, die in diesem Stadtbezirk dem NS-Regime zum Opfer fielen. Sie stellt den jüdischen Physiker Leo Graetz vor, skizziert das Schicksal der Familie Moebs, die den Zeugen Jehovas angehörte, und erinnert an Johanna Bachsteffel und Johann Holderried, die Opfer der verbrecherischen nationalsozialistischen Rassengesetzgebung wurden. Eine weitere Station ist den Zwangsarbeiter*innen im Sammellager an der Zielstattstraße gewidmet. In Kooperation mit dem Bezirksausschuss 19. Hinweis: Anmeldung erbeten unter Tel. 089- 48006-6730 oder unter: Erinnerung an Opfer des NS-Regimes – Münchner Volkshochschule Veranstaltungstyp: Vortrag Dozentin: Dr. Karin Pohl",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Bürgersaal",
-    "Dr. Karin Pohl",
-    "Münchner Volkshochschule",
-    "Vortrag"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Der Mond ist aufgegangen – Gemeinsam Singen",
    "type": "concert",

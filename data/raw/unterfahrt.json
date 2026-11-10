@@ -1,56 +1,14 @@
 {
- "scraped_at": "2026-11-09T11:52:51+00:00",
+ "scraped_at": "2026-11-10T11:27:17+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 55
+  "found": 53
  },
  "events": [
-  {
-   "title": "MITGLIEDERVERSAMMLUNG",
-   "type": "concert",
-   "start": "2026-11-09T18:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=16664",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Mitgliederversammlung des Förderkreis Jazz und Malerei München e.V.. Sie Mitgliederversammlung findet im Einstein Kultur in Halle 4 statt. Beginn 18.30 Uhr.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "KURZ-LUDWIG-PARZHUBER BIGBAND",
-   "type": "concert",
-   "start": "2026-11-09T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11690",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Musiziert man anders, entspannter, motivierter, wenn der Druck und die Zwänge des professionellen Alltags von einem abfallen? Die Antwort darauf gibt die Münchner Kurz-Ludwig-Parzhuber Bigband. Die Namensgeber dieses Orchesters haben sich nach Feierabend oft getroffen, haben sich ausgetauscht, haben locker und befreit miteinander gejammt, geprobt und schließlich Pläne für eine Großformation geschmiedet. Die wurden auch schnell umgesetzt. Ihre Truppe hat sich längst zur Working Band gemausert, die Grenzen austestet und eine Klangsprache mit ganz eigenem Vokabular entwickelte.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Bigband Night"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "ALEXANDER RUESS TRIO",
    "type": "concert",

@@ -1,36 +1,14 @@
 {
- "scraped_at": "2026-11-09T11:52:57+00:00",
+ "scraped_at": "2026-11-10T11:27:24+00:00",
  "status": {
   "id": "gans-am-wasser",
   "name": "Café Gans am Wasser",
   "url": "https://www.gansamwasser.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 35
+  "found": 34
  },
  "events": [
-  {
-   "title": "Titus Waldenfels und Petra Lewis",
-   "type": "concert",
-   "start": "2026-11-08T14:00",
-   "end": "2026-11-08T16:00",
-   "url": "https://www.gansamwasser.de/kulturprogramm/programm-november/",
-   "venue": "Café Gans am Wasser",
-   "address": "Mollsee im Westpark, 81373 München",
-   "description": "Seit etlichen Jahren spielen Petra Lewi und Titus Waldenfels zusammen, auf Bühnen aller Art mit kleinem Aufwand und großer Wirkung. Eine Ansammlung an Instrumenten, deren Bedeutung während der Auftritte Stück für Stück enthüllt wird, und Songs und Instrumentals aller Art. Eigenes, Countryklassiker, deutschsprachige Gassenhauer, Experiment und Rock'n Roll. Die Kunst der Unterhaltung, immer ähnlich, aber nie gleich. Der Münchner Titus Waldenfels ist seit mehr als dreißig Jahren aktiv, bestreitet jährlich um die 250 Auftritte, hauptsächlich in Deutschland, aber auch Österreich, der Schweiz, Tschechien und sogar in den USA, bei jährlichen Aufenthalten in Texas. Titus Waldenfels wird häufig von wunderbaren Musiker:innen und Sänger:innen aller Art begleitet. Petra Lewi ist Kulturpreisträgerin aus Freising, die musikalische Drei-Minuten-Dramen kreiert mit Songs von Songs von Tom Waits, Nancy Sinatra, Loretta Lynn, Lana del Rey und anderen. Sie singt, spricht, begeitet sich selber auf der Ukulele und spielt virtuos Singende Säge. Webseite Titus Webseite Petra",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Livemusik"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Winterzauber",
    "type": "concert",

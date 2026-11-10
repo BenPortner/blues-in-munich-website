@@ -1,43 +1,14 @@
 {
- "scraped_at": "2026-11-09T11:55:10+00:00",
+ "scraped_at": "2026-11-10T11:29:33+00:00",
  "status": {
   "id": "ackermannbogen",
   "name": "Ackermannbogen e.V.",
   "url": "https://ackermannbogen-ev.de/programm-alles",
   "kind": "venue",
   "status": "ok",
-  "found": 16
+  "found": 15
  },
  "events": [
-  {
-   "title": "SingStunde mit Veronika Lindner",
-   "type": "concert",
-   "start": "2026-11-09T09:30",
-   "end": "2026-11-09T10:30",
-   "url": "https://ackermannbogen-ev.de/programm/singstunde-mit-veronika-lindner/2026-11-09/",
-   "venue": "EKS 15",
-   "address": "Elisabeth-Kohn-Str. 15, 80797 München",
-   "description": "Singen mit Herz und Schwung Veronika Lindner bringt als erfahrene Singleiterin Menschen mit ihrer offenen und lebendigen Art zum Mitsingen und Mitfühlen. Ihre Singstunden sind geprägt von Leichtigkeit, Freude und einem starken Gemeinschaftsgefühl. Gesungen wird querbeet: von Volksliedern über Kanons bis hin zu Popsongs und internationalen Melodien – ganz ohne musikalische Vorkenntnisse. Gemeinsames Singen macht Spaß, verbindet und setzt Glückshormone frei – eine wohltuende Pause vom Alltag. Bei gutem Wetter im StadtAcker.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "gemeinsam singen",
-    "Musik",
-    "Senioren",
-    "Singen",
-    "Singen ohne Noten",
-    "Singkreis",
-    "Singstunde",
-    "Volkslieder singen"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Be My Guest - La Dernière Danse",
    "type": "concert",
@@ -166,7 +137,7 @@
    "url": "https://ackermannbogen-ev.de/programm/selbermarkt-und-wintersportboerse-3/",
    "venue": "KulturPassage",
    "address": "Rosa-Aschenbrenner-Bogen 9, 80797 München",
-   "description": "Kreative aus dem Ackermannbogen verkaufen Selbstgemachtes und die Kinder können sich auf den Besuch des Nikolauses freuen. Mit Glühweinstand vom Rigoletto. Anmeldung für einen kostenlosen Stand (Tisch selbst mitbringen): selbermarkt@ackermannbogen-ev.de Sonntag, 6. Dezember 2026, 15-17 Uhr",
+   "description": "Kreative aus dem Ackermannbogen verkaufen Selbstgemachtes und die Kinder können sich auf den Besuch des Nikolauses freuen. Mit Verkauf von Artikeln aus dem StadtAcker. Glühweinstand vom Rigoletto. Anmeldung für einen kostenlosen Stand (Tisch selbst mitbringen): selbermarkt@ackermannbogen-ev.de Sonntag, 6. Dezember 2026, 15-17 Uhr",
    "recurrence": null,
    "dates": [],
    "tags": [

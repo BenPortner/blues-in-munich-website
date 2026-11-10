@@ -1,54 +1,14 @@
 {
- "scraped_at": "2026-11-07T10:32:28+00:00",
+ "scraped_at": "2026-11-10T11:29:57+00:00",
  "status": {
   "id": "kunst-in-sendling",
   "name": "Kunst in Sendling e.V.",
   "url": "https://www.kunst-in-sendling.com/",
   "kind": "venue",
-  "status": "failed",
-  "error": "ConnectionError: HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Max retries exceeded with url: /wp-json/tribe/events/v1/events?per_page=50&page=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Read timed out. (read timeout=30.0)\"))"
+  "status": "ok",
+  "found": 15
  },
  "events": [
-  {
-   "title": "Reisebericht – ANTARKTIS – der 6. Kontinent",
-   "type": "concert",
-   "start": "2026-11-07T10:00",
-   "end": "2026-11-07T13:00",
-   "url": "https://www.kunst-in-sendling.com/event/reisebericht-antarktis-der-6-kontinent-2/",
-   "venue": "Sendlinger Kulturschmiede",
-   "address": "Daiserstraße 22, 81371 München",
-   "description": "Heike Haun berichtet persönlich über den Ablauf ihrer Antarktisreise, das IAATO-Abkommen zum Schutz der Antarktis und ihre eigene Zerrissenheit angesichts dieser Reise. Der Reisebericht findet im Rahmen der Ausstellung „ANTARKTIS – der 6. Kontinent“ statt. Die Ausstellung ist an diesem Tag von 10 bis 13 Uhr geöffnet.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Finissage – ANTARKTIS – der 6. Kontinent",
-   "type": "other",
-   "start": "2026-11-08T15:00",
-   "end": "2026-11-08T18:00",
-   "url": "https://www.kunst-in-sendling.com/event/finissage-antarktis-der-6-kontinent/",
-   "venue": "Sendlinger Kulturschmiede",
-   "address": "Daiserstraße 22, 81371 München",
-   "description": "Finissage der Ausstellung „ANTARKTIS – der 6. Kontinent“ von Heike Haun. Letzte Gelegenheit, die Gemälde sowie die begleitende Foto- und Videoshow mit Aufnahmen der Antarktisreise zu sehen.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Elke Reis: Farbe … Licht … und eine ungeahnte Freiheit",
    "type": "concert",

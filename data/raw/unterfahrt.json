@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-10T11:27:17+00:00",
+ "scraped_at": "2026-11-11T11:16:33+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
@@ -9,28 +9,6 @@
   "found": 53
  },
  "events": [
-  {
-   "title": "ALEXANDER RUESS TRIO",
-   "type": "concert",
-   "start": "2026-11-10T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11691",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Debut prangt ganz lapidar auf dem Erstlingswerk des Gitarristen Alexander Rueß, das kürzlich in der Reihe Jazz thing Next Generation erschien. Doch die dazugehörige Musik ist weit fantasievoller als ihr Titel. Rueß versteht es, binnen weniger Takte Spannung aufzubauen und nutzt zur musikalischen Ausgestaltung eine Vielzahl an Sounds und stilistischen Mitteln. Mal tönt seine von der Ikone Frank Möbus produzierte Musik nach Americana, mal so, als sei sie in den einsamen Landschaften des hohen Nordens entstanden. Fans von Gitarristen wie Bill Frisell oder Julian Lage kommen mit der Ästhetik des Alexander Rueß voll auf ihre Kosten.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Rising Star"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "BOBBY SPARKS II",
    "type": "concert",
@@ -400,8 +378,8 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Highlight",
-    "Vocal Jazz"
+    "Vocal Jazz",
+    "Highlight"
    ],
    "source_id": "",
    "source_name": "",
@@ -527,8 +505,8 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Album Präsentation",
-    "Vocal Jazz"
+    "Vocal Jazz",
+    "Album Präsentation"
    ],
    "source_id": "",
    "source_name": "",
@@ -551,6 +529,28 @@
    "dates": [],
    "tags": [
     "Einstein Kultur"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "FIONA GROND & LUCA ZAMBITO",
+   "type": "concert",
+   "start": "2026-12-05T20:30",
+   "end": null,
+   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11716",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstraße 42, 81675 München",
+   "description": "Musik beginnt für Fiona Grond und Luca Zambito mit dem Zuhören. Nicht mit einer Idee oder einem Stil, sondern mit der Bereitschaft, dem Moment, dem Gegenüber und dem Raum zwischen den Tönen Aufmerksamkeit zu schenken. Mit Time Waves veröffentlichen die Sängerin und der Pianist ihr erstes gemeinsames Album. Entstanden ist eine Musik zwischen Jazz, Songwriting und freier Improvisation, in der Stimme und Klavier einander auf Augenhöhe begegnen. Im Mittelpunkt stehen eigene Texte über Erinnerung, Herkunft, Beziehungen und gesellschaftliche Fragen – Geschichten, die im Persönlichen beginnen und weit darüber hinausweisen.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Album Präsentation"
    ],
    "source_id": "",
    "source_name": "",

@@ -1,14 +1,190 @@
 {
- "scraped_at": "2026-11-10T11:30:23+00:00",
+ "scraped_at": "2026-11-11T11:22:01+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 139
+  "found": 147
  },
  "events": [
+  {
+   "title": "Hattori Hanzi",
+   "type": "concert",
+   "start": "2027-01-26T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/hattori-hanzi-milla-2027.html",
+   "venue": "Milla",
+   "address": "Holzstraße 28, 80469 München",
+   "description": "Hammond-Organist Hansi Enzensperger verbindet mit Hattori Hanzi Funk, Blues und Jazz mit elektronischen Sounds und Punk-Attitüde.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Jazz / Funk"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Fish’n Blues: Weihnachtssession mit Mateo Navarro und Osono",
+   "type": "concert",
+   "start": "2026-12-16T20:30",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/fishn-blues-weihnachtssession-2026-mateo-navarro-osono.html",
+   "venue": "Glockenbachwerkstatt",
+   "address": "Blumenstraße 7, 80331 München",
+   "description": "Kurz vor Weihnachten gibt es bei Fish’n Blues Fisch aus der Küche und Blues mit Mateo Navarro und Osono auf der Bühne.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Blues"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Three Wise Men: Celebration",
+   "type": "concert",
+   "start": "2027-03-12T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/three-wise-men-celebration.html",
+   "venue": "Kultur im Oberbräu Holzkirchen",
+   "address": "Marktplatz 18A, 83607 Holzkirchen",
+   "description": "Saxofonist Frank Roberscheuten, Stride-Pianist Rossano Sportiello und Schlagzeuger Martin Breinschmid feiern Swing, Bebop, Dixieland und Blues.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Jazz / Swing"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Werner Meier: Echt?!",
+   "type": "concert",
+   "start": "2027-02-19T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/werner-meier-echt-holzkirchen.html",
+   "venue": "Kultur im Oberbräu Holzkirchen",
+   "address": "Marktplatz 18A, 83607 Holzkirchen",
+   "description": "Liedermacher und Kabarettist Werner Meier fragt mit Gitarre und viel Humor, was im digitalen Alltag noch echt ist.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Musikkabarett"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Zither-Manä: 46 Jahre – Der ganz normale Wahnsinn",
+   "type": "concert",
+   "start": "2026-12-03T19:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/zither-mana-46-jahre-der-ganz-normale-wahnsinn.html",
+   "venue": "Kultur im Oberbräu Holzkirchen",
+   "address": "Marktplatz 18A, 83607 Holzkirchen",
+   "description": "Der Erfinder des Zither-Rock spielt Volksmusik, Blues und Pink Floyd auf der Zither und kommentiert dazu kabarettistisch die Lage der Welt.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Musikkabarett"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Everlast",
+   "type": "concert",
+   "start": "2027-02-04T20:00",
+   "end": "2027-02-04T23:00",
+   "url": "https://www.in-muenchen.de/events/everlast.html",
+   "venue": "Backstage Werk",
+   "address": "Reitknechtstr. 6, 80639 München",
+   "description": "Embers to Ashes entfaltet sich in einem Abend voller intensiver musikalischer Momente. Zwischen rockigen Gitarrenriffs und gefühlvollen Balladen entsteht eine Atmosphäre, die das Publikum mitreißt. Zu hören sind eine Vielzahl an Songs, die sowohl die Energie des Rock als auch die Tiefe des Blues vereinen.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Rock"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Shake Some Action",
+   "type": "concert",
+   "start": "2026-12-12T21:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/shake-some-action-schwarzer-hahn-dezember-2026.html",
+   "venue": "SCHWARZER HAHN",
+   "address": "Ohlmüllerstr. 8, 81541 München",
+   "description": "Zwei DJs legen Vintage-Sounds von Soul über Ska bis Punk Rock’n’Roll auf.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Vintage Dance Party"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "ZEP",
+   "type": "concert",
+   "start": "2027-01-16T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/zep-lindenkeller-freising-2027.html",
+   "venue": "Lindenkeller Freising",
+   "address": "Veitsmüllerweg 2, 85354 Freising",
+   "description": "Die Münchner Tribute-Band spielt ausschließlich Songs von Led Zeppelin, von harten Riffs bis zu akustischen Folkballaden.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Led-Zeppelin-Tribute"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
   {
    "title": "Robert Jon & The Wreck",
    "type": "concert",

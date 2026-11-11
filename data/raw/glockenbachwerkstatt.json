@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-10T11:27:07+00:00",
+ "scraped_at": "2026-11-11T11:16:22+00:00",
  "status": {
   "id": "glockenbachwerkstatt",
   "name": "Glockenbachwerkstatt – Fish'n Blues",
   "url": "https://www.glockenbachwerkstatt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 5
+  "found": 6
  },
  "events": [
   {
@@ -110,6 +110,29 @@
    "venue": "Glockenbachwerkstatt",
    "address": "Blumenstraße 7, 80331 München",
    "description": "Fisch: 19:00 Uhr · kostenfrei",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Fish'n Blues",
+    "Konzert"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Weihnachtssession",
+   "type": "concert",
+   "start": "2026-12-16T20:30",
+   "end": null,
+   "url": "https://www.glockenbachwerkstatt.de/events/fishnblues-weihnachten26/",
+   "venue": "Glockenbachwerkstatt",
+   "address": "Blumenstraße 7, 80331 München",
+   "description": "Fisch: 19:00 Uhr · kostenlos",
    "recurrence": null,
    "dates": [],
    "tags": [

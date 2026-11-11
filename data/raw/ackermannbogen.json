@@ -1,45 +1,14 @@
 {
- "scraped_at": "2026-11-10T11:29:33+00:00",
+ "scraped_at": "2026-11-11T11:19:16+00:00",
  "status": {
   "id": "ackermannbogen",
   "name": "Ackermannbogen e.V.",
   "url": "https://ackermannbogen-ev.de/programm-alles",
   "kind": "venue",
   "status": "ok",
-  "found": 15
+  "found": 14
  },
  "events": [
-  {
-   "title": "Be My Guest - La Dernière Danse",
-   "type": "concert",
-   "start": "2026-11-10T20:00",
-   "end": "2026-11-10T22:00",
-   "url": "https://ackermannbogen-ev.de/programm/be-my-guest-la-derniere-danse/",
-   "venue": "KreativGarage Studio",
-   "address": "Rosa-Aschenbrenner-Bogen 9 / UG, 80797 München",
-   "description": "Laurent Maur Eine Mundharmonika ist kein Saxophon. Aber was der französische Virtuose Laurent Maur aus diesem kleinen Instrument herausholt, ist schlicht Weltklasse. In der Tradition seines Mentors Toots Thielemans fühlt er sich in allen Stilen zu Hause und spielt Bebop, Valse Musette, Brasilianisches und Afro-Cubanisches mit derselben Mühelosigkeit. Faszinierend! Laurent Maur, chromatische Harmonika Maruan Sakas, Piano Martin Zenker, Kontrabass Stefan Noelle, Schlagzeug / Percussion Tickets verfügbar ab 17. Juli 2026 Einlass 19.30 Uhr, Beginn 20 Uhr Freie Sitzplatzwahl auf den nicht nummerierten Plätzen. Nummerierte Plätze sind für Abonnent:innen reserviert. Standardpreis oder Unterstützerpreis? Sie entscheiden! Mit dem Standardpreis ermöglichen wir weiterhin hochwertige Jazzkonzerte zu einem erschwinglichen Eintritt. Wer die Jazzreihe, die Kulturarbeit des Ackermannbogen e.V. und die beteiligten Musiker:innen zusätzlich unterstützen möchte, kann den Unterstützerpreis wählen. Der freiwillige Mehrbetrag hilft, die Reihe langfristig zu erhalten und kulturelle Teilhabe für mehr Menschen zu ermöglichen. · Eintritt: 24,00€ – 27,00€",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "AfroCubanJazz",
-    "Bebop",
-    "ChromatischeHarmonika",
-    "Jazzkonzert",
-    "Laurent Maur",
-    "Livemusik",
-    "Mundharmonika",
-    "TootsThielemans",
-    "ValseMusette",
-    "WeltklasseMusiker"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "SingStunde mit Veronika Lindner",
    "type": "concert",

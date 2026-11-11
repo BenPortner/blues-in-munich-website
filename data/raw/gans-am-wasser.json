@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-10T11:27:24+00:00",
+ "scraped_at": "2026-11-11T11:16:40+00:00",
  "status": {
   "id": "gans-am-wasser",
   "name": "Café Gans am Wasser",
   "url": "https://www.gansamwasser.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 34
+  "found": 35
  },
  "events": [
   {
@@ -190,6 +190,26 @@
    "venue": "Café Gans am Wasser",
    "address": "Mollsee im Westpark, 81373 München",
    "description": "Ein (K)indie-Folk-Mitmachkonzert mit Tim Mohr fürs Kinderohr vergisst Du nicht so schnell, denn Du bist immer Teil davon! Neben Ohrwürmern kannst Du auch ein Wettrennen mit der Rennschnecke Renate erleben, helfen ein Lied zu dichten und vielleicht sogar Teil einer spontanen Bandgründung sein. Die handgemachten Kompositionen des Musiktherapeuten werden mit Gesang und Gitarre serviert, hier und da auch mit Basedrum, Ukulele oder Mundhamonika garniert und sind in jedem Fall für Klein und Groß bekömmlich. Webseite",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Re:think: Adventskalender und mehr",
+   "type": "concert",
+   "start": "2026-12-05T13:00",
+   "end": "2026-12-05T16:30",
+   "url": "https://www.gansamwasser.de/kulturprogramm/programm-dezember/",
+   "venue": "Café Gans am Wasser",
+   "address": "Mollsee im Westpark, 81373 München",
+   "description": "An den 24 Tagen bis Weihnachten präsentiert Re:think München, die Klimaschutzmarke des Referats für Klima- und Umweltschutz der Landeshauptstadt München, Münchner Angebote und Initiativen, die dazu inspirieren, nachhaltiger zu handeln und einen gemeinsamen Beitrag zum Klima- und Umweltschutz zu leisten. Aber das ist noch nicht alles: Hinter jedem Türchen warten spannende Fragen zum Mitraten. Als besonderes Highlight gibt es ein Gewinnspiel: Unter allen Teilnehmer*innen werden nachhaltige Produkte verlost. Besucht uns am 05.12. zwischen 13 und 16.30 Uhr beim Winterrausch und taucht mit uns in die weihnachtliche Stimmung ein. Entdeckt unseren digitalen Re:think München Adventskalender, dreht das Glücksrad mit spannenden Weihnachtsfragen.",
    "recurrence": null,
    "dates": [],
    "tags": [],

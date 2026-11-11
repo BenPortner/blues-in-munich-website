@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T11:30:53+00:00",
+  "generated_at": "2026-11-11T11:22:31+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -2796,64 +2796,6 @@
       "id": "6b74202bf1dd"
     },
     {
-      "title": "Blues 2 mit Clara",
-      "type": "class",
-      "start": "2026-11-03T19:35",
-      "end": "2026-11-03T20:35",
-      "url": "https://hepcatclub.com/",
-      "venue": "Hep Cat Club",
-      "address": "Viktoriastraße 3b, 86150 Augsburg",
-      "description": "",
-      "recurrence": "Tuesdays 19:35–20:35",
-      "dates": [
-        "2026-11-03",
-        "2026-11-10",
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15"
-      ],
-      "tags": [],
-      "source_id": "hepcat-club",
-      "source_name": "Hep Cat Club",
-      "school_name": "Hep Cat Club",
-      "school_url": "https://hepcatclub.com/",
-      "artists": [],
-      "known_artists": [],
-      "id": "d1bb00bef152"
-    },
-    {
-      "title": "Blues Open Level",
-      "type": "class",
-      "start": "2026-11-03T20:45",
-      "end": "2026-11-03T22:15",
-      "url": "https://www.boogie-baeren.de/training",
-      "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
-      "address": "Gneisenaustraße 16, 80992 München",
-      "description": "Teachers: verschiedene. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
-      "recurrence": "Tuesdays 20:45–22:15",
-      "dates": [
-        "2026-11-03",
-        "2026-11-10",
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15"
-      ],
-      "tags": [
-        "course block"
-      ],
-      "source_id": "boogie-baeren",
-      "source_name": "Boogie-Bären München",
-      "school_name": "Boogie-Bären München",
-      "school_url": "https://www.boogie-baeren.de/",
-      "artists": [],
-      "known_artists": [],
-      "id": "736bb6181162"
-    },
-    {
       "title": "Blues · alle Level",
       "type": "class",
       "start": "2026-10-21T18:45",
@@ -3027,6 +2969,64 @@
       "id": "ff05effc904f"
     },
     {
+      "title": "Blues 2 mit Clara",
+      "type": "class",
+      "start": "2026-11-03T19:35",
+      "end": "2026-11-03T20:35",
+      "url": "https://hepcatclub.com/",
+      "venue": "Hep Cat Club",
+      "address": "Viktoriastraße 3b, 86150 Augsburg",
+      "description": "",
+      "recurrence": "Tuesdays 19:35–20:35",
+      "dates": [
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15"
+      ],
+      "tags": [],
+      "source_id": "hepcat-club",
+      "source_name": "Hep Cat Club",
+      "school_name": "Hep Cat Club",
+      "school_url": "https://hepcatclub.com/",
+      "artists": [],
+      "known_artists": [],
+      "id": "d1bb00bef152"
+    },
+    {
+      "title": "Blues Open Level",
+      "type": "class",
+      "start": "2026-11-03T20:45",
+      "end": "2026-11-03T22:15",
+      "url": "https://www.boogie-baeren.de/training",
+      "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
+      "address": "Gneisenaustraße 16, 80992 München",
+      "description": "Teachers: verschiedene. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+      "recurrence": "Tuesdays 20:45–22:15",
+      "dates": [
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "boogie-baeren",
+      "source_name": "Boogie-Bären München",
+      "school_name": "Boogie-Bären München",
+      "school_url": "https://www.boogie-baeren.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "736bb6181162"
+    },
+    {
       "title": "Bin I Kini?! – Der Prinzregenten-Blues",
       "type": "concert",
       "start": "2026-11-17T20:00",
@@ -3047,6 +3047,60 @@
       "artists": [],
       "known_artists": [],
       "id": "20bf1470443b"
+    },
+    {
+      "title": "Solo Blues · alle Level",
+      "type": "class",
+      "start": "2026-11-18T17:30",
+      "end": "2026-11-18T18:30",
+      "url": "https://www.vintage-club.de/classes.aspx",
+      "venue": "Vintage Club (VC Studio 2)",
+      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+      "description": "Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen, wesentliche Schritte und Figuren, um dich auf der Tanzfläche sicher und wohl zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkundet, die zu verschiedenen Musikstilen getanzt werden können. Advance registration by email required.",
+      "recurrence": "Wednesdays 17:30–18:30",
+      "dates": [
+        "2026-11-18",
+        "2026-11-25",
+        "2026-12-02",
+        "2026-12-09"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "vintage-club",
+      "source_name": "Vintage Club",
+      "school_name": "Vintage Club",
+      "school_url": "https://www.vintage-club.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "9297c866acc6"
+    },
+    {
+      "title": "Blues · alle Level",
+      "type": "class",
+      "start": "2026-11-18T18:45",
+      "end": "2026-11-18T19:45",
+      "url": "https://www.vintage-club.de/classes.aspx",
+      "venue": "Vintage Club (VC Studio 2)",
+      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+      "description": "Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen, wesentliche Schritte und Figuren, um dich auf der Tanzfläche sicher und wohl zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkundet, die zu verschiedenen Musikstilen getanzt werden können.",
+      "recurrence": "Wednesdays 18:45–19:45",
+      "dates": [
+        "2026-11-18",
+        "2026-11-25",
+        "2026-12-02",
+        "2026-12-09"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "vintage-club",
+      "source_name": "Vintage Club",
+      "school_name": "Vintage Club",
+      "school_url": "https://www.vintage-club.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "0bbea59d456a"
     },
     {
       "title": "Bernd Bauer Blues Band: Stormy Wednesday",
@@ -3753,6 +3807,33 @@
       "id": "3ae4357e1471"
     },
     {
+      "title": "Zither-Manä: 46 Jahre – Der ganz normale Wahnsinn",
+      "type": "concert",
+      "start": "2026-12-03T19:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/zither-mana-46-jahre-der-ganz-normale-wahnsinn.html",
+      "venue": "Kultur im Oberbräu Holzkirchen",
+      "address": "Marktplatz 18A, 83607 Holzkirchen",
+      "description": "Der Erfinder des Zither-Rock spielt Volksmusik, Blues und Pink Floyd auf der Zither und kommentiert dazu kabarettistisch die Lage der Welt.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Musikkabarett"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Zither-Manä",
+          "url": "https://www.last.fm/music/Zither-Man%C3%A4"
+        }
+      ],
+      "known_artists": [],
+      "id": "10706898a3ec"
+    },
+    {
       "title": "Jazz & Blues",
       "type": "concert",
       "start": "2026-12-03T20:00",
@@ -4141,6 +4222,33 @@
       "id": "1c9c19cbe92e"
     },
     {
+      "title": "Fish’n Blues: Weihnachtssession mit Mateo Navarro und Osono",
+      "type": "concert",
+      "start": "2026-12-16T20:30",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/fishn-blues-weihnachtssession-2026-mateo-navarro-osono.html",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Kurz vor Weihnachten gibt es bei Fish’n Blues Fisch aus der Küche und Blues mit Mateo Navarro und Osono auf der Bühne.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Mateo Navarro",
+          "url": "https://www.last.fm/music/Mateo+Navarro"
+        }
+      ],
+      "known_artists": [],
+      "id": "be29731be67a"
+    },
+    {
       "title": "Uli Wunner & John Brunton",
       "type": "concert",
       "start": "2026-12-17T20:00",
@@ -4175,7 +4283,7 @@
       "url": "https://pasinger-fabrik.de/veranstaltung/vlado-grizelj-quartett-2/",
       "venue": "Pasinger Fabrik – Kleine Bühne",
       "address": "August-Exter-Str. 1, 81245 München",
-      "description": "Das neue Projekt des Münchner Gitarristen Vlado Grizelj widmet sich seiner Liebe zur Funk- und Soul-Musik der 60er und 70er Jahre auf der einen, und seinen frühen Rock- und Blues-Einfüssen auf der anderen Seite. Vereint mit seiner jazzigen Spielweise und seinem Verständnis für komplexe Harmonien, ensteht so eine einzigartige Mischung. Die Stücke, die er für dieses Quartett komponierte, reichen von schnellen Funkgrooves bis zu gefühlvollen Soulballaden und zelebrieren auch den Sound der Hammond Orgel und des Rhodes Pianos, die genial von Viktor Makhnovich in Szene gesetzt werden. Für den nötige",
+      "description": "Das neue Projekt des Münchner Gitarristen Vlado Grizelj widmet sich seiner Liebe zur Funk- und Soul-Musik der 60er und 70er Jahre auf der einen, und seinen frühen Rock- und Blues-Einfüssen auf der anderen Seite. Vereint mit seiner jazzigen Spielweise und seinem Verständnis für komplexe Harmonien, ensteht so eine einzigartige Mischung. Die Stücke, die er für dieses Quartett komponierte, reichen von schnellen Funkgrooves bis zu gefühlvollen Soulballaden und zelebrieren auch den Sound der Hammond Orgel und des Rhodes Pianos, die genial von Matthias Bublath in Szene gesetzt werden. Für den nötigen",
       "recurrence": null,
       "dates": [],
       "tags": [],
@@ -5251,6 +5359,31 @@
       "id": "0379893f5324"
     },
     {
+      "title": "Devon Allman Blues Summit - Jimmy Hall, Claudette King & Bernard Allison",
+      "type": "concert",
+      "start": "2027-03-27T20:00",
+      "end": null,
+      "url": "https://www.mvp.de/muenchen/veranstaltungen/devon-allman-blues-summit-jimmy-hall-claudette-king-bernard/",
+      "venue": "Ampere / Muffatwerk",
+      "address": "Zellstr. 4, 81667 München",
+      "description": "",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "mvp",
+      "source_name": "mvp.de (Jazz & Blues)",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Devon Allman",
+          "url": "https://www.last.fm/music/Devon+Allman"
+        }
+      ],
+      "known_artists": [],
+      "id": "a653a79f8f59"
+    },
+    {
       "title": "Devon Allman Blues Summit feat. Jimmy Hall, Claudette King, Bernard Allison",
       "type": "concert",
       "start": "2027-03-27T20:00",
@@ -5768,8 +5901,8 @@
       "url": "https://www.vintage-club.de/",
       "kind": "school",
       "status": "ok",
-      "found": 65,
-      "kept": 12
+      "found": 113,
+      "kept": 14
     },
     {
       "id": "boogie-baeren",
@@ -5795,7 +5928,7 @@
       "url": "https://hepcatclub.com/",
       "kind": "school",
       "status": "ok",
-      "found": 238,
+      "found": 246,
       "kept": 3
     },
     {
@@ -5804,7 +5937,7 @@
       "url": "https://www.glockenbachwerkstatt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 5,
+      "found": 6,
       "kept": 43
     },
     {
@@ -5867,7 +6000,7 @@
       "url": "https://www.gansamwasser.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 34,
+      "found": 35,
       "kept": 6
     },
     {
@@ -5903,7 +6036,7 @@
       "url": "https://ackermannbogen-ev.de/programm-alles",
       "kind": "venue",
       "status": "ok",
-      "found": 15,
+      "found": 14,
       "kept": 0
     },
     {
@@ -5912,7 +6045,7 @@
       "url": "https://www.pasinger-fabrik.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 29,
+      "found": 34,
       "kept": 4
     },
     {
@@ -5938,8 +6071,8 @@
       "name": "Kunst in Sendling e.V.",
       "url": "https://www.kunst-in-sendling.com/",
       "kind": "venue",
-      "status": "ok",
-      "found": 15,
+      "status": "failed",
+      "error": "ConnectionError: HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Max retries exceeded with url: /wp-json/tribe/events/v1/events?per_page=50&page=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Read timed out. (read timeout=30.0)\"))",
       "kept": 0
     },
     {
@@ -5984,8 +6117,8 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 139,
-      "kept": 62
+      "found": 147,
+      "kept": 64
     },
     {
       "id": "mvp",
@@ -5994,7 +6127,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 40,
-      "kept": 2
+      "kept": 3
     },
     {
       "id": "muenchen-online-jazz",
@@ -6002,7 +6135,7 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 196,
+      "found": 192,
       "kept": 4
     },
     {

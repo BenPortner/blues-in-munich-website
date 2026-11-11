@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-10T11:27:04+00:00",
+ "scraped_at": "2026-11-11T11:16:19+00:00",
  "status": {
   "id": "hepcat-club",
   "name": "Hep Cat Club",
   "url": "https://hepcatclub.com/",
   "kind": "school",
   "status": "ok",
-  "found": 238
+  "found": 246
  },
  "events": [
   {
@@ -258,16 +258,8 @@
    "venue": "Hep Cat Club",
    "address": "Viktoriastraße 3b, 86150 Augsburg",
    "description": "",
-   "recurrence": "Mondays 18:20–19:20",
-   "dates": [
-    "2026-11-02",
-    "2026-11-09",
-    "2026-11-16",
-    "2026-11-23",
-    "2026-11-30",
-    "2026-12-07",
-    "2026-12-14"
-   ],
+   "recurrence": null,
+   "dates": [],
    "tags": [],
    "source_id": "",
    "source_name": "",
@@ -314,16 +306,8 @@
    "venue": "Hep Cat Club",
    "address": "Viktoriastraße 3b, 86150 Augsburg",
    "description": "",
-   "recurrence": "Mondays 19:25–20:25",
-   "dates": [
-    "2026-11-02",
-    "2026-11-09",
-    "2026-11-16",
-    "2026-11-23",
-    "2026-11-30",
-    "2026-12-07",
-    "2026-12-14"
-   ],
+   "recurrence": null,
+   "dates": [],
    "tags": [],
    "source_id": "",
    "source_name": "",
@@ -370,16 +354,8 @@
    "venue": "Hep Cat Club",
    "address": "Viktoriastraße 3b, 86150 Augsburg",
    "description": "",
-   "recurrence": "Mondays 20:30–21:30",
-   "dates": [
-    "2026-11-02",
-    "2026-11-09",
-    "2026-11-16",
-    "2026-11-23",
-    "2026-11-30",
-    "2026-12-07",
-    "2026-12-14"
-   ],
+   "recurrence": null,
+   "dates": [],
    "tags": [],
    "source_id": "",
    "source_name": "",
@@ -644,16 +620,8 @@
    "venue": "Hep Cat Club",
    "address": "Viktoriastraße 3b, 86150 Augsburg",
    "description": "",
-   "recurrence": "Wednesdays 18:10–19:10",
-   "dates": [
-    "2026-11-04",
-    "2026-11-11",
-    "2026-11-18",
-    "2026-11-25",
-    "2026-12-02",
-    "2026-12-09",
-    "2026-12-16"
-   ],
+   "recurrence": null,
+   "dates": [],
    "tags": [],
    "source_id": "",
    "source_name": "",
@@ -728,16 +696,8 @@
    "venue": "Hep Cat Club",
    "address": "Viktoriastraße 3b, 86150 Augsburg",
    "description": "",
-   "recurrence": "Wednesdays 19:15–20:15",
-   "dates": [
-    "2026-11-04",
-    "2026-11-11",
-    "2026-11-18",
-    "2026-11-25",
-    "2026-12-02",
-    "2026-12-09",
-    "2026-12-16"
-   ],
+   "recurrence": null,
+   "dates": [],
    "tags": [],
    "source_id": "",
    "source_name": "",
@@ -784,16 +744,8 @@
    "venue": "Hep Cat Club",
    "address": "Viktoriastraße 3b, 86150 Augsburg",
    "description": "",
-   "recurrence": "Wednesdays 19:15–20:15",
-   "dates": [
-    "2026-11-04",
-    "2026-11-11",
-    "2026-11-18",
-    "2026-11-25",
-    "2026-12-02",
-    "2026-12-09",
-    "2026-12-16"
-   ],
+   "recurrence": null,
+   "dates": [],
    "tags": [],
    "source_id": "",
    "source_name": "",
@@ -868,16 +820,8 @@
    "venue": "Hep Cat Club",
    "address": "Viktoriastraße 3b, 86150 Augsburg",
    "description": "",
-   "recurrence": "Wednesdays 20:20–21:20",
-   "dates": [
-    "2026-11-04",
-    "2026-11-11",
-    "2026-11-18",
-    "2026-11-25",
-    "2026-12-02",
-    "2026-12-09",
-    "2026-12-16"
-   ],
+   "recurrence": null,
+   "dates": [],
    "tags": [],
    "source_id": "",
    "source_name": "",
@@ -896,16 +840,8 @@
    "venue": "Hep Cat Club",
    "address": "Viktoriastraße 3b, 86150 Augsburg",
    "description": "",
-   "recurrence": "Wednesdays 20:20–21:20",
-   "dates": [
-    "2026-11-04",
-    "2026-11-11",
-    "2026-11-18",
-    "2026-11-25",
-    "2026-12-02",
-    "2026-12-09",
-    "2026-12-16"
-   ],
+   "recurrence": null,
+   "dates": [],
    "tags": [],
    "source_id": "",
    "source_name": "",
@@ -1352,6 +1288,87 @@
    "id": ""
   },
   {
+   "title": "Lindy Hop 3 mit Felicitas & Walter",
+   "type": "class",
+   "start": "2026-11-09T18:20",
+   "end": "2026-11-09T19:20",
+   "url": "https://hepcatclub.com/",
+   "venue": "Hep Cat Club",
+   "address": "Viktoriastraße 3b, 86150 Augsburg",
+   "description": "",
+   "recurrence": "Mondays 18:20–19:20",
+   "dates": [
+    "2026-11-09",
+    "2026-11-16",
+    "2026-11-23",
+    "2026-11-30",
+    "2026-12-07",
+    "2026-12-14"
+   ],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 2 mit Felicitas & Walter",
+   "type": "class",
+   "start": "2026-11-09T19:25",
+   "end": "2026-11-09T20:25",
+   "url": "https://hepcatclub.com/",
+   "venue": "Hep Cat Club",
+   "address": "Viktoriastraße 3b, 86150 Augsburg",
+   "description": "",
+   "recurrence": "Mondays 19:25–20:25",
+   "dates": [
+    "2026-11-09",
+    "2026-11-16",
+    "2026-11-23",
+    "2026-11-30",
+    "2026-12-07",
+    "2026-12-14"
+   ],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 1 mit Felicitas & Walter",
+   "type": "class",
+   "start": "2026-11-09T20:30",
+   "end": "2026-11-09T21:30",
+   "url": "https://hepcatclub.com/",
+   "venue": "Hep Cat Club",
+   "address": "Viktoriastraße 3b, 86150 Augsburg",
+   "description": "",
+   "recurrence": "Mondays 20:30–21:30",
+   "dates": [
+    "2026-11-09",
+    "2026-11-16",
+    "2026-11-23",
+    "2026-11-30",
+    "2026-12-07",
+    "2026-12-14"
+   ],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "Hip Hop 1 mit Timo",
    "type": "class",
    "start": "2026-11-10T18:30",
@@ -1395,6 +1412,141 @@
     "2026-12-01",
     "2026-12-08",
     "2026-12-15"
+   ],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Balboa Fundamentals & Technique mit Marion & Nik",
+   "type": "class",
+   "start": "2026-11-11T18:10",
+   "end": "2026-11-11T19:10",
+   "url": "https://hepcatclub.com/",
+   "venue": "Hep Cat Club",
+   "address": "Viktoriastraße 3b, 86150 Augsburg",
+   "description": "",
+   "recurrence": "Wednesdays 18:10–19:10",
+   "dates": [
+    "2026-11-11",
+    "2026-11-18",
+    "2026-11-25",
+    "2026-12-02",
+    "2026-12-09",
+    "2026-12-16"
+   ],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Balboa Social Club mit Marion & Nik",
+   "type": "class",
+   "start": "2026-11-11T19:15",
+   "end": "2026-11-11T20:15",
+   "url": "https://hepcatclub.com/",
+   "venue": "Hep Cat Club",
+   "address": "Viktoriastraße 3b, 86150 Augsburg",
+   "description": "",
+   "recurrence": "Wednesdays 19:15–20:15",
+   "dates": [
+    "2026-11-11",
+    "2026-11-18",
+    "2026-11-25",
+    "2026-12-02",
+    "2026-12-09",
+    "2026-12-16"
+   ],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop Social Club mit Kerstin & Dominik",
+   "type": "class",
+   "start": "2026-11-11T19:15",
+   "end": "2026-11-11T20:15",
+   "url": "https://hepcatclub.com/",
+   "venue": "Hep Cat Club",
+   "address": "Viktoriastraße 3b, 86150 Augsburg",
+   "description": "",
+   "recurrence": "Wednesdays 19:15–20:15",
+   "dates": [
+    "2026-11-11",
+    "2026-11-18",
+    "2026-11-25",
+    "2026-12-02",
+    "2026-12-09",
+    "2026-12-16"
+   ],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop 3 mit Kerstin & Dominik",
+   "type": "class",
+   "start": "2026-11-11T20:20",
+   "end": "2026-11-11T21:20",
+   "url": "https://hepcatclub.com/",
+   "venue": "Hep Cat Club",
+   "address": "Viktoriastraße 3b, 86150 Augsburg",
+   "description": "",
+   "recurrence": "Wednesdays 20:20–21:20",
+   "dates": [
+    "2026-11-11",
+    "2026-11-18",
+    "2026-11-25",
+    "2026-12-02",
+    "2026-12-09",
+    "2026-12-16"
+   ],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop Intensive Club mit Marion & Nik",
+   "type": "class",
+   "start": "2026-11-11T20:20",
+   "end": "2026-11-11T21:20",
+   "url": "https://hepcatclub.com/",
+   "venue": "Hep Cat Club",
+   "address": "Viktoriastraße 3b, 86150 Augsburg",
+   "description": "",
+   "recurrence": "Wednesdays 20:20–21:20",
+   "dates": [
+    "2026-11-11",
+    "2026-11-18",
+    "2026-11-25",
+    "2026-12-02",
+    "2026-12-09",
+    "2026-12-16"
    ],
    "tags": [],
    "source_id": "",
@@ -2601,7 +2753,7 @@
    "id": ""
   },
   {
-   "title": "Lindy Hop 3 mit Clara & Felicitas",
+   "title": "Lindy Hop 3 mit Felicitas & Walter",
    "type": "class",
    "start": "2027-01-11T18:20",
    "end": "2027-01-11T19:20",
@@ -2665,7 +2817,7 @@
    "id": ""
   },
   {
-   "title": "Lindy Hop 2 mit Clara & Felicitas",
+   "title": "Lindy Hop 2 mit Felicitas & Walter",
    "type": "class",
    "start": "2027-01-11T19:25",
    "end": "2027-01-11T20:25",
@@ -2729,7 +2881,7 @@
    "id": ""
   },
   {
-   "title": "Lindy Hop 1 mit Clara & Felicitas",
+   "title": "Lindy Hop 1 mit Felicitas & Walter",
    "type": "class",
    "start": "2027-01-11T20:30",
    "end": "2027-01-11T21:30",
@@ -3072,7 +3224,7 @@
    "id": ""
   },
   {
-   "title": "Balboa Fundamentals & Technique mit Clara & Christoph",
+   "title": "Balboa Fundamentals & Technique mit Marion & Nik",
    "type": "class",
    "start": "2027-01-13T18:10",
    "end": "2027-01-13T19:10",
@@ -3165,7 +3317,7 @@
    "id": ""
   },
   {
-   "title": "Balboa Social Club mit Clara & Dominik",
+   "title": "Balboa Social Club mit Marion & Nik",
    "type": "class",
    "start": "2027-01-13T19:15",
    "end": "2027-01-13T20:15",
@@ -3227,7 +3379,7 @@
    "id": ""
   },
   {
-   "title": "Lindy Hop Social Club mit Kerstin & Andreas",
+   "title": "Lindy Hop Social Club mit Kerstin & Dominik",
    "type": "class",
    "start": "2027-01-13T19:15",
    "end": "2027-01-13T20:15",
@@ -3320,7 +3472,7 @@
    "id": ""
   },
   {
-   "title": "Lindy Hop 3 mit Kerstin & Andreas",
+   "title": "Lindy Hop 3 mit Kerstin & Dominik",
    "type": "class",
    "start": "2027-01-13T20:20",
    "end": "2027-01-13T21:20",
@@ -3351,7 +3503,7 @@
    "id": ""
   },
   {
-   "title": "Lindy Hop Intensive Club mit Clara & Dominik",
+   "title": "Lindy Hop Intensive Club mit Marion & Nik",
    "type": "class",
    "start": "2027-01-13T20:20",
    "end": "2027-01-13T21:20",
@@ -4934,7 +5086,7 @@
    "id": ""
   },
   {
-   "title": "Balboa Fundamentals & Technique mit Clara & Christoph",
+   "title": "Balboa Fundamentals & Technique mit Marion & Nik",
    "type": "class",
    "start": "2027-04-07T18:10",
    "end": "2027-04-07T19:10",
@@ -5084,7 +5236,7 @@
    "id": ""
   },
   {
-   "title": "Balboa Social Club mit Clara & Dominik",
+   "title": "Balboa Social Club mit Marion & Nik",
    "type": "class",
    "start": "2027-04-07T19:15",
    "end": "2027-04-07T20:15",
@@ -5184,7 +5336,7 @@
    "id": ""
   },
   {
-   "title": "Lindy Hop Social Club mit Kerstin & Andreas",
+   "title": "Lindy Hop Social Club mit Kerstin & Dominik",
    "type": "class",
    "start": "2027-04-07T19:15",
    "end": "2027-04-07T20:15",
@@ -5334,7 +5486,7 @@
    "id": ""
   },
   {
-   "title": "Lindy Hop 3 mit Kerstin & Andreas",
+   "title": "Lindy Hop 3 mit Kerstin & Dominik",
    "type": "class",
    "start": "2027-04-07T20:20",
    "end": "2027-04-07T21:20",
@@ -5384,7 +5536,7 @@
    "id": ""
   },
   {
-   "title": "Lindy Hop Intensive Club mit Clara & Dominik",
+   "title": "Lindy Hop Intensive Club mit Marion & Nik",
    "type": "class",
    "start": "2027-04-07T20:20",
    "end": "2027-04-07T21:20",
@@ -6134,7 +6286,7 @@
    "id": ""
   },
   {
-   "title": "Lindy Hop 3 mit Clara & Felicitas",
+   "title": "Lindy Hop 3 mit Felicitas & Walter",
    "type": "class",
    "start": "2027-04-12T18:20",
    "end": "2027-04-12T19:20",
@@ -6232,7 +6384,7 @@
    "id": ""
   },
   {
-   "title": "Lindy Hop 2 mit Clara & Felicitas",
+   "title": "Lindy Hop 2 mit Felicitas & Walter",
    "type": "class",
    "start": "2027-04-12T19:25",
    "end": "2027-04-12T20:25",
@@ -6330,7 +6482,7 @@
    "id": ""
   },
   {
-   "title": "Lindy Hop 1 mit Clara & Felicitas",
+   "title": "Lindy Hop 1 mit Felicitas & Walter",
    "type": "class",
    "start": "2027-04-12T20:30",
    "end": "2027-04-12T21:30",

@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-10T11:29:36+00:00",
+ "scraped_at": "2026-11-11T11:19:19+00:00",
  "status": {
   "id": "ars-musica",
   "name": "ars musica e.V.",
@@ -32,14 +32,14 @@
    "id": ""
   },
   {
-   "title": "Baltazar & Frau Feierabend",
+   "title": "Leider schon VOLL ! Baltazar & Frau Feierabend",
    "type": "concert",
    "start": "2026-11-13T19:30",
    "end": null,
-   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2585&title=Baltazar%20%26amp%3B%20Frau%20Feierabend",
+   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2585&title=Leider%20schon%20VOLL%20%21%20Baltazar%20%26amp%3B%20Frau%20Feierabend",
    "venue": "ars musica Musikladen",
    "address": "Lindwurmstraße 201, 80337 München",
-   "description": "Baltazar (p) & Frau Feierabend (voc) machen sich die Musik, wie sie ihnen gefällt.",
+   "description": "Achtung - keien Plätze mehr verfügbar! Baltazar (p) & Frau Feierabend (voc) machen sich die Musik, wie sie ihnen gefällt.",
    "recurrence": null,
    "dates": [],
    "tags": [

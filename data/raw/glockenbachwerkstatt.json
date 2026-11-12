@@ -1,37 +1,14 @@
 {
- "scraped_at": "2026-11-11T11:16:22+00:00",
+ "scraped_at": "2026-11-12T11:32:44+00:00",
  "status": {
   "id": "glockenbachwerkstatt",
   "name": "Glockenbachwerkstatt – Fish'n Blues",
   "url": "https://www.glockenbachwerkstatt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 6
+  "found": 5
  },
  "events": [
-  {
-   "title": "Lonesome Andy & his One Man Band",
-   "type": "concert",
-   "start": "2026-11-11T20:30",
-   "end": null,
-   "url": "https://www.glockenbachwerkstatt.de/events/lonesome-andy-his-one-man-band/",
-   "venue": "Glockenbachwerkstatt",
-   "address": "Blumenstraße 7, 80331 München",
-   "description": "Fisch: 19:00 Uhr · kostenfrei",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Fish'n Blues",
-    "Konzert"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Sepp Eisele Trio",
    "type": "concert",

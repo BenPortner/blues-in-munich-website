@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-11T11:16:33+00:00",
+ "scraped_at": "2026-11-12T11:32:54+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
@@ -10,26 +10,6 @@
  },
  "events": [
   {
-   "title": "BOBBY SPARKS II",
-   "type": "concert",
-   "start": "2026-11-11T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11692",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Wollte man alle Tugenden, alle Stilmerkmale, alle Traditionen und Genres afroamerikanischer Musik in komprimierter Form zusammen darstellen, böte sich die Musik des texanischen Keyboarders Bobby Sparks II als Musterbeispiel an. In seinem Sound schwingen Jazz, Funk, Fusion, R & B, Soul, Gospel und Blues mit. Und als wäre es das alles nicht genug, gibt es auch noch eine klassisch angehauchte orchestrale Komponente bei ihm – zu hören ist das auf seinem jüngsten Werk Paranoia und jetzt live bei uns.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "THE MESSTHETICS AND JAMES BRANDON LEWIS",
    "type": "concert",
    "start": "2026-11-12T20:30",
@@ -37,7 +17,7 @@
    "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11693",
    "venue": "Jazzclub Unterfahrt",
    "address": "Einsteinstraße 42, 81675 München",
-   "description": "Es war eine aufwühlende Zeit damals: in den wilden 60ern klang Musik nach kompromisslosem Freiheitsdrang, nach Protest, nach Revolution. Dabei war es eigentlich egal, ob die Bands dieser Epoche Underground-Rock oder Free Jazz-spielten. In ihrer Haltung ähnelten sie sich schon sehr. Im Sound der Mezzthetics, die sich immer wieder mit dem gefeierten Tenorsaxofonisten James Brandon Lewis verbünden, kommen das Urwüchsige, Draufgängerische, Rotzige des Rock und Post-Punk und die ungezügelte Energie des Spiritual Jazz zusammen.",
+   "description": "Sold out. Es war eine aufwühlende Zeit damals: in den wilden 60ern klang Musik nach kompromisslosem Freiheitsdrang, nach Protest, nach Revolution. Dabei war es eigentlich egal, ob die Bands dieser Epoche Underground-Rock oder Free Jazz-spielten. In ihrer Haltung ähnelten sie sich schon sehr. Im Sound der Mezzthetics, die sich immer wieder mit dem gefeierten Tenorsaxofonisten James Brandon Lewis verbünden, kommen das Urwüchsige, Draufgängerische, Rotzige des Rock und Post-Punk und die ungezügelte Energie des Spiritual Jazz zusammen.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -546,7 +526,7 @@
    "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11716",
    "venue": "Jazzclub Unterfahrt",
    "address": "Einsteinstraße 42, 81675 München",
-   "description": "Musik beginnt für Fiona Grond und Luca Zambito mit dem Zuhören. Nicht mit einer Idee oder einem Stil, sondern mit der Bereitschaft, dem Moment, dem Gegenüber und dem Raum zwischen den Tönen Aufmerksamkeit zu schenken. Mit Time Waves veröffentlichen die Sängerin und der Pianist ihr erstes gemeinsames Album. Entstanden ist eine Musik zwischen Jazz, Songwriting und freier Improvisation, in der Stimme und Klavier einander auf Augenhöhe begegnen. Im Mittelpunkt stehen eigene Texte über Erinnerung, Herkunft, Beziehungen und gesellschaftliche Fragen – Geschichten, die im Persönlichen beginnen und weit darüber hinausweisen.",
+   "description": "Zeit bewegt sich nicht nur in eine Richtung. In Wellen scheint sie mal voran zu rauschen, aber sie spült auch Erinnerungen, Lebensphasen hoch, wogt hin und her zwischen damals, heute, morgen. Darum scheint es auf Time Waves, dem ersten gemeinsamen Album der Sängerin Fiona Grond und des Pianisten Luca Zambito zu gehen. In den Texten werden gesellschaftliche Fragen gestellt, Lebenslinien nachgezogen, Themen wie Herkunft und Liebe ver- und behandelt. Die intimen Zeilen werden sanft von musikalischen Wellen getragen, die an Jazz- und Singer-Songwriter-Gefilde schwappen.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -899,6 +879,28 @@
    "recurrence": null,
    "dates": [],
    "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "MUNICH LOUNGE LIZARDS",
+   "type": "concert",
+   "start": "2026-12-28T20:30",
+   "end": null,
+   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11739",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstraße 42, 81675 München",
+   "description": "Die Zeit zwischen den Jahren ist eine seltsame. Irgendwie hängt immer noch die Besinnlichkeit des Weihnachtsfests in der Luft, aber es ist auch schon die Vorfreude auf die ungehemmte Silvestersause da. Die Munich Lounge Lizards unter der Ägide des Baritonsaxofonisten Michael Lutzeier werden den gemischten Gefühlen zwischen Xmas und Neujahr gerecht und spielen ein mal sanft, mal heftig swingendes Programm, das sowohl ziemlich feierlich als auch ganz schön ausgelassen tönt.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Bigband Night"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,

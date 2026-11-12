@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-11T11:19:12+00:00",
+ "scraped_at": "2026-11-12T11:35:23+00:00",
  "status": {
   "id": "stragula",
   "name": "Stragula",
   "url": "https://stragula.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 27
+  "found": 28
  },
  "events": [
   {
@@ -238,6 +238,26 @@
    "venue": "Stragula",
    "address": "Bergmannstr. 66, 80339 München",
    "description": "VON MODERN BLUES BIS ROCK UND COUNTRY - PURISTEN SIND WIR NICHT Der Name sagt es ja schon: die alten Männer mit den zunehmend steifen Hüften (oder die \"hippen Steifen\", wie es der ehemalige Sänger einmal verdrehte und ganz trocken auf die Totenstarre anspielte), nehmen sich selbst nicht so ernst. Ihre musikalischen Helden aber schon. Allerdings sagen die: kopiert nicht, findet eure eigene Version und euer Mojo. Also, wer den puristischen Blues sucht, ist hier falsch. Wer auf einen Abend mit Spaß und Leidenschaft hofft, ist hier richtig. Wir spielen die Musik, die wir lieben und mögen die Vielfältigkeit, Entdeckungen und Herausforderungen. Manchmal verheben wir uns auch. Aber selbst dann paart sich zumeist hingebungsvolles \"knapp vorbei ist auch daneben\" mit genialen Momenten - und jeder Witz geht auf unsere Kosten.. · Eintritt: Frei (Hutspende)",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Band Stragula (Heike-Gerhard)",
+   "type": "concert",
+   "start": "2027-02-26T19:00",
+   "end": null,
+   "url": "https://stragula.de/events.html#:~:text=Band%20Stragula%20%28Heike%2DGerhard%29",
+   "venue": "Stragula",
+   "address": "Bergmannstr. 66, 80339 München",
+   "description": "2 Ukulelen, 2 Gitarren, 2 Gesänge mit viel Gefühl und Humor. Das Duo Stragula zelebriert Songwriting auf eine angenehme Art und mischt bayrische Schmankerl unter bekannte Songs aus der Pop und Rock Geschichte. Das Programm wird mit viel Hingabe und Liebe zur Musik präsentiert. · Eintritt: Frei",
    "recurrence": null,
    "dates": [],
    "tags": [],
@@ -497,7 +517,7 @@
    "url": "https://stragula.de/events.html#:~:text=pick%20up%20the%20music",
    "venue": "Stragula",
    "address": "Bergmannstr. 66, 80339 München",
-   "description": "Funk/Soul Pick up the music 2023 ist die Wiederbelebung der bereits seit Jahren in München aktiven Funk-Soulband, um Gitarrist Romano Pirc mit seinen langjährigen Bandkollegen Winfried Bochtler, Andreas Kandler und Gerhard Orth. Frischen Wind brachten nach der Corona bedingten Auszeit, die viele Jahre im Profibereich tätige Sängerin Kerstin Frank, der Münchner Schlagzeuger Fredi Maul und der ebenfalls aus München bekannte Bläserallrounder Sepp Schmölz und last but never least vervollständigt unseren Bläsersatz am Saxophon Peter Prestele. Die Band präsentiert Songs aus verschiedenen Jahrzehnten des Funk & Soul. · Eintritt: Frei (Hutspende)",
+   "description": "Pick up the music präsentiert Funk & Soul für Liebhaber und Kenner. Mit kraftvollem dreistimmigem Bläsersatz, spielfreudiger Rhythmusgruppe, Harmonischen Klängen von Taste und Saite, tobt sich Sängerin Kerstin Frank durch ein Repertoire aus lang bekanntem, aber eben auch Außenseiter der Musikszene finden an diesem Konzertabend Ihren Platz. Seien Sie gespannt! · Eintritt: Frei (Hutspende)",
    "recurrence": null,
    "dates": [],
    "tags": [],

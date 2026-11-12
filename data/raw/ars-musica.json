@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-11T11:19:19+00:00",
+ "scraped_at": "2026-11-12T11:35:29+00:00",
  "status": {
   "id": "ars-musica",
   "name": "ars musica e.V.",
   "url": "https://www.ars-musica-muenchen.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 12
+  "found": 11
  },
  "events": [
   {
@@ -44,28 +44,6 @@
    "dates": [],
    "tags": [
     "Pop-Rock-Klassiker unplugged und unkonventionell"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Singende Säge - Anfängerkurs",
-   "type": "other",
-   "start": "2026-11-14T14:00",
-   "end": null,
-   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=1979&title=Singende%20S%C3%A4ge%20-%20Anf%C3%A4ngerkurs",
-   "venue": "Musikladen ars musica",
-   "address": "Lindwurmstraße 201",
-   "description": "Jubiläum - 20 Jahre Kurse für Singende Säge in München Inhalte des Kurses: - Tonerzeugung mit den Händen und mit dem Filzschlägel auf dem „Sägeblatt“ - Entdecken einzelner Töne und Umgang mit dem Stimmgerät - Sphärische Klänge wie Wind & Walgesang zu Hintergrundsound (CD) - Tonleiter und Intervall- Übungen - Hummelflug? Und: Wir werden Spaß haben ;-) Kontakt zum Kursleiter bei Fragen: mail@singendesaege.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Kurs"
    ],
    "source_id": "",
    "source_name": "",

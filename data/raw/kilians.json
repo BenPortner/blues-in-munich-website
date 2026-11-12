@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-11T11:16:37+00:00",
+ "scraped_at": "2026-11-12T11:32:57+00:00",
  "status": {
   "id": "kilians",
   "name": "Kilians Irish Pub",
@@ -9,26 +9,6 @@
   "found": 8
  },
  "events": [
-  {
-   "title": "DiPaTi",
-   "type": "concert",
-   "start": "2026-11-11T21:00",
-   "end": "2026-11-12T00:30",
-   "url": "https://reservierung.heyrosi.de/event/kilians-irish-pub/dipati",
-   "venue": "Kilians Irish Pub",
-   "address": "Frauenplatz 11, 80331 München",
-   "description": "Dieter, Paul & Titus with Folk, Pop & Rock Classics",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Nino Göres Trio",
    "type": "concert",
@@ -158,6 +138,26 @@
    "venue": "Kilians Irish Pub",
    "address": "Frauenplatz 11, 80331 München",
    "description": "bekannte und beliebte Hits von Gestern bis Heute",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "808 Shogun",
+   "type": "concert",
+   "start": "2026-11-21T21:00",
+   "end": "2026-11-22T00:30",
+   "url": "https://reservierung.heyrosi.de/event/kilians-irish-pub/808-shogun",
+   "venue": "Kilians Irish Pub",
+   "address": "Frauenplatz 11, 80331 München",
+   "description": "Only Rock Hits!",
    "recurrence": null,
    "dates": [],
    "tags": [],

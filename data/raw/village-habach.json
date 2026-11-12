@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-11-11T11:16:44+00:00",
+ "scraped_at": "2026-11-12T11:33:04+00:00",
  "status": {
   "id": "village-habach",
   "name": "Village Habach",
   "url": "https://www.village-habach.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 44
+  "found": 43
  },
  "events": [
-  {
-   "title": "RO CLAUSMAN BAND",
-   "type": "concert",
-   "start": "2026-11-13T20:15",
-   "end": null,
-   "url": "https://village-habach.de/programm/?single=ff1aac155a9d69f17f09ea96504f37f3",
-   "venue": "Village Habach",
-   "address": "Obermühle 1, 82392 Habach",
-   "description": "grooviger Blues, soulige Balladen, fetziger Rock ’n’ Roll und jazzig angehauchter Southern Rock Die 6-köpfige Bluesrock-Band um den virtuosen Penzberger Profi-Gitarristen und Sänger RO CLAUSMAN gehört zum Feinsten, was man in diesem Genre im oberbayerischen Voralpenland hören kann. Hier jage...",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Band of Friends (GBR)",
    "type": "concert",

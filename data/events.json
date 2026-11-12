@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T11:22:31+00:00",
+  "generated_at": "2026-11-12T11:37:19+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -2919,6 +2919,28 @@
       "id": "ae91a2c880c5"
     },
     {
+      "title": "Matching Ties Duo & Special Guest Rosena Horan",
+      "type": "concert",
+      "start": "2026-11-12T21:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/matching-ties-duo-special-guest-rosena-horan-irland.html",
+      "venue": "Donnerstag, 12.11.2026, 19:30 – bis 21:00 Uhr",
+      "address": "12.11.2026, 19:30 – bis 21:00 Uhr Tickets",
+      "description": "Folk mit einer Prise Bluegrass und Blues vom Matching Ties Duo und Special Guest Rosena Horan.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Folk"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "ee9cdd320b9f"
+    },
+    {
       "title": "Volker Gieseks Colorbox",
       "type": "concert",
       "start": "2026-11-13T20:00",
@@ -2942,31 +2964,6 @@
       ],
       "known_artists": [],
       "id": "f0117847035b"
-    },
-    {
-      "title": "RO CLAUSMAN BAND",
-      "type": "concert",
-      "start": "2026-11-13T20:15",
-      "end": null,
-      "url": "https://village-habach.de/programm/?single=ff1aac155a9d69f17f09ea96504f37f3",
-      "venue": "Village Habach",
-      "address": "Obermühle 1, 82392 Habach",
-      "description": "grooviger Blues, soulige Balladen, fetziger Rock ’n’ Roll und jazzig angehauchter Southern Rock Die 6-köpfige Bluesrock-Band um den virtuosen Penzberger Profi-Gitarristen und Sänger RO CLAUSMAN gehört zum Feinsten, was man in diesem Genre im oberbayerischen Voralpenland hören kann. Hier jage...",
-      "recurrence": null,
-      "dates": [],
-      "tags": [],
-      "source_id": "village-habach",
-      "source_name": "Village Habach",
-      "school_name": null,
-      "school_url": null,
-      "artists": [
-        {
-          "name": "Ro Clausman",
-          "url": "https://www.last.fm/music/Ro+Clausman"
-        }
-      ],
-      "known_artists": [],
-      "id": "ff05effc904f"
     },
     {
       "title": "Blues 2 mit Clara",
@@ -3032,8 +3029,8 @@
       "start": "2026-11-17T20:00",
       "end": null,
       "url": "https://www.in-muenchen.de/events/prinzregenten-blues-iberl-buhne.html",
-      "venue": "Iberl Bühne",
-      "address": "Herzogspitalstr. 6, 80331 München",
+      "venue": "Dienstag, 17.11.2026, 20:00 Uhr",
+      "address": "17.11.2026, 20:00 Uhr und weitere Termine Tickets",
       "description": "In einer Komödie voller Verwechslungen und Intrigen verschlägt es den Prinzregenten Johann der III. versehentlich in die bayerische Provinz. Dort gerät er in ein spaßiges Katz-und-Maus-Spiel, als er seine Identität verliert und als Knecht arbeiten muss. Eine turbulente Jagd nach der Wahrheit beginnt.",
       "recurrence": null,
       "dates": [],
@@ -3106,7 +3103,7 @@
       "title": "Bernd Bauer Blues Band: Stormy Wednesday",
       "type": "concert",
       "start": "2026-11-18T20:00",
-      "end": "2026-11-18T22:30",
+      "end": null,
       "url": "https://berndbauerbluesband.de/termine/",
       "venue": "Kulturzentrum Giesinger Bahnhof",
       "address": "Giesinger Bahnhofplatz 1, 81539  München",
@@ -3146,6 +3143,28 @@
       "id": "2af7cf23e9c5"
     },
     {
+      "title": "Session Stormy Wednesday",
+      "type": "concert",
+      "start": "2026-11-18T22:30",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/session-stormy-wednesday.html",
+      "venue": "Mittwoch, 18.11.2026, 20:00 – bis 22:30 Uhr",
+      "address": "18.11.2026, 20:00 – bis 22:30 Uhr Eintritt frei",
+      "description": "Im Giesinger Bahnhof entfaltet sich eine akustische Blues Session voller Spontanität und Spielfreude. Unbekannte musikalische Gäste bringen ihre Instrumente und Stimmen mit, um das Bühnengeschehen zu bereichern. Gastgeber ist die Bernd Bauer Blues Band, die den Abend mit einem Set eröffnet.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "f19e43f904f6"
+    },
+    {
       "title": "Bluesverschwörung Nr. 149",
       "type": "social",
       "start": "2026-11-19T20:30",
@@ -3168,13 +3187,60 @@
       "id": "de42368a5691"
     },
     {
-      "title": "30. Münchner Bluesnacht mit Zither Manä, Abi Wallenstein, Ludwig Seuss & Band",
+      "title": "30. Münchner Bluesnacht - mit Zither Manä und Gäste",
       "type": "concert",
       "start": "2026-11-20T20:00",
-      "end": "2026-11-20T23:00",
-      "url": "https://www.in-muenchen.de/events/30-munchner-bluesnacht-mit-zither-mana-abi-wallenstein-ludwig-seuss-band.html",
-      "venue": "Schlachthof – Saal",
+      "end": null,
+      "url": "https://www.mvp.de/muenchen/veranstaltungen/30-muenchner-bluesnacht-mit-zither-manae-und-gaeste-muenchen/",
+      "venue": "Schlachthof - Saal",
       "address": "Zenettistraße 9, 80337 München",
+      "description": "",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "mvp",
+      "source_name": "mvp.de (Jazz & Blues)",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "433000a2808b"
+    },
+    {
+      "title": "Bootleg Twins feat. Schorsch Hampel & Hubert Hofherr",
+      "type": "concert",
+      "start": "2026-11-20T22:30",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/bootleg-twins-feat-schorsch-hampel-hubert-hofherr.html",
+      "venue": "Freitag, 20.11.2026, 20:00 – bis 22:30 Uhr",
+      "address": "20.11.2026, 20:00 – bis 22:30 Uhr Tickets",
+      "description": "Auf der Bühne treffen Blues-Tradition und moderne Klänge aufeinander. Mario Spelthan, Schorsch Hampel und Hubert Hofherr entführen das Publikum in die Welt des Blues der 20er und 30er Jahre, Chicago Blues, Boogie und Folksongs. Ein Abend voller musikalischer Vielfalt und gefühlvoller Darbietungen.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Schorsch Hampel",
+          "url": "https://www.last.fm/music/Schorsch+Hampel"
+        }
+      ],
+      "known_artists": [],
+      "id": "8ee51229236f"
+    },
+    {
+      "title": "30. Münchner Bluesnacht mit Zither Manä, Abi Wallenstein, Ludwig Seuss & Band",
+      "type": "concert",
+      "start": "2026-11-20T23:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/30-munchner-bluesnacht-mit-zither-mana-abi-wallenstein-ludwig-seuss-band.html",
+      "venue": "Freitag, 20.11.2026, 20:00 – bis 23:00 Uhr",
+      "address": "20.11.2026, 20:00 – bis 23:00 Uhr Tickets",
       "description": "Zwischen Chicago-Sound und Roots präsentiert die Münchner Bluesnacht eine Auswahl handgemachter Blues-Acts. Zither-Manä und die Ludwig Seuss Band zelebrieren den Groove und die Vielseitigkeit des Blues. In intimer Clubatmosphäre entfaltet sich das Zusammenspiel von Szenegrößen und Jam-Sessions.",
       "recurrence": null,
       "dates": [],
@@ -3201,84 +3267,6 @@
       ],
       "known_artists": [],
       "id": "db7a3849a2d1"
-    },
-    {
-      "title": "Bootleg Twins feat. Schorsch Hampel & Hubert Hofherr",
-      "type": "concert",
-      "start": "2026-11-20T20:00",
-      "end": "2026-11-20T22:30",
-      "url": "https://www.in-muenchen.de/events/bootleg-twins-feat-schorsch-hampel-hubert-hofherr.html",
-      "venue": "Kulturhaus Neuperlach – KulturBunt",
-      "address": "Albert-Schweitzer-Straße 62, 81735 München",
-      "description": "Auf der Bühne treffen Blues-Tradition und moderne Klänge aufeinander. Mario Spelthan, Schorsch Hampel und Hubert Hofherr entführen das Publikum in die Welt des Blues der 20er und 30er Jahre, Chicago Blues, Boogie und Folksongs. Ein Abend voller musikalischer Vielfalt und gefühlvoller Darbietungen.",
-      "recurrence": null,
-      "dates": [],
-      "tags": [
-        "Blues"
-      ],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
-      "school_name": null,
-      "school_url": null,
-      "artists": [
-        {
-          "name": "Schorsch Hampel",
-          "url": "https://www.last.fm/music/Schorsch+Hampel"
-        }
-      ],
-      "known_artists": [],
-      "id": "8ee51229236f"
-    },
-    {
-      "title": "Justina Lee Brown + Biber Herrmann",
-      "type": "concert",
-      "start": "2026-11-21T19:30",
-      "end": "2026-11-21T22:30",
-      "url": "https://www.in-muenchen.de/events/blues-night.html",
-      "venue": "Bürgerhaus Garching",
-      "address": "Bürgerplatz 9, 85748 Garching bei München",
-      "description": "Zwei Ansätze prägen den Abend im Zeichen des Blues. Biber Herrmann präsentiert präzises Fingerstyle-Gitarrenspiel und erzählerische Texte. Justina Lee Brown verbindet Tradition mit Soul und Gospel, getragen von ihrer markanten Stimme. Gemeinsam fächern sie die Facetten des Blues auf, von der reduzierten Ballade bis zum expressiven Ausdruck.",
-      "recurrence": null,
-      "dates": [],
-      "tags": [
-        "Blues"
-      ],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
-      "school_name": null,
-      "school_url": null,
-      "artists": [
-        {
-          "name": "Justina Lee Brown",
-          "url": "https://www.last.fm/music/Justina+Lee+Brown"
-        },
-        {
-          "name": "Biber Herrmann",
-          "url": "https://www.last.fm/music/Biber+Herrmann"
-        }
-      ],
-      "known_artists": [],
-      "id": "35981d2a1203"
-    },
-    {
-      "title": "Faces of the Blues – Robert Richter & Gaby von Sulkowski",
-      "type": "concert",
-      "start": "2026-11-21T20:00",
-      "end": "2026-11-21T22:00",
-      "url": "https://www.in-muenchen.de/events/faces-of-the-blues-robert-richter-gaby-von-sulkowski.html",
-      "venue": "La Cantina",
-      "address": "Elisabethstr. 53, 80796 München",
-      "description": "Ein Duo verbindet Bluesklassiker mit Lesungen aus dem Buch zur Ausstellung.",
-      "recurrence": null,
-      "dates": [],
-      "tags": [],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
-      "school_name": null,
-      "school_url": null,
-      "artists": [],
-      "known_artists": [],
-      "id": "3b93210cc13c"
     },
     {
       "title": "Sweety Swing Night",
@@ -3326,14 +3314,34 @@
       "id": "cef9587e254f"
     },
     {
-      "title": "Stephan Zinner",
+      "title": "Faces of the Blues – Robert Richter & Gaby von Sulkowski",
       "type": "concert",
-      "start": "2026-11-22T19:00",
-      "end": "2026-11-22T22:00",
-      "url": "https://www.in-muenchen.de/events/stephan-zinner-der-teufel-das-madchen-der-blues-und-ich.html",
-      "venue": "Theater Leo17",
-      "address": "Leopoldstraße 17, 80802 München",
-      "description": "Stephan Zinner begibt sich auf eine musikalische Reise zu den Wurzeln des Blues, unterstützt von Peter Pichler, mit einer Mischung aus Blues, Gospel und Tanz.",
+      "start": "2026-11-21T22:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/faces-of-the-blues-robert-richter-gaby-von-sulkowski.html",
+      "venue": "Samstag, 21.11.2026, 20:00 – bis 22:00 Uhr",
+      "address": "21.11.2026, 20:00 – bis 22:00 Uhr Tickets",
+      "description": "Ein Duo verbindet Bluesklassiker mit Lesungen aus dem Buch zur Ausstellung.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "3b93210cc13c"
+    },
+    {
+      "title": "Justina Lee Brown + Biber Herrmann",
+      "type": "concert",
+      "start": "2026-11-21T22:30",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/blues-night.html",
+      "venue": "Samstag, 21.11.2026, 19:30 – bis 22:30 Uhr",
+      "address": "21.11.2026, 19:30 – bis 22:30 Uhr Tickets",
+      "description": "Zwei Ansätze prägen den Abend im Zeichen des Blues. Biber Herrmann präsentiert präzises Fingerstyle-Gitarrenspiel und erzählerische Texte. Justina Lee Brown verbindet Tradition mit Soul und Gospel, getragen von ihrer markanten Stimme. Gemeinsam fächern sie die Facetten des Blues auf, von der reduzierten Ballade bis zum expressiven Ausdruck.",
       "recurrence": null,
       "dates": [],
       "tags": [
@@ -3345,12 +3353,43 @@
       "school_url": null,
       "artists": [
         {
-          "name": "Stephan Zinner",
-          "url": "https://www.last.fm/music/Stephan+Zinner"
+          "name": "Justina Lee Brown",
+          "url": "https://www.last.fm/music/Justina+Lee+Brown"
+        },
+        {
+          "name": "Biber Herrmann",
+          "url": "https://www.last.fm/music/Biber+Herrmann"
         }
       ],
       "known_artists": [],
-      "id": "3aeb4ae6df11"
+      "id": "35981d2a1203"
+    },
+    {
+      "title": "Yves & The Big Blue",
+      "type": "concert",
+      "start": "2026-11-21T22:30",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/yves-the-big-blue.html",
+      "venue": "Samstag, 21.11.2026, 20:00 – bis 22:30 Uhr",
+      "address": "21.11.2026, 20:00 – bis 22:30 Uhr",
+      "description": "Balladen, Bluessongs und eigene Kompositionen: Uwe Grübel, Karl Wimmer und Gäste spielen „directly from a soulful shade of blue“ in der Szenerie.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "The Big Blue",
+          "url": "https://www.last.fm/music/The+Big+Blue"
+        }
+      ],
+      "known_artists": [],
+      "id": "8da77edabf93"
     },
     {
       "title": "Greg Black & The Bad Notion (SLO)",
@@ -3376,6 +3415,33 @@
       ],
       "known_artists": [],
       "id": "3330568fcd36"
+    },
+    {
+      "title": "Stephan Zinner",
+      "type": "concert",
+      "start": "2026-11-22T22:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/stephan-zinner-der-teufel-das-madchen-der-blues-und-ich.html",
+      "venue": "Sonntag, 22.11.2026, 19:00 – bis 22:00 Uhr",
+      "address": "22.11.2026, 19:00 – bis 22:00 Uhr Tickets",
+      "description": "Stephan Zinner begibt sich auf eine musikalische Reise zu den Wurzeln des Blues, unterstützt von Peter Pichler, mit einer Mischung aus Blues, Gospel und Tanz.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Stephan Zinner",
+          "url": "https://www.last.fm/music/Stephan+Zinner"
+        }
+      ],
+      "known_artists": [],
+      "id": "3aeb4ae6df11"
     },
     {
       "title": "Edwin Kimmler",
@@ -3432,28 +3498,6 @@
       "id": "0a7033e7e1da"
     },
     {
-      "title": "Körber Krohn Fliegauf",
-      "type": "concert",
-      "start": "2026-11-25T19:00",
-      "end": "2026-11-25T22:00",
-      "url": "https://www.in-muenchen.de/events/koerber-krohn-fliegauf.html",
-      "venue": "Barschwein",
-      "address": "Franzstraße 3, 80802 München",
-      "description": "Eine groovende Reise durch Blues und Americana erwartet die Zuhörer. Zwei akustische Gitarren, Blues-Harp und Gesang entführen in unbekannte Ecken des Songbooks. Von den Allmann Brothers bis John Mayall reichen die musikalischen Inspirationen.",
-      "recurrence": null,
-      "dates": [],
-      "tags": [
-        "Blues-Americana"
-      ],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
-      "school_name": null,
-      "school_url": null,
-      "artists": [],
-      "known_artists": [],
-      "id": "a6be4f854ebb"
-    },
-    {
       "title": "Dr. Will & The Wizards",
       "type": "concert",
       "start": "2026-11-25T19:30",
@@ -3481,12 +3525,34 @@
       "id": "45f22a65cf01"
     },
     {
+      "title": "The Official Blues Brothers Revue",
+      "type": "concert",
+      "start": "2026-11-25T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/the-official-blues-brothers-revue.html",
+      "venue": "Mittwoch, 25.11.2026, 20:00 Uhr",
+      "address": "25.11.2026, 20:00 Uhr Tickets",
+      "description": "Ein multimediales interaktives Erlebnis mit Kieron Lafferty (Elwood) & Wayne Catania (Jake), unterstützt von der All-Star-Intercontinental Rhythm & Blues Band. Klassiker wie „Soul Man“ und „Gimme Some Lovin“ feiern den Kult, den John Belushi & Dan Aykroyd erstmals 1978 entfachten.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Tribute-Show"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "a1f4c6335782"
+    },
+    {
       "title": "The Official Blues Brothers Revue presented by Dan Aykroyd & Judith Belushi",
       "type": "concert",
       "start": "2026-11-25T20:00",
       "end": null,
       "url": "https://www.muenchen-online.de/veranstaltung/the-official-blues-brothers-revue-presented-by-dan-aykroyd-judith-belushi-480822",
-      "venue": "Prinzregententheater Theaterakademie August Everding",
+      "venue": "Prinzregententheater",
       "address": "Prinzregentenplatz 12, 81675 München",
       "description": "mit Kieron Lafferty, Wayne Catania und All-Star-Intercontinental Rhythm & Blues Band Ein unvergessliches Konzert mit „The Voice“ Christian Brückner (die deutsche Stimme von Robert de Niro, Harvey Keitel und Robert Redford) und Jazz-Trompeter Martin Auer mit seinem fulminanten Quintett. Das 100-jährige Jubiläum eines der größten Jazzmusiker aller Zeiten ist ein schöner Anlass, Miles Davis in seiner Vielfältigkeit und Genialität musikalisch und als Persönlichkeit neu zu beleuchten. Den Großmeister der Sprache Christian Brückner kennt jeder, er ist ein absoluter Kenner und Liebhaber des Jazz. Ent",
       "recurrence": null,
@@ -3529,13 +3595,35 @@
       "id": "6cc61d6bc73f"
     },
     {
+      "title": "Körber Krohn Fliegauf",
+      "type": "concert",
+      "start": "2026-11-25T22:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/koerber-krohn-fliegauf.html",
+      "venue": "Mittwoch, 25.11.2026, 19:00 – bis 22:00 Uhr",
+      "address": "25.11.2026, 19:00 – bis 22:00 Uhr Eintritt frei",
+      "description": "Eine groovende Reise durch Blues und Americana erwartet die Zuhörer. Zwei akustische Gitarren, Blues-Harp und Gesang entführen in unbekannte Ecken des Songbooks. Von den Allmann Brothers bis John Mayall reichen die musikalischen Inspirationen.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues-Americana"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "a6be4f854ebb"
+    },
+    {
       "title": "Meena Cryle & Chris Fillmore",
       "type": "concert",
       "start": "2026-11-26T20:00",
       "end": null,
       "url": "https://www.in-muenchen.de/events/meena-cryle-chris-fillmore.html",
-      "venue": "Veranstaltungsforum Fürstenfeld",
-      "address": "Fürstenfeld 12, 82256 Fürstenfeldbruck",
+      "venue": "Donnerstag, 26.11.2026, 20:00 Uhr",
+      "address": "26.11.2026, 20:00 Uhr Tickets",
       "description": "Meena Cryle und Chris Fillmore feiern auf ihrer 30. Jubiläumstour ihr seltenes und intimes Zusammenspiel. Die beiden österreichischen Blues- und Rootskünstler, bekannt für ihre leidenschaftlichen Auftritte, begeistern mit ihrer einzigartigen Stimme und Gitarrenkunst. Ihr Talent wurde auch vom renommierten Produzenten Jim Gaines gewürdigt.",
       "recurrence": null,
       "dates": [],
@@ -3567,7 +3655,7 @@
       "url": "https://www.tollwood.de/veranstaltungen/2026/johnny-the-yooahoos/",
       "venue": "Tollwood – Hexenkessel",
       "address": "Theresienwiese, 80336 München",
-      "description": "Folk & Bluegrass",
+      "description": "Folk & Bluegrass Von kleinen Bühnen in Süddeutschland bis zur Grand Ole Opry in Nashville: Johnny & The Yooahoos haben seit 2018 einen weiten Weg zurückgelegt. 2025 tourte das Quartett als Gewinner des IBMA International Band Grant fünf Wochen lang durch die USA. Musikalisch bleiben die vier ihren akustischen Wurzeln treu. Banjo, Mandoline, Gitarre und Kontrabass treffen auf dreistimmigen Gesang und verbinden traditionellen Bluegrass mit zeitgenössischem Folk.",
       "recurrence": null,
       "dates": [],
       "tags": [
@@ -3678,40 +3766,13 @@
       "id": "f8f97b7af139"
     },
     {
-      "title": "Mojo Blues Band",
-      "type": "concert",
-      "start": "2026-12-01T20:00",
-      "end": "2026-12-01T22:30",
-      "url": "https://www.in-muenchen.de/events/mojo-blues-band-jazz-beyond.html",
-      "venue": "Bayerischer Hof Night Club",
-      "address": "Promenadeplatz 2-6, 80333 München",
-      "description": "Chicago-Blues mit Humor: Die Wiener Mojo Blues Band spielt seit 1977 handgemachten Blues und gastiert im Night Club des Bayerischen Hofs.",
-      "recurrence": null,
-      "dates": [],
-      "tags": [
-        "Blues"
-      ],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
-      "school_name": null,
-      "school_url": null,
-      "artists": [
-        {
-          "name": "Mojo Blues Band",
-          "url": "https://www.last.fm/music/Mojo+Blues+Band"
-        }
-      ],
-      "known_artists": [],
-      "id": "4e657f549678"
-    },
-    {
       "title": "Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich",
       "type": "concert",
       "start": "2026-12-01T20:00",
       "end": null,
       "url": "https://www.in-muenchen.de/events/stephan-zinner-der-teufel-das-madchen-der-blues-und-ich-schlachthof.html",
-      "venue": "Schlachthof",
-      "address": "Zenettistraße 9, 80337 München",
+      "venue": "Dienstag, 01.12.2026, 20:00 Uhr",
+      "address": "01.12.2026, 20:00 Uhr Tickets",
       "description": "Stephan Zinner begibt sich auf eine musikalische Reise zu den Wurzeln des Blues, die er nicht nur im Mississippi-Delta, sondern auch in Trostberg in Oberbayern findet. Mit Gitarre und der Unterstützung von Peter Pichler präsentiert er eine Mischung aus Blues, Gospel und Tanz.",
       "recurrence": null,
       "dates": [],
@@ -3732,14 +3793,14 @@
       "id": "a88fdd380af0"
     },
     {
-      "title": "Kai Strauss & The Electric Blues All Stars",
+      "title": "Mojo Blues Band",
       "type": "concert",
-      "start": "2026-12-02T20:00",
-      "end": "2026-12-02T23:00",
-      "url": "https://www.in-muenchen.de/events/kai-strauss-the-electric-blues-all-stars-backstage-club.html",
-      "venue": "Bayerischer Hof Night Club",
-      "address": "Promenadeplatz 2-6, 80333 München",
-      "description": "Kai Strauss, bekannt für seine kraftvolle Gitarre und Gesang, präsentiert mit seiner internationalen Band The Electric Blues All Stars einen zeitgenössischen Sound, der Blues mit Funk und Soul verbindet.",
+      "start": "2026-12-01T22:30",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/mojo-blues-band-jazz-beyond.html",
+      "venue": "Dienstag, 01.12.2026, 20:00 – bis 22:30 Uhr",
+      "address": "01.12.2026, 20:00 – bis 22:30 Uhr Tickets",
+      "description": "Chicago-Blues mit Humor: Die Wiener Mojo Blues Band spielt seit 1977 handgemachten Blues und gastiert im Night Club des Bayerischen Hofs.",
       "recurrence": null,
       "dates": [],
       "tags": [
@@ -3751,12 +3812,37 @@
       "school_url": null,
       "artists": [
         {
-          "name": "Kai Strauss & The Electric Blues All Stars",
-          "url": "https://www.last.fm/music/Kai+Strauss+%26+The+Electric+Blues+All+Stars"
+          "name": "Mojo Blues Band",
+          "url": "https://www.last.fm/music/Mojo+Blues+Band"
         }
       ],
       "known_artists": [],
-      "id": "de57b62b9df1"
+      "id": "4e657f549678"
+    },
+    {
+      "title": "Kai Strauss",
+      "type": "concert",
+      "start": "2026-12-02",
+      "end": null,
+      "url": "https://www.mvp.de/muenchen/veranstaltungen/kai-strauss/",
+      "venue": "Hotel Bayerischer Hof/Night Club",
+      "address": null,
+      "description": "",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "mvp",
+      "source_name": "mvp.de (Jazz & Blues)",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Kai Strauss",
+          "url": "https://www.last.fm/music/Kai+Strauss"
+        }
+      ],
+      "known_artists": [],
+      "id": "0ff02cd3f84a"
     },
     {
       "title": "Dr. Will & Saschmo Bibergeil",
@@ -3787,6 +3873,33 @@
       "id": "985e54d88dfa"
     },
     {
+      "title": "Kai Strauss & The Electric Blues All Stars",
+      "type": "concert",
+      "start": "2026-12-02T23:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/kai-strauss-the-electric-blues-all-stars-backstage-club.html",
+      "venue": "Mittwoch, 02.12.2026, 20:00 – bis 23:00 Uhr",
+      "address": "02.12.2026, 20:00 – bis 23:00 Uhr Tickets",
+      "description": "Kai Strauss, bekannt für seine kraftvolle Gitarre und Gesang, präsentiert mit seiner internationalen Band The Electric Blues All Stars einen zeitgenössischen Sound, der Blues mit Funk und Soul verbindet.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Kai Strauss & The Electric Blues All Stars",
+          "url": "https://www.last.fm/music/Kai+Strauss+%26+The+Electric+Blues+All+Stars"
+        }
+      ],
+      "known_artists": [],
+      "id": "de57b62b9df1"
+    },
+    {
       "title": "Pre-Bluesverschwörungskurs am 03.12.2026",
       "type": "workshop",
       "start": "2026-12-03T18:30",
@@ -3812,8 +3925,8 @@
       "start": "2026-12-03T19:00",
       "end": null,
       "url": "https://www.in-muenchen.de/events/zither-mana-46-jahre-der-ganz-normale-wahnsinn.html",
-      "venue": "Kultur im Oberbräu Holzkirchen",
-      "address": "Marktplatz 18A, 83607 Holzkirchen",
+      "venue": "Donnerstag, 03.12.2026, 19:00 Uhr",
+      "address": "03.12.2026, 19:00 Uhr Tickets",
       "description": "Der Erfinder des Zither-Rock spielt Volksmusik, Blues und Pink Floyd auf der Zither und kommentiert dazu kabarettistisch die Lage der Welt.",
       "recurrence": null,
       "dates": [],
@@ -3921,8 +4034,8 @@
       "start": "2026-12-04T19:30",
       "end": null,
       "url": "https://www.in-muenchen.de/events/henry-heggen-titus-vollmer-san2-his-soul-patrol.html",
-      "venue": "bosco Bürger- und Kulturhaus",
-      "address": "Oberer Kirchenweg 1, 82131 Gauting",
+      "venue": "Freitag, 04.12.2026, 19:30 Uhr",
+      "address": "04.12.2026, 19:30 Uhr",
       "description": "In der 11. Gautinger Bluesnacht begeistern Henry Heggen und Titus Vollmer mit erstklassigem Mundharmonika-Sound und herausragender Bluesstimme. Gemeinsam mit San2 und seiner Soul Patrol entführen sie das Publikum in eine Welt voller Blues und Soul. Die Bühnenshow von San2, bekannter Hohner Botschafter, ist eine leidenschaftliche Darbietung, bei der jeder Ton zelebriert wird.",
       "recurrence": null,
       "dates": [],
@@ -4051,33 +4164,6 @@
       "id": "e63fc74695b6"
     },
     {
-      "title": "Saschmo",
-      "type": "concert",
-      "start": "2026-12-11T19:30",
-      "end": "2026-12-11T21:00",
-      "url": "https://www.in-muenchen.de/events/saschmo.html",
-      "venue": "ars musica – Der Musikladen",
-      "address": "Lindwurmstr. 201, 80337 München",
-      "description": "Saschmo präsentiert sein neues Vinylalbum ‚Same Old Story‘. Zwischen Indie-Pop, Singer-Songwriter und Blues-Sessions mit Lagerfeuer-Flair entsteht ein minimalistischer, gitarrenlastiger und leicht melancholischer Sound. Begleitet wird er von Jürgen Reiter am Kontrabass.",
-      "recurrence": null,
-      "dates": [],
-      "tags": [
-        "Blues-Pop"
-      ],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
-      "school_name": null,
-      "school_url": null,
-      "artists": [
-        {
-          "name": "Saschmo",
-          "url": "https://www.last.fm/music/Saschmo"
-        }
-      ],
-      "known_artists": [],
-      "id": "5173476bd77a"
-    },
-    {
       "title": "Black Patti",
       "type": "concert",
       "start": "2026-12-11T20:00",
@@ -4108,8 +4194,8 @@
       "start": "2026-12-11T20:00",
       "end": null,
       "url": "https://www.in-muenchen.de/events/zz-cop.html",
-      "venue": "Sugar Shack",
-      "address": "Atelierstraße 16, 81671 München",
+      "venue": "Freitag, 11.12.2026, 20:00 Uhr",
+      "address": "11.12.2026, 20:00 Uhr",
       "description": "Im Sugar Shack steht druckvoller Bluesrock im Mittelpunkt. ZZ Cop interpretiert ikonische Songs und verbindet sie mit einer unverwechselbaren Note. Das Bühnenkonzept im Police-Style schafft eine besondere Atmosphäre. Die erfahrenen Musiker sorgen für ein tightes Zusammenspiel und eine souveräne Performance.",
       "recurrence": null,
       "dates": [],
@@ -4128,6 +4214,33 @@
       ],
       "known_artists": [],
       "id": "40eb9858f3bb"
+    },
+    {
+      "title": "Saschmo",
+      "type": "concert",
+      "start": "2026-12-11T21:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/saschmo.html",
+      "venue": "Freitag, 11.12.2026, 19:30 – bis 21:00 Uhr",
+      "address": "11.12.2026, 19:30 – bis 21:00 Uhr Eintritt frei",
+      "description": "Saschmo präsentiert sein neues Vinylalbum ‚Same Old Story‘. Zwischen Indie-Pop, Singer-Songwriter und Blues-Sessions mit Lagerfeuer-Flair entsteht ein minimalistischer, gitarrenlastiger und leicht melancholischer Sound. Begleitet wird er von Jürgen Reiter am Kontrabass.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues-Pop"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Saschmo",
+          "url": "https://www.last.fm/music/Saschmo"
+        }
+      ],
+      "known_artists": [],
+      "id": "5173476bd77a"
     },
     {
       "title": "Boogiemen’s Friends",
@@ -4227,8 +4340,8 @@
       "start": "2026-12-16T20:30",
       "end": null,
       "url": "https://www.in-muenchen.de/events/fishn-blues-weihnachtssession-2026-mateo-navarro-osono.html",
-      "venue": "Glockenbachwerkstatt",
-      "address": "Blumenstraße 7, 80331 München",
+      "venue": "Mittwoch, 16.12.2026, 20:30 Uhr",
+      "address": "16.12.2026, 20:30 Uhr Eintritt frei",
       "description": "Kurz vor Weihnachten gibt es bei Fish’n Blues Fisch aus der Küche und Blues mit Mateo Navarro und Osono auf der Bühne.",
       "recurrence": null,
       "dates": [],
@@ -4249,31 +4362,27 @@
       "id": "be29731be67a"
     },
     {
-      "title": "Uli Wunner & John Brunton",
+      "title": "Weihnachtssession",
       "type": "concert",
-      "start": "2026-12-17T20:00",
-      "end": "2026-12-17T22:00",
-      "url": "https://www.in-muenchen.de/events/from-new-orleans-to-brasil-and-beyond.html",
-      "venue": "Galli Theater",
-      "address": "in der Amalienpassage 86, 80799 München",
-      "description": "Klarinette, Saxofon und Gitarre auf Reisen von New Orleans nach Rio: Uli Wunner und John Brunton spielen Jazz, Choro und Samba mit britisch-bayrischem Humor.",
+      "start": "2026-12-16T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/fishnblues-weihnachten26/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenlos",
       "recurrence": null,
       "dates": [],
       "tags": [
-        "Jazz und Blues"
+        "Fish'n Blues",
+        "Konzert"
       ],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
       "school_name": null,
       "school_url": null,
-      "artists": [
-        {
-          "name": "John Brunton",
-          "url": "https://www.last.fm/music/John+Brunton"
-        }
-      ],
+      "artists": [],
       "known_artists": [],
-      "id": "4ecf34a30c77"
+      "id": "6531e4191da7"
     },
     {
       "title": "Vlado Grizelj Band",
@@ -4299,6 +4408,60 @@
       ],
       "known_artists": [],
       "id": "2bdec2e6024e"
+    },
+    {
+      "title": "Uli Wunner & John Brunton",
+      "type": "concert",
+      "start": "2026-12-17T22:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/from-new-orleans-to-brasil-and-beyond.html",
+      "venue": "Donnerstag, 17.12.2026, 20:00 – bis 22:00 Uhr",
+      "address": "17.12.2026, 20:00 – bis 22:00 Uhr Tickets",
+      "description": "Klarinette, Saxofon und Gitarre auf Reisen von New Orleans nach Rio: Uli Wunner und John Brunton spielen Jazz, Choro und Samba mit britisch-bayrischem Humor.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Jazz und Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "John Brunton",
+          "url": "https://www.last.fm/music/John+Brunton"
+        }
+      ],
+      "known_artists": [],
+      "id": "4ecf34a30c77"
+    },
+    {
+      "title": "Vlado Grizelj Quartett",
+      "type": "concert",
+      "start": "2026-12-17T22:30",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/vlado-grizelj-quartett.html",
+      "venue": "Donnerstag, 17.12.2026, 20:00 – bis 22:30 Uhr",
+      "address": "17.12.2026, 20:00 – bis 22:30 Uhr Tickets",
+      "description": "Funk und Soul der 60er und 70er, Rock- und Blues-Einflüsse und jazzige Gitarre mit Hammond-Orgel und Rhodes-Piano.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Jazz"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Vlado Grizelj",
+          "url": "https://www.last.fm/music/Vlado+Grizelj"
+        }
+      ],
+      "known_artists": [],
+      "id": "c2cb95b1c08a"
     },
     {
       "title": "Ludwig Seuss Band",
@@ -4358,8 +4521,8 @@
       "start": "2026-12-19T18:00",
       "end": null,
       "url": "https://www.in-muenchen.de/events/13-american-bar-night-midlife-or-crisis-friends.html",
-      "venue": "Lindenkeller Freising",
-      "address": "Veitsmüllerweg 2, 85354 Freising",
+      "venue": "Samstag, 19.12.2026, 18:00 Uhr",
+      "address": "19.12.2026, 18:00 Uhr Tickets",
       "description": "Im Lindenkeller erwartet Besucher eine musikalische Reise durch die USA. Zwischen Folk und Country über Rock ’n‘ Roll bis hin zu Blues-Rock versprechen vier Live-Acts einen abwechslungsreichen Abend. Die Atmosphäre einer ‚good old American Bar‘, begleitet von Live-Videoprojektionen und einer USA-Slideshow, taucht das Publikum in amerikanische Stimmung.",
       "recurrence": null,
       "dates": [],
@@ -4419,11 +4582,11 @@
     {
       "title": "Axel Zwingenberger",
       "type": "concert",
-      "start": "2026-12-20T19:30",
-      "end": "2026-12-20T23:00",
+      "start": "2026-12-20T23:00",
+      "end": null,
       "url": "https://www.in-muenchen.de/events/axel-zwingenberger-lustspielhaus.html",
-      "venue": "Lustspielhaus",
-      "address": "Occamstr. 8, 80802 München",
+      "venue": "Sonntag, 20.12.2026, 19:30 – bis 23:00 Uhr",
+      "address": "20.12.2026, 19:30 – bis 23:00 Uhr und weitere Termine Tickets",
       "description": "Auf der Bühne steht ein Mann am Klavier und verzaubert das Publikum mit Boogie-Woogie. Rollende Bässe und sehnsuchtsvolle Bluesklänge evozieren Erinnerungen. Axel Zwingenberger begeistert seit fast 50 Jahren Fans weltweit mit seiner Hingabe zu Blues und Boogie.",
       "recurrence": null,
       "dates": [],
@@ -4473,11 +4636,11 @@
     {
       "title": "Willy Michl – Isarindianer-Weihnacht",
       "type": "concert",
-      "start": "2026-12-25T20:00",
-      "end": "2026-12-25T23:00",
+      "start": "2026-12-25T23:00",
+      "end": null,
       "url": "https://www.in-muenchen.de/events/willy-michl-isarindianer-weihnacht.html",
-      "venue": "Lustspielhaus",
-      "address": "Occamstr. 8, 80802 München",
+      "venue": "Freitag, 25.12.2026, 20:00 – bis 23:00 Uhr",
+      "address": "25.12.2026, 20:00 – bis 23:00 Uhr Tickets",
       "description": "Im Lustspielhaus präsentiert Willy Michl die traditionelle Isarindianer-Weihnacht. Mit Blues, Rock’n’Roll und bayerischen Klängen verzaubert er das Publikum. Seine unverkennbare Stimme und die ungeschliffene Poesie seiner Texte schaffen eine einzigartige Atmosphäre.",
       "recurrence": null,
       "dates": [],
@@ -4567,11 +4730,11 @@
     {
       "title": "Zwoa Bier",
       "type": "concert",
-      "start": "2027-01-02T19:30",
-      "end": "2027-01-02T22:30",
+      "start": "2027-01-02T22:30",
+      "end": null,
       "url": "https://www.in-muenchen.de/events/zwoa-bier.html",
-      "venue": "Vereinsheim",
-      "address": "Occamstraße 8, 80802 München",
+      "venue": "Samstag, 02.01.2027, 19:30 – bis 22:30 Uhr",
+      "address": "02.01.2027, 19:30 – bis 22:30 Uhr Tickets",
       "description": "Zwoa Bier, das Duo Michi Schauer und Sepp Bastl, präsentiert bayerischen Blues und Rock mit schwarzem Humor und saufatrigen Texten. Ihre Musik spiegelt den Alltag und die Politik Bayerns wider.",
       "recurrence": null,
       "dates": [],
@@ -4594,11 +4757,11 @@
     {
       "title": "Saltbrennt",
       "type": "concert",
-      "start": "2027-01-07T20:00",
-      "end": "2027-01-07T23:00",
+      "start": "2027-01-07T23:00",
+      "end": null,
       "url": "https://www.in-muenchen.de/events/saltbrennt.html",
-      "venue": "Schlachthof – Ox",
-      "address": "Zenettistraße 9, 80337 München",
+      "venue": "Donnerstag, 07.01.2027, 20:00 – bis 23:00 Uhr",
+      "address": "07.01.2027, 20:00 – bis 23:00 Uhr Tickets",
       "description": "Die Tiroler Band Saltbrennt präsentiert eine Mischung aus Alpengroove und Blues. Mit Tuba, Mundharmonika, Schlagzeug, Gitarre, Bass, Piano und vierstimmigem Gesang entführen sie in eine Welt ungeschminkten und ehrlichen Klangs. Herzhafte Texte mit österreichischem Schmäh sorgen für eine besondere Atmosphäre.",
       "recurrence": null,
       "dates": [],
@@ -4621,11 +4784,11 @@
     {
       "title": "Ludwig Seuss & Band",
       "type": "concert",
-      "start": "2027-01-09T20:00",
-      "end": "2027-01-09T23:00",
+      "start": "2027-01-09T23:00",
+      "end": null,
       "url": "https://www.in-muenchen.de/events/ludwig-seuss-band.html",
-      "venue": "Lustspielhaus",
-      "address": "Occamstr. 8, 80802 München",
+      "venue": "Samstag, 09.01.2027, 20:00 – bis 23:00 Uhr",
+      "address": "09.01.2027, 20:00 – bis 23:00 Uhr Tickets",
       "description": "Eine Mischung aus Funky Boogaloos und Mellow Slow Drags bildet den musikalischen Rahmen des Abends. Die Band um Ludwig Seuss präsentiert eine facettenreiche Performance, die Stile und Stimmungen nahtlos verbindet.",
       "recurrence": null,
       "dates": [],
@@ -4682,8 +4845,8 @@
       "start": "2027-01-14T20:00",
       "end": null,
       "url": "https://www.in-muenchen.de/events/sir-oliver-mally-group-peter-schneider.html",
-      "venue": "Veranstaltungsforum Fürstenfeld",
-      "address": "Fürstenfeld 12, 82256 Fürstenfeldbruck",
+      "venue": "Donnerstag, 14.01.2027, 20:00 Uhr",
+      "address": "14.01.2027, 20:00 Uhr Tickets",
       "description": "Mit seiner markanten Stimme und kompromisslos ehrlicher Songschreibkunst präsentiert die Sir Oliver Mally Group eine Verschmelzung von Blues und Singer/Songwriter-Elementen. Der Münchner Ausnahmegitarrist Peter Schneider ergänzt das Ensemble perfekt. Neben Franz Kreimer am Keyboard und Thomas Feldmann an Saxophon und Mundharmonika erwartet das Publikum eine besondere Klangerfahrung.",
       "recurrence": null,
       "dates": [],
@@ -4835,11 +4998,11 @@
     {
       "title": "Stephan Zinner – Großstadtblues",
       "type": "concert",
-      "start": "2027-01-26T20:00",
-      "end": "2027-01-26T23:00",
+      "start": "2027-01-26T23:00",
+      "end": null,
       "url": "https://www.in-muenchen.de/events/stephan-zinner-grossstadtblues.html",
-      "venue": "Lustspielhaus",
-      "address": "Occamstr. 8, 80802 München",
+      "venue": "Dienstag, 26.01.2027, 20:00 – bis 23:00 Uhr",
+      "address": "26.01.2027, 20:00 – bis 23:00 Uhr und weitere Termine Tickets",
       "description": "Stephan Zinner nimmt sein Publikum auf eine musikalisch-satirische Reise durch den modernen Großstadtalltag mit. Mit Gitarre und pointierten Texten erzählt er vom ewigen Kampf mit Updates, optimierter Freizeit und der Sehnsucht nach einem einfacheren Leben.",
       "recurrence": null,
       "dates": [],
@@ -4885,6 +5048,31 @@
       "id": "db9403c7a399"
     },
     {
+      "title": "Michael Armann Trio: Winterreise",
+      "type": "concert",
+      "start": "2027-01-31T19:00",
+      "end": "2027-01-31T21:00",
+      "url": "https://pasinger-fabrik.de/veranstaltung/michael-armann-trio-winterreise-5/",
+      "venue": "Pasinger Fabrik – Kleine Bühne",
+      "address": "August-Exter-Str. 1, 81245 München",
+      "description": "Zum 230. Geburtstag von Franz Schubert am 31. Januar spielt das Michael Armann Trio noch einmal Auszüge aus Schuberts Winterreise für Jazztrio. … 31. Januar, coronabedingter Kurzurlaub in einem Bauernhaus in Niederbayern … abends – draußen Schneetreiben, klirrende Kälte, drinnen Holzofen … das Brad Mehldau-Trio dreht sich im CD-Spieler – „blues & ballads“… So viel Blues mit wenigen Tönen. Man könnte neidisch werden auf das amerikanische Songbook, auf das amerikanische Erbe des Blues. Gibt es denn keine deutschsprachige – abendländische Bluessammlung? Doch. Schuberts „Winterreise“, komponiert i",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "pasinger-fabrik",
+      "source_name": "Pasinger Fabrik",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Winterreise",
+          "url": "https://www.last.fm/music/Winterreise"
+        }
+      ],
+      "known_artists": [],
+      "id": "fd12ceec1d93"
+    },
+    {
       "title": "The Hamburg Blues Band (D/UK/US/PL)",
       "type": "concert",
       "start": "2027-01-31T20:15",
@@ -4910,13 +5098,35 @@
       "id": "93fbd681843b"
     },
     {
+      "title": "Michael Armann Trio",
+      "type": "concert",
+      "start": "2027-01-31T21:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/michael-armann-trio-pasinger-fabrik-2027.html",
+      "venue": "Sonntag, 31.01.2027, 19:00 – bis 21:00 Uhr",
+      "address": "31.01.2027, 19:00 – bis 21:00 Uhr",
+      "description": "Das Jazztrio spielt zwölf Stücke aus Schuberts „Winterreise“ und improvisiert über deren Harmoniefolgen.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Jazz"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "03becbff4e2b"
+    },
+    {
       "title": "Jared James Nichols",
       "type": "concert",
-      "start": "2027-02-05T20:00",
-      "end": "2027-02-05T23:00",
+      "start": "2027-02-05T23:00",
+      "end": null,
       "url": "https://www.in-muenchen.de/events/jared-james-nichols.html",
-      "venue": "Strom",
-      "address": "Lindwurmstr. 88, 80337 München",
+      "venue": "Freitag, 05.02.2027, 20:00 – bis 23:00 Uhr",
+      "address": "05.02.2027, 20:00 – bis 23:00 Uhr Tickets",
       "description": "Die Blues-Rock-Szene bekommt einen neuen Star: Jared James Nichols begeistert mit seiner virtuosen Gitarrentechnik und kraftvollen Bühnenpräsenz. Der charismatische Performer verbindet schwindelig schnelle Arpeggios mit einem einzigartigen, artistischen Spielstil. Seine Shows sind eine Reise durch die Blues-Rock-Geschichte, voller Groove, Herz und Seele.",
       "recurrence": null,
       "dates": [],
@@ -4942,8 +5152,8 @@
       "start": "2027-02-06T20:00",
       "end": null,
       "url": "https://www.in-muenchen.de/events/johnny-the-yooahoos-support-black-patti.html",
-      "venue": "Lindenkeller Freising",
-      "address": "Veitsmüllerweg 2, 85354 Freising",
+      "venue": "Samstag, 06.02.2027, 20:00 Uhr",
+      "address": "06.02.2027, 20:00 Uhr Tickets",
       "description": "Ein Konzertabend voller musikalischer Leidenschaft und Spielfreude wartet auf das Publikum. Johnny & the Yooahoos und Black Patti zelebrieren gemeinsam traditionelles Bluegrass, Folk und erdigen Blues. Mit Banjo, Mandoline, Gitarre und mehrstimmigem Gesang entführen die Musiker die Zuhörer in eine Welt handgemachter Klänge und authentischer Roots-Musik.",
       "recurrence": null,
       "dates": [],
@@ -4986,11 +5196,11 @@
     {
       "title": "Danny Bryant",
       "type": "concert",
-      "start": "2027-02-10T20:00",
-      "end": "2027-02-10T23:00",
+      "start": "2027-02-10T23:00",
+      "end": null,
       "url": "https://www.in-muenchen.de/events/danny-bryant.html",
-      "venue": "Backstage Club",
-      "address": "Reitknechtstr. 6, 80639 München",
+      "venue": "Mittwoch, 10.02.2027, 20:00 – bis 23:00 Uhr",
+      "address": "10.02.2027, 20:00 – bis 23:00 Uhr Tickets",
       "description": "Mit neuem Album und unbändiger Energie präsentiert Danny Bryant einen Abend voller Blues, Rock und emotionaler Tiefe. Unterstützt von seiner herausragenden Band, bietet er Gitarrenriffs, intensive Songs und eine besondere Nähe zum Publikum.",
       "recurrence": null,
       "dates": [],
@@ -5034,6 +5244,37 @@
       ],
       "known_artists": [],
       "id": "0d127aedfcdd"
+    },
+    {
+      "title": "Günter Grünwald & Rad Gumbo",
+      "type": "concert",
+      "start": "2027-02-13T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/gunter-grunwald-rad-gumbo-pasinger-fabrik-wagenhalle.html",
+      "venue": "Samstag, 13.02.2027, 20:00 Uhr",
+      "address": "13.02.2027, 20:00 Uhr Tickets",
+      "description": "Bayerisches Kabarett trifft auf Southern Blues. Günter Grünwald, bekannter Kabarettist, präsentiert sich als Gitarrist mit RAD GUMBO. Die Show bietet eine Mischung aus Musik und Humor mit kabarettistischen Einlagen nach jedem Song. RAD GUMBO spielt Zydeco-Blues und New Orleans-Soul.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Günter Grünwald",
+          "url": "https://www.last.fm/music/G%C3%BCnter+Gr%C3%BCnwald"
+        },
+        {
+          "name": "Rad Gumbo",
+          "url": "https://www.last.fm/music/Rad+Gumbo"
+        }
+      ],
+      "known_artists": [],
+      "id": "377eb1e7f92e"
     },
     {
       "title": "Günter Grünwald & Rad Gumbo – Bayerisches Kabarett trifft Southern Blues",
@@ -5165,8 +5406,8 @@
       "start": "2027-03-04T20:00",
       "end": null,
       "url": "https://www.in-muenchen.de/events/raphael-wressnig-soul-gift.html",
-      "venue": "Veranstaltungsforum Fürstenfeld",
-      "address": "Fürstenfeld 12, 82256 Fürstenfeldbruck",
+      "venue": "Donnerstag, 04.03.2027, 20:00 Uhr",
+      "address": "04.03.2027, 20:00 Uhr Tickets",
       "description": "Zwischen wuchtigem Hammond-Sound und rohen Roots-Klängen entfaltet sich ein Abend voll Soul, Blues und Jazz. Raphael Wressnig und seine Band, verstärkt durch die charismatische Gisele Jackson, entführen das Publikum in eine Welt aus Groove und Energie.",
       "recurrence": null,
       "dates": [],
@@ -5185,37 +5426,6 @@
       ],
       "known_artists": [],
       "id": "e9d1b0b9f4ea"
-    },
-    {
-      "title": "Rad Gumbo & Günter Grünwald",
-      "type": "concert",
-      "start": "2027-03-05T20:00",
-      "end": "2027-03-05T22:30",
-      "url": "https://www.in-muenchen.de/events/rad-gumbo-gunter-grunwald.html",
-      "venue": "Spektakel im Postsaal Schäftlarn",
-      "address": "Wolfratshauser Straße 45, 82067 Schäftlarn",
-      "description": "Bayerisches Kabarett und Southern Blues verschmelzen zu einem unterhaltsamen Abend. Mit bayerischem Humor und groovigem Blues-Rock erzeugen Günter Grünwald und RAD GUMBO einen musikalisch-komödiantischen Cocktail. Grünwald an der Sologitarre, gefolgt von Kabaretteinlagen, schafft eine überraschende und kurzweilige Atmosphäre.",
-      "recurrence": null,
-      "dates": [],
-      "tags": [
-        "Kabarett"
-      ],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
-      "school_name": null,
-      "school_url": null,
-      "artists": [
-        {
-          "name": "Rad Gumbo",
-          "url": "https://www.last.fm/music/Rad+Gumbo"
-        },
-        {
-          "name": "Günter Grünwald",
-          "url": "https://www.last.fm/music/G%C3%BCnter+Gr%C3%BCnwald"
-        }
-      ],
-      "known_artists": [],
-      "id": "7195272235ac"
     },
     {
       "title": "Norman Beaker Trio (UK, IT)",
@@ -5243,13 +5453,64 @@
       "id": "71f2b05a60d5"
     },
     {
+      "title": "Rad Gumbo & Günter Grünwald",
+      "type": "concert",
+      "start": "2027-03-05T22:30",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/rad-gumbo-gunter-grunwald.html",
+      "venue": "Freitag, 05.03.2027, 20:00 – bis 22:30 Uhr",
+      "address": "05.03.2027, 20:00 – bis 22:30 Uhr Tickets",
+      "description": "Bayerisches Kabarett und Southern Blues verschmelzen zu einem unterhaltsamen Abend. Mit bayerischem Humor und groovigem Blues-Rock erzeugen Günter Grünwald und RAD GUMBO einen musikalisch-komödiantischen Cocktail. Grünwald an der Sologitarre, gefolgt von Kabaretteinlagen, schafft eine überraschende und kurzweilige Atmosphäre.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Kabarett"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Rad Gumbo",
+          "url": "https://www.last.fm/music/Rad+Gumbo"
+        },
+        {
+          "name": "Günter Grünwald",
+          "url": "https://www.last.fm/music/G%C3%BCnter+Gr%C3%BCnwald"
+        }
+      ],
+      "known_artists": [],
+      "id": "7195272235ac"
+    },
+    {
+      "title": "Allen Forrester Band (USA)",
+      "type": "concert",
+      "start": "2027-03-12T20:15",
+      "end": null,
+      "url": "https://village-habach.de/programm/?single=f56eb306e617a2d6425f5291ebe207c3",
+      "venue": "Village Habach",
+      "address": "Obermühle 1, 82392 Habach",
+      "description": "Blues Rock / Southern Rock Die ALLEN-FORRESTER BAND ist ein gemeinsames Projekt der beiden New Yorker Gitarristen Ben Forrester und Josh Allen. Geprägt von den Pionieren des Southern Rock wie der Allman Brothers Band, Lynyrd Skynyrd, Black Crowes, und Blackberry Smoke, verpassen die beiden dem...",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "village-habach",
+      "source_name": "Village Habach",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "9232375ffb47"
+    },
+    {
       "title": "Ludwig Seuss Trio & Abi Wallenstein",
       "type": "concert",
-      "start": "2027-03-12T20:00",
-      "end": "2027-03-12T22:00",
+      "start": "2027-03-12T22:00",
+      "end": null,
       "url": "https://www.in-muenchen.de/events/ludwig-seuss-trio-abi-wallenstein-olching-2027.html",
-      "venue": "Kulturwerkstatt am Olchinger Mühlbach – KOM",
-      "address": "Hauptstraße 68, 82140 Olching",
+      "venue": "Freitag, 12.03.2027, 20:00 – bis 22:00 Uhr",
+      "address": "12.03.2027, 20:00 – bis 22:00 Uhr Tickets",
       "description": "Rauer Delta Blues trifft auf Piano-Boogie-Woogie und Zydeco-Klänge, wenn der Münchner Pianist und der Hamburger Blues-Gitarrist zusammen auf der Bühne stehen.",
       "recurrence": null,
       "dates": [],
@@ -5274,33 +5535,13 @@
       "id": "5c652cd18054"
     },
     {
-      "title": "Allen Forrester Band (USA)",
-      "type": "concert",
-      "start": "2027-03-12T20:15",
-      "end": null,
-      "url": "https://village-habach.de/programm/?single=f56eb306e617a2d6425f5291ebe207c3",
-      "venue": "Village Habach",
-      "address": "Obermühle 1, 82392 Habach",
-      "description": "Blues Rock / Southern Rock Die ALLEN-FORRESTER BAND ist ein gemeinsames Projekt der beiden New Yorker Gitarristen Ben Forrester und Josh Allen. Geprägt von den Pionieren des Southern Rock wie der Allman Brothers Band, Lynyrd Skynyrd, Black Crowes, und Blackberry Smoke, verpassen die beiden dem...",
-      "recurrence": null,
-      "dates": [],
-      "tags": [],
-      "source_id": "village-habach",
-      "source_name": "Village Habach",
-      "school_name": null,
-      "school_url": null,
-      "artists": [],
-      "known_artists": [],
-      "id": "9232375ffb47"
-    },
-    {
       "title": "Graveyard + Blues Pills",
       "type": "concert",
-      "start": "2027-03-13T19:00",
-      "end": "2027-03-13T23:00",
+      "start": "2027-03-13T23:00",
+      "end": null,
       "url": "https://www.in-muenchen.de/events/graveyard-blues-pills.html",
-      "venue": "Muffatwerk / Muffathalle",
-      "address": "Zellstr. 4, 81667 München",
+      "venue": "Samstag, 13.03.2027, 19:00 – bis 23:00 Uhr",
+      "address": "13.03.2027, 19:00 – bis 23:00 Uhr Tickets",
       "description": "Die Bühne bebt, wenn Graveyard und Blues Pills aufspielen. Unterstützt werden sie von Spiders, die den Abend mit rockigen Klängen eröffnen. Zu hören sind intensive Riffs und kraftvolle Stimmen, die die Geschichte des Blues neu interpretieren.",
       "recurrence": null,
       "dates": [],
@@ -5330,11 +5571,11 @@
     {
       "title": "Günter Grünwald & Rad Gumbo",
       "type": "concert",
-      "start": "2027-03-21T19:30",
-      "end": "2027-03-21T23:00",
+      "start": "2027-03-21T23:00",
+      "end": null,
       "url": "https://www.in-muenchen.de/events/gunter-grunwald-rad-gumbo.html",
-      "venue": "Lustspielhaus",
-      "address": "Occamstr. 8, 80802 München",
+      "venue": "Sonntag, 21.03.2027, 19:30 – bis 23:00 Uhr",
+      "address": "21.03.2027, 19:30 – bis 23:00 Uhr Tickets",
       "description": "Bayerisches Kabarett und Southern Blues verschmelzen in einem Programm, das Humor und Musik vereint. Gezeigt werden Comedy und Songs, die Traditionen und Kulturen vereinen.",
       "recurrence": null,
       "dates": [],
@@ -5389,8 +5630,8 @@
       "start": "2027-03-27T20:00",
       "end": null,
       "url": "https://www.in-muenchen.de/events/the-devon-allman-blues-summit-feat-jimmy-hall-claudette-king-bernard-allison.html",
-      "venue": "Muffatwerk / Ampere",
-      "address": "Zellstraße 4, 81667 München",
+      "venue": "Samstag, 27.03.2027, 20:00 Uhr",
+      "address": "27.03.2027, 20:00 Uhr Tickets",
       "description": "Die Show vereint den amerikanischen Blues-Spirit mit einer All-Star-Besetzung. Devon Allman, Jimmy Hall, Bernard Allison und Claudette King bringen ihre einzigartigen Stile und Geschichten auf die Bühne. Die Atmosphäre ist eine Mischung aus tief groovendem Blues, Southern Soul und gitarrengetriebenem Rock.",
       "recurrence": null,
       "dates": [],
@@ -5427,11 +5668,11 @@
     {
       "title": "San2",
       "type": "concert",
-      "start": "2027-04-01T20:00",
-      "end": "2027-04-01T23:00",
+      "start": "2027-04-01T23:00",
+      "end": null,
       "url": "https://www.in-muenchen.de/events/san2.html",
-      "venue": "Lustspielhaus",
-      "address": "Occamstr. 8, 80802 München",
+      "venue": "Donnerstag, 01.04.2027, 20:00 – bis 23:00 Uhr",
+      "address": "01.04.2027, 20:00 – bis 23:00 Uhr Tickets",
       "description": "Im Mittelpunkt des Abends steht ein akustisches Live-Programm mit San2, der durch sein neues Studioalbum und zahlreiche Auftritte bekannt ist. Begleitet wird er von Sebastian Schwarzenberger an verschiedenen Gitarren und Hansi Enzensperger an der Hammond Orgel.",
       "recurrence": null,
       "dates": [],
@@ -5457,8 +5698,8 @@
       "start": "2027-04-02T20:00",
       "end": null,
       "url": "https://www.in-muenchen.de/events/eddie-9v.html",
-      "venue": "Strom",
-      "address": "Lindwurmstr. 88, 80337 München",
+      "venue": "Freitag, 02.04.2027, 20:00 Uhr",
+      "address": "02.04.2027, 20:00 Uhr Tickets",
       "description": "Eddie 9V verbindet Southern Rock, Blues und Soul zu einem unverkennbaren Sound. Mit rauem Gitarrenspiel und kraftvoller Stimme präsentiert er eine Mischung aus Blues, Rock, Country und Gospel. Live-Aufnahmen unter der Leitung von Dan Auerbach fangen die Essenz klassischer Southern-Aufnahmen ein.",
       "recurrence": null,
       "dates": [],
@@ -5483,11 +5724,11 @@
     {
       "title": "Ash Grunwald",
       "type": "concert",
-      "start": "2027-04-03T20:00",
-      "end": "2027-04-03T23:00",
+      "start": "2027-04-03T23:00",
+      "end": null,
       "url": "https://www.in-muenchen.de/events/ash-grunwald.html",
-      "venue": "Milla",
-      "address": "Holzstraße 28, 80469 München",
+      "venue": "Samstag, 03.04.2027, 20:00 – bis 23:00 Uhr",
+      "address": "03.04.2027, 20:00 – bis 23:00 Uhr Tickets",
       "description": "Der australische Bluesmusiker Ash Grunwald präsentiert sein energiegeladenes Programm. Mit einer Vielzahl von Gitarren und einer stampfenden Klanggewalt begeistert er das Publikum. Seine Musik, eine Mischung aus Blues und Storytelling, zieht Fans weltweit in ihren Bann.",
       "recurrence": null,
       "dates": [],
@@ -5612,11 +5853,11 @@
     {
       "title": "Stephan Zinner – Großstadtblues",
       "type": "concert",
-      "start": "2027-04-24T19:30",
-      "end": "2027-04-24T22:30",
+      "start": "2027-04-24T22:30",
+      "end": null,
       "url": "https://www.in-muenchen.de/events/stephan-zinner-grossstadtblues-circus-krone.html",
-      "venue": "Circus Krone",
-      "address": "Marsstr. 43, 80335 München",
+      "venue": "Samstag, 24.04.2027, 19:30 – bis 22:30 Uhr",
+      "address": "24.04.2027, 19:30 – bis 22:30 Uhr Tickets",
       "description": "Mit Gitarre und pointierten Texten nimmt Stephan Zinner das Publikum auf eine musikalisch-satirische Reise durch den Wahnsinn des modernen Alltags mit. Zwischen Updates, die keiner braucht, und der Sehnsucht nach einem einfacheren Leben zeigt er die Absurditäten unserer Zeit.",
       "recurrence": null,
       "dates": [],
@@ -5689,11 +5930,11 @@
     {
       "title": "Krissy Matthews",
       "type": "concert",
-      "start": "2027-05-04T20:00",
-      "end": "2027-05-04T23:00",
+      "start": "2027-05-04T23:00",
+      "end": null,
       "url": "https://www.in-muenchen.de/events/krissy-matthews.html",
-      "venue": "Backstage Halle",
-      "address": "Reitknechtstraße 6, 80639 München",
+      "venue": "Dienstag, 04.05.2027, 20:00 – bis 23:00 Uhr",
+      "address": "04.05.2027, 20:00 – bis 23:00 Uhr Tickets",
       "description": "Auf der Bühne präsentiert sich der talentierte Gitarrist Krissy Matthews mit seinem außergewöhnlichen Blues-Rock-Sound. Im Zentrum des Abends stehen virtuose Gitarrenriffs und kraftvolle Melodien, die das Publikum in ihren Bann ziehen. Matthews‘ Spiel verbindet klassisch-bluesige Elemente mit rockigen Klängen.",
       "recurrence": null,
       "dates": [],
@@ -5744,8 +5985,8 @@
       "start": "2027-05-20T20:00",
       "end": null,
       "url": "https://www.in-muenchen.de/events/hans-theessink.html",
-      "venue": "Veranstaltungsforum Fürstenfeld",
-      "address": "Fürstenfeld 12, 82256 Fürstenfeldbruck",
+      "venue": "Donnerstag, 20.05.2027, 20:00 Uhr",
+      "address": "20.05.2027, 20:00 Uhr Tickets",
       "description": "Im Mittelpunkt des Abends steht Hans Theessink, eine Institution der Rootsmusik. Seine gefühlvollen Interpretationen des solo acoustic Blues, begleitet von seiner sonoren Stimme und seinem unverkennbaren Gitarrenstil, versprechen eine Nacht voller Musik und Emotionen.",
       "recurrence": null,
       "dates": [],
@@ -5793,11 +6034,11 @@
     {
       "title": "Joe Bonamassa",
       "type": "concert",
-      "start": "2027-07-12T19:00",
-      "end": "2027-07-12T23:00",
+      "start": "2027-07-12T23:00",
+      "end": null,
       "url": "https://www.in-muenchen.de/events/joe-bonamassa.html",
-      "venue": "Olympiapark München / Tollwood Sommerfestival",
-      "address": "Spiridon-Louis-Ring, 80809 München",
+      "venue": "Montag, 12.07.2027, 19:00 – bis 23:00 Uhr",
+      "address": "12.07.2027, 19:00 – bis 23:00 Uhr Tickets",
       "description": "Blues-Rock-Fans dürfen sich auf einen Abend mit Joe Bonamassa freuen. Der Ausnahmegitarrist präsentiert sein facettenreiches Spiel, das Bluestradition mit Rock, Soul und Americana vereint. Als Special Guest begeistert Marc Broussard mit souliger Stimme und Südstaaten-Blues.",
       "recurrence": null,
       "dates": [],
@@ -5825,8 +6066,8 @@
       "start": "2027-07-15T20:00",
       "end": null,
       "url": "https://www.in-muenchen.de/events/b-b-the-blues-shacks.html",
-      "venue": "Veranstaltungsforum Fürstenfeld",
-      "address": "Fürstenfeld 12, 82256 Fürstenfeldbruck",
+      "venue": "Donnerstag, 15.07.2027, 20:00 Uhr",
+      "address": "15.07.2027, 20:00 Uhr Tickets",
       "description": "Die Bluesband B. B. & The Blues Shacks präsentiert ihre einzigartige Mischung aus Rhythm & Blues und Sixty Soul. Mit über 36 Jahren Tourerfahrung und zahlreichen Auszeichnungen wie dem German Blues Award begeistert die Band ihr Publikum weltweit. Frontmann Michael Arlt, sein Bruder Andreas Arlt, Fabian Fritz, Henning Hauerken und Andre Werkmeister garantieren einen außergewöhnlichen Drive und Groove.",
       "recurrence": null,
       "dates": [],
@@ -5869,11 +6110,11 @@
     {
       "title": "Axel Zwingenberger",
       "type": "concert",
-      "start": "2027-10-13T20:00",
-      "end": "2027-10-13T23:00",
+      "start": "2027-10-13T23:00",
+      "end": null,
       "url": "https://www.in-muenchen.de/events/axel-zwingenberger.html",
-      "venue": "Prinzregententheater",
-      "address": "Prinzregentenplatz 12, 81675 München",
+      "venue": "Mittwoch, 13.10.2027, 20:00 – bis 23:00 Uhr",
+      "address": "13.10.2027, 20:00 – bis 23:00 Uhr Tickets",
       "description": "Ein Abend voller Blues und Boogie Woogie. Axel Zwingenberger präsentiert sein außergewöhnliches Klavierspiel in einem Solokonzert. Die Musik entführt das Publikum in eine Welt kraftvoller Klänge und rhythmischer Melodien.",
       "recurrence": null,
       "dates": [],
@@ -5892,6 +6133,31 @@
       ],
       "known_artists": [],
       "id": "129fb11f2680"
+    },
+    {
+      "title": "Martin Moro",
+      "type": "concert",
+      "start": "2027-10-17T18:00",
+      "end": "2027-10-17T20:00",
+      "url": "https://pasinger-fabrik.de/veranstaltung/martin-moro/",
+      "venue": "Pasinger Fabrik – Kleine Bühne",
+      "address": "August-Exter-Str. 1, 81245 München",
+      "description": "Martin Moro ist ein Meister der Leisestärke. Seit mehr als 30 Jahren auf Bühnen im In- und Ausland unterwegs, ist er eine Fixgröße in der österreichischen Folk- und Bluesszene. Der Grazer Musiker zählt auch international zu den virtuosesten Fingerstylegitarristen. Martin Moro versteht es wie kaum ein anderer, technisch brillantes Spiel mit eingängigen Melodien zu verbinden. Akustische Musik für Herz und Hirn – geprägt von beherztem Gitarrespiel, berührendem Gesang und humorigen Conferencen. Ein Gitarren-Abend aus der Feinkostabteilung. Vergnügtheit inklusive. · Eintritt: 16€ – 20€",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "pasinger-fabrik",
+      "source_name": "Pasinger Fabrik",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Martin Moro",
+          "url": "https://www.last.fm/music/Martin+Moro"
+        }
+      ],
+      "known_artists": [],
+      "id": "20282effd7be"
     }
   ],
   "sources": [
@@ -5937,8 +6203,8 @@
       "url": "https://www.glockenbachwerkstatt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 6,
-      "kept": 43
+      "found": 5,
+      "kept": 44
     },
     {
       "id": "rheinpfalz-schwabing",
@@ -6009,8 +6275,8 @@
       "url": "https://www.village-habach.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 44,
-      "kept": 27
+      "found": 43,
+      "kept": 26
     },
     {
       "id": "tollwood",
@@ -6027,7 +6293,7 @@
       "url": "https://stragula.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 27,
+      "found": 28,
       "kept": 4
     },
     {
@@ -6035,8 +6301,8 @@
       "name": "Ackermannbogen e.V.",
       "url": "https://ackermannbogen-ev.de/programm-alles",
       "kind": "venue",
-      "status": "ok",
-      "found": 14,
+      "status": "failed",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://ackermannbogen-ev.de/wp-json/tribe/events/v1/events?per_page=50&categories=musik%2Cmusik-gesang&page=1",
       "kept": 0
     },
     {
@@ -6045,8 +6311,8 @@
       "url": "https://www.pasinger-fabrik.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 34,
-      "kept": 4
+      "found": 51,
+      "kept": 6
     },
     {
       "id": "ars-musica",
@@ -6054,7 +6320,7 @@
       "url": "https://www.ars-musica-muenchen.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 12,
+      "found": 11,
       "kept": 2
     },
     {
@@ -6071,8 +6337,8 @@
       "name": "Kunst in Sendling e.V.",
       "url": "https://www.kunst-in-sendling.com/",
       "kind": "venue",
-      "status": "failed",
-      "error": "ConnectionError: HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Max retries exceeded with url: /wp-json/tribe/events/v1/events?per_page=50&page=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Read timed out. (read timeout=30.0)\"))",
+      "status": "ok",
+      "found": 14,
       "kept": 0
     },
     {
@@ -6081,7 +6347,7 @@
       "url": "https://www.buergersaal-fuerstenried.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 9,
+      "found": 8,
       "kept": 0
     },
     {
@@ -6117,8 +6383,8 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 147,
-      "kept": 64
+      "found": 151,
+      "kept": 71
     },
     {
       "id": "mvp",
@@ -6127,7 +6393,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 40,
-      "kept": 3
+      "kept": 5
     },
     {
       "id": "muenchen-online-jazz",
@@ -6135,7 +6401,7 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 192,
+      "found": 189,
       "kept": 4
     },
     {

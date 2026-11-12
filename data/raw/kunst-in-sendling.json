@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-11-10T11:29:57+00:00",
+ "scraped_at": "2026-11-12T11:35:35+00:00",
  "status": {
   "id": "kunst-in-sendling",
   "name": "Kunst in Sendling e.V.",
   "url": "https://www.kunst-in-sendling.com/",
   "kind": "venue",
-  "status": "failed",
-  "error": "ConnectionError: HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Max retries exceeded with url: /wp-json/tribe/events/v1/events?per_page=50&page=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Read timed out. (read timeout=30.0)\"))"
+  "status": "ok",
+  "found": 14
  },
  "events": [
-  {
-   "title": "Elke Reis: Farbe … Licht … und eine ungeahnte Freiheit",
-   "type": "concert",
-   "start": "2026-11-10",
-   "end": "2027-01-09",
-   "url": "https://www.kunst-in-sendling.com/event/elke-reis-farbe-licht-ungeahnte-freiheit/",
-   "venue": "Stadtbibliothek Neuhausen",
-   "address": "Nymphenburger Straße 171b, 80634 München",
-   "description": "Elke Reis zeigt minimalistische Malereien, in denen Farbe, Raum und Licht im Mittelpunkt stehen. Die Ausstellung lädt dazu ein, sich Zeit für die Wahrnehmung von Farbflächen und ihrer Wirkung zu nehmen. Ausstellungszeitraum laut Stadtbibliothek: 10. November 2026 bis 9. Januar 2027. Besichtigung ab Mittwoch, 11. November: Am 10. November bleibt die Bibliothek wegen einer internen Veranstaltung ganztägig geschlossen. Öffnungszeiten Dienstag bis Freitag 10–19 Uhr, Samstag 10–15 Uhr. Sonntag, Montag und an Feiertagen geschlossen. Bitte auch die aktuellen Sonderöffnungszeiten der Bibliothek beachten. Vernissage: Freitag, 20. November 2026, 19:30–21:30 Uhr. Stadtbibliothek Neuhausen, Nymphenburger Straße 171b, 80634 München. Eintritt frei, ohne Anmeldung. Aktuelle Öffnungszeiten der Stadtbibliothek Neuhausen · Webseite Elke Reis · Eintritt: Kostenlos",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Zwischen den Welten – Vernissage",
    "type": "other",
@@ -152,7 +132,7 @@
   {
    "title": "Zwischen den Welten – Finissage mit Cosmic Guitar Duo",
    "type": "other",
-   "start": "2026-11-22T16:00",
+   "start": "2026-11-22T14:00",
    "end": "2026-11-22T20:00",
    "url": "https://www.kunst-in-sendling.com/event/zwischen-den-welten-finissage-mit-cosmic-guitar-duo/",
    "venue": "Sendlinger Kulturschmiede",

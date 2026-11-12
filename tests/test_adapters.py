@@ -233,6 +233,16 @@ def test_inmuenchen_parses_dates_venue_and_genres():
     assert (montack.venue, montack.end) == ("Drehleier – Szenerie", None)
 
 
+def test_inmuenchen_parses_legacy_head_markup():
+    """Markup since 2026-11-12: only the end time says "Uhr", the venue line is the second <p>."""
+    events = {e.title: e for e in inmuenchen.parse(json.loads(fixture("inm_events_legacy_head.json")))}
+    krissy = events["Krissy Matthews"]
+    assert (krissy.start, krissy.end) == ("2027-05-04T20:00", "2027-05-04T23:00")
+    assert (krissy.venue, krissy.address) == ("Backstage Halle", "Reitknechtstraße 6, 80639 München")
+    zinner = events["Stephan Zinner"]
+    assert (zinner.start, zinner.end, zinner.venue) == ("2026-12-01T20:00", None, "Schlachthof")
+
+
 def test_inmuenchen_keeps_blues_genre_or_title_only():
     kept = [e.title for e in inmuenchen.parse(json.loads(fixture("inm_events.json"))) if keep(e, "blues_title")]
     assert kept == ["Inninger Bluestage 2026: Peter Karp Band + Ana Popovic", "Montack & The Ultimate Silverbeet"]

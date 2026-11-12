@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "link": "https://www.in-muenchen.de/events/krissy-matthews.html",
+    "title": {"rendered": "Krissy Matthews"},
+    "content": {"rendered": "<!-- event-legacy-head:start -->\n\n<div class=\"event-legacy-head\">\n<p class=\"event-legacy-when\"><strong>Dienstag, 04.05.2027, 20:00<span aria-hidden=\"true\">–</span><span class=\"screen-reader-text\"> bis </span>23:00 Uhr</strong> <a href=\"#tickets\">Tickets</a></p>\n<p class=\"event-legacy-where\"><strong>Backstage / Backstage Halle</strong>, Reitknechtstraße 6, 80639 München</p>\n<p class=\"event-legacy-theme\"><a href=\"/konzerte\">Konzerte</a></p>\n<h2 class=\"event-legacy-title\">Krissy Matthews</h2>\n</div>\n\n<!-- event-legacy-head:end -->\n\n<div class=\"event-description\" id=\"beschreibung\"><p><strong>Guitarmania 2027</strong></p></div>"},
+    "excerpt": {"rendered": "<p>Blues-Rock-Gitarrist.</p>"},
+    "_embedded": {"wp:term": [[{"taxonomy": "event_genre", "name": "Blues-Rock"}]]}
+  },
+  {
+    "id": 2,
+    "link": "https://www.in-muenchen.de/events/stephan-zinner.html",
+    "title": {"rendered": "Stephan Zinner"},
+    "content": {"rendered": "<div class=\"event-legacy-head\">\n<p class=\"event-legacy-when\"><strong>Dienstag, 01.12.2026, 20:00 Uhr</strong> Eintritt frei</p>\n<p class=\"event-legacy-where\"><strong>Schlachthof</strong>, Zenettistraße 9, 80337 München</p>\n</div>"},
+    "excerpt": {"rendered": ""},
+    "_embedded": {"wp:term": []}
+  }
+]

@@ -3,7 +3,11 @@
 /wp-json/wp/v2/in-event-listing?search=blues returns every listing that mentions
 blues anywhere (~170, almost all upcoming; past listings drop out). Each has:
   _embedded.wp:term  event_genre names, e.g. "Blues", "Bluesrock", "Folk-Pop"
-  content            "<strong>Freitag, 16.10.2026<br>19:30 Uhr – 23:00 Uhr</strong>"
+  content            since 2026-11-12:
+                     '<p class="event-legacy-when"><strong>Dienstag, 04.05.2027, 20:00<span>–</span>
+                     <span> bis </span>23:00 Uhr</strong>…' (only the last time says "Uhr"), then
+                     '<p class="event-legacy-where"><strong>Venue / Room</strong>, Street 1, 80331 München'
+                     before: "<strong>Freitag, 16.10.2026<br>19:30 Uhr – 23:00 Uhr</strong>"
                      or "Samstag, 24.10.2026 20:00 Uhr bis Sonntag, 25.10.2026 02:00 Uhr",
                      then "<p><strong>Venue</strong> / <strong>Room</strong>, Street 1, 80331 München<br>…"
 Genres become tags, so `filter: blues_title` keeps listings whose title or genre
@@ -25,7 +29,7 @@ from ._html import soup, text
 
 PER_PAGE = 100
 _DATE = re.compile(r"(\d{2})\.(\d{2})\.(\d{4})")
-_TIME = re.compile(r"(\d{1,2}):(\d{2})\s*Uhr")
+_TIME = re.compile(r"(?<!\d)(\d{1,2}):(\d{2})(?!\d)")
 
 
 @adapter("inmuenchen")
@@ -52,12 +56,12 @@ def parse(items: list[dict], default_type: str = "concert") -> list[Event]:
     events = []
     for item in items:
         page = soup(item["content"]["rendered"])
-        when = page.find("strong")
+        when = page.select_one(".event-legacy-when strong") or page.find("strong")
         start, end = _when(when.get_text(" ") if when else "")
         if not start:
             continue
         title = clean_text(html.unescape(item["title"]["rendered"]))
-        venue, address = _place(page.find("p"))
+        venue, address = _place(page.select_one("p.event-legacy-where") or page.find("p"))
         events.append(Event(
             title=title,
             type=guess_type(title, default_type),
@@ -86,10 +90,11 @@ def _when(header: str) -> tuple[str | None, str | None]:
 
 
 def _place(par) -> tuple[str | None, str | None]:
-    """'<strong>Muffatwerk</strong> / <strong>Muffathalle</strong>, Zellstr. 4, 81667 München<br>…'"""
+    """'<strong>Muffatwerk</strong> / <strong>Muffathalle</strong>, Zellstr. 4, 81667 München<br>…'
+    or '<strong>Muffatwerk / Muffathalle</strong>, …'"""
     if par is None or not par.find("strong"):
         return None, None
-    names = [text(s) for s in par.find_all("strong")]
+    names = [n.strip() for s in par.find_all("strong") for n in text(s).split(" / ")]
     # "Deutsches Theater / Deutsches Theater Silbersaal" -> just the room
     venue = names[-1] if len(names) == 2 and names[1].startswith(names[0]) else " / ".join(names)
     line = []

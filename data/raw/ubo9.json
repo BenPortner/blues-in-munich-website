@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-11-12T11:35:32+00:00",
+ "scraped_at": "2026-11-13T11:19:44+00:00",
  "status": {
   "id": "ubo9",
   "name": "UBO 9",
   "url": "https://www.ubo9.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 11
+  "found": 10
  },
  "events": [
-  {
-   "title": "Open Stage",
-   "type": "concert",
-   "start": "2026-11-12T19:30",
-   "end": null,
-   "url": "https://www.ubo9.de/veranstaltung/open-stage-15/",
-   "venue": "UBO 9",
-   "address": "Ubostraße 9, 81245 München",
-   "description": "Das ubo9 bietet jeweils am zweiten Donnerstag im Monat eine Bühne in Wohnzimmeratmosphäre bei der 5 Solokünstler:innen oder Formationen ein abwechslungsreiches Programm präsentieren. Der Mundart-Liedermacher Michael Bohlmann begleitet die Abende als Organisator und mit seiner charmanten Moderation. Alle, die sich immer wieder aufs Neue überraschen lassen wollen und Kultur in all Ihren Facetten lieben, sind herzlich eingeladen. Getränke gibt es im ubo9, kleine Snacks können mitgebracht werden. Wer selbst zu dem Bühnenprogramm mit Musik, Poesie, Comedy etc. beitragen möchte, meldet sich bei: micmucmusic@gmail.com Eintritt frei, Spenden für die Künslter:innen erwünscht",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Nähtreff",
    "type": "concert",

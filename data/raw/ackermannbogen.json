@@ -6,7 +6,7 @@
   "url": "https://ackermannbogen-ev.de/programm-alles",
   "kind": "venue",
   "status": "failed",
-  "error": "HTTPError: 404 Client Error: Not Found for url: https://ackermannbogen-ev.de/wp-json/tribe/events/v1/events?per_page=50&categories=musik%2Cmusik-gesang&page=1"
+  "error": "HTTPError: 403 Client Error: Forbidden for url: https://ackermannbogen-ev.de/wp-json/tribe/events/v1/events?per_page=50&categories=musik%2Cmusik-gesang&page=1"
  },
  "events": [
   {

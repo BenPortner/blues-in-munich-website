@@ -1,36 +1,14 @@
 {
- "scraped_at": "2026-11-12T11:32:54+00:00",
+ "scraped_at": "2026-11-13T11:17:25+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 53
+  "found": 52
  },
  "events": [
-  {
-   "title": "THE MESSTHETICS AND JAMES BRANDON LEWIS",
-   "type": "concert",
-   "start": "2026-11-12T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11693",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Sold out. Es war eine aufwühlende Zeit damals: in den wilden 60ern klang Musik nach kompromisslosem Freiheitsdrang, nach Protest, nach Revolution. Dabei war es eigentlich egal, ob die Bands dieser Epoche Underground-Rock oder Free Jazz-spielten. In ihrer Haltung ähnelten sie sich schon sehr. Im Sound der Mezzthetics, die sich immer wieder mit dem gefeierten Tenorsaxofonisten James Brandon Lewis verbünden, kommen das Urwüchsige, Draufgängerische, Rotzige des Rock und Post-Punk und die ungezügelte Energie des Spiritual Jazz zusammen.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Highlight"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "YOTAM BEN-OR",
    "type": "concert",

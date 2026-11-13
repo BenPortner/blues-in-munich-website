@@ -1,36 +1,14 @@
 {
- "scraped_at": "2026-11-12T11:35:29+00:00",
+ "scraped_at": "2026-11-13T11:19:41+00:00",
  "status": {
   "id": "ars-musica",
   "name": "ars musica e.V.",
   "url": "https://www.ars-musica-muenchen.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 11
+  "found": 10
  },
  "events": [
-  {
-   "title": "Matching Ties Duo & Special Guest Rosena Horan-Irland",
-   "type": "concert",
-   "start": "2026-11-12T19:30",
-   "end": null,
-   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2576&title=Matching%20Ties%20Duo%20%26amp%3B%20Special%20Guest%20Rosena%20Horan-Irland",
-   "venue": "Salettl im Tannengarten",
-   "address": "Pfeuferstr. 32, 81377 München",
-   "description": "Matching Ties Duo: Die zwei führenden Folk-Musiker der europäischen Szene mit den zusammenpassenden Krawatten Paul Stowe (USA) und Trevor Morriss (GB) spielen eine vielfältige und einzigartige Mischung aus irischem, englischem und schottischem Folk mit einer Prise Bluegrass und Blues auf traditionellen Saiteninstrumenten wie Gitarren, Mandolinen und Banjo sowie Mundharmonikas und Bodhrán (irischer Trommel).",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Folk mit einer Prise Bluegrass und Blues"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Leider schon VOLL ! Baltazar & Frau Feierabend",
    "type": "concert",

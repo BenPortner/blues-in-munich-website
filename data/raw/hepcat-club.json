@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-12T11:32:41+00:00",
+ "scraped_at": "2026-11-13T11:17:11+00:00",
  "status": {
   "id": "hepcat-club",
   "name": "Hep Cat Club",
   "url": "https://hepcatclub.com/",
   "kind": "school",
   "status": "ok",
-  "found": 246
+  "found": 248
  },
  "events": [
   {
@@ -2346,6 +2346,46 @@
    "venue": "Hep Cat Club",
    "address": "Viktoriastraße 3b, 86150 Augsburg",
    "description": "20.30 – 01.30 Uhr http://www.xmaswing.com https://www.google.com/url?q=http://www.xmaswing.com&sa=D&source=calendar&ust=1786542426150429&usg=AOvVaw133sufz0zHsYIka9F2EnwA",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lindy Hop Trainingslager mit Frenschi & Walter",
+   "type": "workshop",
+   "start": "2027-01-09",
+   "end": "2027-01-10",
+   "url": "https://hepcatclub.com/",
+   "venue": "Hep Cat Club",
+   "address": "Viktoriastraße 3b, 86150 Augsburg",
+   "description": "",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Tag der offenen Türe im Hep Cat Club",
+   "type": "class",
+   "start": "2027-01-09",
+   "end": null,
+   "url": "https://hepcatclub.com/",
+   "venue": "Hep Cat Club",
+   "address": "Viktoriastraße 3b, 86150 Augsburg",
+   "description": "",
    "recurrence": null,
    "dates": [],
    "tags": [],

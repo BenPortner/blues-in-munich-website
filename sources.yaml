@@ -40,6 +40,7 @@ include:
   - \bSan2\b               # blues harp player, billed as Soul
   - Mr\.? ?Zig ?Zag        # plays mostly blues; only the blurb says so (Tollwood)
   - Stiff Hips             # modern blues to rock and country; only the blurb says so (Stragula)
+  - Devil['’]?s Brew       # blues duo ("Blues & More", Son House to Billie Holiday); only the blurb says so (Mister B's)
 
 sources:
   # --- Dance schools -------------------------------------------------------
@@ -355,6 +356,9 @@ sources:
 #
 #  - Kongressbar (swing/jazz/blues live bands Fri/Sat) — https://kongressbar.de/events-live-bands-djs/
 #      events are rendered by a plugin without a plain list; needs a custom adapter.
+#      checked 2026-11-13: also hosts the "Bluesverschwörung" blues dance night (Thursdays 20:30, every other
+#      week, e.g. Nr. 149 on 19.11., Nr. 150 on 03.12.), which reached the scrape only through SwinginMunich; that
+#      calendar has been empty since 2026-10-22, so the Kongressbar's own page is now the only feed for it.
 #  - Kulturzentrum Giesinger Bahnhof — http://www.giesinger-bahnhof.de (hosts Stormy Wednesday)
 #      skipped on purpose: the program (/programm/) is scrapable, but it is mostly children's theatre,
 #      dance classes and readings; Stormy Wednesday is the only reliably blues event and the
@@ -408,3 +412,8 @@ sources:
 #      https://www.roody-giesing.de/programm
 #      found 2026-11-06. Wix site, but the event links are in the HTML. No blues among the upcoming dates
 #      (indie, DJ sets); only worth an adapter if blues acts return. Some gigs are on IN München.
+#  - Rock That Swing Festival (annual swing dance festival, Deutsches Theater; Blues among its workshop styles) —
+#      https://www.rockthatswing.com/
+#      found 2026-11-13. One event a year (20th edition 04.–08.02.2027); the programme is not out yet and blues is
+#      a minor track next to Lindy Hop and Boogie. Static site; better as a manual_events.yaml entry once the
+#      blues classes or blues ball are announced.

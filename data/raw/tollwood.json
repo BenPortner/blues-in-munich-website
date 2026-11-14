@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-13T11:19:37+00:00",
+ "scraped_at": "2026-11-14T10:45:31+00:00",
  "status": {
   "id": "tollwood",
   "name": "Tollwood",
@@ -345,7 +345,7 @@
    "url": "https://www.tollwood.de/veranstaltungen/2026/lila-sterila/",
    "venue": "Tollwood – Hexenkessel",
    "address": "Theresienwiese, 80336 München",
-   "description": "Ska & NDW – Eigenes & Covers aus den 80ern",
+   "description": "Ska & NDW – Eigenes & Covers aus den 80ern In den 80er Jahren war Lila Sterila aus der Münchner Clubszene kaum wegzudenken. Mit Songs wie „Da kommt der Wahnsinn“, „Pilot“ und „Hawaii“ erlangte die Band Kultstatus und stand sogar in der legendären Alabama-Halle auf der Bühne. Dann wurde es 25 Jahre lang still um die Musiker. 2009 feierte Lila Sterila ihr Comeback – unter anderem auf dem Tollwood. Seitdem ist die Band immer wieder live zu erleben und bringt ein Stück Münchner Musikgeschichte zurück auf die Bühne.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -389,7 +389,7 @@
    "url": "https://www.tollwood.de/veranstaltungen/2026/history-lane/",
    "venue": "Tollwood – Hexenkessel",
    "address": "Theresienwiese, 80336 München",
-   "description": "seltene Rock- & Pop-Perlen",
+   "description": "seltene Rock- & Pop-Perlen Zeitlose Klassiker, die nicht auf jeder Coverband-Playlist stehen: History Lane widmet sich den musikalischen Perlen der Rock- und Popgeschichte. Auf dem Programm stehen Songs von Supertramp, Alan Parsons Project, Eagles, Toto und Hall & Oates. Mit ihrem mehrstimmigen Gesang und einem Gespür für große Melodien verleiht die fünfköpfige Band den Klassikern ihren eigenen Klang.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -587,7 +587,7 @@
    "url": "https://www.tollwood.de/veranstaltungen/2026/green-blue/",
    "venue": "Tollwood – Hexenkessel",
    "address": "Theresienwiese, 80336 München",
-   "description": "Irish & Scottish Folk feat. The Paul Daly Band & Die KleinstePipeBand",
+   "description": "Irish & Scottish Folk feat. The Paul Daly Band & Die KleinstePipeBand Bekannte Folk-Melodien, selten gespielte Stücke und eigene Songs von Paul Daly – das Repertoire der Paul Daly Band ist vielseitig. Die international besetzte Münchner Band spielt seit rund 20 Jahren zusammen und hat in dieser Zeit acht CDs veröffentlicht. Von kleinen Irish Pubs bis zu großen Konzerthallen hat die Band bereits die unterschiedlichsten Bühnen erlebt. Dabei bleibt sie der irischen und internationalen Folk-Musik treu, ohne auf musikalische Überraschungen zu verzichten.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -631,7 +631,7 @@
    "url": "https://www.tollwood.de/veranstaltungen/2026/ailekis-und-der-baer/",
    "venue": "Tollwood – Hexenkessel",
    "address": "Theresienwiese, 80336 München",
-   "description": "Indie-Pop meets Swing, Jazz, Country, Rock & Soul",
+   "description": "Indie-Pop meets Swing, Jazz, Country, Rock & Soul Mal leicht und schwebend, mal kraftvoll und direkt. Ailekis und der BÄR mit Band bewegen sich zwischen Indie-Pop, Swing, Jazz und Soul. Im Mittelpunkt steht die ausdrucksstarke Stimme von Ailekis, begleitet von einer Band, die mit Groove und Feingefühl die unterschiedlichen musikalischen Einflüsse verbindet. 2026 gewann die Formation den Bandwettbewerb „Soundcheck in Giesing“ in München. Wie das live klingt, zeigt die Band beim Tollwood Winterfestival.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -668,28 +668,6 @@
    "id": ""
   },
   {
-   "title": "Schein",
-   "type": "concert",
-   "start": "2026-12-07T19:30",
-   "end": "2026-12-07T22:00",
-   "url": "https://www.tollwood.de/veranstaltungen/2026/schein/",
-   "venue": "Tollwood – Hexenkessel",
-   "address": "Theresienwiese, 80336 München",
-   "description": "Funk-Rock",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Funk-Rock"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Alphornbläser vom Olympiapark",
    "type": "concert",
    "start": "2026-12-07T19:30",
@@ -712,6 +690,28 @@
    "id": ""
   },
   {
+   "title": "Schein",
+   "type": "concert",
+   "start": "2026-12-07T19:30",
+   "end": "2026-12-07T22:00",
+   "url": "https://www.tollwood.de/veranstaltungen/2026/schein/",
+   "venue": "Tollwood – Hexenkessel",
+   "address": "Theresienwiese, 80336 München",
+   "description": "Funk-Rock Nach 14 Jahren Pause ist die Band zurück: Schein ist eine Funk-Rock-Band aus Freising bei München. Gegründet 1999, geprägt von Bläser-Power, treibender Rhythmus-Fraktion und deutschen Texten zwischen Haltung und Augenzwinkern. Über 300 Konzerte im In- und Ausland, „Münchner Band des Jahres“, Austrian Newcomer Award – und vor allem: eine Band, deren Mittelpunkt immer die Bühne war. Funk bedeutet für Schein nicht Disco-Glanz, sondern Schweiß, Druck und Live-Momente.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Funk-Rock"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "Go Local Day: Sophia Zoe",
    "type": "concert",
    "start": "2026-12-08T16:30",
@@ -719,7 +719,7 @@
    "url": "https://www.tollwood.de/veranstaltungen/2026/go-local-day-sophia-zoe/",
    "venue": "Tollwood – Hexenkessel",
    "address": "Theresienwiese, 80336 München",
-   "description": "Deep and soulful Pop",
+   "description": "Deep and soulful Pop Über 50 Songs hat Sophia Zoe bereits geschrieben – und sie hat noch einiges zu erzählen. Die Münchner Singer-Songwriterin schreibt und produziert ihre Musik selbst. Mit gefühlvollem Soul-Pop, groovigen Rhythmen und ehrlichen Texten setzt sie sich für Selbstbestimmung und den Mut ein, den eigenen Weg zu gehen. Ihr Song „Nature’s Calling“ zeigt ihre persönliche und nachdenkliche Seite. Live verbindet Sophia Zoe mit ihrer Band Soul-Pop mit Einflüssen aus Funk, Jazz und Hip-Hop.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -741,7 +741,7 @@
    "url": "https://www.tollwood.de/veranstaltungen/2026/go-local-day-noah-juan/",
    "venue": "Tollwood – Hexenkessel",
    "address": "Theresienwiese, 80336 München",
-   "description": "Pop, Rock & Funk",
+   "description": "Pop, Rock & Funk Seit 2016 schreibt Noah Juan eigene Songs, mal auf Deutsch, mal auf Englisch. Inzwischen steht der Münchner Musiker mit einer fünfköpfigen Band auf der Bühne. Zwischen „Lass die Zeit vergehn“, „Madness & Badness“ und „Liebe hat viele Gesichter“ zeigt sich seine musikalische Bandbreite: Pop trifft auf Funk, dazu kommen Rockelemente und Einflüsse aus dem Sound der 80er Jahre. Zu seinen musikalischen Vorbildern zählen Prince, Michael Jackson und Bruno Mars.",
    "recurrence": null,
    "dates": [],
    "tags": [

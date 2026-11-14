@@ -1,14 +1,80 @@
 {
- "scraped_at": "2026-11-13T11:20:27+00:00",
+ "scraped_at": "2026-11-14T10:48:35+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 149
+  "found": 146
  },
  "events": [
+  {
+   "title": "Martin Moro",
+   "type": "concert",
+   "start": "2027-10-17T18:00",
+   "end": "2027-10-17T20:00",
+   "url": "https://www.in-muenchen.de/events/martin-moro-pasinger-fabrik-2027.html",
+   "venue": "Pasinger Fabrik – Kleine Bühne",
+   "address": "August-Exter-Straße 1, 81245 München",
+   "description": "Ein Grazer Fingerstyle-Gitarrist aus der österreichischen Folk- und Bluesszene spielt akustische Musik mit Gesang und humorvollen Moderationen.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Folk, Blues, Fingerstyle"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lichterkinder",
+   "type": "concert",
+   "start": "2027-10-01T16:30",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/lichterkinder-muffathalle-2027.html",
+   "venue": "Muffatwerk / Muffathalle",
+   "address": "Zellstr. 4, 81667 München",
+   "description": "Die bekannte Kindermusik-Marke geht mit Hits zum Mitsingen und Tanzen auf Tour. Ein Familienkonzert für Groß und Klein.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Kindermusik"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Robert Finley",
+   "type": "concert",
+   "start": "2027-03-09T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/robert-finley-ampere-2027.html",
+   "venue": "Muffatwerk / Ampere",
+   "address": "Zellstraße 4, 81667 München",
+   "description": "Der Blues- und Soulsänger aus Louisiana stellt sein Gospel-Album vor, das er an nur einem Tag aufgenommen hat.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Blues, Soul"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
   {
    "title": "Michael Armann Trio",
    "type": "concert",
@@ -576,28 +642,6 @@
    "id": ""
   },
   {
-   "title": "Lesebühne",
-   "type": "concert",
-   "start": "2026-11-13T19:30",
-   "end": "2026-11-13T22:00",
-   "url": "https://www.in-muenchen.de/events/lesebuhne.html",
-   "venue": "Kulturhaus Milbertshofen",
-   "address": "Curt-Mezger-Platz 1, 80809 München",
-   "description": "Eine bunte Mischung aus satirischen Dialogen, witzigen Texten und betörenden Songs wartet auf das Publikum. Zwischen Lachen, Applaus und Austausch steht das Erleben von Kleinkunst und Kabarett im Vordergrund.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Kabarett"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Al Jones Blues Band",
    "type": "concert",
    "start": "2026-12-26T20:30",
@@ -848,28 +892,6 @@
    "dates": [],
    "tags": [
     "Jazz"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "The Munich Swing Generations",
-   "type": "concert",
-   "start": "2026-11-13T20:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/the-munich-swing-generations-jazztime-freising.html",
-   "venue": "Lacanto",
-   "address": "Vöttinger Str. 40, 85354 Freising",
-   "description": "Swing, der einfach Spaß macht: Trompeter Colin Dawson und vier weitere Musiker aus zwei Generationen spielen Jazz aus der Hochzeit des Swing.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Swing / Jazz"
    ],
    "source_id": "",
    "source_name": "",
@@ -1188,28 +1210,6 @@
    "id": ""
   },
   {
-   "title": "Volker Gieseks Colorbox",
-   "type": "concert",
-   "start": "2026-11-13T20:00",
-   "end": "2026-11-13T22:30",
-   "url": "https://www.in-muenchen.de/events/volker-gieseks-colorbox.html",
-   "venue": "Pasinger Fabrik – Kleine Bühne",
-   "address": "August-Exter-Straße 1, 81245 München",
-   "description": "Die deutsch-brasilianische Formation Volker Gieseks COLORBOX präsentiert ihr viertes Album „Das blaue Land“ in einem audiovisuellen Konzert. Inspiriert vom oberbayerischen Blauen Land und dem Blues, entfaltet sich ein Programm zwischen melodischer Klarheit und rhythmischer Energie. Zu jedem Stück werden abstrakte Fotoarbeiten projiziert, die das visuelle Erlebnis vervollständigen.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Jazz"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Thundermother",
    "type": "concert",
    "start": "2027-02-27T20:00",
@@ -1310,28 +1310,6 @@
    "dates": [],
    "tags": [
     "Jazz"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Baltazar & Frau Feierabend",
-   "type": "concert",
-   "start": "2026-11-13T19:30",
-   "end": "2026-11-13T21:00",
-   "url": "https://www.in-muenchen.de/events/baltazar-frau-feierabend.html",
-   "venue": "ars musica – Der Musikladen",
-   "address": "Lindwurmstr. 201, 80337 München",
-   "description": "Pop- und Rock-Klassiker werden frisch und unkonventionell interpretiert. Pianist Baltazar und Sängerin Frau Feierabend präsentieren ihre Lieblingsstücke unplugged. Die rauchige Stimme und Bühnenpräsenz von Frau Feierabend treffen auf Baltazars langjährige Erfahrung in Jazz, Blues, Pop und Soul.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Pop"
    ],
    "source_id": "",
    "source_name": "",
@@ -2198,28 +2176,6 @@
    "id": ""
   },
   {
-   "title": "Fröhliche Waunachten mit Wigo und Wolli!",
-   "type": "concert",
-   "start": "2026-11-13T16:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/frohliche-waunachten-mit-wigo-und-wolli.html",
-   "venue": "PUC Puchheim",
-   "address": "Oskar-Maria-Graf-Straße 2, 82178 Puchheim",
-   "description": "Im Zentrum des Abends stehen Wigo und Wolli, die als Handpuppen für Wirbel sorgen. Anna Ludwigs szenische Lesung und die jazzigen Weihnachtslieder der StreicherBigBand Bluestrings unter der Leitung von Frank Wunderer stimmen auf die Vorweihnachtszeit ein.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Kinderprogramm"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "KIOSK61",
    "type": "concert",
    "start": "2026-11-28T20:00",
@@ -3010,28 +2966,6 @@
    "id": ""
   },
   {
-   "title": "Botticelli Baby",
-   "type": "concert",
-   "start": "2026-11-13T20:00",
-   "end": "2026-11-13T21:15",
-   "url": "https://www.in-muenchen.de/events/botticelli-baby.html",
-   "venue": "Bergson Kunstkraftwerk / Bergson Barbastelle",
-   "address": "Am Bergson Kunstkraftwerk 2, 81245 München",
-   "description": "Ein musikalischer Ausnahmezustand erwartet die Zuhörenden. Sieben Musiker, sieben Instrumente und ein Sound, der Jazz, Punk, Blues, Folk und Pop vereint. Fruchtiges Klang-Chaos trifft das Publikum mitten ins Herz.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Fusion"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Stephan Zinner",
    "type": "concert",
    "start": "2026-11-22T19:00",
@@ -3153,7 +3087,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Jam Session"
+    "Jam-Session"
    ],
    "source_id": "",
    "source_name": "",

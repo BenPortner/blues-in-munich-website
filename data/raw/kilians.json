@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-13T11:17:28+00:00",
+ "scraped_at": "2026-11-14T10:43:11+00:00",
  "status": {
   "id": "kilians",
   "name": "Kilians Irish Pub",
@@ -9,26 +9,6 @@
   "found": 8
  },
  "events": [
-  {
-   "title": "Basement 27",
-   "type": "concert",
-   "start": "2026-11-13T21:00",
-   "end": "2026-11-14T00:30",
-   "url": "https://reservierung.heyrosi.de/event/kilians-irish-pub/basement-27",
-   "venue": "Kilians Irish Pub",
-   "address": "Frauenplatz 11, 80331 München",
-   "description": "spielen Cover-Rock, gerne auch Lieder aus der zweiten Reihe",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "CLUB 27 plus",
    "type": "concert",
@@ -158,6 +138,26 @@
    "venue": "Kilians Irish Pub",
    "address": "Frauenplatz 11, 80331 München",
    "description": "Musician from Co. Kildare in Ireland with popular Cover Songs",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "The 3ee Deez",
+   "type": "concert",
+   "start": "2026-11-25T21:00",
+   "end": "2026-11-25T23:30",
+   "url": "https://reservierung.heyrosi.de/event/kilians-irish-pub/the-3ee-deez-kopie",
+   "venue": "Kilians Irish Pub",
+   "address": "Frauenplatz 11, 80331 München",
+   "description": "Songs from different Generations for different Generations",
    "recurrence": null,
    "dates": [],
    "tags": [],

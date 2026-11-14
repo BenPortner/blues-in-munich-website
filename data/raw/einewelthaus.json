@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-13T11:19:54+00:00",
+ "scraped_at": "2026-11-14T10:48:21+00:00",
  "status": {
   "id": "einewelthaus",
   "name": "EineWeltHaus",
   "url": "https://www.einewelthaus.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 31
+  "found": 30
  },
  "events": [
   {
@@ -54,29 +54,6 @@
    "id": ""
   },
   {
-   "title": "Lesung Wolfgang Kaleck: \"Die Stärke des Rechts vs Das Recht des Stärkeren\"",
-   "type": "concert",
-   "start": "2026-11-13T20:00",
-   "end": "2026-11-13T22:00",
-   "url": "https://www.einewelthaus.de/events/lesung-wolfgang-kaleck-die-staerke-des-rechts-vs-das-recht-des-staerkeren-2/",
-   "venue": "EineWeltHaus München",
-   "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "&nbsp; Ein Plädoyer für Völkerrecht und Menschenrechte \"Wie sollen wir mit dieser ständigen Flut von Schreckensmeldungen aus aller Welt umgehen?\" fragt angesichts der massiven Völkerrechtsverletzungen Wolfgang Kaleck in seinem neuen Buch. Systemisches Unrecht und Verbrechen gegen die Menschlichkeit gab es zu jeder Zeit. Neu ist aber die Wucht, mit der das Völkerrecht und seine Institutionen heute angegriffen werden. Der Angriff Russlands auf die Ukraine, die Eskalation des Nahostkonflikts nach dem 7. Oktober, der Angriff Israels auf den Iran – das sind nur einige, wenn auch entscheidende Entwicklungen der letzten Jahre, die zeigen, wie die »alte« internationale Ordnung erodiert und das Völkerrecht und die Menschenrechte zunehmend missachtet werden. In dieser viel beschworenen Zeitenwende stellt sich die fundamentale Frage, ob das internationale Recht stark genug ist diesem Sturm zu widerstehen, oder in Zukunft einfach das Recht des Stärkeren gilt. Wolfgang Kaleck, einer der international renommiertesten Menschenrechtsanwälte, sagt, dass Völkerrecht und Menschenrechte nicht zur Disposition stehen dürfen, gerade weil sie im Kern, trotz aller Ambivalenzen, Erschütterungen und Rückschläge, einen immensen Fortschritt auf dem Weg zu einer gerechteren Welt darstellen. Er erinnert nicht nur daran, dass der Traum »vom ewigen Frieden« aus dem Trauma des Krieges geboren wurde, sondern zeigt, wie notwendig es gerade jetzt ist, an diesem »utopischen Projekt« festzuhalten, welche Reformen des internationalen Rechts und seiner Institutionen es stärken könnten und wie und mit wem wir gemeinsam dafür streiten können. &nbsp;",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Diskussionsveranstaltung",
-    "Lesung"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Arts and Sounds for Colombia",
    "type": "other",
    "start": "2026-11-14T17:30",
@@ -102,28 +79,6 @@
    "id": ""
   },
   {
-   "title": "Auf in den Krieg? Wie Wirtschaft, Politik und Gesellschaft militarisiert werden",
-   "type": "concert",
-   "start": "2026-11-16T19:00",
-   "end": "2026-11-16T22:00",
-   "url": "https://www.einewelthaus.de/events/auf-in-den-krieg-wie-wirtschaft-politik-und-gesellschaft-militarisiert-werden/",
-   "venue": "EineWeltHaus München",
-   "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "Vortrag und Diskussion mit Andreas Seifert, Informationsstelle Militarisierung Deutschland wird mit Gesetzen, Rüstung und Mobilmachung auf Krieg eingeschworen. Insbesondere Bayern ist hier vorn mit dabei und versucht sich, die Aufrüstung als Sicherheitsmaßnahme und Wirtschaftsprogramm schön zu reden. Die Ertüchtigung der Industrie, die \"Erfolgsgeschichten\" von Startup-Unternehmen, die tödliche Produkte entwickeln, verdecken die Einschränkungen, die für die Gesellschaft damit einhergehen und den Verlust an demokratischer Mitsprache. Der Vortrag möchte daran erinnern, wer an der Rüstung verdient und die Frage stellen, wie wir als Gesellschaft uns gegen den Narrativ von \"Sicherheit durch Rüstung\" wehren können. Andreas Seifert ist im Vorstand der Informationsstelle Militarisierung (IMI) und arbeitet so kritisch zur deutschen Rüstungsindustrie. Er brachte für die IMI u.a. das \"Handbuch Rüstung\" heraus, eine Fundgrube für unsere militärkritischen Exkursionen (\"Ostermarsch Draußen\")",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Vortrag und Diskussion"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Das kalte Herz des Sexismus - Bilder und Worte als Waffe gegen Frauen",
    "type": "concert",
    "start": "2026-11-16T20:00",
@@ -137,6 +92,28 @@
    "tags": [
     "Austausch",
     "Informationsveranstaltung"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Auf in den Krieg? Wie Wirtschaft, Politik und Gesellschaft militarisiert werden",
+   "type": "concert",
+   "start": "2026-11-16T19:00",
+   "end": "2026-11-16T22:00",
+   "url": "https://www.einewelthaus.de/events/auf-in-den-krieg-wie-wirtschaft-politik-und-gesellschaft-militarisiert-werden/",
+   "venue": "EineWeltHaus München",
+   "address": "Schwanthalerstr. 80, München, 80336",
+   "description": "Vortrag und Diskussion mit Andreas Seifert, Informationsstelle Militarisierung Deutschland wird mit Gesetzen, Rüstung und Mobilmachung auf Krieg eingeschworen. Insbesondere Bayern ist hier vorn mit dabei und versucht sich, die Aufrüstung als Sicherheitsmaßnahme und Wirtschaftsprogramm schön zu reden. Die Ertüchtigung der Industrie, die \"Erfolgsgeschichten\" von Startup-Unternehmen, die tödliche Produkte entwickeln, verdecken die Einschränkungen, die für die Gesellschaft damit einhergehen und den Verlust an demokratischer Mitsprache. Der Vortrag möchte daran erinnern, wer an der Rüstung verdient und die Frage stellen, wie wir als Gesellschaft uns gegen den Narrativ von \"Sicherheit durch Rüstung\" wehren können. Andreas Seifert ist im Vorstand der Informationsstelle Militarisierung (IMI) und arbeitet so kritisch zur deutschen Rüstungsindustrie. Er brachte für die IMI u.a. das \"Handbuch Rüstung\" heraus, eine Fundgrube für unsere militärkritischen Exkursionen (\"Ostermarsch Draußen\")",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Vortrag und Diskussion"
    ],
    "source_id": "",
    "source_name": "",

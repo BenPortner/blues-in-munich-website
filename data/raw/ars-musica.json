@@ -1,36 +1,14 @@
 {
- "scraped_at": "2026-11-13T11:19:41+00:00",
+ "scraped_at": "2026-11-14T10:45:36+00:00",
  "status": {
   "id": "ars-musica",
   "name": "ars musica e.V.",
   "url": "https://www.ars-musica-muenchen.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 10
+  "found": 9
  },
  "events": [
-  {
-   "title": "Leider schon VOLL ! Baltazar & Frau Feierabend",
-   "type": "concert",
-   "start": "2026-11-13T19:30",
-   "end": null,
-   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2585&title=Leider%20schon%20VOLL%20%21%20Baltazar%20%26amp%3B%20Frau%20Feierabend",
-   "venue": "ars musica Musikladen",
-   "address": "Lindwurmstraße 201, 80337 München",
-   "description": "Achtung - keien Plätze mehr verfügbar! Baltazar (p) & Frau Feierabend (voc) machen sich die Musik, wie sie ihnen gefällt.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Pop-Rock-Klassiker unplugged und unkonventionell"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Living Tones",
    "type": "concert",

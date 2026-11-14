@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T11:20:58+00:00",
+  "generated_at": "2026-11-14T10:49:06+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -5292,6 +5292,35 @@
       "id": "71f2b05a60d5"
     },
     {
+      "title": "Robert Finley",
+      "type": "concert",
+      "start": "2027-03-09T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/robert-finley-ampere-2027.html",
+      "venue": "Muffatwerk / Ampere",
+      "address": "Zellstraße 4, 81667 München",
+      "description": "Der Blues- und Soulsänger aus Louisiana stellt sein Gospel-Album vor, das er an nur einem Tag aufgenommen hat.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues, Soul"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://www.last.fm/music/Robert+Finley"
+        }
+      ],
+      "known_artists": [
+        "Robert Finley"
+      ],
+      "id": "614bc99bc7eb"
+    },
+    {
       "title": "Ludwig Seuss Trio & Abi Wallenstein",
       "type": "concert",
       "start": "2027-03-12T20:00",
@@ -5984,7 +6013,7 @@
       "url": "https://www.boogie-baeren.de/",
       "kind": "school",
       "status": "ok",
-      "found": 114,
+      "found": 113,
       "kept": 14
     },
     {
@@ -6020,7 +6049,7 @@
       "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "kind": "venue",
       "status": "ok",
-      "found": 15,
+      "found": 14,
       "kept": 7
     },
     {
@@ -6038,7 +6067,7 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 52,
+      "found": 57,
       "kept": 2
     },
     {
@@ -6119,7 +6148,7 @@
       "url": "https://www.pasinger-fabrik.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 51,
+      "found": 50,
       "kept": 6
     },
     {
@@ -6128,7 +6157,7 @@
       "url": "https://www.ars-musica-muenchen.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 10,
+      "found": 9,
       "kept": 2
     },
     {
@@ -6145,8 +6174,8 @@
       "name": "Kunst in Sendling e.V.",
       "url": "https://www.kunst-in-sendling.com/",
       "kind": "venue",
-      "status": "ok",
-      "found": 13,
+      "status": "failed",
+      "error": "ConnectionError: HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Max retries exceeded with url: /wp-json/tribe/events/v1/events?per_page=50&page=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Read timed out. (read timeout=30.0)\"))",
       "kept": 0
     },
     {
@@ -6155,7 +6184,7 @@
       "url": "https://www.buergersaal-fuerstenried.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 8,
+      "found": 7,
       "kept": 0
     },
     {
@@ -6164,7 +6193,7 @@
       "url": "https://www.einewelthaus.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 31,
+      "found": 30,
       "kept": 1
     },
     {
@@ -6191,8 +6220,8 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 149,
-      "kept": 66
+      "found": 146,
+      "kept": 67
     },
     {
       "id": "mvp",
@@ -6209,7 +6238,7 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 185,
+      "found": 181,
       "kept": 4
     },
     {

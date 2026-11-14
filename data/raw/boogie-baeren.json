@@ -1,36 +1,14 @@
 {
- "scraped_at": "2026-11-13T11:16:53+00:00",
+ "scraped_at": "2026-11-14T10:42:35+00:00",
  "status": {
   "id": "boogie-baeren",
   "name": "Boogie-Bären München",
   "url": "https://www.boogie-baeren.de/",
   "kind": "school",
   "status": "ok",
-  "found": 114
+  "found": 113
  },
  "events": [
-  {
-   "title": "CARLA AND THE GREAT BALLS ON FIRE",
-   "type": "social",
-   "start": "2026-11-13",
-   "end": null,
-   "url": "https://www.boogie-baeren.de/eventleser/carla-and-the-great-balls-on-fire",
-   "venue": null,
-   "address": null,
-   "description": "CARLA AND THE GREAT BALLS ON FIRE spielen in der Schießstätte in Allach",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Extern"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Boogie Party - Fly'n'dance Freising",
    "type": "social",

@@ -199,7 +199,11 @@ def source_groups(sources: list[dict]) -> list[tuple[str, list[dict]]]:
     once it lists something."""
     def by_name(s):  # "Bürgersaal" next to "Burg…", "ars musica" among the A's
         return "".join(c for c in unicodedata.normalize("NFKD", s["name"]) if not unicodedata.combining(c)).casefold()
-    listed = sorted((s for s in sources if s["kind"] != "manual" or s.get("kept")), key=by_name)
+    def with_updated(s):  # failed sources show the date of their last successful update
+        if s["status"] != "failed" or not s.get("updated_at"):
+            return s
+        return {**s, "updated": fmt_day(datetime.fromisoformat(s["updated_at"]).astimezone(MUNICH).date(), weekday=False)}
+    listed = sorted((with_updated(s) for s in sources if s["kind"] != "manual" or s.get("kept")), key=by_name)
     groups = [("Dance schools", [s for s in listed if s["kind"] == "school"]),
               ("Venues, bands & listings", [s for s in listed if s["kind"] != "school"])]
     return [g for g in groups if g[1]]

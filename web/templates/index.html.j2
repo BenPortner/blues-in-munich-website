@@ -144,8 +144,12 @@
       <li>
         <a href="{{ s.url }}" rel="noopener">{{ s.name }}</a>
         {% set n = source_counts[s.id] %}
-        {% if s.status == "ok" and n %}<a class="status status-ok" href="#source/{{ s.id }}" data-source-link="{{ s.id }}" data-name="{{ s.name }}">{{ n }} event{{ "" if n == 1 else "s" }}</a>
-        {% else %}<span class="status status-{{ s.status }}">{% if s.status == "ok" %}0 events{% elif s.status == "skipped" %}not active{% else %}update failed — showing last known{% endif %}</span>{% endif %}
+        {% if s.status == "skipped" %}<span class="status status-skipped">not active</span>
+        {% else %}<span class="status">
+          {%- if n %}<a class="status-ok" href="#source/{{ s.id }}" data-source-link="{{ s.id }}" data-name="{{ s.name }}">{{ n }} event{{ "" if n == 1 else "s" }}</a>
+          {%- else %}0 events{% endif %}
+          {%- if s.updated %}<span class="status-stale" title="Last successful update; the newer ones failed"> · as of {{ s.updated }}</span>{% endif -%}
+        </span>{% endif %}
       </li>
       {% endfor %}
     </ul>

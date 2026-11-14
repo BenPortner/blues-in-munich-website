@@ -401,7 +401,7 @@ h1 a { color: inherit; text-decoration: none; }
 .sources + .sources-heading { padding-top: 16px; border-top: 1px dashed var(--line); }
 .sources li { display: flex; justify-content: space-between; gap: 12px; }
 .status { font-size: 13px; white-space: nowrap; }
-.status-failed { color: var(--t-social); }
+.status-stale { color: var(--muted); }
 .small { font-size: 14px; }
 
 @media (max-width: 600px) {

@@ -164,9 +164,10 @@ def source_events(source: dict, raw_dir: Path, previous: dict,
         return events, status and dict(status), []
     events = [Event.from_dict(e).finalize(source) for e in raw["events"]]
     kept = [e for e in events if keep(e, source.get("filter", "blues"), source.get("exclude"), include)]
-    # Name and link may have changed in sources.yaml since the scrape
+    # Name and link may have changed in sources.yaml since the scrape. A failed scrape keeps the
+    # raw file's scraped_at, so updated_at is the last successful update.
     status = {**raw["status"], "id": source["id"], "name": source["name"], "url": source["url"],
-              "kind": source["kind"]}
+              "kind": source["kind"], "updated_at": raw.get("scraped_at")}
     return kept, status, [e for e in events if e not in kept]
 
 

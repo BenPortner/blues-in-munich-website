@@ -55,7 +55,7 @@ Events that ended on or after `archive.since` in `sources.yaml` (currently 1 Jan
 
 ### Robustness
 
-Each source runs in isolation. If a site is down, or its page suddenly yields no events at all (a layout change), the scraper keeps that source's events from the previous run and marks the source "update failed" in the site footer. Search APIs (Ticketmaster) are the exception: zero results there just means nothing is on, so the source still counts as ok. A source whose API key is missing is skipped.
+Each source runs in isolation. If a site is down, or its page suddenly yields no events at all (a layout change), the scraper keeps that source's events from the previous run, and the site footer shows that source's count with the date of its last successful update ("as of 21 Oct"). The error itself is in `events.json` and the GitHub Actions run summary. Search APIs (Ticketmaster) are the exception: zero results there just means nothing is on, so the source still counts as ok. A source whose API key is missing is skipped.
 
 ### Highlights
 

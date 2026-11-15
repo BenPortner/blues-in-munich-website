@@ -1,36 +1,14 @@
 {
- "scraped_at": "2026-11-14T10:42:35+00:00",
+ "scraped_at": "2026-11-15T11:16:47+00:00",
  "status": {
   "id": "boogie-baeren",
   "name": "Boogie-Bären München",
   "url": "https://www.boogie-baeren.de/",
   "kind": "school",
   "status": "ok",
-  "found": 113
+  "found": 112
  },
  "events": [
-  {
-   "title": "Boogie Party - Fly'n'dance Freising",
-   "type": "social",
-   "start": "2026-11-14",
-   "end": null,
-   "url": "https://www.boogie-baeren.de/eventleser/boogie-party-fly-n-dance-freising-3",
-   "venue": null,
-   "address": null,
-   "description": "Boogie Woogie, Swing, Fox, Cha-Cha-Cha",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Extern"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "HUI Tag 11.26",
    "type": "social",

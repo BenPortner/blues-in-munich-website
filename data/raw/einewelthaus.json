@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-14T10:48:21+00:00",
+ "scraped_at": "2026-11-15T11:22:20+00:00",
  "status": {
   "id": "einewelthaus",
   "name": "EineWeltHaus",
   "url": "https://www.einewelthaus.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 30
+  "found": 29
  },
  "events": [
   {
@@ -44,31 +44,6 @@
    "dates": [],
    "tags": [
     "Ausstellung"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Arts and Sounds for Colombia",
-   "type": "other",
-   "start": "2026-11-14T17:30",
-   "end": null,
-   "url": "https://www.einewelthaus.de/events/arts-and-sounds-for-colombia-2/",
-   "venue": "EineWeltHaus München",
-   "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "Still I Rise Deutschland lädt euch zu einem Abend voller Kunst und Live-Musik ein – für Bildung und Zukunftschancen von geflüchteten Kindern in Kolumbien. Kunst, die etwas bewegt Entdeckt unsere Gemäldeausstellung und lasst euch von Farben, Motiven und Geschichten inspirieren. Mit dem Kauf eines Bildes unterstützt ihr die Bildungsarbeit von STILL I RISE – und nehmt ein besonderes Stück des Abends mit nach Hause! Live-Musik für jeden Geschmack Freut euch auf mitreißende Rhythmen und jede Menge gute Musik – zum Tanzen, Mitsingen und Spaßhaben! Für Essen und Getränke ist ebenfalls gesorgt! 16:40 El Manton Negro · Flamenco 17:40 Alpha Zed · Rock 18:30 Thunderbones &amp; Sugar · Rock 19:20 oTunes Big Band · Swing/Jazz 20:30 Bagaria · Pop/Rock Außerdem erfahrt ihr mehr über Still I Rise und unsere Bildungsprojekte. Mit Euren Spenden unterstützt ihr STILL I RISE und den Schülertransport für die 50 Schülerinnen und Schüler unserer Schule in Bogotá, Kolumbien. Denn Bildung beginnt nicht erst im Klassenzimmer: Kinder müssen die Schule auch sicher und regelmäßig erreichen können. Besonders in Bogotá trägt der organisierte Schultransport dazu bei, Risiken auf dem Schulweg zu reduzieren und Bildung für alle zugänglich zu machen. Unser Ziel: Gemeinsam dazu beitragen, dass Kinder ihren Bildungsweg sicher fortsetzen können. Kommt vorbei, bringt Freunde mit und verbindet Kunstgenuss und Musik mit einer guten Sache! Bitte reserviert euch einen Platz über Eventbrite (https://tinyurl.com/w27azp3k)",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Ausstellung",
-    "Benefizveranstaltung",
-    "Informationsveranstaltung",
-    "Musik"
    ],
    "source_id": "",
    "source_name": "",

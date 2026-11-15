@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-14T10:43:07+00:00",
+ "scraped_at": "2026-11-15T11:17:18+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
@@ -9,28 +9,6 @@
   "found": 57
  },
  "events": [
-  {
-   "title": "MATTHIEU SAGLIO QUARTET",
-   "type": "concert",
-   "start": "2026-11-14T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11695",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Wenige verstehen das Cello so einzusetzen wie der im spanischen Valencia lebende Franzose Matthieu Saglio. Er holt die Stehgeige aus ihrer klanglichen Nische, nutzt sie mal wie einen Kontrabass, mal wie eine Gitarre, mal wie eine Guembri – um Musik zu machen, die Grenzen überwindet und Kulturen, Generationen, Mentalitäten, Sprachen, Geschlechter zusammenbringt. In der Weltmusik, wie er sie auf dem Album Voices entstehen lässt, gibt er der Menschheit eine Stimme, die unüberhörbar ist.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "European Jazz"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "JAM SESSION",
    "type": "concert",
@@ -1038,6 +1016,26 @@
    "venue": "Jazzclub Unterfahrt",
    "address": "Einsteinstraße 42, 81675 München",
    "description": "Andere würden ein riesiges Equipment sowie reichlich Elektronik einsetzen – und doch nie an das heranreichen, was das Trio LBT mit überbordender Fantasie, viel Geschick und rein akustischem Instrumentarium (Piano, Bass, Drums) erzeugt: einen gigantischen, von einer pulsierenden Kickdrum getriebenen, Jazz-geschwängerten Techno-Sound, der pumpt, wummert und dröhnt und bei aller Wucht und Phonstärke doch irgendwie ziemlich filigran ist.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "OLGA REZNICHENKO TRIO",
+   "type": "concert",
+   "start": "2027-01-15T20:30",
+   "end": null,
+   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11027",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstraße 42, 81675 München",
+   "description": "Das Olga Reznichenko Trio gehört zu den spannendsten Formationen der jungen europäischen Jazzszene. Mit einer kraftvollen Mischung aus kompositorischer Tiefe, virtuoser Spielkunst und emotionaler Klarheit erschafft die in Berlin lebende Pianistin Olga Reznichenko gemeinsam mit ihren Mitmusikern einen Klangkosmos, der Jazz-Traditionen respektiert, sie aber konsequent in die Gegenwart überführt.",
    "recurrence": null,
    "dates": [],
    "tags": [],

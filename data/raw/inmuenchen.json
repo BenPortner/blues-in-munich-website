@@ -1,14 +1,36 @@
 {
- "scraped_at": "2026-11-14T10:48:35+00:00",
+ "scraped_at": "2026-11-15T11:22:32+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 146
+  "found": 144
  },
  "events": [
+  {
+   "title": "Martin Schmitt – Schmitt happens",
+   "type": "concert",
+   "start": "2027-02-19T19:30",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/martin-schmitt-schmitt-happens-rathaus-gilching.html",
+   "venue": "Rathaus Gilching",
+   "address": "Rathausplatz 1, 82205 Gilching",
+   "description": "Martin Schmitt bringt sein fünftes Klavierkabarett „Schmitt happens“ in den Veranstaltungssaal des Gilchinger Rathauses: Songs, Dialekte und bluesiges Klavier vom amtierenden Deutschen Kabarettmeister.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Klavierkabarett"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
   {
    "title": "Martin Moro",
    "type": "concert",
@@ -748,28 +770,6 @@
    "id": ""
   },
   {
-   "title": "Sandra Chatterjee: # Rights to Rites – Songs of Memory and Resistance",
-   "type": "concert",
-   "start": "2026-11-14T20:00",
-   "end": "2026-11-14T22:00",
-   "url": "https://www.in-muenchen.de/events/sandra-chatterjee-rights-to-rites-songs-of-memory-and-resistance.html",
-   "venue": "Einstein Kultur",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Musik, Tanz, Sprache und Duft werden zum Erinnerungsraum: ein Abend über Migration, Kolonialismus und Widerstand.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Tanz / Performance"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Rad Gumbo & Günter Grünwald",
    "type": "concert",
    "start": "2027-03-05T20:00",
@@ -1388,7 +1388,7 @@
   {
    "title": "Graveyard + Blues Pills",
    "type": "concert",
-   "start": "2027-03-13T19:00",
+   "start": "2027-03-13T20:00",
    "end": null,
    "url": "https://www.in-muenchen.de/events/graveyard-blues-pills.html",
    "venue": "Muffatwerk / Muffathalle",
@@ -1419,7 +1419,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Country-Tribute"
+    "Country, Tribute"
    ],
    "source_id": "",
    "source_name": "",
@@ -2482,28 +2482,6 @@
    "id": ""
   },
   {
-   "title": "Cordoba78",
-   "type": "concert",
-   "start": "2026-11-14T20:00",
-   "end": "2026-11-14T23:00",
-   "url": "https://www.in-muenchen.de/events/cordoba78.html",
-   "venue": "Milla",
-   "address": "Holzstraße 28, 80469 München",
-   "description": "Die aufstrebende Newcomer-Band Cordoba78 präsentiert ihre Debüttour mit einer Mischung aus Indie, Pop und katharischem Größenwahn. Verschwitzte Hemden, übergroße Anzüge und Gitarrensoli verwandeln jeden Club in ein Stadion. Zwischen Röhrenden Blues-Gitarren und Soul-Klavier entsteht eine kollektive Ekstase.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Indie-Pop"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "13. American Bar Night – „Midlife or Crisis?“ & Friends",
    "type": "concert",
    "start": "2026-12-19T18:00",
@@ -3087,29 +3065,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Jam-Session"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Lichterkinder",
-   "type": "concert",
-   "start": "2026-11-14T15:30",
-   "end": "2026-11-14T18:00",
-   "url": "https://www.in-muenchen.de/events/lichterkinder.html",
-   "venue": "Circus Krone",
-   "address": "Marsstr. 43, 80335 München",
-   "description": "Große Familienparty mit Hits, Tanz und Spaß für alle Altersgruppen. Die 7-köpfige Liveband und die Charaktere Liki und Lumi sorgen für eine mitreißende Show. (Zugang ab 2 Jahren)",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Kindermusik-Show"
+    "Jam Session"
    ],
    "source_id": "",
    "source_name": "",

@@ -1,54 +1,14 @@
 {
- "scraped_at": "2026-11-14T10:45:35+00:00",
+ "scraped_at": "2026-11-15T11:19:40+00:00",
  "status": {
   "id": "pasinger-fabrik",
   "name": "Pasinger Fabrik",
   "url": "https://www.pasinger-fabrik.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 50
+  "found": 48
  },
  "events": [
-  {
-   "title": "TiDCDTrA – Vorführung Ausstellung „Fake noise – true image“ & Konzert",
-   "type": "other",
-   "start": "2026-11-14T19:00",
-   "end": "2026-11-14T21:30",
-   "url": "https://pasinger-fabrik.de/veranstaltung/tidcdtra-vorfuehrung-ausstellung-fake-noise-true-image-konzert/",
-   "venue": "Pasinger Fabrik – Galerie 1",
-   "address": "August-Exter-Str. 1, 81245 München",
-   "description": "TiDCDTrA (kurz für Tidy-CD-Tray ) ist ein zeitgenössisches Musikprojekt und Jazz-Trio des Jazzsaxophonisten, Komponisten und Sounddesigners Joscha Arnold. Ein durch und durch experimentelles und elektronisch beeinflusstes Klangbild mit Joscha Arnold (Rhodes-Piano, Loops, Synths, Saxophon), Flurin Mück (Drums, Effekte) und Robin Jermer (Bass). · Eintritt: 13€ – 15€",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "La Psychotta (& die halbe Miete)",
-   "type": "concert",
-   "start": "2026-11-14T19:30",
-   "end": "2026-11-14T21:30",
-   "url": "https://pasinger-fabrik.de/veranstaltung/la-psychotta-die-halbe-miete-6/",
-   "venue": "Pasinger Fabrik – Kleine Bühne",
-   "address": "August-Exter-Str. 1, 81245 München",
-   "description": "„La Psychotta“ überträgt mit einer guten Portion Selbstironie alltägliche Situationen in feinfühlige, deutschsprachige Texte, wobei die Grenze zwischen Surrealem und Erlebtem gelegentlich verschwimmt. Mit Begleitung durch Akustik-Gitarre und Percussion wird in bester Singer-Songwriter-Art mal hintersinnig, mal direkt – mal sanft, mal nahezu rockig – gedacht und erzählt und bisweilen kokettiert. Wer sie schon live erlebt hat, weiß, wofür sie stehen: Der eine nennt es „lustig-speziell“, die andere „berührend und beglückend“. So oder so, die kleinen Geschichten und Beobachtungen in Liedform haben ihre stetig wachsende Fangemeinde gefunden. · Eintritt: 12€ – 16€",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Fällt leider aus: Susi Raith und die Spiesser",
    "type": "concert",

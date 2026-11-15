@@ -304,6 +304,7 @@ def build(data_path: Path, out: Path, today: date, highlights: Highlights | None
     if out.exists():
         shutil.rmtree(out)
     shutil.copytree(HERE / "static", out / "static")
+    shutil.copy2(HERE / "favicon.ico", out / "favicon.ico")  # crawlers look for /favicon.ico
     (out / "index.html").write_text(html, encoding="utf-8", newline="\n")
     for page, title in (("impressum", "Impressum"), ("datenschutz", "Datenschutzerklärung")):
         (out / f"{page}.html").write_text(

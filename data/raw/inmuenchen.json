@@ -1,14 +1,102 @@
 {
- "scraped_at": "2026-11-15T11:22:32+00:00",
+ "scraped_at": "2026-11-16T11:54:21+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 144
+  "found": 145
  },
  "events": [
+  {
+   "title": "Canned Heat & Ten Years After",
+   "type": "concert",
+   "start": "2027-06-01T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/canned-heat-ten-years-after.html",
+   "venue": "Circus Krone",
+   "address": "Marsstr. 43, 80335 München",
+   "description": "Zwei legendäre Rock- und Bluesbands, Canned Heat und Ten Years After, vereinen sich zu einem Konzertabend voller Energie und Woodstock-Atmosphäre. Zu hören sind Hits wie „On the Road Again“ und „I’m Going Home“.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Bluesrock"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Edwin Kimmler",
+   "type": "concert",
+   "start": "2027-03-13T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/edwin-kimmler-2027.html",
+   "venue": "Schlachthof",
+   "address": "Zenettistraße 9, 80337 München",
+   "description": "Der Musiker spielt Stücke aus seinem Album „Pearls“ und neue Songs zwischen Blues, Boogie, Soul und Karibik.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Blues"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Mira Cardui",
+   "type": "concert",
+   "start": "2027-02-12T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/mira-cardui-2027.html",
+   "venue": "Schlachthof",
+   "address": "Zenettistraße 9, 80337 München",
+   "description": "Mit Stimme und Gitarre erzählt die Musikerin zwischen Pop, Chanson und Jazz vom Leben mit all seinen Höhen und Tiefen.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Pop, Chanson und Jazz"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Blues Briederchen",
+   "type": "concert",
+   "start": "2027-02-09T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/blues-briederchen-2027.html",
+   "venue": "Schlachthof",
+   "address": "Zenettistraße 9, 80337 München",
+   "description": "Die elfköpfige Showband spielt die Songs der Blues Brothers samt Bläsersatz, Blues-Harp und Tanzeinlagen.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Rhythm & Blues"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
   {
    "title": "Martin Schmitt – Schmitt happens",
    "type": "concert",
@@ -17,7 +105,7 @@
    "url": "https://www.in-muenchen.de/events/martin-schmitt-schmitt-happens-rathaus-gilching.html",
    "venue": "Rathaus Gilching",
    "address": "Rathausplatz 1, 82205 Gilching",
-   "description": "Martin Schmitt bringt sein fünftes Klavierkabarett „Schmitt happens“ in den Veranstaltungssaal des Gilchinger Rathauses: Songs, Dialekte und bluesiges Klavier vom amtierenden Deutschen Kabarettmeister.",
+   "description": "Songs, Dialekte und bluesiges Klavier vom amtierenden Deutschen Kabarettmeister: das fünfte Klavierkabarett-Programm.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -120,28 +208,6 @@
    "id": ""
   },
   {
-   "title": "Little Barrie",
-   "type": "concert",
-   "start": "2026-11-15T19:30",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/little-barrie-rote-sonne-2026.html",
-   "venue": "Rote Sonne",
-   "address": "Maximiliansplatz 5, 80333 München",
-   "description": "Die britische Band mischt Rock, Blues, Funk und Soul, jetzt mit neuem Album „Gravity Freeze“.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Rock"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Yves & The Big Blue",
    "type": "concert",
    "start": "2026-11-21T20:00",
@@ -149,7 +215,7 @@
    "url": "https://www.in-muenchen.de/events/yves-the-big-blue.html",
    "venue": "Drehleier – Szenerie",
    "address": "Rosenheimer Str. 123, 81667 München",
-   "description": "Balladen, Bluessongs und eigene Kompositionen: Uwe Grübel, Karl Wimmer und Gäste spielen „directly from a soulful shade of blue“.",
+   "description": "Balladen, Bluessongs und eigene Kompositionen von einer Band mit Gitarren, Mundharmonika, Keyboards, Akkordeon und Bass.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -546,7 +612,9 @@
    "description": "Ein Duo verbindet Bluesklassiker mit Lesungen aus dem Buch zur Ausstellung.",
    "recurrence": null,
    "dates": [],
-   "tags": [],
+   "tags": [
+    "Blues"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -585,10 +653,12 @@
    "url": "https://www.in-muenchen.de/events/malaka-hostel-2027.html",
    "venue": "Backstage Halle",
    "address": "Reitknechtstraße 6, 80639 München",
-   "description": "Folk, Balkan Beats, Pop und Global Umpa: Die Band singt Spanisch, Deutsch, Tschechisch und Englisch und zielt auf kollektive Tanz-Ekstase.",
+   "description": "Die Band mischt Folk, Balkan Beats, Pop und Global Umpa und singt auf Spanisch, Deutsch, Tschechisch und Englisch.",
    "recurrence": null,
    "dates": [],
-   "tags": [],
+   "tags": [
+    "Folk / Balkan Beats"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -865,7 +935,7 @@
    "url": "https://www.in-muenchen.de/events/mojo-blues-band-jazz-beyond.html",
    "venue": "Bayerischer Hof Night Club",
    "address": "Promenadeplatz 2-6, 80333 München",
-   "description": "Chicago-Blues mit Humor: Die Wiener Mojo Blues Band spielt seit 1977 handgemachten Blues und gastiert im Night Club des Bayerischen Hofs.",
+   "description": "Chicago-Blues mit Humor: Die Wiener Band spielt seit 1977 handgemachten Blues.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -1310,28 +1380,6 @@
    "dates": [],
    "tags": [
     "Jazz"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Ludwigsfelder Chor & Groove Garden",
-   "type": "concert",
-   "start": "2026-11-15T18:00",
-   "end": "2026-11-15T20:00",
-   "url": "https://www.in-muenchen.de/events/ludwigsfelder-chor-groove-garden.html",
-   "venue": "Neue Ziegelei – Zentrum für Soziales und Kultur",
-   "address": "Ruth-Drexel-Str. 34, 81927 München",
-   "description": "Ein abwechslungsreicher Konzertabend mit dem Ludwigsfelder Chor und dem Trio Groove Garden. Unter der Leitung von Irina Abrahamian erklingen gefühlvolle Balladen, A-capella-Stücke und Folksongs. Groove Garden präsentiert Klassiker aus Blues, Swing, Pop und Country. Ein Abend voller Vielfalt und musikalischer Freude.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Chor-Pop"
    ],
    "source_id": "",
    "source_name": "",
@@ -1990,28 +2038,6 @@
    "dates": [],
    "tags": [
     "Weihnachtsjazz"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Bob Dylan",
-   "type": "concert",
-   "start": "2026-11-15T20:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/bob-dylan.html",
-   "venue": "Olympiapark München / Olympiahalle",
-   "address": "Spiridon-Louis-Ring 21, 80809 München",
-   "description": "Was wäre der heutige Rock, Folk und Pop ohne ihn? Songs wie „Knockin‘ On Heaven’s Door“, „Blowin‘ in the Wind“ und „Like A Rolling Stone“ wurden zeitlose Klassiker. 85 Jahre alt, 65 Jahre on stage und erneut setzt er mit seinem jüngsten Album „Rough and Rowdy Ways“ einen weiteren Meilenstein in seiner Karriere.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -3131,7 +3157,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Hard Rock"
+    "Hard-Rock"
    ],
    "source_id": "",
    "source_name": "",

@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-15T11:22:40+00:00",
+ "scraped_at": "2026-11-16T11:54:29+00:00",
  "status": {
   "id": "mvp",
   "name": "mvp.de (Jazz & Blues)",
@@ -9,26 +9,6 @@
   "found": 40
  },
  "events": [
-  {
-   "title": "Fatoumata Diawara - Massa Tour 2026",
-   "type": "concert",
-   "start": "2026-11-15",
-   "end": null,
-   "url": "https://www.mvp.de/muenchen/veranstaltungen/fatoumata-diawara-massa-tour-2026-muffathalle-muenchen/",
-   "venue": "Muffathalle",
-   "address": null,
-   "description": "",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "30. Münchner Bluesnacht - mit Zither Manä und Gäste",
    "type": "concert",
@@ -796,6 +776,26 @@
    "end": null,
    "url": "https://www.mvp.de/muenchen/veranstaltungen/ash-grunwald/",
    "venue": "Milla Live-Club",
+   "address": null,
+   "description": "",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Matthias Bublath: Eight Cylinder Bigband",
+   "type": "concert",
+   "start": "2027-04-15",
+   "end": null,
+   "url": "https://www.mvp.de/bayern/veranstaltungen/matthias-bublath-eight-cylinder-bigband-bosco-grosser-saal-gauting/",
+   "venue": "bosco - Großer Saal, Gauting",
    "address": null,
    "description": "",
    "recurrence": null,

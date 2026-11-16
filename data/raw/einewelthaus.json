@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-15T11:22:20+00:00",
+ "scraped_at": "2026-11-16T11:54:09+00:00",
  "status": {
   "id": "einewelthaus",
   "name": "EineWeltHaus",
   "url": "https://www.einewelthaus.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 29
+  "found": 30
  },
  "events": [
   {
@@ -156,6 +156,29 @@
    "dates": [],
    "tags": [
     "Benefizveranstaltung"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Anti-authoritarians at war | Solidaritätskonvoi in die Ukraine",
+   "type": "concert",
+   "start": "2026-11-23T20:00",
+   "end": "2026-11-23T23:00",
+   "url": "https://www.einewelthaus.de/events/anti-authoritarians-at-war-solidaritaetskonvoi-in-die-ukraine/",
+   "venue": "EineWeltHaus München",
+   "address": "Schwanthalerstr. 80, München, 80336",
+   "description": "Filmvorführung und Berichte aus der Ukraine und über den Solidaritätskonvoi. Der Film Anti-authoritarians at war begleitet die Menschen hinter Solidarity Collectives und zeigt, wie sie unter Bedingungen des russischen Krieges gegen die ukrainische Bevölkerung ihren Alltag organisieren, schwierige Entscheidungen treffen und gegenseitige Unterstützung leisten. Die Solidarity Collectives sind ein Netzwerk von Freiwilligen und Aktivist:innen, die Menschen unterstützen, die vom Krieg in der Ukraine betroffen sind. Solidarität mit der ukrainischen Bevölkerung Die ukrainische Bevölkerung steht vor dem fünften Kriegswinter. Die Putin-Diktatur will die Menschen demoralisieren und ihren Widerstand gegen die russischen Besatzungstruppen brechen. Ende November fahren Aktivist:innen aus Gewerkschaften und sozialen Bewegungen aus zahlreichen Ländern Europas in mehreren Konvois in die Ukraine. Sie bringen Generatoren, Öfen, medizinische Hilfe und Fahrzeuge in Zusammenarbeit mit ukrainischen Gewerkschaften und sozialen Bewegungen in die Ukraine. Bitte spendet für den Solidaritätskonvoi in die Ukraine! Mehr Informationen: https://solidarityconvoyukraine.com/de/",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Film",
+    "Vortrag und Diskussion"
    ],
    "source_id": "",
    "source_name": "",

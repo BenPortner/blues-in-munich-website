@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-11-15T11:17:18+00:00",
+ "scraped_at": "2026-11-16T11:49:20+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 57
+  "found": 56
  },
  "events": [
-  {
-   "title": "JAM SESSION",
-   "type": "concert",
-   "start": "2026-11-15T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11696",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Für unsere November-Sessions übernimmt die Bassistin Ida Koch die Verantwortung. Inspirierte Einsteiger sind wie immer herzlich willkommen. Gerade erst wurde die junge Musikerin mit dem wohl dotierten BMW Young Artist Jazz Award prämiert. In der Begründung der Jury heißt es: Die Bassistin Ida Koch überzeugt durch musikalische Vielseitigkeit, klangliche Sensibilität und einen ausgeprägten Gestaltungswillen...Die Auszeichnung ist die folgerichtige Würdigung ihres großen Talents und ihrer leidenschaftlichen Hingabe.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "GERALD CLAYTON",
    "type": "concert",
@@ -548,7 +528,7 @@
    "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11720",
    "venue": "Jazzclub Unterfahrt",
    "address": "Einsteinstraße 42, 81675 München",
-   "description": "Dass die Winterzeit eine ganz besondere Energie birgt, wussten unsere Vorfahren seit Jahrhunderten. Lange vor Glühwein und Weihnachtsplätzchen hatte sie eine magische Wirkung auf unsere Seele. Singer-Songwriterin Stefanie Boltz hat es vor allem die Wintersonnenwende angetan, wenn die langen Nächte kürzer werden, man am Kamin zusammen rückt und den Winterschlaf ausgiebig genießt, während die Vorfreude auf den Frühling zart erwacht.",
+   "description": "Der Winter besitzt eine besondere Magie, ist die geheimnisvollste Jahreszeit, die mit Licht und Wärme geizt, uns dafür aber Anderes im Überfluss gönnt. Sie hält unter anderem mythisch-anmutende Geschichten bereit, die sich schon unsere Ahnen erzählten. Für ihr Programm Midwinter Tales ließ sich Stephanie Boltz von den kalten Monaten inspirieren, die uns alle zusammenrücken lassen. Besonders die Wintersonnenwende hat es ihr angetan. Denn ist die erst einmal eingeläutet, werden die Tage länger und der nahende Frühling umweht unsere Sinne. Die Zeit zwischen dem Frost und dem Erwachen der Natur macht sich in ihren Songs bemerkbar.",
    "recurrence": null,
    "dates": [],
    "tags": [

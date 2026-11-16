@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T11:23:00+00:00",
+  "generated_at": "2026-11-16T11:54:49+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -3293,7 +3293,9 @@
       "description": "Ein Duo verbindet Bluesklassiker mit Lesungen aus dem Buch zur Ausstellung.",
       "recurrence": null,
       "dates": [],
-      "tags": [],
+      "tags": [
+        "Blues"
+      ],
       "source_id": "inmuenchen",
       "source_name": "IN München",
       "school_name": null,
@@ -3330,7 +3332,7 @@
       "url": "https://www.in-muenchen.de/events/yves-the-big-blue.html",
       "venue": "Drehleier – Szenerie",
       "address": "Rosenheimer Str. 123, 81667 München",
-      "description": "Balladen, Bluessongs und eigene Kompositionen: Uwe Grübel, Karl Wimmer und Gäste spielen „directly from a soulful shade of blue“.",
+      "description": "Balladen, Bluessongs und eigene Kompositionen von einer Band mit Gitarren, Mundharmonika, Keyboards, Akkordeon und Bass.",
       "recurrence": null,
       "dates": [],
       "tags": [
@@ -3734,7 +3736,7 @@
       "url": "https://www.in-muenchen.de/events/mojo-blues-band-jazz-beyond.html",
       "venue": "Bayerischer Hof Night Club",
       "address": "Promenadeplatz 2-6, 80333 München",
-      "description": "Chicago-Blues mit Humor: Die Wiener Mojo Blues Band spielt seit 1977 handgemachten Blues und gastiert im Night Club des Bayerischen Hofs.",
+      "description": "Chicago-Blues mit Humor: Die Wiener Band spielt seit 1977 handgemachten Blues.",
       "recurrence": null,
       "dates": [],
       "tags": [
@@ -4726,6 +4728,34 @@
       "id": "df3112d1a1c0"
     },
     {
+      "title": "RES3RVE",
+      "type": "concert",
+      "start": "2027-01-13T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/res3rve2027/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenfrei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "RES3RVE",
+          "url": "https://www.last.fm/music/RES3RVE"
+        }
+      ],
+      "known_artists": [],
+      "id": "d50c0f7462c9"
+    },
+    {
       "title": "Sir Oliver Mally Group & Peter Schneider",
       "type": "concert",
       "start": "2027-01-14T20:00",
@@ -5045,7 +5075,7 @@
       "url": "https://www.mvp.de/muenchen/veranstaltungen/blues-briederchen-blues-brothers-tribute-schlachthof-saal/",
       "venue": "Schlachthof - Saal",
       "address": "Zenettistraße 9, 80337 München",
-      "description": "",
+      "description": "Die elfköpfige Showband spielt die Songs der Blues Brothers samt Bläsersatz, Blues-Harp und Tanzeinlagen.",
       "recurrence": null,
       "dates": [],
       "tags": [],
@@ -5395,6 +5425,33 @@
       "artists": [],
       "known_artists": [],
       "id": "9232375ffb47"
+    },
+    {
+      "title": "Edwin Kimmler",
+      "type": "concert",
+      "start": "2027-03-13T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/edwin-kimmler-2027.html",
+      "venue": "Schlachthof",
+      "address": "Zenettistraße 9, 80337 München",
+      "description": "Der Musiker spielt Stücke aus seinem Album „Pearls“ und neue Songs zwischen Blues, Boogie, Soul und Karibik.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Edwin Kimmler",
+          "url": "https://www.last.fm/music/Edwin+Kimmler"
+        }
+      ],
+      "known_artists": [],
+      "id": "64b55bfa77e8"
     },
     {
       "title": "Graveyard + Blues Pills",
@@ -5869,6 +5926,40 @@
       "id": "1ccbf127a0ff"
     },
     {
+      "title": "Canned Heat & Ten Years After",
+      "type": "concert",
+      "start": "2027-06-01T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/canned-heat-ten-years-after.html",
+      "venue": "Circus Krone",
+      "address": "Marsstr. 43, 80335 München",
+      "description": "Zwei legendäre Rock- und Bluesbands, Canned Heat und Ten Years After, vereinen sich zu einem Konzertabend voller Energie und Woodstock-Atmosphäre. Zu hören sind Hits wie „On the Road Again“ und „I’m Going Home“.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Bluesrock"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Canned Heat",
+          "url": "https://www.last.fm/music/Canned+Heat"
+        },
+        {
+          "name": "Ten Years After",
+          "url": "https://www.last.fm/music/Ten+Years+After"
+        }
+      ],
+      "known_artists": [
+        "Canned Heat",
+        "Ten Years After"
+      ],
+      "id": "dc1ee505fb9b"
+    },
+    {
       "title": "Munich Rhythm and Blues Band",
       "type": "concert",
       "start": "2027-06-05T19:30",
@@ -6029,8 +6120,8 @@
       "url": "https://www.vintage-club.de/",
       "kind": "school",
       "status": "ok",
-      "found": 113,
-      "updated_at": "2026-11-15T11:16:42+00:00",
+      "found": 63,
+      "updated_at": "2026-11-16T11:48:42+00:00",
       "kept": 14
     },
     {
@@ -6040,7 +6131,7 @@
       "kind": "school",
       "status": "ok",
       "found": 112,
-      "updated_at": "2026-11-15T11:16:47+00:00",
+      "updated_at": "2026-11-16T11:48:48+00:00",
       "kept": 14
     },
     {
@@ -6050,7 +6141,7 @@
       "kind": "school",
       "status": "ok",
       "found": 5,
-      "updated_at": "2026-11-15T11:16:52+00:00",
+      "updated_at": "2026-11-16T11:48:53+00:00",
       "kept": 4
     },
     {
@@ -6060,7 +6151,7 @@
       "kind": "school",
       "status": "ok",
       "found": 248,
-      "updated_at": "2026-11-15T11:17:04+00:00",
+      "updated_at": "2026-11-16T11:49:05+00:00",
       "kept": 3
     },
     {
@@ -6069,9 +6160,9 @@
       "url": "https://www.glockenbachwerkstatt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 5,
-      "updated_at": "2026-11-15T11:17:07+00:00",
-      "kept": 43
+      "found": 6,
+      "updated_at": "2026-11-16T11:49:08+00:00",
+      "kept": 44
     },
     {
       "id": "rheinpfalz-schwabing",
@@ -6080,7 +6171,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 14,
-      "updated_at": "2026-11-15T11:17:10+00:00",
+      "updated_at": "2026-11-16T11:49:13+00:00",
       "kept": 7
     },
     {
@@ -6090,7 +6181,7 @@
       "kind": "band",
       "status": "ok",
       "found": 4,
-      "updated_at": "2026-11-15T11:17:14+00:00",
+      "updated_at": "2026-11-16T11:49:16+00:00",
       "kept": 17
     },
     {
@@ -6099,8 +6190,8 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 57,
-      "updated_at": "2026-11-15T11:17:18+00:00",
+      "found": 56,
+      "updated_at": "2026-11-16T11:49:20+00:00",
       "kept": 2
     },
     {
@@ -6110,7 +6201,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 10,
-      "updated_at": "2026-11-15T11:17:19+00:00",
+      "updated_at": "2026-11-16T11:49:21+00:00",
       "kept": 0
     },
     {
@@ -6120,7 +6211,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 10,
-      "updated_at": "2026-11-15T11:17:21+00:00",
+      "updated_at": "2026-11-16T11:49:23+00:00",
       "kept": 1
     },
     {
@@ -6130,7 +6221,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 8,
-      "updated_at": "2026-11-15T11:17:21+00:00",
+      "updated_at": "2026-11-16T11:49:24+00:00",
       "kept": 0
     },
     {
@@ -6140,7 +6231,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 35,
-      "updated_at": "2026-11-15T11:17:25+00:00",
+      "updated_at": "2026-11-16T11:49:27+00:00",
       "kept": 6
     },
     {
@@ -6150,7 +6241,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 43,
-      "updated_at": "2026-11-15T11:17:28+00:00",
+      "updated_at": "2026-11-16T11:49:31+00:00",
       "kept": 26
     },
     {
@@ -6160,7 +6251,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 100,
-      "updated_at": "2026-11-15T11:19:38+00:00",
+      "updated_at": "2026-11-16T11:51:34+00:00",
       "kept": 9
     },
     {
@@ -6170,7 +6261,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 28,
-      "updated_at": "2026-11-15T11:19:38+00:00",
+      "updated_at": "2026-11-16T11:51:35+00:00",
       "kept": 4
     },
     {
@@ -6189,8 +6280,8 @@
       "url": "https://www.pasinger-fabrik.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 48,
-      "updated_at": "2026-11-15T11:19:40+00:00",
+      "found": 47,
+      "updated_at": "2026-11-16T11:51:37+00:00",
       "kept": 6
     },
     {
@@ -6200,7 +6291,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 9,
-      "updated_at": "2026-11-15T11:19:41+00:00",
+      "updated_at": "2026-11-16T11:51:38+00:00",
       "kept": 2
     },
     {
@@ -6209,8 +6300,8 @@
       "url": "https://www.ubo9.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 10,
-      "updated_at": "2026-11-15T11:19:44+00:00",
+      "found": 9,
+      "updated_at": "2026-11-16T11:51:41+00:00",
       "kept": 0
     },
     {
@@ -6230,7 +6321,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 7,
-      "updated_at": "2026-11-15T11:22:14+00:00",
+      "updated_at": "2026-11-16T11:53:57+00:00",
       "kept": 0
     },
     {
@@ -6239,8 +6330,8 @@
       "url": "https://www.einewelthaus.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 29,
-      "updated_at": "2026-11-15T11:22:20+00:00",
+      "found": 30,
+      "updated_at": "2026-11-16T11:54:09+00:00",
       "kept": 1
     },
     {
@@ -6250,7 +6341,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 3,
-      "updated_at": "2026-11-15T11:22:21+00:00",
+      "updated_at": "2026-11-16T11:54:09+00:00",
       "kept": 1
     },
     {
@@ -6269,9 +6360,9 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 144,
-      "updated_at": "2026-11-15T11:22:32+00:00",
-      "kept": 67
+      "found": 145,
+      "updated_at": "2026-11-16T11:54:21+00:00",
+      "kept": 69
     },
     {
       "id": "mvp",
@@ -6280,7 +6371,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 40,
-      "updated_at": "2026-11-15T11:22:40+00:00",
+      "updated_at": "2026-11-16T11:54:29+00:00",
       "kept": 3
     },
     {
@@ -6289,8 +6380,8 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 172,
-      "updated_at": "2026-11-15T11:22:59+00:00",
+      "found": 169,
+      "updated_at": "2026-11-16T11:54:49+00:00",
       "kept": 4
     },
     {
@@ -6300,7 +6391,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 0,
-      "updated_at": "2026-11-15T11:23:00+00:00",
+      "updated_at": "2026-11-16T11:54:49+00:00",
       "kept": 0
     },
     {
@@ -6310,7 +6401,7 @@
       "kind": "manual",
       "status": "ok",
       "found": 0,
-      "updated_at": "2026-11-15T11:23:00+00:00",
+      "updated_at": "2026-11-16T11:54:49+00:00",
       "kept": 0
     }
   ]

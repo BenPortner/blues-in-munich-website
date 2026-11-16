@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-11-15T11:19:44+00:00",
+ "scraped_at": "2026-11-16T11:51:41+00:00",
  "status": {
   "id": "ubo9",
   "name": "UBO 9",
   "url": "https://www.ubo9.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 10
+  "found": 9
  },
  "events": [
-  {
-   "title": "Nähtreff",
-   "type": "concert",
-   "start": "2026-11-15T10:00",
-   "end": "2026-11-15T18:00",
-   "url": "https://www.ubo9.de/veranstaltung/naehtreff-36/",
-   "venue": "UBO 9",
-   "address": "Ubostraße 9, 81245 München",
-   "description": "Eine Gruppe von Quilter:innen, Patchworker:innen und Taschennäher:innen hat sich zusammengetan, um einen Tag mit Gleichgesinnten zu verbringen. Jede:r näht worauf sie:er Lust hat und wir tauschen uns über das schönste Hobby der Welt aus. Bitte bringt Nähmaschine, eigene Projekte und dazu notwendige Materialien mit. Außerdem Verpflegung und Verlängerungskabel nicht vergessen. Wir sorgen für Bügelbrett, Bügeleisen, Schneidematte und große Lineale. Anmeldung: naehtreff_aubing@web.de Teilnahme kostenlos",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Gestern war’s anders, heute ist’s wie? Die Story-Bühne im Münchner Westen",
    "type": "concert",

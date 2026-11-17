@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-16T11:54:09+00:00",
+ "scraped_at": "2026-11-17T12:11:50+00:00",
  "status": {
   "id": "einewelthaus",
   "name": "EineWeltHaus",
   "url": "https://www.einewelthaus.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 30
+  "found": 28
  },
  "events": [
   {
@@ -44,51 +44,6 @@
    "dates": [],
    "tags": [
     "Ausstellung"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Das kalte Herz des Sexismus - Bilder und Worte als Waffe gegen Frauen",
-   "type": "concert",
-   "start": "2026-11-16T20:00",
-   "end": "2026-11-16T22:30",
-   "url": "https://www.einewelthaus.de/events/das-kalte-herz-des-sexismus-bilder-und-worte-als-waffe-gegen-frauen/",
-   "venue": "EineWeltHaus München",
-   "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "Im Rahmen der Münchner Aktionswochen gegen Gewalt an Frauen und Mädchen Die Veranstaltung richtet sich an Frauen und Männer Pornografie ist eine Waffe gegen Frauen und eine der Grundlagen der Beherrschung von Frauen. Das Bild der Frau als verfügbares Objekt, entmenschlicht und entseelt, macht Frauen in der Gesellschaft zu Menschen 2. Klasse. Frauen leben in der Welt der Pornografen. Was den Frauen in der Pornografie angetan wird, ist keine Fantasie sondern Wirklichkeit. Pornografie zerstört demokratische Perspektiven und Empathie und ermutigt zu Gewalt gegen Frauen. Der Impulsvortrag stützt sich auf die Analyse der amerikanischen Feministinnen Catherine MacKinnon und Andrea Dworkin und greift die aktuelle Entwicklung auf.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Austausch",
-    "Informationsveranstaltung"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Auf in den Krieg? Wie Wirtschaft, Politik und Gesellschaft militarisiert werden",
-   "type": "concert",
-   "start": "2026-11-16T19:00",
-   "end": "2026-11-16T22:00",
-   "url": "https://www.einewelthaus.de/events/auf-in-den-krieg-wie-wirtschaft-politik-und-gesellschaft-militarisiert-werden/",
-   "venue": "EineWeltHaus München",
-   "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "Vortrag und Diskussion mit Andreas Seifert, Informationsstelle Militarisierung Deutschland wird mit Gesetzen, Rüstung und Mobilmachung auf Krieg eingeschworen. Insbesondere Bayern ist hier vorn mit dabei und versucht sich, die Aufrüstung als Sicherheitsmaßnahme und Wirtschaftsprogramm schön zu reden. Die Ertüchtigung der Industrie, die \"Erfolgsgeschichten\" von Startup-Unternehmen, die tödliche Produkte entwickeln, verdecken die Einschränkungen, die für die Gesellschaft damit einhergehen und den Verlust an demokratischer Mitsprache. Der Vortrag möchte daran erinnern, wer an der Rüstung verdient und die Frage stellen, wie wir als Gesellschaft uns gegen den Narrativ von \"Sicherheit durch Rüstung\" wehren können. Andreas Seifert ist im Vorstand der Informationsstelle Militarisierung (IMI) und arbeitet so kritisch zur deutschen Rüstungsindustrie. Er brachte für die IMI u.a. das \"Handbuch Rüstung\" heraus, eine Fundgrube für unsere militärkritischen Exkursionen (\"Ostermarsch Draußen\")",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Vortrag und Diskussion"
    ],
    "source_id": "",
    "source_name": "",

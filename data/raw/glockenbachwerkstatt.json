@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-16T11:49:08+00:00",
+ "scraped_at": "2026-11-17T12:08:55+00:00",
  "status": {
   "id": "glockenbachwerkstatt",
   "name": "Glockenbachwerkstatt – Fish'n Blues",
   "url": "https://www.glockenbachwerkstatt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 6
+  "found": 10
  },
  "events": [
   {
@@ -130,6 +130,98 @@
    "start": "2027-01-13T20:30",
    "end": null,
    "url": "https://www.glockenbachwerkstatt.de/events/res3rve2027/",
+   "venue": "Glockenbachwerkstatt",
+   "address": "Blumenstraße 7, 80331 München",
+   "description": "Fisch: 19:00 Uhr · kostenfrei",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Fish'n Blues",
+    "Konzert"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lost in Bavaria",
+   "type": "concert",
+   "start": "2027-01-20T20:30",
+   "end": null,
+   "url": "https://www.glockenbachwerkstatt.de/events/lostinbavaria27/",
+   "venue": "Glockenbachwerkstatt",
+   "address": "Blumenstraße 7, 80331 München",
+   "description": "Fisch: 19:00 Uhr · kostenfrei",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Fish'n Blues",
+    "Konzert"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Muddy What?",
+   "type": "concert",
+   "start": "2027-02-03T20:30",
+   "end": null,
+   "url": "https://www.glockenbachwerkstatt.de/events/muddy-what/",
+   "venue": "Glockenbachwerkstatt",
+   "address": "Blumenstraße 7, 80331 München",
+   "description": "Fisch: 19:00 Uhr · kostenfrei",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Fish'n Blues",
+    "Konzert"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Schorsch Hampel",
+   "type": "concert",
+   "start": "2027-02-10T20:30",
+   "end": null,
+   "url": "https://www.glockenbachwerkstatt.de/events/schorsch-hampel/",
+   "venue": "Glockenbachwerkstatt",
+   "address": "Blumenstraße 7, 80331 München",
+   "description": "Fisch: 19:00 Uhr · kostenfrei",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Fish'n Blues",
+    "Konzert"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Les Millionnaires",
+   "type": "concert",
+   "start": "2027-02-17T20:30",
+   "end": null,
+   "url": "https://www.glockenbachwerkstatt.de/events/les-millionnaires/",
    "venue": "Glockenbachwerkstatt",
    "address": "Blumenstraße 7, 80331 München",
    "description": "Fisch: 19:00 Uhr · kostenfrei",

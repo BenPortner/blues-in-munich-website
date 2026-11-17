@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T11:54:49+00:00",
+  "generated_at": "2026-11-17T12:12:34+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -230,7 +230,7 @@
       "artists": [
         {
           "name": "Boris Ruge & Band",
-          "url": "https://www.last.fm/music/Boris+Ruge+%26+Band"
+          "url": "https://www.last.fm/music/Boris+Ruge+&+Band"
         }
       ],
       "known_artists": [],
@@ -1252,7 +1252,7 @@
       "artists": [
         {
           "name": "G. Rag y Los Hermanos Patchekos",
-          "url": "https://www.last.fm/music/G.+Rag+y+Los+Hermanos+Patchekos"
+          "url": "https://www.last.fm/music/+noredirect/G.+Rag+y+Los+Hermanos+Patchekos"
         }
       ],
       "known_artists": [],
@@ -1473,7 +1473,7 @@
       "artists": [
         {
           "name": "Dr. Will & The Wizards",
-          "url": "https://www.last.fm/music/Dr.+Will+%26+The+Wizards"
+          "url": "https://www.last.fm/music/Dr.+Will+&+The+Wizards"
         }
       ],
       "known_artists": [],
@@ -2086,7 +2086,7 @@
         },
         {
           "name": "Cecilya & The Candy Kings",
-          "url": "https://www.last.fm/music/Cecilya+%26+The+Candy+Kings"
+          "url": "https://www.last.fm/music/Cecilya+&+The+Candy+Kings"
         }
       ],
       "known_artists": [],
@@ -2164,7 +2164,7 @@
         },
         {
           "name": "Sir Oliver Mally & Peter Schneider",
-          "url": "https://www.last.fm/music/Sir+Oliver+Mally+%26+Peter+Schneider"
+          "url": "https://www.last.fm/music/Sir+Oliver+Mally+&+Peter+Schneider"
         }
       ],
       "known_artists": [],
@@ -2870,7 +2870,7 @@
       "artists": [
         {
           "name": "Lonesome Andy & His One Man Band",
-          "url": "https://www.last.fm/music/Lonesome+Andy+%26+His+One+Man+Band"
+          "url": "https://www.last.fm/music/Lonesome+Andy+&+His+One+Man+Band"
         }
       ],
       "known_artists": [],
@@ -3525,7 +3525,7 @@
       "artists": [
         {
           "name": "Dr. Will & The Wizards",
-          "url": "https://www.last.fm/music/Dr.+Will+%26+The+Wizards"
+          "url": "https://www.last.fm/music/Dr.+Will+&+The+Wizards"
         }
       ],
       "known_artists": [],
@@ -3631,7 +3631,7 @@
       "artists": [
         {
           "name": "Johnny & the Yooahoos",
-          "url": "https://www.last.fm/music/Johnny+%26+the+Yooahoos"
+          "url": "https://www.last.fm/music/Johnny+&+the+Yooahoos"
         }
       ],
       "known_artists": [],
@@ -3803,7 +3803,7 @@
       "artists": [
         {
           "name": "Kai Strauss & The Electric Blues All Stars",
-          "url": "https://www.last.fm/music/Kai+Strauss+%26+The+Electric+Blues+All+Stars"
+          "url": "https://www.last.fm/music/Kai+Strauss+&+The+Electric+Blues+All+Stars"
         }
       ],
       "known_artists": [],
@@ -3995,7 +3995,7 @@
         },
         {
           "name": "San2 & his Soul Patrol",
-          "url": "https://www.last.fm/music/San2+%26+his+Soul+Patrol"
+          "url": "https://www.last.fm/music/San2+&+his+Soul+Patrol"
         }
       ],
       "known_artists": [],
@@ -4273,7 +4273,7 @@
       "id": "1c9c19cbe92e"
     },
     {
-      "title": "Fish’n Blues: Weihnachtssession mit Mateo Navarro und Osono",
+      "title": "Mateo Navarro + Osono",
       "type": "concert",
       "start": "2026-12-16T20:30",
       "end": null,
@@ -4294,10 +4294,37 @@
         {
           "name": "Mateo Navarro",
           "url": "https://www.last.fm/music/Mateo+Navarro"
+        },
+        {
+          "name": "Osono",
+          "url": "https://www.last.fm/music/Osono"
         }
       ],
       "known_artists": [],
-      "id": "be29731be67a"
+      "id": "a6ad90fc0fce"
+    },
+    {
+      "title": "Weihnachtssession",
+      "type": "concert",
+      "start": "2026-12-16T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/fishnblues-weihnachten26/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "6531e4191da7"
     },
     {
       "title": "Uli Wunner & John Brunton",
@@ -4837,6 +4864,29 @@
       "id": "4ed7f30c5409"
     },
     {
+      "title": "Lost in Bavaria",
+      "type": "concert",
+      "start": "2027-01-20T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/lostinbavaria27/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenfrei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "5b698a626402"
+    },
+    {
       "title": "BLUES CARAVAN",
       "type": "concert",
       "start": "2027-01-22T20:15",
@@ -4939,6 +4989,33 @@
       "id": "90ae7942419f"
     },
     {
+      "title": "Christian Christl",
+      "type": "concert",
+      "start": "2027-01-27T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/christian-christl-bayoogie-masters-2027.html",
+      "venue": "Hofspielhaus",
+      "address": "Falkenturmstraße 8, 80331 München",
+      "description": "Ein Abend mit Boogie-Woogie-Piano und Vaudeville Blues der 1920er Jahre mit zwei Gastmusikerinnen.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues und Boogie Woogie"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Christian Christl",
+          "url": "https://www.last.fm/music/Christian+Christl"
+        }
+      ],
+      "known_artists": [],
+      "id": "7ed416bc6fb1"
+    },
+    {
       "title": "Sean Athens Band",
       "type": "concert",
       "start": "2027-01-29T20:15",
@@ -5014,6 +5091,34 @@
       "id": "93fbd681843b"
     },
     {
+      "title": "Muddy What?",
+      "type": "concert",
+      "start": "2027-02-03T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/muddy-what/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenfrei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Muddy What",
+          "url": "https://www.last.fm/music/Muddy+What"
+        }
+      ],
+      "known_artists": [],
+      "id": "1a696fd208cd"
+    },
+    {
       "title": "Jared James Nichols",
       "type": "concert",
       "start": "2027-02-05T20:00",
@@ -5061,7 +5166,7 @@
       "artists": [
         {
           "name": "Johnny & the Yooahoos",
-          "url": "https://www.last.fm/music/Johnny+%26+the+Yooahoos"
+          "url": "https://www.last.fm/music/Johnny+&+the+Yooahoos"
         }
       ],
       "known_artists": [],
@@ -5115,6 +5220,34 @@
       "id": "482710393fcb"
     },
     {
+      "title": "Schorsch Hampel",
+      "type": "concert",
+      "start": "2027-02-10T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/schorsch-hampel/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenfrei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Schorsch Hampel",
+          "url": "https://www.last.fm/music/Schorsch+Hampel"
+        }
+      ],
+      "known_artists": [],
+      "id": "5dd6d97c0afc"
+    },
+    {
       "title": "Kai Strauss & The Electric Blues Allstars (GER/USA/UK)",
       "type": "concert",
       "start": "2027-02-11T20:15",
@@ -5140,6 +5273,28 @@
       "id": "0d127aedfcdd"
     },
     {
+      "title": "Studio Eisbach",
+      "type": "concert",
+      "start": "2027-02-12T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/studio-eisbach-hofspielhaus-2027.html",
+      "venue": "Hofspielhaus",
+      "address": "Falkenturmstraße 8, 80331 München",
+      "description": "Das Trio pendelt mit eigenen Songs und Neuinterpretationen zwischen Blues, Jazz, Rock ’n’ Roll und Bossa Nova.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues, Jazz, Bossa Nova"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "829612ed1408"
+    },
+    {
       "title": "Günter Grünwald & Rad Gumbo – Bayerisches Kabarett trifft Southern Blues",
       "type": "concert",
       "start": "2027-02-13T20:00",
@@ -5158,7 +5313,7 @@
       "artists": [
         {
           "name": "Günter Grünwald",
-          "url": "https://www.last.fm/music/G%C3%BCnter+Gr%C3%BCnwald"
+          "url": "https://www.last.fm/music/+noredirect/G%C3%BCnter+Gr%C3%BCnwald"
         },
         {
           "name": "Rad Gumbo",
@@ -5192,6 +5347,34 @@
       ],
       "known_artists": [],
       "id": "b0e1c8042be8"
+    },
+    {
+      "title": "Les Millionnaires",
+      "type": "concert",
+      "start": "2027-02-17T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/les-millionnaires/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenfrei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Les Millionnaires",
+          "url": "https://www.last.fm/music/Les+Millionnaires"
+        }
+      ],
+      "known_artists": [],
+      "id": "f43cb8297d55"
     },
     {
       "title": "STIFF HIPS",
@@ -5291,6 +5474,28 @@
       "id": "e9d1b0b9f4ea"
     },
     {
+      "title": "Bluesfestival",
+      "type": "concert",
+      "start": "2027-03-05T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/bluesfestival-puc-puchheim.html",
+      "venue": "PUC Puchheim",
+      "address": "Oskar-Maria-Graf-Straße 2, 82178 Puchheim",
+      "description": "An zwei Abenden stehen Delta Blues, Chicago Blues, Rhythm ’n‘ Blues und Spirituals auf dem Programm des jährlichen Festivals.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "a34c477407b3"
+    },
+    {
       "title": "Rad Gumbo & Günter Grünwald",
       "type": "concert",
       "start": "2027-03-05T20:00",
@@ -5315,7 +5520,7 @@
         },
         {
           "name": "Günter Grünwald",
-          "url": "https://www.last.fm/music/G%C3%BCnter+Gr%C3%BCnwald"
+          "url": "https://www.last.fm/music/+noredirect/G%C3%BCnter+Gr%C3%BCnwald"
         }
       ],
       "known_artists": [],
@@ -5508,7 +5713,7 @@
       "artists": [
         {
           "name": "Günter Grünwald",
-          "url": "https://www.last.fm/music/G%C3%BCnter+Gr%C3%BCnwald"
+          "url": "https://www.last.fm/music/+noredirect/G%C3%BCnter+Gr%C3%BCnwald"
         },
         {
           "name": "Rad Gumbo",
@@ -5985,7 +6190,7 @@
       "id": "dabed20b6d51"
     },
     {
-      "title": "Joe Bonamassa",
+      "title": "Joe Bonamassa & Marc Broussard",
       "type": "concert",
       "start": "2027-07-12T19:00",
       "end": null,
@@ -6004,14 +6209,12 @@
       "school_url": null,
       "artists": [
         {
-          "name": "Joe Bonamassa",
-          "url": "https://www.last.fm/music/Joe+Bonamassa"
+          "name": "Joe Bonamassa & Marc Broussard",
+          "url": "https://www.last.fm/music/Joe+Bonamassa+&+Marc+Broussard"
         }
       ],
-      "known_artists": [
-        "Joe Bonamassa"
-      ],
-      "id": "3ede1066ee72"
+      "known_artists": [],
+      "id": "f6d766e94d35"
     },
     {
       "title": "B.B. & The Blues Shacks",
@@ -6034,7 +6237,7 @@
       "artists": [
         {
           "name": "B.B. & The Blues Shacks",
-          "url": "https://www.last.fm/music/B.B.+%26+The+Blues+Shacks"
+          "url": "https://www.last.fm/music/B.B.+&+The+Blues+Shacks"
         }
       ],
       "known_artists": [],
@@ -6059,6 +6262,33 @@
       "artists": [],
       "known_artists": [],
       "id": "e89cd8f357c1"
+    },
+    {
+      "title": "Bluestrings",
+      "type": "concert",
+      "start": "2027-07-23T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/bluestrings-puchheim-2027.html",
+      "venue": "PUC Puchheim",
+      "address": "Oskar-Maria-Graf-Straße 2, 82178 Puchheim",
+      "description": "Eine StreicherBigBand aus dem Münchner Umland feiert Jubiläum mit Jazz, Rock, Latin und Hip-Hop.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Jazz"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Bluestrings",
+          "url": "https://www.last.fm/music/Bluestrings"
+        }
+      ],
+      "known_artists": [],
+      "id": "66710960974a"
     },
     {
       "title": "Axel Zwingenberger",
@@ -6121,7 +6351,7 @@
       "kind": "school",
       "status": "ok",
       "found": 63,
-      "updated_at": "2026-11-16T11:48:42+00:00",
+      "updated_at": "2026-11-17T12:08:29+00:00",
       "kept": 14
     },
     {
@@ -6131,7 +6361,7 @@
       "kind": "school",
       "status": "ok",
       "found": 112,
-      "updated_at": "2026-11-16T11:48:48+00:00",
+      "updated_at": "2026-11-17T12:08:34+00:00",
       "kept": 14
     },
     {
@@ -6141,7 +6371,7 @@
       "kind": "school",
       "status": "ok",
       "found": 5,
-      "updated_at": "2026-11-16T11:48:53+00:00",
+      "updated_at": "2026-11-17T12:08:38+00:00",
       "kept": 4
     },
     {
@@ -6151,7 +6381,7 @@
       "kind": "school",
       "status": "ok",
       "found": 248,
-      "updated_at": "2026-11-16T11:49:05+00:00",
+      "updated_at": "2026-11-17T12:08:51+00:00",
       "kept": 3
     },
     {
@@ -6160,9 +6390,9 @@
       "url": "https://www.glockenbachwerkstatt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 6,
-      "updated_at": "2026-11-16T11:49:08+00:00",
-      "kept": 44
+      "found": 10,
+      "updated_at": "2026-11-17T12:08:55+00:00",
+      "kept": 49
     },
     {
       "id": "rheinpfalz-schwabing",
@@ -6171,7 +6401,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 14,
-      "updated_at": "2026-11-16T11:49:13+00:00",
+      "updated_at": "2026-11-17T12:08:59+00:00",
       "kept": 7
     },
     {
@@ -6181,7 +6411,7 @@
       "kind": "band",
       "status": "ok",
       "found": 4,
-      "updated_at": "2026-11-16T11:49:16+00:00",
+      "updated_at": "2026-11-17T12:09:03+00:00",
       "kept": 17
     },
     {
@@ -6190,8 +6420,8 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 56,
-      "updated_at": "2026-11-16T11:49:20+00:00",
+      "found": 62,
+      "updated_at": "2026-11-17T12:09:06+00:00",
       "kept": 2
     },
     {
@@ -6200,8 +6430,8 @@
       "url": "https://www.jazzbar-vogler.com/",
       "kind": "venue",
       "status": "ok",
-      "found": 10,
-      "updated_at": "2026-11-16T11:49:21+00:00",
+      "found": 18,
+      "updated_at": "2026-11-17T12:09:09+00:00",
       "kept": 0
     },
     {
@@ -6211,7 +6441,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 10,
-      "updated_at": "2026-11-16T11:49:23+00:00",
+      "updated_at": "2026-11-17T12:09:11+00:00",
       "kept": 1
     },
     {
@@ -6221,7 +6451,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 8,
-      "updated_at": "2026-11-16T11:49:24+00:00",
+      "updated_at": "2026-11-17T12:09:12+00:00",
       "kept": 0
     },
     {
@@ -6231,7 +6461,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 35,
-      "updated_at": "2026-11-16T11:49:27+00:00",
+      "updated_at": "2026-11-17T12:09:15+00:00",
       "kept": 6
     },
     {
@@ -6241,7 +6471,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 43,
-      "updated_at": "2026-11-16T11:49:31+00:00",
+      "updated_at": "2026-11-17T12:09:19+00:00",
       "kept": 26
     },
     {
@@ -6251,7 +6481,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 100,
-      "updated_at": "2026-11-16T11:51:34+00:00",
+      "updated_at": "2026-11-17T12:11:23+00:00",
       "kept": 9
     },
     {
@@ -6260,8 +6490,8 @@
       "url": "https://stragula.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 28,
-      "updated_at": "2026-11-16T11:51:35+00:00",
+      "found": 29,
+      "updated_at": "2026-11-17T12:11:24+00:00",
       "kept": 4
     },
     {
@@ -6281,7 +6511,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 47,
-      "updated_at": "2026-11-16T11:51:37+00:00",
+      "updated_at": "2026-11-17T12:11:27+00:00",
       "kept": 6
     },
     {
@@ -6291,7 +6521,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 9,
-      "updated_at": "2026-11-16T11:51:38+00:00",
+      "updated_at": "2026-11-17T12:11:28+00:00",
       "kept": 2
     },
     {
@@ -6301,7 +6531,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 9,
-      "updated_at": "2026-11-16T11:51:41+00:00",
+      "updated_at": "2026-11-17T12:11:31+00:00",
       "kept": 0
     },
     {
@@ -6309,9 +6539,9 @@
       "name": "Kunst in Sendling e.V.",
       "url": "https://www.kunst-in-sendling.com/",
       "kind": "venue",
-      "status": "failed",
-      "error": "ConnectionError: HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Max retries exceeded with url: /wp-json/tribe/events/v1/events?per_page=50&page=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Read timed out. (read timeout=30.0)\"))",
-      "updated_at": "2026-11-13T11:19:45+00:00",
+      "status": "ok",
+      "found": 10,
+      "updated_at": "2026-11-17T12:11:39+00:00",
       "kept": 0
     },
     {
@@ -6321,7 +6551,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 7,
-      "updated_at": "2026-11-16T11:53:57+00:00",
+      "updated_at": "2026-11-17T12:11:40+00:00",
       "kept": 0
     },
     {
@@ -6330,8 +6560,8 @@
       "url": "https://www.einewelthaus.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 30,
-      "updated_at": "2026-11-16T11:54:09+00:00",
+      "found": 28,
+      "updated_at": "2026-11-17T12:11:50+00:00",
       "kept": 1
     },
     {
@@ -6341,7 +6571,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 3,
-      "updated_at": "2026-11-16T11:54:09+00:00",
+      "updated_at": "2026-11-17T12:11:51+00:00",
       "kept": 1
     },
     {
@@ -6360,9 +6590,9 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 145,
-      "updated_at": "2026-11-16T11:54:21+00:00",
-      "kept": 69
+      "found": 154,
+      "updated_at": "2026-11-17T12:12:04+00:00",
+      "kept": 73
     },
     {
       "id": "mvp",
@@ -6371,7 +6601,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 40,
-      "updated_at": "2026-11-16T11:54:29+00:00",
+      "updated_at": "2026-11-17T12:12:12+00:00",
       "kept": 3
     },
     {
@@ -6380,8 +6610,8 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 169,
-      "updated_at": "2026-11-16T11:54:49+00:00",
+      "found": 185,
+      "updated_at": "2026-11-17T12:12:34+00:00",
       "kept": 4
     },
     {
@@ -6391,7 +6621,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 0,
-      "updated_at": "2026-11-16T11:54:49+00:00",
+      "updated_at": "2026-11-17T12:12:34+00:00",
       "kept": 0
     },
     {
@@ -6401,7 +6631,7 @@
       "kind": "manual",
       "status": "ok",
       "found": 0,
-      "updated_at": "2026-11-16T11:54:49+00:00",
+      "updated_at": "2026-11-17T12:12:34+00:00",
       "kept": 0
     }
   ]

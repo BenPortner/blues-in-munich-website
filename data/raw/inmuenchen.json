@@ -1,14 +1,212 @@
 {
- "scraped_at": "2026-11-16T11:54:21+00:00",
+ "scraped_at": "2026-11-17T12:12:04+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 145
+  "found": 154
  },
  "events": [
+  {
+   "title": "Bluestrings",
+   "type": "concert",
+   "start": "2027-07-23T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/bluestrings-puchheim-2027.html",
+   "venue": "PUC Puchheim",
+   "address": "Oskar-Maria-Graf-Straße 2, 82178 Puchheim",
+   "description": "Eine StreicherBigBand aus dem Münchner Umland feiert Jubiläum mit Jazz, Rock, Latin und Hip-Hop.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Jazz"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Bluesfestival",
+   "type": "concert",
+   "start": "2027-03-05T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/bluesfestival-puc-puchheim.html",
+   "venue": "PUC Puchheim",
+   "address": "Oskar-Maria-Graf-Straße 2, 82178 Puchheim",
+   "description": "An zwei Abenden stehen Delta Blues, Chicago Blues, Rhythm ’n‘ Blues und Spirituals auf dem Programm des jährlichen Festivals.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Blues"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Hertzflimmern 2027",
+   "type": "concert",
+   "start": "2027-02-11T20:00",
+   "end": "2027-02-11T22:00",
+   "url": "https://www.in-muenchen.de/events/hertzflimmern-2027.html",
+   "venue": "Pasinger Fabrik – Wagenhalle",
+   "address": "August-Exter-Straße 1, 81245 München",
+   "description": "Neun Abende zwischen Poesie und Pointe, Blues und Ballade: Das Festival stellt das Lied mit alten Hasen, Newcomern und Kabarettisten ins Zentrum.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Singer-Songwriter"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Popcorn Melodies",
+   "type": "concert",
+   "start": "2027-05-07T21:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/popcorn-melodies-muffatcafe-2027.html",
+   "venue": "Muffatwerk / Muffatcafé",
+   "address": "Zellstr. 4, 81667 München",
+   "description": "Ein Clubabend mit belgischen DJs, die Soul, Rhythm & Blues, Ska und Rock’n’Roll im originalen Popcorn-Sound auflegen.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Popcorn, Soul, Rhythm & Blues"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "What about BOB?",
+   "type": "concert",
+   "start": "2026-12-18T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/what-about-bob-sugar-shack-2026.html",
+   "venue": "Sugar Shack",
+   "address": "Atelierstraße 16, 81671 München",
+   "description": "Zwei Rockbands zum letzten Live-Konzert des Jahres: eine eigenwillige Coverband und eine Hardrock-Formation im modernen Metal-Stil, danach DJ-Set.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Cover-Rock"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Ida Sand",
+   "type": "concert",
+   "start": "2027-06-03T20:30",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/ida-sand-unterfahrt-2027.html",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstr. 42, 81675 München",
+   "description": "Die schwedische Soul-Sängerin, Songwriterin und Pianistin legt mit ihrem aktuellen Album eine sehr persönliche Seelenschau vor.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Soul, Jazz"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Charlie Hunter & Ella Feingold",
+   "type": "concert",
+   "start": "2027-04-15T20:30",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/charlie-hunter-ella-feingold.html",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstr. 42, 81675 München",
+   "description": "Zwei Gitarristen verbinden R&B, Soul, Funk, Blues, Jazz und Gospel zu minimalistischem Groove und stellen ihr gemeinsames Album vor.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Jazz, Funk, Soul"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Studio Eisbach",
+   "type": "concert",
+   "start": "2027-02-12T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/studio-eisbach-hofspielhaus-2027.html",
+   "venue": "Hofspielhaus",
+   "address": "Falkenturmstraße 8, 80331 München",
+   "description": "Das Trio pendelt mit eigenen Songs und Neuinterpretationen zwischen Blues, Jazz, Rock ’n’ Roll und Bossa Nova.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Blues, Jazz, Bossa Nova"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Christian Christl",
+   "type": "concert",
+   "start": "2027-01-27T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/christian-christl-bayoogie-masters-2027.html",
+   "venue": "Hofspielhaus",
+   "address": "Falkenturmstraße 8, 80331 München",
+   "description": "Ein Abend mit Boogie-Woogie-Piano und Vaudeville Blues der 1920er Jahre mit zwei Gastmusikerinnen.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Blues und Boogie Woogie"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
   {
    "title": "Canned Heat & Ten Years After",
    "type": "concert",
@@ -307,7 +505,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Jazz / Funk"
+    "Jazz-Funk"
    ],
    "source_id": "",
    "source_name": "",
@@ -318,7 +516,7 @@
    "id": ""
   },
   {
-   "title": "Fish’n Blues: Weihnachtssession mit Mateo Navarro und Osono",
+   "title": "Mateo Navarro + Osono",
    "type": "concert",
    "start": "2026-12-16T20:30",
    "end": null,
@@ -1831,7 +2029,7 @@
    "title": "Günter Grünwald & Rad Gumbo",
    "type": "concert",
    "start": "2027-02-13T20:00",
-   "end": null,
+   "end": "2027-02-13T22:30",
    "url": "https://www.in-muenchen.de/events/gunter-grunwald-rad-gumbo-pasinger-fabrik-wagenhalle.html",
    "venue": "Pasinger Fabrik – Wagenhalle",
    "address": "August-Exter-Straße 1, 81245 München",
@@ -2464,7 +2662,7 @@
    "id": ""
   },
   {
-   "title": "Joe Bonamassa",
+   "title": "Joe Bonamassa & Marc Broussard",
    "type": "concert",
    "start": "2027-07-12T19:00",
    "end": null,
@@ -3025,7 +3223,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Tribute-Show"
+    "Tribute Show"
    ],
    "source_id": "",
    "source_name": "",
@@ -3157,7 +3355,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Hard-Rock"
+    "Hard Rock"
    ],
    "source_id": "",
    "source_name": "",

@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-16T11:51:35+00:00",
+ "scraped_at": "2026-11-17T12:11:24+00:00",
  "status": {
   "id": "stragula",
   "name": "Stragula",
   "url": "https://stragula.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 28
+  "found": 29
  },
  "events": [
   {
@@ -518,6 +518,26 @@
    "venue": "Stragula",
    "address": "Bergmannstr. 66, 80339 München",
    "description": "Pick up the music präsentiert Funk & Soul für Liebhaber und Kenner. Mit kraftvollem dreistimmigem Bläsersatz, spielfreudiger Rhythmusgruppe, Harmonischen Klängen von Taste und Saite, tobt sich Sängerin Kerstin Frank durch ein Repertoire aus lang bekanntem, aber eben auch Außenseiter der Musikszene finden an diesem Konzertabend Ihren Platz. Seien Sie gespannt! · Eintritt: Frei (Hutspende)",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "RevoltBrew",
+   "type": "concert",
+   "start": "2027-10-23T19:30",
+   "end": null,
+   "url": "https://stragula.de/events.html#:~:text=RevoltBrew",
+   "venue": "Stragula",
+   "address": "Bergmannstr. 66, 80339 München",
+   "description": "Revoltbrew ist ein international besetztes Classic-Rock-Projekt: Lead Guitar: Erdem Yalcinkaya: Ausgebildet an der klassischen Gitarre, hat er seit 2001 hunderte Shows in Clubs v.a. in Ankara und Istanbul gespielt. 2014 und 2023 hat er jeweils Aben mit eigenem Material veröffentlicht. Bass: Fran Holigan hat blickt auf ein breitgefächertes Betätigungsfeld in den Bereichen Rock,, Jazz, Prog, C&W, Latin American und Blues in England und den USA zurück. Rhythm Guitar & Vocals: Alfons „Fonsi“ Schönwetter wurde vor im oberbayerischen Raum als frontman der Beat-Coverband „Three & One& bekannt (u.a. regelmäßige Auftritte auf dem Tollwood-Festival). Drums: Amadeus Graml brachte die Musiker 2023 zusammen. Er ist seit über 30 Jahren aktiv und blickt auf diverse Veröffentlichungen mit eigenem Material zurück. · Eintritt: Frei (Hutspende)",
    "recurrence": null,
    "dates": [],
    "tags": [],

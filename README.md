@@ -1,6 +1,6 @@
 # Blues in Munich
 
-A static site listing **blues events in Munich**: blues dance classes, workshops and socials, plus live blues concerts and sessions. A GitHub Actions job scrapes the sources every morning, commits `data/raw/` and `data/events.json` and redeploys the site to GitHub Pages.
+A static site listing **blues events in Munich**: blues dance classes, workshops and socials, plus live blues concerts and sessions. A GitHub Actions job scrapes the sources once a day, commits `data/raw/` and `data/events.json` and redeploys the site to GitHub Pages.
 
 Visitors can switch between a list and a month / week / year calendar (FullCalendar 6, loaded from jsDelivr only when the calendar is opened), or subscribe to the iCal feed.
 

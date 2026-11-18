@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T12:12:34+00:00",
+  "generated_at": "2026-11-18T12:04:43+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -2966,64 +2966,6 @@
       "id": "f0117847035b"
     },
     {
-      "title": "Blues 2 mit Clara",
-      "type": "class",
-      "start": "2026-11-03T19:35",
-      "end": "2026-11-03T20:35",
-      "url": "https://hepcatclub.com/",
-      "venue": "Hep Cat Club",
-      "address": "Viktoriastraße 3b, 86150 Augsburg",
-      "description": "",
-      "recurrence": "Tuesdays 19:35–20:35",
-      "dates": [
-        "2026-11-03",
-        "2026-11-10",
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15"
-      ],
-      "tags": [],
-      "source_id": "hepcat-club",
-      "source_name": "Hep Cat Club",
-      "school_name": "Hep Cat Club",
-      "school_url": "https://hepcatclub.com/",
-      "artists": [],
-      "known_artists": [],
-      "id": "d1bb00bef152"
-    },
-    {
-      "title": "Blues Open Level",
-      "type": "class",
-      "start": "2026-11-03T20:45",
-      "end": "2026-11-03T22:15",
-      "url": "https://www.boogie-baeren.de/training",
-      "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
-      "address": "Gneisenaustraße 16, 80992 München",
-      "description": "Teachers: verschiedene. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
-      "recurrence": "Tuesdays 20:45–22:15",
-      "dates": [
-        "2026-11-03",
-        "2026-11-10",
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15"
-      ],
-      "tags": [
-        "course block"
-      ],
-      "source_id": "boogie-baeren",
-      "source_name": "Boogie-Bären München",
-      "school_name": "Boogie-Bären München",
-      "school_url": "https://www.boogie-baeren.de/",
-      "artists": [],
-      "known_artists": [],
-      "id": "736bb6181162"
-    },
-    {
       "title": "Bin I Kini?! – Der Prinzregenten-Blues",
       "type": "concert",
       "start": "2026-11-17T20:00",
@@ -3223,6 +3165,28 @@
       ],
       "known_artists": [],
       "id": "db7a3849a2d1"
+    },
+    {
+      "title": "Bin I Kini?! – Der Prinzregenten-Blues",
+      "type": "concert",
+      "start": "2026-11-20T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/prinzregenten-blues-iberl-buhne.html",
+      "venue": "Iberl Bühne",
+      "address": "Herzogspitalstr. 6, 80331 München",
+      "description": "In einer Komödie voller Verwechslungen und Intrigen verschlägt es den Prinzregenten Johann der III. versehentlich in die bayerische Provinz. Dort gerät er in ein spaßiges Katz-und-Maus-Spiel, als er seine Identität verliert und als Knecht arbeiten muss. Eine turbulente Jagd nach der Wahrheit beginnt.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Verwechslungskomödie"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "72e317f24e4e"
     },
     {
       "title": "Bootleg Twins feat. Schorsch Hampel & Hubert Hofherr",
@@ -3427,6 +3391,64 @@
       ],
       "known_artists": [],
       "id": "3330568fcd36"
+    },
+    {
+      "title": "Blues 2 mit Clara",
+      "type": "class",
+      "start": "2026-11-03T19:35",
+      "end": "2026-11-03T20:35",
+      "url": "https://hepcatclub.com/",
+      "venue": "Hep Cat Club",
+      "address": "Viktoriastraße 3b, 86150 Augsburg",
+      "description": "",
+      "recurrence": "Tuesdays 19:35–20:35",
+      "dates": [
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15"
+      ],
+      "tags": [],
+      "source_id": "hepcat-club",
+      "source_name": "Hep Cat Club",
+      "school_name": "Hep Cat Club",
+      "school_url": "https://hepcatclub.com/",
+      "artists": [],
+      "known_artists": [],
+      "id": "d1bb00bef152"
+    },
+    {
+      "title": "Blues Open Level",
+      "type": "class",
+      "start": "2026-11-03T20:45",
+      "end": "2026-11-03T22:15",
+      "url": "https://www.boogie-baeren.de/training",
+      "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
+      "address": "Gneisenaustraße 16, 80992 München",
+      "description": "Teachers: verschiedene. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+      "recurrence": "Tuesdays 20:45–22:15",
+      "dates": [
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "boogie-baeren",
+      "source_name": "Boogie-Bären München",
+      "school_name": "Boogie-Bären München",
+      "school_url": "https://www.boogie-baeren.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "736bb6181162"
     },
     {
       "title": "Edwin Kimmler",
@@ -3951,20 +3973,22 @@
       "type": "concert",
       "start": "2026-12-04T19:30",
       "end": null,
-      "url": "https://www.mvp.de/bayern/veranstaltungen/11-gautinger-bluesnacht-bosco-grosser-saal/",
-      "venue": "bosco - Großer Saal, Gauting",
+      "url": "https://www.in-muenchen.de/events/11-gautinger-bluesnacht.html",
+      "venue": "bosco Bürger- und Kulturhaus",
       "address": "Oberer Kirchenweg 1, 82131 Gauting",
-      "description": "",
+      "description": "Zwei Bluesacts teilen sich die Bühne: ein Duo aus Mundharmonika und Gitarre sowie eine Soul-Band um den Sänger San2.",
       "recurrence": null,
       "dates": [],
-      "tags": [],
-      "source_id": "mvp",
-      "source_name": "mvp.de (Jazz & Blues)",
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
       "school_name": null,
       "school_url": null,
       "artists": [],
       "known_artists": [],
-      "id": "17f0df58c0e7"
+      "id": "5d503fa1d05c"
     },
     {
       "title": "Henry Heggen & Titus Vollmer + San2 & His Soul Patrol",
@@ -4025,6 +4049,31 @@
       ],
       "known_artists": [],
       "id": "3f394472cac9"
+    },
+    {
+      "title": "Tricia & Band",
+      "type": "concert",
+      "start": "2026-12-05T15:00",
+      "end": null,
+      "url": "https://www.muenchen-online.de/veranstaltung/tricia-band-486841",
+      "venue": "Kulturcafé Gans woanders",
+      "address": null,
+      "description": "",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "muenchen-online-jazz",
+      "source_name": "muenchen-online.de (Jazz & Co.)",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Tricia",
+          "url": "https://www.last.fm/music/Tricia"
+        }
+      ],
+      "known_artists": [],
+      "id": "e0800a450a70"
     },
     {
       "title": "Bernd Bauer Blues Band: Live-Konzert im Märchenbazar",
@@ -4234,8 +4283,8 @@
       "recurrence": null,
       "dates": [],
       "tags": [
-        "German Jazz",
-        "Vocal Jazz"
+        "Vocal Jazz",
+        "German Jazz"
       ],
       "source_id": "unterfahrt",
       "source_name": "Jazzclub Unterfahrt",
@@ -4249,6 +4298,26 @@
       ],
       "known_artists": [],
       "id": "0ee3b78f0ab0"
+    },
+    {
+      "title": "Malis Swing Connection",
+      "type": "concert",
+      "start": "2026-12-13T15:00",
+      "end": null,
+      "url": "https://www.muenchen-online.de/veranstaltung/malis-swing-connection-486896",
+      "venue": "Kulturcafé Gans woanders",
+      "address": null,
+      "description": "",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "muenchen-online-jazz",
+      "source_name": "muenchen-online.de (Jazz & Co.)",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "0d54c47ab617"
     },
     {
       "title": "SoulSalad",
@@ -5016,6 +5085,34 @@
       "id": "7ed416bc6fb1"
     },
     {
+      "title": "LOWDOWN",
+      "type": "concert",
+      "start": "2027-01-27T20:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/lowdown/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Fisch: 19:00 Uhr · kostenfrei",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Fish'n Blues",
+        "Konzert"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Lowdown",
+          "url": "https://www.last.fm/music/Lowdown"
+        }
+      ],
+      "known_artists": [],
+      "id": "610d9cb44a0c"
+    },
+    {
       "title": "Sean Athens Band",
       "type": "concert",
       "start": "2027-01-29T20:15",
@@ -5474,26 +5571,24 @@
       "id": "e9d1b0b9f4ea"
     },
     {
-      "title": "Bluesfestival",
+      "title": "Bluesfestival - Tag 1",
       "type": "concert",
       "start": "2027-03-05T20:00",
       "end": null,
-      "url": "https://www.in-muenchen.de/events/bluesfestival-puc-puchheim.html",
-      "venue": "PUC Puchheim",
+      "url": "https://www.mvp.de/bayern/veranstaltungen/bluesfestival-tag-1-puchheim/",
+      "venue": "Puchheimer Kulturcentrum PUC",
       "address": "Oskar-Maria-Graf-Straße 2, 82178 Puchheim",
       "description": "An zwei Abenden stehen Delta Blues, Chicago Blues, Rhythm ’n‘ Blues und Spirituals auf dem Programm des jährlichen Festivals.",
       "recurrence": null,
       "dates": [],
-      "tags": [
-        "Blues"
-      ],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
+      "tags": [],
+      "source_id": "mvp",
+      "source_name": "mvp.de (Jazz & Blues)",
       "school_name": null,
       "school_url": null,
       "artists": [],
       "known_artists": [],
-      "id": "a34c477407b3"
+      "id": "6269e80b8c99"
     },
     {
       "title": "Rad Gumbo & Günter Grünwald",
@@ -5550,6 +5645,26 @@
       ],
       "known_artists": [],
       "id": "71f2b05a60d5"
+    },
+    {
+      "title": "Bluesfestival - Tag 2",
+      "type": "concert",
+      "start": "2027-03-06T20:00",
+      "end": null,
+      "url": "https://www.mvp.de/bayern/veranstaltungen/bluesfestival-tag-2-puchheim/",
+      "venue": "Puchheimer Kulturcentrum PUC",
+      "address": "Oskar-Maria-Graf-Straße 2, 82178 Puchheim",
+      "description": "",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "mvp",
+      "source_name": "mvp.de (Jazz & Blues)",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "e007cf78261c"
     },
     {
       "title": "Robert Finley",
@@ -5722,31 +5837,6 @@
       ],
       "known_artists": [],
       "id": "0379893f5324"
-    },
-    {
-      "title": "Devon Allman Blues Summit - Jimmy Hall, Claudette King & Bernard Allison",
-      "type": "concert",
-      "start": "2027-03-27T20:00",
-      "end": null,
-      "url": "https://www.mvp.de/muenchen/veranstaltungen/devon-allman-blues-summit-jimmy-hall-claudette-king-bernard/",
-      "venue": "Ampere / Muffatwerk",
-      "address": "Zellstr. 4, 81667 München",
-      "description": "",
-      "recurrence": null,
-      "dates": [],
-      "tags": [],
-      "source_id": "mvp",
-      "source_name": "mvp.de (Jazz & Blues)",
-      "school_name": null,
-      "school_url": null,
-      "artists": [
-        {
-          "name": "Devon Allman",
-          "url": "https://www.last.fm/music/Devon+Allman"
-        }
-      ],
-      "known_artists": [],
-      "id": "a653a79f8f59"
     },
     {
       "title": "Devon Allman Blues Summit feat. Jimmy Hall, Claudette King, Bernard Allison",
@@ -6131,6 +6221,28 @@
       "id": "1ccbf127a0ff"
     },
     {
+      "title": "Franz Offergeld",
+      "type": "concert",
+      "start": "2027-05-29T20:00",
+      "end": null,
+      "url": "https://www.in-muenchen.de/events/franz-offergeld-schlachthof-2027.html",
+      "venue": "Schlachthof",
+      "address": "Zenettistraße 9, 80337 München",
+      "description": "Der Münchner Fingerstyle-Gitarrist spielt Ragtime Blues, Swing, Delta Blues und Country, dazu eigene Nummern.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "5171a0231043"
+    },
+    {
       "title": "Canned Heat & Ten Years After",
       "type": "concert",
       "start": "2027-06-01T20:00",
@@ -6351,7 +6463,7 @@
       "kind": "school",
       "status": "ok",
       "found": 63,
-      "updated_at": "2026-11-17T12:08:29+00:00",
+      "updated_at": "2026-11-18T11:58:12+00:00",
       "kept": 14
     },
     {
@@ -6360,8 +6472,8 @@
       "url": "https://www.boogie-baeren.de/",
       "kind": "school",
       "status": "ok",
-      "found": 112,
-      "updated_at": "2026-11-17T12:08:34+00:00",
+      "found": 113,
+      "updated_at": "2026-11-18T11:58:17+00:00",
       "kept": 14
     },
     {
@@ -6371,7 +6483,7 @@
       "kind": "school",
       "status": "ok",
       "found": 5,
-      "updated_at": "2026-11-17T12:08:38+00:00",
+      "updated_at": "2026-11-18T11:58:23+00:00",
       "kept": 4
     },
     {
@@ -6381,7 +6493,7 @@
       "kind": "school",
       "status": "ok",
       "found": 248,
-      "updated_at": "2026-11-17T12:08:51+00:00",
+      "updated_at": "2026-11-18T11:58:35+00:00",
       "kept": 3
     },
     {
@@ -6390,9 +6502,9 @@
       "url": "https://www.glockenbachwerkstatt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 10,
-      "updated_at": "2026-11-17T12:08:55+00:00",
-      "kept": 49
+      "found": 11,
+      "updated_at": "2026-11-18T11:58:38+00:00",
+      "kept": 50
     },
     {
       "id": "rheinpfalz-schwabing",
@@ -6401,7 +6513,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 14,
-      "updated_at": "2026-11-17T12:08:59+00:00",
+      "updated_at": "2026-11-18T11:58:43+00:00",
       "kept": 7
     },
     {
@@ -6411,7 +6523,7 @@
       "kind": "band",
       "status": "ok",
       "found": 4,
-      "updated_at": "2026-11-17T12:09:03+00:00",
+      "updated_at": "2026-11-18T11:58:46+00:00",
       "kept": 17
     },
     {
@@ -6420,8 +6532,8 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 62,
-      "updated_at": "2026-11-17T12:09:06+00:00",
+      "found": 71,
+      "updated_at": "2026-11-18T11:58:50+00:00",
       "kept": 2
     },
     {
@@ -6430,8 +6542,8 @@
       "url": "https://www.jazzbar-vogler.com/",
       "kind": "venue",
       "status": "ok",
-      "found": 18,
-      "updated_at": "2026-11-17T12:09:09+00:00",
+      "found": 17,
+      "updated_at": "2026-11-18T11:58:52+00:00",
       "kept": 0
     },
     {
@@ -6441,7 +6553,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 10,
-      "updated_at": "2026-11-17T12:09:11+00:00",
+      "updated_at": "2026-11-18T11:58:53+00:00",
       "kept": 1
     },
     {
@@ -6451,7 +6563,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 8,
-      "updated_at": "2026-11-17T12:09:12+00:00",
+      "updated_at": "2026-11-18T11:58:53+00:00",
       "kept": 0
     },
     {
@@ -6461,7 +6573,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 35,
-      "updated_at": "2026-11-17T12:09:15+00:00",
+      "updated_at": "2026-11-18T11:58:57+00:00",
       "kept": 6
     },
     {
@@ -6471,7 +6583,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 43,
-      "updated_at": "2026-11-17T12:09:19+00:00",
+      "updated_at": "2026-11-18T11:59:00+00:00",
       "kept": 26
     },
     {
@@ -6481,7 +6593,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 100,
-      "updated_at": "2026-11-17T12:11:23+00:00",
+      "updated_at": "2026-11-18T12:01:02+00:00",
       "kept": 9
     },
     {
@@ -6491,7 +6603,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 29,
-      "updated_at": "2026-11-17T12:11:24+00:00",
+      "updated_at": "2026-11-18T12:01:02+00:00",
       "kept": 4
     },
     {
@@ -6499,9 +6611,9 @@
       "name": "Ackermannbogen e.V.",
       "url": "https://ackermannbogen-ev.de/programm-alles",
       "kind": "venue",
-      "status": "failed",
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://ackermannbogen-ev.de/wp-json/tribe/events/v1/events?per_page=50&categories=musik%2Cmusik-gesang&page=1",
-      "updated_at": "2026-11-11T11:19:16+00:00",
+      "status": "ok",
+      "found": 14,
+      "updated_at": "2026-11-18T12:01:05+00:00",
       "kept": 0
     },
     {
@@ -6510,8 +6622,8 @@
       "url": "https://www.pasinger-fabrik.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 47,
-      "updated_at": "2026-11-17T12:11:27+00:00",
+      "found": 48,
+      "updated_at": "2026-11-18T12:01:07+00:00",
       "kept": 6
     },
     {
@@ -6520,8 +6632,8 @@
       "url": "https://www.ars-musica-muenchen.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 9,
-      "updated_at": "2026-11-17T12:11:28+00:00",
+      "found": 10,
+      "updated_at": "2026-11-18T12:01:08+00:00",
       "kept": 2
     },
     {
@@ -6531,7 +6643,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 9,
-      "updated_at": "2026-11-17T12:11:31+00:00",
+      "updated_at": "2026-11-18T12:01:11+00:00",
       "kept": 0
     },
     {
@@ -6539,8 +6651,8 @@
       "name": "Kunst in Sendling e.V.",
       "url": "https://www.kunst-in-sendling.com/",
       "kind": "venue",
-      "status": "ok",
-      "found": 10,
+      "status": "failed",
+      "error": "ConnectionError: HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Max retries exceeded with url: /wp-json/tribe/events/v1/events?per_page=50&page=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Read timed out. (read timeout=30.0)\"))",
       "updated_at": "2026-11-17T12:11:39+00:00",
       "kept": 0
     },
@@ -6551,7 +6663,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 7,
-      "updated_at": "2026-11-17T12:11:40+00:00",
+      "updated_at": "2026-11-18T12:03:43+00:00",
       "kept": 0
     },
     {
@@ -6560,8 +6672,8 @@
       "url": "https://www.einewelthaus.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 28,
-      "updated_at": "2026-11-17T12:11:50+00:00",
+      "found": 30,
+      "updated_at": "2026-11-18T12:03:58+00:00",
       "kept": 1
     },
     {
@@ -6571,7 +6683,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 3,
-      "updated_at": "2026-11-17T12:11:51+00:00",
+      "updated_at": "2026-11-18T12:03:58+00:00",
       "kept": 1
     },
     {
@@ -6590,9 +6702,9 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 154,
-      "updated_at": "2026-11-17T12:12:04+00:00",
-      "kept": 73
+      "found": 158,
+      "updated_at": "2026-11-18T12:04:12+00:00",
+      "kept": 75
     },
     {
       "id": "mvp",
@@ -6601,7 +6713,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 40,
-      "updated_at": "2026-11-17T12:12:12+00:00",
+      "updated_at": "2026-11-18T12:04:21+00:00",
       "kept": 3
     },
     {
@@ -6610,9 +6722,9 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 185,
-      "updated_at": "2026-11-17T12:12:34+00:00",
-      "kept": 4
+      "found": 189,
+      "updated_at": "2026-11-18T12:04:42+00:00",
+      "kept": 6
     },
     {
       "id": "ticketmaster",
@@ -6621,7 +6733,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 0,
-      "updated_at": "2026-11-17T12:12:34+00:00",
+      "updated_at": "2026-11-18T12:04:43+00:00",
       "kept": 0
     },
     {
@@ -6631,7 +6743,7 @@
       "kind": "manual",
       "status": "ok",
       "found": 0,
-      "updated_at": "2026-11-17T12:12:34+00:00",
+      "updated_at": "2026-11-18T12:04:43+00:00",
       "kept": 0
     }
   ]

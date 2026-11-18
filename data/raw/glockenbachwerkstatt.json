@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-17T12:08:55+00:00",
+ "scraped_at": "2026-11-18T11:58:38+00:00",
  "status": {
   "id": "glockenbachwerkstatt",
   "name": "Glockenbachwerkstatt – Fish'n Blues",
   "url": "https://www.glockenbachwerkstatt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 10
+  "found": 11
  },
  "events": [
   {
@@ -153,6 +153,29 @@
    "start": "2027-01-20T20:30",
    "end": null,
    "url": "https://www.glockenbachwerkstatt.de/events/lostinbavaria27/",
+   "venue": "Glockenbachwerkstatt",
+   "address": "Blumenstraße 7, 80331 München",
+   "description": "Fisch: 19:00 Uhr · kostenfrei",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Fish'n Blues",
+    "Konzert"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "LOWDOWN",
+   "type": "concert",
+   "start": "2027-01-27T20:30",
+   "end": null,
+   "url": "https://www.glockenbachwerkstatt.de/events/lowdown/",
    "venue": "Glockenbachwerkstatt",
    "address": "Blumenstraße 7, 80331 München",
    "description": "Fisch: 19:00 Uhr · kostenfrei",

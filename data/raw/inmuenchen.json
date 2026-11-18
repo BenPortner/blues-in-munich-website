@@ -1,14 +1,146 @@
 {
- "scraped_at": "2026-11-17T12:12:04+00:00",
+ "scraped_at": "2026-11-18T12:04:12+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 154
+  "found": 158
  },
  "events": [
+  {
+   "title": "11. Gautinger Bluesnacht",
+   "type": "concert",
+   "start": "2026-12-04T19:30",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/11-gautinger-bluesnacht.html",
+   "venue": "bosco Bürger- und Kulturhaus",
+   "address": "Oberer Kirchenweg 1, 82131 Gauting",
+   "description": "Zwei Bluesacts teilen sich die Bühne: ein Duo aus Mundharmonika und Gitarre sowie eine Soul-Band um den Sänger San2.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Blues"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Franz Offergeld",
+   "type": "concert",
+   "start": "2027-05-29T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/franz-offergeld-schlachthof-2027.html",
+   "venue": "Schlachthof",
+   "address": "Zenettistraße 9, 80337 München",
+   "description": "Der Münchner Fingerstyle-Gitarrist spielt Ragtime Blues, Swing, Delta Blues und Country, dazu eigene Nummern.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Blues"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Jesse Davis Quartet",
+   "type": "concert",
+   "start": "2027-01-14T20:30",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/jesse-davis-quartet-2027.html",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstr. 42, 81675 München",
+   "description": "Der Altsaxofonist aus New Orleans spielt klassischen Jazz, in dem Blues, Gospel und Soul mitschwingen.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Jazz"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Kamrad",
+   "type": "concert",
+   "start": "2028-03-04T19:30",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/kamrad-tonhalle-2028.html",
+   "venue": "Werksviertel / TonHalle",
+   "address": "Atelierstraße 24, 81671 München",
+   "description": "Der Popsänger kündigt seine bisher größte Hallentour an und spielt 21 Konzerte in Deutschland, Österreich, der Schweiz und Luxemburg.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Pop"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lost in Bavaria",
+   "type": "concert",
+   "start": "2027-01-20T20:30",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/lost-in-bavaria-glockenbachwerkstatt-2027.html",
+   "venue": "Glockenbachwerkstatt",
+   "address": "Blumenstraße 7, 80331 München",
+   "description": "Ein Trio mit zwei akustischen Gitarren, Bass und dreistimmigem Gesang widmet sein Programm dem Singer-Songwriter John Prine.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Singer-Songwriter"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Daisychain",
+   "type": "concert",
+   "start": "2027-03-08T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/daisychain-backstage-club-2027.html",
+   "venue": "Backstage Club",
+   "address": "Reitknechtstr. 6, 80639 München",
+   "description": "Zwei Leadstimmen, fuzzige Gitarren und eine Mischung aus Bluesrock, Psychedelia und Grunge prägen den Sound der Band.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Rock"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
   {
    "title": "Bluestrings",
    "type": "concert",
@@ -812,28 +944,6 @@
    "dates": [],
    "tags": [
     "Blues"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Queens Of The Stone Age",
-   "type": "concert",
-   "start": "2027-06-28T19:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/queens-of-the-stone-age.html",
-   "venue": "Olympiapark München / Tollwood Sommerfestival",
-   "address": "Spiridon-Louis-Ring, 80809 München",
-   "description": "Im Rahmen der Perfecth World Tour präsentiert Queens Of The Stone Age eine kraftvolle Mischung aus Rock und Wüsten-Blues. Die Band schafft eine intensive Atmosphäre mit ihren energiegeladenen Live-Performances.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -2926,28 +3036,6 @@
    "id": ""
   },
   {
-   "title": "The Last Internationale",
-   "type": "concert",
-   "start": "2026-11-17T20:00",
-   "end": "2026-11-17T23:45",
-   "url": "https://www.in-muenchen.de/events/the-last-internationale.html",
-   "venue": "Feierwerk München / Feierwerk Hansa 39",
-   "address": "Hansastraße 39-41, 81373 München",
-   "description": "The Last Internationale erweitern ihre Deutschlandtour um weitere Termine. Im November kommt das New Yorker Duo nach München. Ihre Liveshow verbindet Bluesrock, Alternative Rock und politische Botschaften.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Rock"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Günter Grünwald & Rad Gumbo",
    "type": "concert",
    "start": "2027-03-21T19:30",
@@ -3126,7 +3214,7 @@
   {
    "title": "Bin I Kini?! – Der Prinzregenten-Blues",
    "type": "concert",
-   "start": "2026-11-17T20:00",
+   "start": "2026-11-20T20:00",
    "end": null,
    "url": "https://www.in-muenchen.de/events/prinzregenten-blues-iberl-buhne.html",
    "venue": "Iberl Bühne",
@@ -3223,7 +3311,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Tribute Show"
+    "Tribute-Show"
    ],
    "source_id": "",
    "source_name": "",
@@ -3289,7 +3377,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Jam Session"
+    "Jam-Session"
    ],
    "source_id": "",
    "source_name": "",

@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-17T12:11:50+00:00",
+ "scraped_at": "2026-11-18T12:03:58+00:00",
  "status": {
   "id": "einewelthaus",
   "name": "EineWeltHaus",
   "url": "https://www.einewelthaus.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 28
+  "found": 30
  },
  "events": [
   {
@@ -44,6 +44,29 @@
    "dates": [],
    "tags": [
     "Ausstellung"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "”Die Realität der medizinischen Versorgung in Gaza heute” Prof. Dr. Abed Shokry",
+   "type": "concert",
+   "start": "2026-11-18T20:00",
+   "end": "2026-11-18T23:00",
+   "url": "https://www.einewelthaus.de/events/die-realitaet-der-medizinischen-versorgung-in-gaza-heute-prof-dr-abed-shokry/",
+   "venue": "EineWeltHaus München",
+   "address": "Schwanthalerstr. 80, München, 80336",
+   "description": "Wie ist die medizinische Versorgung in Gaza unter den aktuellen Bedingungen überhaupt noch möglich? Welche Herausforderungen erleben Ärztinnen und Ärzte, Pflegekräfte und Patientinnen und Patienten? Und welche Folgen hat die anhaltende Zerstörung der medizinischen Infrastruktur für die Bevölkerung? In diesem Vortrag geht es um die Realität des Gesundheitswesens in Gaza: um zerstörte Krankenhäuser, fehlende Medikamente und medizinische Materialien, die schwierigen Arbeitsbedingungen des Gesundheitspersonals sowie um die Situation der Menschen, die dringend auf medizinische Behandlung angewiesen sind. Im Anschluss an das Gespräch ist Raum für Fragen und Diskussion.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Diskussionsveranstaltung",
+    "Informationsveranstaltung"
    ],
    "source_id": "",
    "source_name": "",
@@ -287,7 +310,7 @@
    "url": "https://www.einewelthaus.de/events/ausstellung-mit-menschenrechten-unsere-zukunft-gestalten/",
    "venue": "EineWeltHaus München",
    "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "Hunger und Unterernährung sind für viele Menschen tagtägliche Realität. Millionen von Menschen haben keinen Zugang zu Land, um für sich Nahrungsmittel anzubauen. Täglich werden Menschen von dem Land, auf dem sie oft schon seit mehreren Generationen leben, vertrieben. Seit nunmehr 40 Jahren nimmt sich die Menschenrechtsorganisation FIAN (= FoodFirst Information &amp; Action Network) dieser Probleme an. Die Wanderausstellung „Mit Menschenrechten unsere Zukunft gestalten“ veranschaulicht, wie Menschenrechte konkret dazu beitragen, eine gerechte und lebenswerte Zukunft zu schaffen – für heutige und kommende Generationen. Die Münchner FIAN-Gruppe lädt dazu ein, sich mit Hilfe der 7 Rollups und einiger interaktiver Elemente (Mapstories) mit dem Menschenrecht auf Nahrung vertraut zu machen. Gerne können auch Termine für eine kurze Führung vereinbart werden unter: fian@muenchen-mail.de &nbsp; &nbsp; &nbsp; &nbsp; Am 10.12.2026 um 19 Uhr im Großen Saal stellt FIAN unter dem Veranstaltungstitel „60 Jahre Menschrechtspakte“ mit Film und Gesprächen ihre Arbeit vor, mit anschließender Führung durch die Ausstellung.",
+   "description": "Hunger und Unterernährung sind für viele Menschen tagtägliche Realität. Millionen von Menschen haben keinen Zugang zu Land, um für sich Nahrungsmittel anzubauen. Täglich werden Menschen von dem Land, auf dem sie oft schon seit mehreren Generationen leben, vertrieben. Seit nunmehr 40 Jahren nimmt sich die Menschenrechtsorganisation FIAN (= FoodFirst Information &amp; Action Network) dieser Probleme an. Die Wanderausstellung „Mit Menschenrechten unsere Zukunft gestalten“ veranschaulicht, wie Menschenrechte konkret dazu beitragen, eine gerechte und lebenswerte Zukunft zu schaffen – für heutige und kommende Generationen. Anhand ausgewählter Beispiele aus der Fallarbeit von FIAN wird deutlich, wie die Folgen von Rohstoffabbau und Klimakrise die Lebensgrundlagen von Menschen weltweit gefährden: • Seit vielen Jahren leiden die Menschen rund um eine Bauxit-Mine in Guinea unter Landraub und der Zerstörung ihrer Lebensgrundlagen. • In Honduras verlieren Küstengemeinden durch den Klimawandel und durch Monokulturen und Garnelenzucht schrittweise Land und Fischbestände. Gleichzeitig zeigt die Ausstellung, warum die Stärkung der Menschenrechte auch in Deutschland von zentraler Bedeutung ist. Sie lädt dazu ein, eigene Handlungsmöglichkeiten zu entdecken und ermutigt insbesondere junge Menschen, sich aktiv für eine gerechtere Zukunft einzusetzen. Die Münchner FIAN-Gruppe lädt dazu ein, sich mit Hilfe der 7 Rollups und einiger interaktiver Elemente (Mapstories) mit dem Menschenrecht auf Nahrung vertraut zu machen. Gerne können auch Termine für eine kurze Führung vereinbart werden unter: fian@muenchen-mail.de Am 10.12.2026 um 19 Uhr im Großen Saal stellt FIAN unter dem Veranstaltungstitel „60 Jahre Menschenrechtspakte“ mit Film und Gesprächen ihre Arbeit vor, mit anschließender Führung durch die Ausstellung. &nbsp;",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -488,6 +511,28 @@
    "dates": [],
    "tags": [
     "Diskussionsveranstaltung"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Mein Weg vom Kongo nach Europa. Zwischen Widerstand, Flucht und Exil – Lesung mit Emmanuel Mbolela",
+   "type": "concert",
+   "start": "2027-02-16T20:00",
+   "end": null,
+   "url": "https://www.einewelthaus.de/events/mein-weg-vom-kongo-nach-europa-zwischen-widerstand-flucht-und-exil-lesung-mit-emmanuel-mbolela/",
+   "venue": "EineWeltHaus München",
+   "address": "Schwanthalerstr. 80, München, 80336",
+   "description": "Emmanuel Mbolela schreibt in seiner autobiographischen Erzählung über seine politische Aktivität in der Demokratischen Republik Kongo und die brutale Repression staatlicher Sicherheitsorgane, die ihn in die Emigration zwingt. Viele Jahre lang kämpfte Mbolela gegen die wirtschaftliche Ausbeutung des Kongo und gegen die Diktaturen. Auf eindrückliche Weise berichtet er von der Gewalt, die er während der Flucht erlebt. Quer durch die Sahara gelangt er bis nach Marokko, wo er eine Organisation subsaharischer Geflüchteter mitbegründet. Nach vier Jahren kann er in die Niederlande ausreisen, als neue Erfahrung erweisen sich dort die extrem ausbeuterischen Arbeitsbedingungen, denen vor allem migrantische Arbeitskräfte unterliegen. Im Zuge der zahlreichen Lesereisen mit dem Buch ist es gelungen, in der marokkanischen Stadt Rabat ein Schutzhaus für Flüchtlingsfrauen und ihre Kinder aufzubauen. Beim Vortrag wird auch über die Aktivitäten in Marokko berichtet. Der Autor ist Vortragender und antirassistischer Aktivist im Netzwerk Afrique Europe Interact. &nbsp; Bei der Lesung wird der Übersetzer des Buches, Alexander Behr, Autor des Buches GLOBALE SOLIDARITÄT, mit dabei sein und den Vortrag von Emmanuel Mbolela von französisch auf deutsch übersetzen. Sprache: Französisch - Deutsch Übersetzer: Alexander Behr, Autor Moderation: Laura Meschede, Journalistin »Emmanuel Mbolelas Buch ist deshalb so beeindruckend, weil es nicht nur ein Buch der mutigen, detailgenauen Brandmarkung ist, sondern auch ein Buch der unausrottbaren Hoffnung. Ein Buch des Widerstandes, des Aufstandes des Gewissens.« JEAN ZIEGLER &nbsp; &nbsp; &nbsp; Nähere Infos zum Buch, Pressestimmen sowie Bestellmöglichkeit finden Sie auf der Homepage des Mandelbaum Verlags: http://www.mandelbaum.at https://www.youtube.com/watch?v=QYofCqQJONQ&amp;t=168s GLOBALE SOLIDARITÄT von Alexander Behr: https://www.oekom.de/buch/globale-solidaritaet-9783962383701 Veranstaltung gefördert durch den Katholischen Fonds.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Lesung und Diskussion"
    ],
    "source_id": "",
    "source_name": "",

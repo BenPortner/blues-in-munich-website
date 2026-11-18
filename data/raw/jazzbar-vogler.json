@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-11-17T12:09:09+00:00",
+ "scraped_at": "2026-11-18T11:58:52+00:00",
  "status": {
   "id": "jazzbar-vogler",
   "name": "Jazzbar Vogler",
   "url": "https://www.jazzbar-vogler.com/",
   "kind": "venue",
   "status": "ok",
-  "found": 18
+  "found": 17
  },
  "events": [
-  {
-   "title": "Nilo & Masako Sakai",
-   "type": "concert",
-   "start": "2026-11-17T19:30",
-   "end": null,
-   "url": "https://www.muenchen-online.de/veranstaltung/nilo-masako-sakai-486620",
-   "venue": "Jazzbar Vogler",
-   "address": "Rumfordstr. 17, 80469 München",
-   "description": "",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Muralim",
    "type": "concert",

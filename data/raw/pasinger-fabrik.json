@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-17T12:11:27+00:00",
+ "scraped_at": "2026-11-18T12:01:07+00:00",
  "status": {
   "id": "pasinger-fabrik",
   "name": "Pasinger Fabrik",
   "url": "https://www.pasinger-fabrik.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 47
+  "found": 48
  },
  "events": [
   {
@@ -798,6 +798,26 @@
    "venue": "Pasinger Fabrik – BAR",
    "address": "August-Exter-Str. 1, 81245 München",
    "description": "Jam Session der Neuen Jazzschool München e.V. und ihrer Berufsfachschule für Musik München Fachrichtung Rock – Pop – Jazz Ein Bandworkshop der Berufsfachschule für Musik eröffnet den Jam-Abend. Im Anschluss sind wieder alle herzlich zum Einsteigen eingeladen – besonders diejenigen, die sich bei anderen Sessions der Stadt noch nicht auf die Bühne getraut haben. · Eintritt: Kostenlos",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Susi Raith und die Spiesser: Lieder aus unsra Eckn",
+   "type": "concert",
+   "start": "2027-06-17T19:30",
+   "end": "2027-06-17T21:30",
+   "url": "https://pasinger-fabrik.de/veranstaltung/susi-raith-und-die-spiesser-lieder-aus-unsra-eckn/",
+   "venue": "Pasinger Fabrik – Ebenböckhaus",
+   "address": "August-Exter-Str. 1, 81245 München",
+   "description": "„Dahoam is ned bloß a Ort. Dahoam is a Gfühl.“ Mit ihrem neuen Programm „Lieder aus unsra Eckn“ nehmen Susi Raith und die Spießer ihr Publikum mit auf eine musikalische Reise durch die kleinen und großen Geschichten des Lebens. Durch Gassen und Wirtshäuser, über staubige Feldwege und moderne Schnellstraßen, vorbei an Erinnerungen, Begegnungen und den Momenten, die man nie ganz vergisst. Dabei bleibt’s nicht nur bei der Musik: Zwischen den Liedern wird geratscht, erzählt, philosophiert, gelacht und so manche Geschichte aus dem Leben zum Besten gegeben. Susi Raith und die Spießer sorgen für beste Unterhaltung, nehmen ihr Publikum mit auf ihre ganz eigene Reise und machen den Abend zu einem unterhaltsamen Mix aus eigener handgemachter Musik, Geschichten, Witz und echten bayerischen Momenten. Im Mittelpunkt stehen dabei Susi Raith , vielen noch bestens bekannt als eine der beliebten Raith Schwestern , und ihr Mann Jochen Goricnik , Gitarrist, Bassist und langjähriger Musiker der Ringlstetter-Band . Gemeinsam sind sie die kreativen Köpfe der Band, schreiben einen Großteil der Songs und Texte und verwandeln Erlebtes, Beobachtetes und Erdachtes in Musik, die direkt ins Herz und manchmal auch mitten ins Zwerchfell trifft. Unterstützt werden Susi und Jochen von zwei Musikern: Sebastian „Stitzi“ Stitzinger , der mit Keyboard, Akkordeon, sowie Max Seelos , der mit seinem Gespür für Groove, Dynamik und feinen Humor das musikalische Fundament der Band bildet. Musikalisch bleiben die Spießer ihrem unverwechselbaren Stil treu und überraschen doch immer wieder neu. Heimische Klänge treffen auf moderne Arrangements, feine Melodien auf treibende Rhythmen, Mundart auf zeitlose Geschichten. Mal klingt es nach einem Sommerabend am Dorfplatz, mal nach Fernweh, mal nach Rock’n’Roll, der versehentlich in der Oberpfalz gelandet ist und beschlossen hat zu bleiben. Zwischen den Liedern wird natürlich auch wieder erzählt, gelacht und aus dem Nähkästchen geplaudert. Denn manches erlebt nur, wer viel unterwegs ist – und anderes passiert direkt vor der eigenen Haustür. Die Lieder stammen aus dem Leben selbst: ehrlich, humorvoll, manchmal frech, manchmal poetisch und immer mit einem liebevollen Blick auf die Menschen und ihre Eigenheiten. Es geht um Zusammenhalt und Freiheit, um Veränderungen und Wurzeln, um alte Geschichten und neue Zeiten. „Lieder aus unsra Eckn“ ist ein Programm zum Zuhören, Mitsingen, Schmunzeln und Genießen. Ein musikalischer Abend voller Heimatgefühl – ohne Heimatkitsch. Voller Herz – ohne Pathos. · Eintritt: 22€ – 26€",
    "recurrence": null,
    "dates": [],
    "tags": [],

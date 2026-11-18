@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-17T12:11:28+00:00",
+ "scraped_at": "2026-11-18T12:01:08+00:00",
  "status": {
   "id": "ars-musica",
   "name": "ars musica e.V.",
   "url": "https://www.ars-musica-muenchen.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 9
+  "found": 10
  },
  "events": [
   {
@@ -154,6 +154,28 @@
    "dates": [],
    "tags": [
     "Loop Kunst"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "UNIDOS – A Journey from East to West",
+   "type": "concert",
+   "start": "2027-02-27T19:00",
+   "end": null,
+   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2595&title=UNIDOS%20%E2%80%93%20A%20Journey%20from%20East%20to%20West",
+   "venue": "Alte Sendlinger Kirche",
+   "address": "Plinganserstraße 1, 81373 München",
+   "description": "UNIDOS – A Journey from East to West Luis Borda, Gitarre & Ehab Abou Fakhr, Viola Zwei musikalische Welten begegnen sich in einem außergewöhnlichen Duo: Der argentinische Gitarrist und Komponist Luis Borda, bekannt als einer der bedeutendsten Vertreter des modernen Tangos, trifft auf den syrischen Bratschisten Ehab Abou Fakhr, dessen Musik in der arabischen Tradition verwurzelt ist.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Konzertreihe Migration - München - Musik"
    ],
    "source_id": "",
    "source_name": "",

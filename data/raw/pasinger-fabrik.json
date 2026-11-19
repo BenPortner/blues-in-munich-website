@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-11-18T12:01:07+00:00",
+ "scraped_at": "2026-11-19T11:58:37+00:00",
  "status": {
   "id": "pasinger-fabrik",
   "name": "Pasinger Fabrik",
   "url": "https://www.pasinger-fabrik.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 48
+  "found": 47
  },
  "events": [
-  {
-   "title": "MARTIN SCHMID – Swingtime",
-   "type": "concert",
-   "start": "2026-11-18T20:00",
-   "end": "2026-11-18T22:00",
-   "url": "https://pasinger-fabrik.de/veranstaltung/martin-schmid-swingtime-4/",
-   "venue": "Pasinger Fabrik – Kleine Bühne",
-   "address": "August-Exter-Str. 1, 81245 München",
-   "description": "Evergreens und Raritäten aus dem swingenden Liederbuch der deutschen Unterhaltungsmusik An diesem Abend lädt Sie Martin Schmid ein, seine Leidenschaft und seine Liebe zum Swing zu erleben. So singt und tanzt er sich durch ein vergnügliches Programm voller köstlicher, immergrüner Melodien und Lieder, die aus einer Zeit stammen, in der die Musik noch swingend war und man den Fox noch trottete. Abgestaubt, aufpoliert und in HD. Auch Jazzfreunde kommen bei den mitreißenden Soli seiner fabelhaften Band auf ihre Kosten, wenn Daniel Mark Eberhard in die Tasten langt, Walter Bittner in den Trommeln rührt, Uli Fiedler den Bass zupft und Stephan Holstein sich mit Saxophon und Klarinette in die Herzen der Gäste spielt. Denn Martin Schmid hat von den Besten gelernt: Als Kontrabassist Hugo Strassers „Hot Five“ arbeitete er noch mit Swinglegenden wie Max Greger oder Hazy Osterwald und wird nun auf seine Weise deren Erbe weitertragen. Lehnen Sie sich entspannt zurück, genießen Sie den Augenblick und herzlich willkommen zu der Show! Mit dieser Liebeserklärung an den Swing zeigt Martin Schmid wieder einmal, dass er ein Meister der gepflegten Abendunterhaltung. · Eintritt: €22 – €26",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Frederic Levi & Band",
    "type": "concert",
@@ -470,14 +450,14 @@
    "id": ""
   },
   {
-   "title": "Stefan „Das Eich“ Eichner spielt Reinhard Mey",
+   "title": "Stefan „Das Eich“ Eichner",
    "type": "concert",
    "start": "2027-02-11T20:00",
    "end": "2027-02-11T22:00",
    "url": "https://pasinger-fabrik.de/veranstaltung/stefan-das-eich-eichner-spielt-reinhard-mey/",
    "venue": "Pasinger Fabrik – Wagenhalle",
    "address": "August-Exter-Str. 1, 81245 München",
-   "description": "„Sie hören viel Reinhard Mey, oder? Die Gitarre und die Art der Texte erinnern mich sehr daran – wunderbar!“. Diese und ähnliche Fragen bekommt Stefan Eichner – besser bekannt als „Das Eich“ – nach seinen Konzerten immer wieder zu hören. Nicht von ungefähr, denn in der Tat ist der „Entspannte Franke“ ein Liebhaber der Chansons von Deutschlands bekanntestem Liedermacher und hat sein Gitarrenspiel größtenteils mit Liedern von Reinhard Mey gelernt und verfeinert. Jetzt hat sich Stefan Eichner einen Wunsch erfüllt und ein abendfüllendes Reinhard-Mey-Chanson-Bühnenprogramm zusammengestellt, das er neben seinen eigenen Musik-Kabarett-Programmen ab sofort live spielen wird. Natürlich, wie Reinhard Mey selbst, ohne Band. Nur mit Gitarre. Der Künstler selbst beschreibt den Abend so: „Die Lieder begleiten mich mehr als ein halbes Leben lang: Zu Hause, auf Tour, eigentlich ständig. Reinhard ist einzigartig, nicht zu kopieren und darum soll es in diesem Programm auch nicht gehen. Auch ist der Konzertabend kein „Best of“. Reinhard Mey hat über 500 Lieder in seiner Karriere geschrieben. Eine unglaubliche Leistung. Von daher würde aus meiner Sicht eine Zusammenstellung aus z.B. den 20 größten Erfolgen dieser Leistung nicht gerecht. Genau deshalb finden sich neben Klassikern wie „Über den Wolken“ und „Gute Nacht, Freunde“ auch Lieder aus der „zweiten und dritten Reihe“ wieder, die – wie ich finde – auch gespielt werden müssen. In zahlreichen Gesprächen nach den Konzerten erzählen mir die Besucher, dass ihnen gerade das so gut gefällt. Diese durchweg positive Resonanz freut mich sehr und sorgt bei mir immer wieder für große Vorfreude auf das nächste Konzert!“ · Eintritt: 24€ – 28€",
+   "description": "spielt Reinhard Mey „Sie hören viel Reinhard Mey, oder? Die Gitarre und die Art der Texte erinnern mich sehr daran – wunderbar!“. Diese und ähnliche Fragen bekommt Stefan Eichner – besser bekannt als „Das Eich“ – nach seinen Konzerten immer wieder zu hören. Nicht von ungefähr, denn in der Tat ist der „Entspannte Franke“ ein Liebhaber der Chansons von Deutschlands bekanntestem Liedermacher und hat sein Gitarrenspiel größtenteils mit Liedern von Reinhard Mey gelernt und verfeinert. Jetzt hat sich Stefan Eichner einen Wunsch erfüllt und ein abendfüllendes Reinhard-Mey-Chanson-Bühnenprogramm zusammengestellt, das er neben seinen eigenen Musik-Kabarett-Programmen ab sofort live spielen wird. Natürlich, wie Reinhard Mey selbst, ohne Band. Nur mit Gitarre. Der Künstler selbst beschreibt den Abend so: „Die Lieder begleiten mich mehr als ein halbes Leben lang: Zu Hause, auf Tour, eigentlich ständig. Reinhard ist einzigartig, nicht zu kopieren und darum soll es in diesem Programm auch nicht gehen. Auch ist der Konzertabend kein „Best of“. Reinhard Mey hat über 500 Lieder in seiner Karriere geschrieben. Eine unglaubliche Leistung. Von daher würde aus meiner Sicht eine Zusammenstellung aus z.B. den 20 größten Erfolgen dieser Leistung nicht gerecht. Genau deshalb finden sich neben Klassikern wie „Über den Wolken“ und „Gute Nacht, Freunde“ auch Lieder aus der „zweiten und dritten Reihe“ wieder, die – wie ich finde – auch gespielt werden müssen. In zahlreichen Gesprächen nach den Konzerten erzählen mir die Besucher, dass ihnen gerade das so gut gefällt. Diese durchweg positive Resonanz freut mich sehr und sorgt bei mir immer wieder für große Vorfreude auf das nächste Konzert!“ · Eintritt: 24€ – 28€",
    "recurrence": null,
    "dates": [],
    "tags": [],

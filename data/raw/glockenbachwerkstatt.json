@@ -1,37 +1,14 @@
 {
- "scraped_at": "2026-11-18T11:58:38+00:00",
+ "scraped_at": "2026-11-19T11:55:47+00:00",
  "status": {
   "id": "glockenbachwerkstatt",
   "name": "Glockenbachwerkstatt – Fish'n Blues",
   "url": "https://www.glockenbachwerkstatt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 11
+  "found": 10
  },
  "events": [
-  {
-   "title": "Sepp Eisele Trio",
-   "type": "concert",
-   "start": "2026-11-18T20:30",
-   "end": null,
-   "url": "https://www.glockenbachwerkstatt.de/events/sepp-eisele-trio/",
-   "venue": "Glockenbachwerkstatt",
-   "address": "Blumenstraße 7, 80331 München",
-   "description": "Fisch: 19:00 Uhr · kostenfrei",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Fish'n Blues",
-    "Konzert"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Pete Gavin",
    "type": "concert",

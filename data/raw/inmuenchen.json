@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-18T12:04:12+00:00",
+ "scraped_at": "2026-11-19T11:59:13+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
@@ -9,6 +9,50 @@
   "found": 158
  },
  "events": [
+  {
+   "title": "Edwin Kimmler",
+   "type": "concert",
+   "start": "2027-04-30T20:00",
+   "end": "2027-04-30T22:00",
+   "url": "https://www.in-muenchen.de/events/edwin-kimmler-kom-olching-2027.html",
+   "venue": "Kulturwerkstatt am Olchinger Mühlbach – KOM",
+   "address": "Hauptstraße 68, 82140 Olching",
+   "description": "Solo am Klavier, mit verschiedenen Gitarren und Mundharmonika: Ein Abend zwischen Blues, Boogie, Soul und karibischen Klängen, begleitet von Anekdoten aus 49 Jahren auf der Bühne.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Blues"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Charles Pasi",
+   "type": "concert",
+   "start": "2027-01-26T20:00",
+   "end": "2027-01-26T22:30",
+   "url": "https://www.in-muenchen.de/events/charles-pasi-jazz-beyond.html",
+   "venue": "Bayerischer Hof Night Club",
+   "address": "Promenadeplatz 2-6, 80333 München",
+   "description": "Der französische Mundharmonikaspieler und Sänger verbindet Blues, Jazz, Rock und Weltmusik.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Blues & Jazz"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
   {
    "title": "11. Gautinger Bluesnacht",
    "type": "concert",
@@ -263,7 +307,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Soul, Jazz"
+    "Soul-Jazz"
    ],
    "source_id": "",
    "source_name": "",
@@ -1346,28 +1390,6 @@
    "id": ""
   },
   {
-   "title": "Sepp Eisele Trio",
-   "type": "concert",
-   "start": "2026-11-18T20:30",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/sepp-eisele-trio.html",
-   "venue": "Glockenbachwerkstatt",
-   "address": "Blumenstraße 7, 80331 München",
-   "description": "Jazz, Latin und Folk mit Augenzwinkern: Das Sepp Eisele Trio spielt kantige, improvisierte Eigenkompositionen.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Jazz"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Jared James Nichols",
    "type": "concert",
    "start": "2027-02-05T20:00",
@@ -2356,28 +2378,6 @@
    "id": ""
   },
   {
-   "title": "Session Stormy Wednesday",
-   "type": "concert",
-   "start": "2026-11-18T20:00",
-   "end": "2026-11-18T22:30",
-   "url": "https://www.in-muenchen.de/events/session-stormy-wednesday.html",
-   "venue": "Kulturzentrum Giesinger Bahnhof",
-   "address": "Giesinger Bahnhofplatz 1, 81539 München",
-   "description": "Im Giesinger Bahnhof entfaltet sich eine akustische Blues Session voller Spontanität und Spielfreude. Unbekannte musikalische Gäste bringen ihre Instrumente und Stimmen mit, um das Bühnengeschehen zu bereichern. Gastgeber ist die Bernd Bauer Blues Band, die den Abend mit einem Set eröffnet.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Blues"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Heiner Lauterbach – Like a Hobo",
    "type": "concert",
    "start": "2027-02-05T20:00",
@@ -2779,7 +2779,7 @@
    "url": "https://www.in-muenchen.de/events/joe-bonamassa.html",
    "venue": "Olympiapark München / Tollwood Sommerfestival",
    "address": "Spiridon-Louis-Ring, 80809 München",
-   "description": "Blues-Rock-Fans dürfen sich auf einen Abend mit Joe Bonamassa freuen. Der Ausnahmegitarrist präsentiert sein facettenreiches Spiel, das Bluestradition mit Rock, Soul und Americana vereint. Als Special Guest begeistert Marc Broussard mit souliger Stimme und Südstaaten-Blues.",
+   "description": "Bluesgitarrist Joe Bonamassa spielt am 12. Juli 2027 in der Tollwood Musik-Arena, als Special Guest bringt Marc Broussard Soul aus den Südstaaten mit.",
    "recurrence": null,
    "dates": [],
    "tags": [

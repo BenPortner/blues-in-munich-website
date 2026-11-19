@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T12:04:43+00:00",
+  "generated_at": "2026-11-19T11:59:44+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -2988,60 +2988,6 @@
       "id": "20bf1470443b"
     },
     {
-      "title": "Solo Blues · alle Level",
-      "type": "class",
-      "start": "2026-11-18T17:30",
-      "end": "2026-11-18T18:30",
-      "url": "https://www.vintage-club.de/classes.aspx",
-      "venue": "Vintage Club (VC Studio 2)",
-      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
-      "description": "Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen, wesentliche Schritte und Figuren, um dich auf der Tanzfläche sicher und wohl zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkundet, die zu verschiedenen Musikstilen getanzt werden können. Advance registration by email required.",
-      "recurrence": "Wednesdays 17:30–18:30",
-      "dates": [
-        "2026-11-18",
-        "2026-11-25",
-        "2026-12-02",
-        "2026-12-09"
-      ],
-      "tags": [
-        "course block"
-      ],
-      "source_id": "vintage-club",
-      "source_name": "Vintage Club",
-      "school_name": "Vintage Club",
-      "school_url": "https://www.vintage-club.de/",
-      "artists": [],
-      "known_artists": [],
-      "id": "9297c866acc6"
-    },
-    {
-      "title": "Blues · alle Level",
-      "type": "class",
-      "start": "2026-11-18T18:45",
-      "end": "2026-11-18T19:45",
-      "url": "https://www.vintage-club.de/classes.aspx",
-      "venue": "Vintage Club (VC Studio 2)",
-      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
-      "description": "Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen, wesentliche Schritte und Figuren, um dich auf der Tanzfläche sicher und wohl zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkundet, die zu verschiedenen Musikstilen getanzt werden können.",
-      "recurrence": "Wednesdays 18:45–19:45",
-      "dates": [
-        "2026-11-18",
-        "2026-11-25",
-        "2026-12-02",
-        "2026-12-09"
-      ],
-      "tags": [
-        "course block"
-      ],
-      "source_id": "vintage-club",
-      "source_name": "Vintage Club",
-      "school_name": "Vintage Club",
-      "school_url": "https://www.vintage-club.de/",
-      "artists": [],
-      "known_artists": [],
-      "id": "0bbea59d456a"
-    },
-    {
       "title": "Bernd Bauer Blues Band: Stormy Wednesday",
       "type": "concert",
       "start": "2026-11-18T20:00",
@@ -3478,6 +3424,60 @@
       "id": "9199cb9d9603"
     },
     {
+      "title": "Solo Blues · alle Level",
+      "type": "class",
+      "start": "2026-11-18T17:30",
+      "end": "2026-11-18T18:30",
+      "url": "https://www.vintage-club.de/classes.aspx",
+      "venue": "Vintage Club (VC Studio 2)",
+      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+      "description": "Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen, wesentliche Schritte und Figuren, um dich auf der Tanzfläche sicher und wohl zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkundet, die zu verschiedenen Musikstilen getanzt werden können. Advance registration by email required.",
+      "recurrence": "Wednesdays 17:30–18:30",
+      "dates": [
+        "2026-11-18",
+        "2026-11-25",
+        "2026-12-02",
+        "2026-12-09"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "vintage-club",
+      "source_name": "Vintage Club",
+      "school_name": "Vintage Club",
+      "school_url": "https://www.vintage-club.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "9297c866acc6"
+    },
+    {
+      "title": "Blues · alle Level",
+      "type": "class",
+      "start": "2026-11-18T18:45",
+      "end": "2026-11-18T19:45",
+      "url": "https://www.vintage-club.de/classes.aspx",
+      "venue": "Vintage Club (VC Studio 2)",
+      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+      "description": "Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen, wesentliche Schritte und Figuren, um dich auf der Tanzfläche sicher und wohl zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkundet, die zu verschiedenen Musikstilen getanzt werden können.",
+      "recurrence": "Wednesdays 18:45–19:45",
+      "dates": [
+        "2026-11-18",
+        "2026-11-25",
+        "2026-12-02",
+        "2026-12-09"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "source_id": "vintage-club",
+      "source_name": "Vintage Club",
+      "school_name": "Vintage Club",
+      "school_url": "https://www.vintage-club.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "0bbea59d456a"
+    },
+    {
       "title": "Black Patti",
       "type": "concert",
       "start": "2026-11-25T16:30",
@@ -3711,7 +3711,7 @@
       "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "venue": "Rheinpfalz Schwabing",
       "address": "Kurfürstenstraße 35, 80801 München",
-      "description": "Chicago Blues: ein musikalischer Leckerbissen! Mit höchster Spielfreude zelebriert die Jakarta Blues Band aus dem Münchner Umland alle Facetten des Chicago Blues und widerlegt immer wieder aufs Neue, dass Blues nur für Melancholiker geeignet ist. Die sechs Musiker bieten perfekte handgemachte Musik, bei der man einfach nicht stillhalten kann. Sie leben jede Note, so dass die Kraft und Emotionalität dieser Musik regelmäßig auf die Zuhörer überspringen und jede(r) mitwippt oder tanzt. Dabei ist kaum eine Formation ist so nah dran am Sound der Originale. Kaum ein Gitarrist pflegt den Stil so auth",
+      "description": "Chicago Blues: ein musikalischer Leckerbissen! Bitte frühzeitig kommen, es könnte eng werden… Mit höchster Spielfreude zelebriert die Jakarta Blues Band aus dem Münchner Umland alle Facetten des Chicago Blues und widerlegt immer wieder aufs Neue, dass Blues nur für Melancholiker geeignet ist. Die sechs Musiker bieten perfekte handgemachte Musik, bei der man einfach nicht stillhalten kann. Sie leben jede Note, so dass die Kraft und Emotionalität dieser Musik regelmäßig auf die Zuhörer überspringen und jede(r) mitwippt oder tanzt. Dabei ist kaum eine Formation ist so nah dran am Sound der Origin",
       "recurrence": null,
       "dates": [],
       "tags": [],
@@ -4103,7 +4103,7 @@
       "url": "https://www.tollwood.de/veranstaltungen/2026/kozmic-blue/",
       "venue": "Tollwood – Hexenkessel",
       "address": "Theresienwiese, 80336 München",
-      "description": "Kosmischer Blues & Rock",
+      "description": "Kosmischer Blues & Rock Fernab vom Mainstream spielt „Kozmic Blue” ihren ganz eigenen Sound: kosmischen Blues und Rock. Die Kritiken loben „an explosion of emotion” (Dagblaad Apeldoorn, Nederland) und nennen sie “einen der besten Liveacts überhaupt!” (Blues-Road-Germany). Sängerin Maggie Mackenthun gilt als „the queen of scream“ (Village Voice San Francisco, California). Und die Rheinpfalz schreibt begeistert: “Sie hat den Blues, klagt, kratzt, röhrt, swingt sich in opernhafte Sphären empor (…)ein absoluter Hörgenuss”. Gemeinsam mit Gerhard Sagemüller ist der kosmische Blues im Hexenkessel zu ",
       "recurrence": null,
       "dates": [],
       "tags": [
@@ -4237,7 +4237,7 @@
       "url": "https://www.tollwood.de/veranstaltungen/2026/boogiemens-friends/",
       "venue": "Tollwood – Hexenkessel",
       "address": "Theresienwiese, 80336 München",
-      "description": "Boogie Woogie & Blues der 20er & 30er Jahre",
+      "description": "Boogie Woogie & Blues der 20er & 30er Jahre Mit dem dynamischen Quartett rund um Marc Hupfer, Ulrich Zenkel, Florian Rausch und Deirdre Kelly rollt der Boogie-Woogie Express auf Tollwood. 20 flinke Finger, die in 176 Tasten greifen. Berauschende Piano-Klänge und fulminanter Gesang von Deirdre Kelly verkörpern die Essenz von Boogie und Blues. Let’s Boogie!",
       "recurrence": null,
       "dates": [],
       "tags": [
@@ -5031,6 +5031,35 @@
       "id": "ce4a5f87b3bb"
     },
     {
+      "title": "Charles Pasi",
+      "type": "concert",
+      "start": "2027-01-26T20:00",
+      "end": "2027-01-26T22:30",
+      "url": "https://www.in-muenchen.de/events/charles-pasi-jazz-beyond.html",
+      "venue": "Bayerischer Hof Night Club",
+      "address": "Promenadeplatz 2-6, 80333 München",
+      "description": "Der französische Mundharmonikaspieler und Sänger verbindet Blues, Jazz, Rock und Weltmusik.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues & Jazz"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Charles Pasi",
+          "url": "https://www.last.fm/music/Charles+Pasi"
+        }
+      ],
+      "known_artists": [
+        "Charles Pasi"
+      ],
+      "id": "cc38eb81cc91"
+    },
+    {
       "title": "Stephan Zinner – Großstadtblues",
       "type": "concert",
       "start": "2027-01-26T20:00",
@@ -5130,8 +5159,8 @@
       "school_url": null,
       "artists": [
         {
-          "name": "Sean Athens",
-          "url": "https://www.last.fm/music/Sean+Athens"
+          "name": "Sean Athens Band",
+          "url": "https://www.last.fm/music/Sean+Athens+Band"
         }
       ],
       "known_artists": [],
@@ -6117,6 +6146,33 @@
       "id": "70f1eb4e43ad"
     },
     {
+      "title": "Edwin Kimmler",
+      "type": "concert",
+      "start": "2027-04-30T20:00",
+      "end": "2027-04-30T22:00",
+      "url": "https://www.in-muenchen.de/events/edwin-kimmler-kom-olching-2027.html",
+      "venue": "Kulturwerkstatt am Olchinger Mühlbach – KOM",
+      "address": "Hauptstraße 68, 82140 Olching",
+      "description": "Solo am Klavier, mit verschiedenen Gitarren und Mundharmonika: Ein Abend zwischen Blues, Boogie, Soul und karibischen Klängen, begleitet von Anekdoten aus 49 Jahren auf der Bühne.",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Blues"
+      ],
+      "source_id": "inmuenchen",
+      "source_name": "IN München",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Edwin Kimmler",
+          "url": "https://www.last.fm/music/Edwin+Kimmler"
+        }
+      ],
+      "known_artists": [],
+      "id": "68c8c5e0d873"
+    },
+    {
       "title": "Cliff Stevens (CAN)",
       "type": "concert",
       "start": "2027-04-30T20:15",
@@ -6309,7 +6365,7 @@
       "url": "https://www.in-muenchen.de/events/joe-bonamassa.html",
       "venue": "Olympiapark München / Tollwood Sommerfestival",
       "address": "Spiridon-Louis-Ring, 80809 München",
-      "description": "Blues-Rock-Fans dürfen sich auf einen Abend mit Joe Bonamassa freuen. Der Ausnahmegitarrist präsentiert sein facettenreiches Spiel, das Bluestradition mit Rock, Soul und Americana vereint. Als Special Guest begeistert Marc Broussard mit souliger Stimme und Südstaaten-Blues.",
+      "description": "Bluesgitarrist Joe Bonamassa spielt am 12. Juli 2027 in der Tollwood Musik-Arena, als Special Guest bringt Marc Broussard Soul aus den Südstaaten mit.",
       "recurrence": null,
       "dates": [],
       "tags": [
@@ -6463,7 +6519,7 @@
       "kind": "school",
       "status": "ok",
       "found": 63,
-      "updated_at": "2026-11-18T11:58:12+00:00",
+      "updated_at": "2026-11-19T11:55:20+00:00",
       "kept": 14
     },
     {
@@ -6473,7 +6529,7 @@
       "kind": "school",
       "status": "ok",
       "found": 113,
-      "updated_at": "2026-11-18T11:58:17+00:00",
+      "updated_at": "2026-11-19T11:55:25+00:00",
       "kept": 14
     },
     {
@@ -6483,7 +6539,7 @@
       "kind": "school",
       "status": "ok",
       "found": 5,
-      "updated_at": "2026-11-18T11:58:23+00:00",
+      "updated_at": "2026-11-19T11:55:31+00:00",
       "kept": 4
     },
     {
@@ -6493,7 +6549,7 @@
       "kind": "school",
       "status": "ok",
       "found": 248,
-      "updated_at": "2026-11-18T11:58:35+00:00",
+      "updated_at": "2026-11-19T11:55:43+00:00",
       "kept": 3
     },
     {
@@ -6502,8 +6558,8 @@
       "url": "https://www.glockenbachwerkstatt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 11,
-      "updated_at": "2026-11-18T11:58:38+00:00",
+      "found": 10,
+      "updated_at": "2026-11-19T11:55:47+00:00",
       "kept": 50
     },
     {
@@ -6513,7 +6569,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 14,
-      "updated_at": "2026-11-18T11:58:43+00:00",
+      "updated_at": "2026-11-19T11:55:53+00:00",
       "kept": 7
     },
     {
@@ -6522,8 +6578,8 @@
       "url": "https://berndbauerbluesband.de/",
       "kind": "band",
       "status": "ok",
-      "found": 4,
-      "updated_at": "2026-11-18T11:58:46+00:00",
+      "found": 3,
+      "updated_at": "2026-11-19T11:55:55+00:00",
       "kept": 17
     },
     {
@@ -6532,8 +6588,8 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 71,
-      "updated_at": "2026-11-18T11:58:50+00:00",
+      "found": 73,
+      "updated_at": "2026-11-19T11:55:59+00:00",
       "kept": 2
     },
     {
@@ -6542,8 +6598,8 @@
       "url": "https://www.jazzbar-vogler.com/",
       "kind": "venue",
       "status": "ok",
-      "found": 17,
-      "updated_at": "2026-11-18T11:58:52+00:00",
+      "found": 16,
+      "updated_at": "2026-11-19T11:56:02+00:00",
       "kept": 0
     },
     {
@@ -6553,7 +6609,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 10,
-      "updated_at": "2026-11-18T11:58:53+00:00",
+      "updated_at": "2026-11-19T11:56:04+00:00",
       "kept": 1
     },
     {
@@ -6563,7 +6619,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 8,
-      "updated_at": "2026-11-18T11:58:53+00:00",
+      "updated_at": "2026-11-19T11:56:04+00:00",
       "kept": 0
     },
     {
@@ -6573,7 +6629,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 35,
-      "updated_at": "2026-11-18T11:58:57+00:00",
+      "updated_at": "2026-11-19T11:56:07+00:00",
       "kept": 6
     },
     {
@@ -6583,7 +6639,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 43,
-      "updated_at": "2026-11-18T11:59:00+00:00",
+      "updated_at": "2026-11-19T11:56:11+00:00",
       "kept": 26
     },
     {
@@ -6593,7 +6649,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 100,
-      "updated_at": "2026-11-18T12:01:02+00:00",
+      "updated_at": "2026-11-19T11:58:33+00:00",
       "kept": 9
     },
     {
@@ -6602,8 +6658,8 @@
       "url": "https://stragula.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 29,
-      "updated_at": "2026-11-18T12:01:02+00:00",
+      "found": 30,
+      "updated_at": "2026-11-19T11:58:34+00:00",
       "kept": 4
     },
     {
@@ -6611,8 +6667,8 @@
       "name": "Ackermannbogen e.V.",
       "url": "https://ackermannbogen-ev.de/programm-alles",
       "kind": "venue",
-      "status": "ok",
-      "found": 14,
+      "status": "failed",
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://ackermannbogen-ev.de/wp-json/tribe/events/v1/events?per_page=50&categories=musik%2Cmusik-gesang&page=1",
       "updated_at": "2026-11-18T12:01:05+00:00",
       "kept": 0
     },
@@ -6622,8 +6678,8 @@
       "url": "https://www.pasinger-fabrik.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 48,
-      "updated_at": "2026-11-18T12:01:07+00:00",
+      "found": 47,
+      "updated_at": "2026-11-19T11:58:37+00:00",
       "kept": 6
     },
     {
@@ -6633,7 +6689,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 10,
-      "updated_at": "2026-11-18T12:01:08+00:00",
+      "updated_at": "2026-11-19T11:58:38+00:00",
       "kept": 2
     },
     {
@@ -6643,7 +6699,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 9,
-      "updated_at": "2026-11-18T12:01:11+00:00",
+      "updated_at": "2026-11-19T11:58:41+00:00",
       "kept": 0
     },
     {
@@ -6651,9 +6707,9 @@
       "name": "Kunst in Sendling e.V.",
       "url": "https://www.kunst-in-sendling.com/",
       "kind": "venue",
-      "status": "failed",
-      "error": "ConnectionError: HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Max retries exceeded with url: /wp-json/tribe/events/v1/events?per_page=50&page=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Read timed out. (read timeout=30.0)\"))",
-      "updated_at": "2026-11-17T12:11:39+00:00",
+      "status": "ok",
+      "found": 10,
+      "updated_at": "2026-11-19T11:58:48+00:00",
       "kept": 0
     },
     {
@@ -6663,7 +6719,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 7,
-      "updated_at": "2026-11-18T12:03:43+00:00",
+      "updated_at": "2026-11-19T11:58:49+00:00",
       "kept": 0
     },
     {
@@ -6672,8 +6728,8 @@
       "url": "https://www.einewelthaus.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 30,
-      "updated_at": "2026-11-18T12:03:58+00:00",
+      "found": 28,
+      "updated_at": "2026-11-19T11:58:56+00:00",
       "kept": 1
     },
     {
@@ -6683,7 +6739,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 3,
-      "updated_at": "2026-11-18T12:03:58+00:00",
+      "updated_at": "2026-11-19T11:58:57+00:00",
       "kept": 1
     },
     {
@@ -6703,8 +6759,8 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 158,
-      "updated_at": "2026-11-18T12:04:12+00:00",
-      "kept": 75
+      "updated_at": "2026-11-19T11:59:13+00:00",
+      "kept": 77
     },
     {
       "id": "mvp",
@@ -6713,7 +6769,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 40,
-      "updated_at": "2026-11-18T12:04:21+00:00",
+      "updated_at": "2026-11-19T11:59:21+00:00",
       "kept": 3
     },
     {
@@ -6722,8 +6778,8 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 189,
-      "updated_at": "2026-11-18T12:04:42+00:00",
+      "found": 191,
+      "updated_at": "2026-11-19T11:59:44+00:00",
       "kept": 6
     },
     {
@@ -6733,7 +6789,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 0,
-      "updated_at": "2026-11-18T12:04:43+00:00",
+      "updated_at": "2026-11-19T11:59:44+00:00",
       "kept": 0
     },
     {
@@ -6743,7 +6799,7 @@
       "kind": "manual",
       "status": "ok",
       "found": 0,
-      "updated_at": "2026-11-18T12:04:43+00:00",
+      "updated_at": "2026-11-19T11:59:44+00:00",
       "kept": 0
     }
   ]

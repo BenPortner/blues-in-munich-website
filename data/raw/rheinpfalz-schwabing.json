@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-18T11:58:43+00:00",
+ "scraped_at": "2026-11-19T11:55:53+00:00",
  "status": {
   "id": "rheinpfalz-schwabing",
   "name": "Rheinpfalz Schwabing",
@@ -77,7 +77,7 @@
    "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
    "venue": "Rheinpfalz Schwabing",
    "address": "Kurfürstenstraße 35, 80801 München",
-   "description": "Chicago Blues: ein musikalischer Leckerbissen! Mit höchster Spielfreude zelebriert die Jakarta Blues Band aus dem Münchner Umland alle Facetten des Chicago Blues und widerlegt immer wieder aufs Neue, dass Blues nur für Melancholiker geeignet ist. Die sechs Musiker bieten perfekte handgemachte Musik, bei der man einfach nicht stillhalten kann. Sie leben jede Note, so dass die Kraft und Emotionalität dieser Musik regelmäßig auf die Zuhörer überspringen und jede(r) mitwippt oder tanzt. Dabei ist kaum eine Formation ist so nah dran am Sound der Originale. Kaum ein Gitarrist pflegt den Stil so authentisch wie der Lead-Gitarrist und Sänger der Band, der sich vor allem in die Lines von Otis Rush und B.B. King hineinfuchst wie kein Zweiter und sie als Inspiration für eigene Soli einsetzt. Mit ihrem abwechslungsreichen Programm hat sich die Band in Südbayern mittlerweile einen erstklassigen Ruf erspielt, der ihnen auch Einladungen etwa zu „Jazz am Bichl“ nach Burghausen, „Bayerns Musikhauptstadt“, oder zum Flussfestival auf der Loisach nach Wolfratshausen eingebracht hat. Weitere Infos: Jakarta Blues Band",
+   "description": "Chicago Blues: ein musikalischer Leckerbissen! Bitte frühzeitig kommen, es könnte eng werden… Mit höchster Spielfreude zelebriert die Jakarta Blues Band aus dem Münchner Umland alle Facetten des Chicago Blues und widerlegt immer wieder aufs Neue, dass Blues nur für Melancholiker geeignet ist. Die sechs Musiker bieten perfekte handgemachte Musik, bei der man einfach nicht stillhalten kann. Sie leben jede Note, so dass die Kraft und Emotionalität dieser Musik regelmäßig auf die Zuhörer überspringen und jede(r) mitwippt oder tanzt. Dabei ist kaum eine Formation ist so nah dran am Sound der Originale. Kaum ein Gitarrist pflegt den Stil so authentisch wie der Lead-Gitarrist und Sänger der Band, der sich vor allem in die Lines von Otis Rush und B.B. King hineinfuchst wie kein Zweiter und sie als Inspiration für eigene Soli einsetzt. Mit ihrem abwechslungsreichen Programm hat sich die Band in Südbayern mittlerweile einen erstklassigen Ruf erspielt, der ihnen auch Einladungen etwa zu „Jazz am Bichl“ nach Burghausen, „Bayerns Musikhauptstadt“, oder zum Flussfestival auf der Loisach nach Wolfratshausen eingebracht hat. Weitere Infos: Jakarta Blues Band",
    "recurrence": null,
    "dates": [],
    "tags": [],
@@ -230,14 +230,14 @@
    "id": ""
   },
   {
-   "title": "Silvester: Surprise",
+   "title": "Silvester: Bitte noch etwas Geduld",
    "type": "concert",
    "start": "2026-12-31T20:00",
    "end": null,
    "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
    "venue": "Rheinpfalz Schwabing",
    "address": "Kurfürstenstraße 35, 80801 München",
-   "description": "",
+   "description": "Wir wissen noch nicht, ob und was wir machen …",
    "recurrence": null,
    "dates": [],
    "tags": [],

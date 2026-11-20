@@ -1,14 +1,58 @@
 {
- "scraped_at": "2026-11-19T11:59:13+00:00",
+ "scraped_at": "2026-11-20T12:02:51+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 158
+  "found": 159
  },
  "events": [
+  {
+   "title": "Munich Rhythm and Blues Band",
+   "type": "concert",
+   "start": "2026-12-04T20:00",
+   "end": "2026-12-04T23:00",
+   "url": "https://www.in-muenchen.de/events/munich-rhythm-and-blues-band-rheinpfalz.html",
+   "venue": "Rheinpfalz Schwabing",
+   "address": "Kurfürstenstraße 35, 80801 München",
+   "description": "Funk, Soul, Blues, Rock und Jazz mit Songs von Etta James bis Johnny Cash stehen auf dem Programm.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Blues"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Eight Cylinder Bigband",
+   "type": "concert",
+   "start": "2027-02-15T20:30",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/eight-cylinder-bigband-unterfahrt-2027.html",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstr. 42, 81675 München",
+   "description": "Die Bigband um einen Münchner Hammond-Organisten mischt Jazz mit Soul, Funk, Fusion und Latin.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Jazz"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
   {
    "title": "Edwin Kimmler",
    "type": "concert",
@@ -572,6 +616,28 @@
    "dates": [],
    "tags": [
     "Jazz"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "City of the Sun",
+   "type": "concert",
+   "start": "2026-12-10T20:30",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/city-of-the-sun-rote-sonne-2026.html",
+   "venue": "Rote Sonne",
+   "address": "Maximiliansplatz 5, 80333 München",
+   "description": "Die Instrumentalband aus New York ist live zu erleben.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Instrumental"
    ],
    "source_id": "",
    "source_name": "",
@@ -1204,28 +1270,6 @@
    "dates": [],
    "tags": [
     "Kabarett"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Riserva 17",
-   "type": "concert",
-   "start": "2026-11-19T19:30",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/riserva-17-lacanto-live.html",
-   "venue": "Lacanto",
-   "address": "Vöttinger Str. 40, 85354 Freising",
-   "description": "Eine Stimme, die unter die Haut geht, und fünf Musiker mit unterschiedlichstem Hintergrund. Die Freisinger Band Riserva 17 um Sängerin Anja Reja kreiert eine groovende Mischung aus Jazz, Blues, Latin, Funk und Pop, die in die Beine geht und im Ohr bleibt.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Jazz-Pop-Fusion"
    ],
    "source_id": "",
    "source_name": "",
@@ -1975,26 +2019,6 @@
    "tags": [
     "Jazz und Blues"
    ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Raffaele Quarta Trio",
-   "type": "concert",
-   "start": "2026-11-19T20:00",
-   "end": "2026-11-19T22:00",
-   "url": "https://www.in-muenchen.de/events/raffaele-quarta-trio.html",
-   "venue": "Cafe Bar Mellow",
-   "address": "Dachauer Str. 159, 80636 München",
-   "description": "Italienische Folklore, Pop & Rock. Ein mitreißender Mix aus Italo Pop, Folk, Latin-Rock und Blues – das ist die musikalische Handschrift von Raffaele Quarta und seiner Band. Mit Leidenschaft, Spielfreude und einer starken Bühnenpräsenz begeistert die Formation ihr Publikum – ob mit eigenen Songs oder bekannten Hits zum Mitsingen. Virtuose Soli, tanzbare Rhythmen und echtes…",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,

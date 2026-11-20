@@ -1,36 +1,14 @@
 {
- "scraped_at": "2026-11-19T11:55:59+00:00",
+ "scraped_at": "2026-11-20T11:57:18+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 73
+  "found": 74
  },
  "events": [
-  {
-   "title": "JOHANNES ENDERS",
-   "type": "concert",
-   "start": "2026-11-19T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11700",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Glück mag ein flüchtiges Gefühl sein, etwas, dass sich nicht festhalten lässt. Aber, die Momente, in denen es einem hold war, die wirken oft lange nach. Und machen etwas mit uns. Vielleicht hat der Weilheimer Saxofonist Johannes Enders sein jüngstes Album auch Phantom Happiness genannt, weil er immer noch von diesen Phasen profitiert, in denen Freude und Seligkeit zusammenkamen. Die Musik, die er in handverlesener Besetzung einspielte, macht mit ihrer Grundstimmung, ihren Melodien irgendwie süchtig. Phantom Schmerz könnte einsetzen, wenn das Konzert vorbei ist.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Album Präsentation"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "GUIDO MAY BRAZIL PROJECT",
    "type": "concert",
@@ -512,6 +490,28 @@
    "recurrence": null,
    "dates": [],
    "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "CAROLINA SERDEIRA QUARTET",
+   "type": "concert",
+   "start": "2026-12-11T20:30",
+   "end": null,
+   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11722",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstraße 42, 81675 München",
+   "description": "Ihr Albumtitel trifft es ganz gut. Die aus Mina Gerais stammende Sängerin und Komponistin Carolina Serdeira präsentiert in der Unterfahrt das Album Doce, übersetzt: süß. Nicht zu verwechseln mit süßlich. Ihre Songs besitzen mehr als eine Geschmacksrichtung, mehr als eine Facette, sind mal zartherb, mal auf sachte Weise bitter, aber stets würzig und immer mit einer Prise Zucker durchsetzt. Die Rhythmik und Leichtigkeit der Samba trifft in Carolina Serdeiras Musik auf die harmonische Freiheit des Jazz",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Vocal Jazz"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -1183,6 +1183,26 @@
    "tags": [
     "Rising Star"
    ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "MIXMONK",
+   "type": "concert",
+   "start": "2027-01-21T20:30",
+   "end": null,
+   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11033",
+   "venue": "Jazzclub Unterfahrt",
+   "address": "Einsteinstraße 42, 81675 München",
+   "description": "Was passiert, wenn drei rastlose Musiker in die Welt von John Coltrane eintauchen – nicht, um sie nachzubilden, sondern um zu sehen, wohin sie führen könnte? Es gibt Musiker, die die Musik der Vergangenheit spielen. Und es gibt diejenigen, die darauf achten, was darin noch darauf wartet, entdeckt zu werden. Im Jahr 2026 wird der hundertste Geburtstag von John Coltrane zum Ausgangspunkt einer neuen Reise. Auf „MiXMONK Supreme\" tauchen Joey Baron, Bram De Looze und Robin Verheyen in die Musik einer der visionärsten Stimmen des Jazz ein und lassen durch seinen Geist der Freiheit, Intensität und Entdeckung etwas ganz Eigenes entstehen. Das Album wirkt weniger wie eine Hommage als vielmehr wie ein Dialog über die Zeit hinweg. Coltranes Musik öffnet die Tür; MiXMONK schreitet mit seiner eigenen unverwechselbaren Energie hindurch.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,

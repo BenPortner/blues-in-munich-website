@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T11:59:44+00:00",
+  "generated_at": "2026-11-20T12:03:24+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -4029,7 +4029,7 @@
       "title": "Munich Rhythm & Blues Band",
       "type": "concert",
       "start": "2026-12-04T20:00",
-      "end": null,
+      "end": "2026-12-04T23:00",
       "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "venue": "Rheinpfalz Schwabing",
       "address": "Kurfürstenstraße 35, 80801 München",
@@ -6519,7 +6519,7 @@
       "kind": "school",
       "status": "ok",
       "found": 63,
-      "updated_at": "2026-11-19T11:55:20+00:00",
+      "updated_at": "2026-11-20T11:56:46+00:00",
       "kept": 14
     },
     {
@@ -6529,7 +6529,7 @@
       "kind": "school",
       "status": "ok",
       "found": 113,
-      "updated_at": "2026-11-19T11:55:25+00:00",
+      "updated_at": "2026-11-20T11:56:51+00:00",
       "kept": 14
     },
     {
@@ -6539,7 +6539,7 @@
       "kind": "school",
       "status": "ok",
       "found": 5,
-      "updated_at": "2026-11-19T11:55:31+00:00",
+      "updated_at": "2026-11-20T11:56:57+00:00",
       "kept": 4
     },
     {
@@ -6549,7 +6549,7 @@
       "kind": "school",
       "status": "ok",
       "found": 248,
-      "updated_at": "2026-11-19T11:55:43+00:00",
+      "updated_at": "2026-11-20T11:57:03+00:00",
       "kept": 3
     },
     {
@@ -6559,7 +6559,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 10,
-      "updated_at": "2026-11-19T11:55:47+00:00",
+      "updated_at": "2026-11-20T11:57:06+00:00",
       "kept": 50
     },
     {
@@ -6568,8 +6568,8 @@
       "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "kind": "venue",
       "status": "ok",
-      "found": 14,
-      "updated_at": "2026-11-19T11:55:53+00:00",
+      "found": 15,
+      "updated_at": "2026-11-20T11:57:10+00:00",
       "kept": 7
     },
     {
@@ -6579,7 +6579,7 @@
       "kind": "band",
       "status": "ok",
       "found": 3,
-      "updated_at": "2026-11-19T11:55:55+00:00",
+      "updated_at": "2026-11-20T11:57:13+00:00",
       "kept": 17
     },
     {
@@ -6588,8 +6588,8 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 73,
-      "updated_at": "2026-11-19T11:55:59+00:00",
+      "found": 74,
+      "updated_at": "2026-11-20T11:57:18+00:00",
       "kept": 2
     },
     {
@@ -6599,7 +6599,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 16,
-      "updated_at": "2026-11-19T11:56:02+00:00",
+      "updated_at": "2026-11-20T11:57:20+00:00",
       "kept": 0
     },
     {
@@ -6609,7 +6609,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 10,
-      "updated_at": "2026-11-19T11:56:04+00:00",
+      "updated_at": "2026-11-20T11:57:22+00:00",
       "kept": 1
     },
     {
@@ -6619,7 +6619,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 8,
-      "updated_at": "2026-11-19T11:56:04+00:00",
+      "updated_at": "2026-11-20T11:57:23+00:00",
       "kept": 0
     },
     {
@@ -6629,7 +6629,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 35,
-      "updated_at": "2026-11-19T11:56:07+00:00",
+      "updated_at": "2026-11-20T11:57:27+00:00",
       "kept": 6
     },
     {
@@ -6639,7 +6639,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 43,
-      "updated_at": "2026-11-19T11:56:11+00:00",
+      "updated_at": "2026-11-20T11:57:30+00:00",
       "kept": 26
     },
     {
@@ -6649,7 +6649,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 100,
-      "updated_at": "2026-11-19T11:58:33+00:00",
+      "updated_at": "2026-11-20T11:59:49+00:00",
       "kept": 9
     },
     {
@@ -6659,7 +6659,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 30,
-      "updated_at": "2026-11-19T11:58:34+00:00",
+      "updated_at": "2026-11-20T11:59:49+00:00",
       "kept": 4
     },
     {
@@ -6668,7 +6668,7 @@
       "url": "https://ackermannbogen-ev.de/programm-alles",
       "kind": "venue",
       "status": "failed",
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://ackermannbogen-ev.de/wp-json/tribe/events/v1/events?per_page=50&categories=musik%2Cmusik-gesang&page=1",
+      "error": "SSLError: HTTPSConnectionPool(host='ackermannbogen-ev.de', port=443): Max retries exceeded with url: /wp-json/tribe/events/v1/events?per_page=50&categories=musik%2Cmusik-gesang&page=1 (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ackermannbogen-ev.de'. (_ssl.c:1147)\")))",
       "updated_at": "2026-11-18T12:01:05+00:00",
       "kept": 0
     },
@@ -6677,8 +6677,8 @@
       "name": "Pasinger Fabrik",
       "url": "https://www.pasinger-fabrik.de/",
       "kind": "venue",
-      "status": "ok",
-      "found": 47,
+      "status": "failed",
+      "error": "ConnectionError: HTTPSConnectionPool(host='www.pasinger-fabrik.de', port=443): Max retries exceeded with url: /wp-json/tribe/events/v1/events?per_page=50&categories=musik&page=1 (Caused by NewConnectionError(\"HTTPSConnection(host='www.pasinger-fabrik.de', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
       "updated_at": "2026-11-19T11:58:37+00:00",
       "kept": 6
     },
@@ -6689,7 +6689,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 10,
-      "updated_at": "2026-11-19T11:58:38+00:00",
+      "updated_at": "2026-11-20T12:02:16+00:00",
       "kept": 2
     },
     {
@@ -6698,8 +6698,8 @@
       "url": "https://www.ubo9.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 9,
-      "updated_at": "2026-11-19T11:58:41+00:00",
+      "found": 8,
+      "updated_at": "2026-11-20T12:02:25+00:00",
       "kept": 0
     },
     {
@@ -6709,7 +6709,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 10,
-      "updated_at": "2026-11-19T11:58:48+00:00",
+      "updated_at": "2026-11-20T12:02:27+00:00",
       "kept": 0
     },
     {
@@ -6719,7 +6719,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 7,
-      "updated_at": "2026-11-19T11:58:49+00:00",
+      "updated_at": "2026-11-20T12:02:28+00:00",
       "kept": 0
     },
     {
@@ -6728,8 +6728,8 @@
       "url": "https://www.einewelthaus.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 28,
-      "updated_at": "2026-11-19T11:58:56+00:00",
+      "found": 27,
+      "updated_at": "2026-11-20T12:02:32+00:00",
       "kept": 1
     },
     {
@@ -6739,7 +6739,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 3,
-      "updated_at": "2026-11-19T11:58:57+00:00",
+      "updated_at": "2026-11-20T12:02:32+00:00",
       "kept": 1
     },
     {
@@ -6758,8 +6758,8 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 158,
-      "updated_at": "2026-11-19T11:59:13+00:00",
+      "found": 159,
+      "updated_at": "2026-11-20T12:02:51+00:00",
       "kept": 77
     },
     {
@@ -6769,7 +6769,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 40,
-      "updated_at": "2026-11-19T11:59:21+00:00",
+      "updated_at": "2026-11-20T12:03:01+00:00",
       "kept": 3
     },
     {
@@ -6778,8 +6778,8 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 191,
-      "updated_at": "2026-11-19T11:59:44+00:00",
+      "found": 204,
+      "updated_at": "2026-11-20T12:03:24+00:00",
       "kept": 6
     },
     {
@@ -6789,7 +6789,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 0,
-      "updated_at": "2026-11-19T11:59:44+00:00",
+      "updated_at": "2026-11-20T12:03:24+00:00",
       "kept": 0
     },
     {
@@ -6799,7 +6799,7 @@
       "kind": "manual",
       "status": "ok",
       "found": 0,
-      "updated_at": "2026-11-19T11:59:44+00:00",
+      "updated_at": "2026-11-20T12:03:24+00:00",
       "kept": 0
     }
   ]

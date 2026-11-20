@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-11-19T11:58:41+00:00",
+ "scraped_at": "2026-11-20T12:02:25+00:00",
  "status": {
   "id": "ubo9",
   "name": "UBO 9",
   "url": "https://www.ubo9.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 9
+  "found": 8
  },
  "events": [
-  {
-   "title": "Gestern war’s anders, heute ist’s wie? Die Story-Bühne im Münchner Westen",
-   "type": "concert",
-   "start": "2026-11-19T18:30",
-   "end": null,
-   "url": "https://www.ubo9.de/veranstaltung/gestern-wars-anders-heute-ists-wie-die-story-buehne-im-muenchner-westen/",
-   "venue": "UBO 9",
-   "address": "Ubostraße 9, 81245 München",
-   "description": "Wie war das eigentlich früher in Deinem Stadtviertel? Welche Orte sind verschwunden, welche neu dazu gekommen? Und welche Geschichten oder Personen kennt man nur, wenn man hier lebt? Wir bringen Menschen zusammen – für einen Abend voller Erinnerungen, Anekdoten und Gespräche. Kein Podium, keine Vorträge – sondern echte Geschichten aus dem Viertel. Mit dabei: Zeitzeug:innen aus den sechs Stadtvierteln, aus verschiedenen Generationen – vom „alten Hasen“ bis zur jungen Perspektive. Nach den erzählten Geschichten, öffnen wir den Raum – kommt miteinander ins Gespräch, lasst den Abend gemeinsam ausklingen und erlebt euer Viertel mal anders!“ In Kooperation mit der MVHS Eintritt frei, Spenden erwünscht",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Tango-Argentino-Jam-Session",
    "type": "concert",

@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-19T11:55:53+00:00",
+ "scraped_at": "2026-11-20T11:57:10+00:00",
  "status": {
   "id": "rheinpfalz-schwabing",
   "name": "Rheinpfalz Schwabing",
   "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
   "kind": "venue",
   "status": "ok",
-  "found": 14
+  "found": 15
  },
  "events": [
   {
@@ -278,6 +278,26 @@
    "venue": "Rheinpfalz Schwabing",
    "address": "Kurfürstenstraße 35, 80801 München",
    "description": "Titus Waldenfels: Gitarre, Geige, Pedal Steel Guitar, Banjo, Mandoline David Miralles: Gesang, Gitarre, Mandoline, Geige Michael Reiserer: Schlagzeug, Akkordeon, Gesang, Singende Säge Titus Waldenfels, David Miralles & Michael Reiserer spielen wunderschöne alte Bluegrasssongs mit positiven Messages wie „Hang me oh Hang me“ oder „I’d Rather be in Some Dark Hollow“, Western Swing mit viel Improvisation und Tunes keltischen Ursprungs auf vielen Saiteninstrumenten – Gitarre, Geige, Mandoline, Banjo, Steel Guitar. Locker im Zusammenspiel, ernst im Inhalt, mit allem Respekt vor der Tradition. Der Münchner Titus Waldenfels ist seit mehr als dreißig Jahren aktiv, bestreitet jährlich um die 250 Auftritte, hauptsächlich in Deutschland, aber auch in Österreich, der Schweiz, Tschechien und in den USA. Er wird häufig von wunderbaren Musiker:innen und Sänger:innen aller Art begleiteter singt selber nicht, kann aber alle Arten von Songs gekonnt begleiten und zu seinen eigenen machen. Über die Jahre trat er mit so unerschiedlichen Bands und Künstlern auf wie Embryo, Monty Waters, Mal Waldron, Uli Wunner, Mike Buck, Eve Monsees, Anthony Garcia und vielen mehr. www.titus-waldenfels.de www.facebook.com/waldenfels www.instagram.com/twaldenfels www.youtube.com/c/TitusWaldenfelsOfficial",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Countryholics – unplugged",
+   "type": "concert",
+   "start": "2027-01-09T20:00",
+   "end": null,
+   "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
+   "venue": "Rheinpfalz Schwabing",
+   "address": "Kurfürstenstraße 35, 80801 München",
+   "description": "Sechs berüchtigte Haudegen der Regensburger Musikszene machen gemeinsame Sache und dabei keine Gefangenen! Mit Spielwitz und einer Extra-Schippe Twang setzen sie den Kessel mächtig unter Dampf und rollen mit ihrer New-Country-Rock-Lokomotive in den Sonnenuntergang. Ob auf der großen Festivalbühne oder unplugged im intimeren Rahmen: die Countryholics begeistern mit tanzbarem Country Rock, New Country & Bluegrass – gespickt mit jeder Menge Country Klassikern . Markenzeichen der Band sind der perfekte mehrstimmige Satzgesang, fetter Gitarrensound und Harp als besonderer Sidekick , darüber hinaus ein sehr persönlicher Draht zum Publikum und die ungezügelte Spielfreude der Musiker. Das abwechslungsreiche und kurzweilige Programm der Countryholics geht direkt ins Ohr und in die Beine und trifft den Nerv von Musikbegeisterten von Jung bis Alt.",
    "recurrence": null,
    "dates": [],
    "tags": [],

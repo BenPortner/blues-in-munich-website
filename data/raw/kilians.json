@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-19T11:56:04+00:00",
+ "scraped_at": "2026-11-20T11:57:23+00:00",
  "status": {
   "id": "kilians",
   "name": "Kilians Irish Pub",
@@ -9,26 +9,6 @@
   "found": 8
  },
  "events": [
-  {
-   "title": "Mad But Fine",
-   "type": "concert",
-   "start": "2026-11-19T21:00",
-   "end": "2026-11-19T23:30",
-   "url": "https://reservierung.heyrosi.de/event/kilians-irish-pub/mad-but-fine-kopie-2",
-   "venue": "Kilians Irish Pub",
-   "address": "Frauenplatz 11, 80331 München",
-   "description": "Präsentieren Pop-Rock-Acoustic-Covers.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Real Deal",
    "type": "concert",
@@ -158,6 +138,26 @@
    "venue": "Kilians Irish Pub",
    "address": "Frauenplatz 11, 80331 München",
    "description": "authentic Rockabilly & Rock'n'Roll Music 1950s Style",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Derek Singleton",
+   "type": "concert",
+   "start": "2026-11-30T21:00",
+   "end": "2026-12-01T00:30",
+   "url": "https://reservierung.heyrosi.de/event/kilians-irish-pub/derek-singleton",
+   "venue": "Kilians Irish Pub",
+   "address": "Frauenplatz 11, 80331 München",
+   "description": "Rockabilly, Oldies und Modernes von dem Sänger der \"Trisonics\"",
    "recurrence": null,
    "dates": [],
    "tags": [],

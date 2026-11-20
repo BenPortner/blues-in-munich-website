@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-19T11:58:56+00:00",
+ "scraped_at": "2026-11-20T12:02:32+00:00",
  "status": {
   "id": "einewelthaus",
   "name": "EineWeltHaus",
   "url": "https://www.einewelthaus.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 28
+  "found": 27
  },
  "events": [
   {
@@ -22,29 +22,6 @@
    "dates": [],
    "tags": [
     "Ausstellung"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "dieBÜHNE: Konzert Tango-Ensemble „Zorro Gris“ mit anschließender Tango Jamsession",
-   "type": "concert",
-   "start": "2026-11-19T20:30",
-   "end": "2026-11-20T00:00",
-   "url": "https://www.einewelthaus.de/events/diebuehne-konzert-tango-ensemble-zorro-gris-mit-anschliessender-tango-jamsession/",
-   "venue": "EineWeltHaus München",
-   "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "[caption id=\"attachment_23846\" align=\"aligncenter\" width=\"584\"] Foto by gatti[/caption] Die Musiker der Tango-Kapelle „Zorro Gris“ um den Bandoneon Spieler Werner Sinner musizieren bereits seit über vier Jahrzehnten zusammen, wobei sie sich bis vor ein paar Jahren vor allem dem Swing, aber auch der Klezmer Musik widmeten. So entstand eine für den Tango eher untypische Besetzung mit Trompete und Euphonium, die auf ganz eigene Weise den Nerv des Tangos trifft. Werner Sinner – Bandoneon Marcus Compostella – Piano/Euphonium Theo Geßl – Trompete/Akkordeon Andi Kink – Gitarre Tobias Rößler - Kontrabass Anmeldung als Jamsession-Musiker (bzw. als komplettes Ensemble) bitte mindestens 1 Woche vorher per Email unter steffen.sterk@gmx.de Bitte möglichst auch als Zuhörer*in oder Tänzer*in die benötigte Sitzplatzanzahl anmelden/reservieren per Email an Caren Biersack unter c.biersack@einewelthaus.de Einlass 19:00 Uhr | Beginn 19:30 Uhr Abendkasse, Getränke gegen Spende",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Konzert",
-    "Tanz"
    ],
    "source_id": "",
    "source_name": "",

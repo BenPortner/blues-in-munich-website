@@ -5,8 +5,8 @@
   "name": "Pasinger Fabrik",
   "url": "https://www.pasinger-fabrik.de/",
   "kind": "venue",
-  "status": "ok",
-  "found": 47
+  "status": "failed",
+  "error": "ConnectionError: HTTPSConnectionPool(host='www.pasinger-fabrik.de', port=443): Max retries exceeded with url: /wp-json/tribe/events/v1/events?per_page=50&categories=musik&page=1 (Caused by NewConnectionError(\"HTTPSConnection(host='www.pasinger-fabrik.de', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
  },
  "events": [
   {

@@ -13,8 +13,12 @@ blues anywhere (~170, almost all upcoming; past listings drop out). Each has:
 Genres become tags, so `filter: blues_title` keeps listings whose title or genre
 says blues and drops ones that only mention it in the description.
 Listings saying "Aktuell keine Termine" (no dates) are skipped.
+  _embedded.wp:term  also event_category names, e.g. "Konzerte", "Theater", "Kabarett / Comedy";
+                     sub-categories ("Festivals") come with their parent ("Konzerte")
 
-params.max_pages: pages of 100 listings to read (default 3).
+params.max_pages:  pages of 100 listings to read (default 3).
+params.categories: event_category names to keep, e.g. [Konzerte]; drops plays, cabaret and shows
+                   with "Blues" in the title. Listings without any category are kept. Default: all.
 """
 from __future__ import annotations
 
@@ -46,15 +50,17 @@ def scrape(source, ctx):
             "_fields": "id,link,title,content,excerpt,_links,_embedded",
         })
         items = json.loads(raw)
-        events.extend(parse(items, source.get("default_type", "concert")))
+        events.extend(parse(items, source.get("default_type", "concert"), params.get("categories")))
         if len(items) < PER_PAGE:
             break
     return events
 
 
-def parse(items: list[dict], default_type: str = "concert") -> list[Event]:
+def parse(items: list[dict], default_type: str = "concert", categories: list[str] | None = None) -> list[Event]:
     events = []
     for item in items:
+        if categories and not _in_categories(item, categories):
+            continue
         page = soup(item["content"]["rendered"])
         when = page.select_one(".event-legacy-when strong") or page.find("strong")
         start, end = _when(when.get_text(" ") if when else "")
@@ -71,10 +77,20 @@ def parse(items: list[dict], default_type: str = "concert") -> list[Event]:
             venue=venue,
             address=address,
             description=text(soup(item.get("excerpt", {}).get("rendered", ""))),
-            tags=[t["name"] for group in item.get("_embedded", {}).get("wp:term", [])
-                  for t in group if t["taxonomy"] == "event_genre"],
+            tags=_terms(item, "event_genre"),
         ))
     return events
+
+
+def _terms(item: dict, taxonomy: str) -> list[str]:
+    return [t["name"] for group in item.get("_embedded", {}).get("wp:term", [])
+            for t in group if t["taxonomy"] == taxonomy]
+
+
+def _in_categories(item: dict, categories: list[str]) -> bool:
+    """Uncategorised listings pass: nothing says they aren't concerts."""
+    found = _terms(item, "event_category")
+    return not found or any(c in categories for c in found)
 
 
 def _when(header: str) -> tuple[str | None, str | None]:

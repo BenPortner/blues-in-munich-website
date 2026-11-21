@@ -306,6 +306,7 @@ sources:
     filter: blues_title    # API search matches any mention; keep blues in title or genre
     params:
       max_pages: 3         # 100 listings each; ~170 match "blues"
+      categories: [Konzerte]  # drops plays, cabaret and shows titled "…-Blues"; uncategorised listings pass
 
   - id: mvp
     name: mvp.de (Jazz & Blues)

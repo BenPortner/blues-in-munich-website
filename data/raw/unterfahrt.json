@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-11-20T11:57:18+00:00",
+ "scraped_at": "2026-11-21T11:29:40+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 74
+  "found": 73
  },
  "events": [
-  {
-   "title": "GUIDO MAY BRAZIL PROJECT",
-   "type": "concert",
-   "start": "2026-11-20T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11701",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Draußen: kalt, ungemütlich, grau. Gegenmittel: sonnige Musik, am besten solche, die uns binnen weniger Takte an den Zuckerhut entführt. Brasilianische Rhythmen sorgen nämlich für die richtige Dosis Vitamin D, machen gute Laune und lockern die Gelenke, die bei den herbstlichen Temperaturen etwas klamm sind. Mit seinem Brazil Projekt lenkt uns Guido May vom November ab und präsentiert uns zudem ein aufregendes Talent - die Sängerin Clara de Farias aus Stuttgart, die in ihrem sanft-beschwingten Vortrag unwiderstehlich zwischen musica popular brasileira und Pop pendelt.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "HAROLD LÓPEZ NUSSA",
    "type": "concert",
@@ -82,7 +62,9 @@
    "description": "Size Matters. Wenige Musiker in Europa verstehen sich so auf den Umgang mit großen Klangkörpern wie Christian Elsässer. Unglaublich, welche Texturen, Klangfarben, Details und Formen der Münchner den üppig besetzten Formationen abgewinnt. Er komponierte und arrangierte schon für das niederländische Metropole Orkest, das Scottish National Jazz Orchestra sowie alle deutschen Rundfunk-Bigbands. Und mit seinem eigenen Christian Elsässer Jazz Orchestra ist er längst eine Institution.",
    "recurrence": null,
    "dates": [],
-   "tags": [],
+   "tags": [
+    "Bigband Night"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,

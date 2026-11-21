@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-11-20T12:02:27+00:00",
+ "scraped_at": "2026-11-21T11:32:13+00:00",
  "status": {
   "id": "kunst-in-sendling",
   "name": "Kunst in Sendling e.V.",
   "url": "https://www.kunst-in-sendling.com/",
   "kind": "venue",
   "status": "ok",
-  "found": 10
+  "found": 9
  },
  "events": [
-  {
-   "title": "Vernissage – Elke Reis: Farbe … Licht … und eine ungeahnte Freiheit",
-   "type": "other",
-   "start": "2026-11-20T19:30",
-   "end": "2026-11-20T21:30",
-   "url": "https://www.kunst-in-sendling.com/event/vernissage-elke-reis-farbe-licht-ungeahnte-freiheit/",
-   "venue": "Stadtbibliothek Neuhausen",
-   "address": "Nymphenburger Straße 171b, 80634 München",
-   "description": "Vernissage zur Kunstausstellung von Elke Reis am Freitag, 20. November 2026, von 19:30 bis 21:30 Uhr. Gelegenheit, die Künstlerin persönlich kennenzulernen und mit ihr ins Gespräch zu kommen. Elke Reis zeigt minimalistische Malereien, in denen Farbe, Raum und Licht im Mittelpunkt stehen. Die Ausstellung lädt dazu ein, sich Zeit für die Wahrnehmung von Farbflächen und ihrer Wirkung zu nehmen. Stadtbibliothek Neuhausen, Nymphenburger Straße 171b, 80634 München. Eintritt frei, ohne Anmeldung. Die Ausstellung läuft laut Stadtbibliothek vom 10. November 2026 bis 9. Januar 2027. Wegen der Schließung am 10. November ist die Besichtigung ab 11. November zu den regulären Öffnungszeiten möglich. · Eintritt: Kostenlos",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Zwischen den Welten – Erzählkunst mit Ines Honsel",
    "type": "concert",

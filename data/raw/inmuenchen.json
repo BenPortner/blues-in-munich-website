@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-20T12:02:51+00:00",
+ "scraped_at": "2026-11-21T11:32:34+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
@@ -9,6 +9,28 @@
   "found": 159
  },
  "events": [
+  {
+   "title": "The Toughest Tenors",
+   "type": "concert",
+   "start": "2027-03-05T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/the-toughest-tenors-sudhaus-seefeld-2027.html",
+   "venue": "Schloss Seefeld Sudhaus",
+   "address": "Schlosshof 7, 82229 Seefeld",
+   "description": "Ein Berliner Jazzquintett mit zwei Tenorsaxophonen spielt neu aufbereitete Stücke aus dem Katalog eines berühmten Jazzlabels.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Jazz"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
   {
    "title": "Munich Rhythm and Blues Band",
    "type": "concert",
@@ -648,6 +670,28 @@
    "id": ""
   },
   {
+   "title": "Andrea Limmer – Flintenweib",
+   "type": "concert",
+   "start": "2026-12-11T20:00",
+   "end": "2026-12-11T22:00",
+   "url": "https://www.in-muenchen.de/events/andrea-limmer-flintenweib-fraunhofer.html",
+   "venue": "Fraunhofer Theater",
+   "address": "Fraunhoferstr. 9, 80469 München",
+   "description": "„Angst und Geld hatt‘ ich noch nie“: Das niederbayerische Heavy Mädl lädt in seinem neuen Programm die Satire-Flinte durch und lädt zur musikalischen Reise in den wilden Süden ein. Mit Ukulele, Witz und einer Mischung aus Country, Rock ’n‘ Roll, Blues und Folk.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Musikkabarett"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "Yves & The Big Blue",
    "type": "concert",
    "start": "2026-11-21T20:00",
@@ -747,7 +791,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Jazz-Funk"
+    "Jazz / Funk"
    ],
    "source_id": "",
    "source_name": "",
@@ -1489,29 +1533,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Indie-Rock"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Bootleg Twins feat. Schorsch Hampel & Hubert Hofherr",
-   "type": "concert",
-   "start": "2026-11-20T20:00",
-   "end": "2026-11-20T22:30",
-   "url": "https://www.in-muenchen.de/events/bootleg-twins-feat-schorsch-hampel-hubert-hofherr.html",
-   "venue": "Kulturhaus Neuperlach – KulturBunt",
-   "address": "Albert-Schweitzer-Straße 62, 81735 München",
-   "description": "Auf der Bühne treffen Blues-Tradition und moderne Klänge aufeinander. Mario Spelthan, Schorsch Hampel und Hubert Hofherr entführen das Publikum in die Welt des Blues der 20er und 30er Jahre, Chicago Blues, Boogie und Folksongs. Ein Abend voller musikalischer Vielfalt und gefühlvoller Darbietungen.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Blues"
+    "Indie Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -1863,7 +1885,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Indie-Rock"
+    "Indie Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -1885,7 +1907,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Folk-Rock"
+    "Folk Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -2248,28 +2270,6 @@
    "id": ""
   },
   {
-   "title": "The Foundation",
-   "type": "concert",
-   "start": "2026-11-20T20:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/the-foundation.html",
-   "venue": "Allacher Schießstätte",
-   "address": "Servetstr. 1, 80999 München",
-   "description": "Die Bühne in München erstrahlt mit den besten Soul, Funk, Disco und Rhythm’n Blues Klängen der Stadt. Ein Abend voller musikalischer Vielfalt und mitreißender Beats erwartet das Publikum.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Soul"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Tord Gustavsen Trio",
    "type": "concert",
    "start": "2027-04-03T19:00",
@@ -2492,7 +2492,7 @@
   {
    "title": "19. Festival für Kammermusik, Literatur & Weltmusik",
    "type": "concert",
-   "start": "2026-11-20T20:00",
+   "start": "2026-11-21T16:00",
    "end": null,
    "url": "https://www.in-muenchen.de/events/19-festival-fur-kammermusik-literatur-weltmusik.html",
    "venue": "Bürgersaal beim Forstner",
@@ -3060,6 +3060,28 @@
    "id": ""
   },
   {
+   "title": "Poetenstammtisch „Bühne Frei!“",
+   "type": "concert",
+   "start": "2026-11-30T20:00",
+   "end": "2026-11-30T22:30",
+   "url": "https://www.in-muenchen.de/events/poetenstammtisch-buhne-frei.html",
+   "venue": "Fraunhofer Theater",
+   "address": "Fraunhoferstr. 9, 80469 München",
+   "description": "In der Kulisse präsentieren die MundArtFreunde Bayerns einen bunten Abend mit Musik, Poesie, Kabarett und Comedy. Wechselnde Moderator*innen und Gäste bieten jeden letzten Montag im Monat ein vielfältiges Programm.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Kleinkunst"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
    "title": "Günter Grünwald & Rad Gumbo",
    "type": "concert",
    "start": "2027-03-21T19:30",
@@ -3093,29 +3115,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Indie-Rock"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "30. Münchner Bluesnacht mit Zither Manä, Abi Wallenstein, Ludwig Seuss & Band",
-   "type": "concert",
-   "start": "2026-11-20T20:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/30-munchner-bluesnacht-mit-zither-mana-abi-wallenstein-ludwig-seuss-band.html",
-   "venue": "Schlachthof – Saal",
-   "address": "Zenettistraße 9, 80337 München",
-   "description": "Zwischen Chicago-Sound und Roots präsentiert die Münchner Bluesnacht eine Auswahl handgemachter Blues-Acts. Zither-Manä und die Ludwig Seuss Band zelebrieren den Groove und die Vielseitigkeit des Blues. In intimer Clubatmosphäre entfaltet sich das Zusammenspiel von Szenegrößen und Jam-Sessions.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Blues"
+    "Indie Rock"
    ],
    "source_id": "",
    "source_name": "",
@@ -3238,7 +3238,7 @@
   {
    "title": "Bin I Kini?! – Der Prinzregenten-Blues",
    "type": "concert",
-   "start": "2026-11-20T20:00",
+   "start": "2026-11-21T20:00",
    "end": null,
    "url": "https://www.in-muenchen.de/events/prinzregenten-blues-iberl-buhne.html",
    "venue": "Iberl Bühne",
@@ -3304,7 +3304,7 @@
   {
    "title": "Da Huawa und I – Schokoladenseit’n",
    "type": "concert",
-   "start": "2026-11-20T20:00",
+   "start": "2027-10-12T20:00",
    "end": null,
    "url": "https://www.in-muenchen.de/events/da-huawa-und-i-schokoladenseitn.html",
    "venue": "Schlachthof – Ox",
@@ -3335,7 +3335,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Tribute-Show"
+    "Tribute Show"
    ],
    "source_id": "",
    "source_name": "",

@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-20T12:02:16+00:00",
+ "scraped_at": "2026-11-21T11:31:53+00:00",
  "status": {
   "id": "ars-musica",
   "name": "ars musica e.V.",
   "url": "https://www.ars-musica-muenchen.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 10
+  "found": 11
  },
  "events": [
   {
@@ -220,6 +220,28 @@
    "dates": [],
    "tags": [
     "Liebeslieder der Welt"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Evelyn Huber und Adjiri Odametey",
+   "type": "concert",
+   "start": "2027-04-10T19:00",
+   "end": null,
+   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2538&title=Evelyn%20Huber%20und%20Adjiri%20Odametey",
+   "venue": "Alte Sendlinger Kirche - Achtung keine Toiletten verfügbar! Keine Pause!",
+   "address": "Plinganserstraße 1, 81373 München",
+   "description": "Improvisationen auf der Goldenen Harfe treffen auf afrikanische Weltmusik.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Konzert-Reihe Migration - München - Musik"
    ],
    "source_id": "",
    "source_name": "",

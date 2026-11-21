@@ -1,37 +1,14 @@
 {
- "scraped_at": "2026-11-20T11:57:20+00:00",
+ "scraped_at": "2026-11-21T11:29:42+00:00",
  "status": {
   "id": "jazzbar-vogler",
   "name": "Jazzbar Vogler",
   "url": "https://www.jazzbar-vogler.com/",
   "kind": "venue",
   "status": "ok",
-  "found": 16
+  "found": 15
  },
  "events": [
-  {
-   "title": "David Sauzay Quartet",
-   "type": "concert",
-   "start": "2026-11-19T19:30",
-   "end": null,
-   "url": "https://www.muenchen-online.de/veranstaltung/david-sauzay-quartet-468265",
-   "venue": "Jazzbar Vogler",
-   "address": "Rumfordstr. 17, 80469 München",
-   "description": "",
-   "recurrence": null,
-   "dates": [
-    "2026-11-19",
-    "2026-11-20"
-   ],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Karen Edwards Quartet",
    "type": "concert",

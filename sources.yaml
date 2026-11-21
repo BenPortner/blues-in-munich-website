@@ -40,6 +40,7 @@ include:
   - \bSan2\b               # blues harp player, billed as Soul
   - Mr\.? ?Zig ?Zag        # plays mostly blues; only the blurb says so (Tollwood)
   - Stiff Hips             # modern blues to rock and country; only the blurb says so (Stragula)
+  - Yvonne Isegrei         # Chicago blues with funk & soul, billed as Rhythm'n'Blues (IN München)
   - Devil['’]?s Brew       # blues duo ("Blues & More", Son House to Billie Holiday); only the blurb says so (Mister B's)
 
 sources:
@@ -91,9 +92,9 @@ sources:
     adapter: glockenbachwerkstatt
     enabled: true
     default_type: concert
-    filter: none           # the category below is the weekly blues series
+    filter: blues_title    # Fish'n Blues events pass on their "Fish'n Blues" tag; sessions only if titled blues
     params:
-      categories: [fishnblues]
+      categories: [fishnblues, session]   # weekly blues series; "session" has the Downtown Blues Session among jams
 
   - id: rheinpfalz-schwabing
     name: Rheinpfalz Schwabing
@@ -417,3 +418,10 @@ sources:
 #      found 2026-11-13. One event a year (20th edition 04.–08.02.2027); the programme is not out yet and blues is
 #      a minor track next to Lindy Hop and Boogie. Static site; better as a manual_events.yaml entry once the
 #      blues classes or blues ball are announced.
+#  - Weilachmühle Kleinkunstbühne (Altomünster/Thalhausen, ~45 km NW; mostly Bavarian cabaret, now and then a
+#      blues act) — https://www.weilachmuehle.de/veranstaltungen.php
+#      found 2026-11-21. Upcoming: Oliver Mally & Peter Schneider "Blues & Songs" (06.02.2027, 20:00), Zwoa Bier
+#      (17.04.2027, bluesy songs); neither is in the scrape (IN München doesn't list them). Its own page links only
+#      to an eventim-light shop (403 to scrapers). Easier route: mvp.de lists the venue on its Bayern listing
+#      (/bayern/veranstaltungen/konzert-jazz/, static HTML, ~460 items over ~12 pages of 40), which the mvp
+#      adapter could read with a town filter (Munich area) instead of a new adapter.

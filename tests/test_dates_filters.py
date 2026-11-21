@@ -70,7 +70,7 @@ def test_include_patterns():
 
 def test_include_list_in_sources():
     include = load_include(ROOT / "sources.yaml")
-    for title in ("SAN2", "San2", "Mr.ZigZag & Band", "STIFF HIPS"):
+    for title in ("SAN2", "San2", "Mr.ZigZag & Band", "STIFF HIPS", "Yvonne Isegrei & Band"):
         assert keep(Event(title=title, type="concert", start="2026-12-12"), "blues_title", include=include)
     assert not keep(Event(title="Santana", type="concert", start="2026-12-12"), "blues_title", include=include)
 

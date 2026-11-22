@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-21T11:29:44+00:00",
+ "scraped_at": "2026-11-22T11:43:50+00:00",
  "status": {
   "id": "kilians",
   "name": "Kilians Irish Pub",
@@ -9,26 +9,6 @@
   "found": 8
  },
  "events": [
-  {
-   "title": "808 Shogun",
-   "type": "concert",
-   "start": "2026-11-21T21:00",
-   "end": "2026-11-22T00:30",
-   "url": "https://reservierung.heyrosi.de/event/kilians-irish-pub/808-shogun",
-   "venue": "Kilians Irish Pub",
-   "address": "Frauenplatz 11, 80331 München",
-   "description": "Only Rock Hits!",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Matthew Lennon",
    "type": "concert",
@@ -158,6 +138,26 @@
    "venue": "Kilians Irish Pub",
    "address": "Frauenplatz 11, 80331 München",
    "description": "Blues & Booze",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Buck Roger and the Sidetrackers",
+   "type": "concert",
+   "start": "2026-12-03T21:00",
+   "end": "2026-12-04T00:30",
+   "url": "https://reservierung.heyrosi.de/event/kilians-irish-pub/buck-roger-and-the-sidetrackers",
+   "venue": "Kilians Irish Pub",
+   "address": "Frauenplatz 11, 80331 München",
+   "description": "Great Songs for a Fabulous Evening",
    "recurrence": null,
    "dates": [],
    "tags": [],

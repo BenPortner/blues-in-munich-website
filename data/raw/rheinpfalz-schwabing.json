@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-11-21T11:29:34+00:00",
+ "scraped_at": "2026-11-22T11:43:39+00:00",
  "status": {
   "id": "rheinpfalz-schwabing",
   "name": "Rheinpfalz Schwabing",
   "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
   "kind": "venue",
   "status": "ok",
-  "found": 15
+  "found": 14
  },
  "events": [
-  {
-   "title": "Ali and Friends",
-   "type": "concert",
-   "start": "2026-11-21T20:00",
-   "end": null,
-   "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
-   "venue": "Rheinpfalz Schwabing",
-   "address": "Kurfürstenstraße 35, 80801 München",
-   "description": "Ali and friends spielen eine Mixtur aus Swing, Latin, Gipsy und eigenen Stücken. Hervorragend arrangiert, hervorragend gespielt, ein wahrer Ohrenschmaus. Beginn: 19:30 – ca. 20:00 Uhr Heinz Lebermann – Bass Josef Köttl – Sax. Christian Linne – dr. Ali Zynda – guit. Bitte kommt zeitig, es gibt eine größere Fangemeinde. Wir freuen uns auf einen atmosphärischen Abend… Der Hut freut sich über einen Obulus für die Musik. Euer Rheinpfalz-Team",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Ten Dollar Jazzband",
    "type": "concert",

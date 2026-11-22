@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-11-21T11:29:49+00:00",
+ "scraped_at": "2026-11-22T11:43:56+00:00",
  "status": {
   "id": "village-habach",
   "name": "Village Habach",
   "url": "https://www.village-habach.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 43
+  "found": 42
  },
  "events": [
-  {
-   "title": "Band of Friends (GBR)",
-   "type": "concert",
-   "start": "2026-11-21T20:15",
-   "end": null,
-   "url": "https://village-habach.de/programm/?single=3f973176a9e5e35f9280760b08fa0de3",
-   "venue": "Village Habach",
-   "address": "Obermühle 1, 82392 Habach",
-   "description": "Blues-Rock, Eine Hommage an Rory Gallagher Freut euch auf ein Konzert, das die Musik von Rory Gallagher lebendig hält! Die Band of Friends ist weit mehr als eine Tribute-Band. Gerry McAvoy – langjähriger Bassist von Rory Gallagher - ist zurück mit neuer Besetzung. Zusammen mit seinen beiden n...",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Greg Black & The Bad Notion (SLO)",
    "type": "concert",

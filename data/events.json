@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T11:33:03+00:00",
+  "generated_at": "2026-11-22T11:47:07+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -3884,12 +3884,12 @@
     {
       "title": "Pre-Bluesverschwörungskurs am 03.12.2026",
       "type": "workshop",
-      "start": "2026-12-03T18:30",
-      "end": "2026-12-03T20:00",
+      "start": "2026-12-03T19:00",
+      "end": "2026-12-03T20:30",
       "url": "https://oksana-pavlova.com/aktuelles/pre-bluesverschwoerungskurs-am-03-12-2026/",
       "venue": null,
       "address": null,
-      "description": "💜 Du möchtest Blues tanzen, weißt aber noch nicht, wie? 🎶 Einmal im Monat findet in der Münchner Kongress Bar die legendäre Bluesverschwörung statt – ein Abend voller Musik, Tanz und besonderer Atmosphäre! Du würdest gerne dabei sein, hast aber noch nie Blues getanzt? Dann sind unsere Pre-Bluesverschwörungskurse genau das Richtige für dich! 💃🕺 Vor der nächsten Bluesverschwörung bieten wir einen Crashkurs speziell für Anfänger an. Du lernst die wichtigsten Grundschritte und ein paar schöne Moves, die du direkt danach auf der Tanzfläche ausprobieren kannst! 📍 Der Kurs findet in der Arnulfstr. 19",
+      "description": "💜 Du möchtest Blues tanzen, weißt aber noch nicht, wie? 🎶 Einmal im Monat findet in der Münchner Kongress Bar die legendäre Bluesverschwörung statt – ein Abend voller Musik, Tanz und besonderer Atmosphäre! Du würdest gerne dabei sein, hast aber noch nie Blues getanzt? Dann sind unsere Pre-Bluesverschwörungskurse genau das Richtige für dich! 💃🕺 Vor der nächsten Bluesverschwörung bieten wir einen Crashkurs speziell für Anfänger an. Du lernst die wichtigsten Grundschritte und ein paar schöne Moves, die du direkt danach auf der Tanzfläche ausprobieren kannst! 📍 Der Kurs findet im Vintage-Studio, M",
       "recurrence": null,
       "dates": [],
       "tags": [],
@@ -3900,33 +3900,6 @@
       "artists": [],
       "known_artists": [],
       "id": "3ae4357e1471"
-    },
-    {
-      "title": "Zither-Manä – 46 Jahre – Der ganz normale Wahnsinn",
-      "type": "concert",
-      "start": "2026-12-03T19:00",
-      "end": null,
-      "url": "https://www.in-muenchen.de/events/zither-mana-46-jahre-der-ganz-normale-wahnsinn.html",
-      "venue": "Kultur im Oberbräu Holzkirchen",
-      "address": "Marktplatz 18A, 83607 Holzkirchen",
-      "description": "Der Erfinder des Zither-Rock spielt Volksmusik, Blues und Pink Floyd auf der Zither und kommentiert dazu kabarettistisch die Lage der Welt.",
-      "recurrence": null,
-      "dates": [],
-      "tags": [
-        "Musikkabarett"
-      ],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
-      "school_name": null,
-      "school_url": null,
-      "artists": [
-        {
-          "name": "Zither-Manä",
-          "url": "https://www.last.fm/music/Zither-Man%C3%A4"
-        }
-      ],
-      "known_artists": [],
-      "id": "10706898a3ec"
     },
     {
       "title": "Jazz & Blues",
@@ -4071,6 +4044,28 @@
       ],
       "known_artists": [],
       "id": "3f394472cac9"
+    },
+    {
+      "title": "Downtown Blues Session",
+      "type": "concert",
+      "start": "2026-12-04T21:00",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/downtown-blues-session-nov-26-2/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Kneipe ab 19 Uhr · kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Session"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "9f60d71ff80b"
     },
     {
       "title": "Tricia & Band",
@@ -5102,33 +5097,6 @@
       "id": "cc38eb81cc91"
     },
     {
-      "title": "Stephan Zinner – Großstadtblues",
-      "type": "concert",
-      "start": "2027-01-26T20:00",
-      "end": null,
-      "url": "https://www.in-muenchen.de/events/stephan-zinner-grossstadtblues.html",
-      "venue": "Lustspielhaus",
-      "address": "Occamstr. 8, 80802 München",
-      "description": "Stephan Zinner nimmt sein Publikum auf eine musikalisch-satirische Reise durch den modernen Großstadtalltag mit. Mit Gitarre und pointierten Texten erzählt er vom ewigen Kampf mit Updates, optimierter Freizeit und der Sehnsucht nach einem einfacheren Leben.",
-      "recurrence": null,
-      "dates": [],
-      "tags": [
-        "Musikalisches Kabarett"
-      ],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
-      "school_name": null,
-      "school_url": null,
-      "artists": [
-        {
-          "name": "Stephan Zinner",
-          "url": "https://www.last.fm/music/Stephan+Zinner"
-        }
-      ],
-      "known_artists": [],
-      "id": "90ae7942419f"
-    },
-    {
       "title": "Christian Christl",
       "type": "concert",
       "start": "2027-01-27T20:00",
@@ -5312,6 +5280,28 @@
       ],
       "known_artists": [],
       "id": "8116283823fc"
+    },
+    {
+      "title": "Downtown Blues Session",
+      "type": "concert",
+      "start": "2027-02-05T21:30",
+      "end": null,
+      "url": "https://www.glockenbachwerkstatt.de/events/downtown-blues-session-feb27/",
+      "venue": "Glockenbachwerkstatt",
+      "address": "Blumenstraße 7, 80331 München",
+      "description": "Kneipe ab 19 Uhr · kostenlos",
+      "recurrence": null,
+      "dates": [],
+      "tags": [
+        "Session"
+      ],
+      "source_id": "glockenbachwerkstatt",
+      "source_name": "Glockenbachwerkstatt – Fish'n Blues",
+      "school_name": null,
+      "school_url": null,
+      "artists": [],
+      "known_artists": [],
+      "id": "4ee7124a1426"
     },
     {
       "title": "Johnny & The Yooahoos",
@@ -5662,37 +5652,6 @@
       "id": "6269e80b8c99"
     },
     {
-      "title": "Rad Gumbo & Günter Grünwald",
-      "type": "concert",
-      "start": "2027-03-05T20:00",
-      "end": "2027-03-05T22:30",
-      "url": "https://www.in-muenchen.de/events/rad-gumbo-gunter-grunwald.html",
-      "venue": "Spektakel im Postsaal Schäftlarn",
-      "address": "Wolfratshauser Straße 45, 82067 Schäftlarn",
-      "description": "Bayerisches Kabarett und Southern Blues verschmelzen zu einem unterhaltsamen Abend. Mit bayerischem Humor und groovigem Blues-Rock erzeugen Günter Grünwald und RAD GUMBO einen musikalisch-komödiantischen Cocktail. Grünwald an der Sologitarre, gefolgt von Kabaretteinlagen, schafft eine überraschende und kurzweilige Atmosphäre.",
-      "recurrence": null,
-      "dates": [],
-      "tags": [
-        "Kabarett"
-      ],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
-      "school_name": null,
-      "school_url": null,
-      "artists": [
-        {
-          "name": "Rad Gumbo",
-          "url": "https://www.last.fm/music/Rad+Gumbo"
-        },
-        {
-          "name": "Günter Grünwald",
-          "url": "https://www.last.fm/music/+noredirect/G%C3%BCnter+Gr%C3%BCnwald"
-        }
-      ],
-      "known_artists": [],
-      "id": "7195272235ac"
-    },
-    {
       "title": "Norman Beaker Trio (UK, IT)",
       "type": "concert",
       "start": "2027-03-05T20:15",
@@ -5877,37 +5836,6 @@
         "Blues Pills"
       ],
       "id": "8b0fe5e4c983"
-    },
-    {
-      "title": "Günter Grünwald & Rad Gumbo",
-      "type": "concert",
-      "start": "2027-03-21T19:30",
-      "end": null,
-      "url": "https://www.in-muenchen.de/events/gunter-grunwald-rad-gumbo.html",
-      "venue": "Lustspielhaus",
-      "address": "Occamstr. 8, 80802 München",
-      "description": "Bayerisches Kabarett und Southern Blues verschmelzen in einem Programm, das Humor und Musik vereint. Gezeigt werden Comedy und Songs, die Traditionen und Kulturen vereinen.",
-      "recurrence": null,
-      "dates": [],
-      "tags": [
-        "Kabarett"
-      ],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
-      "school_name": null,
-      "school_url": null,
-      "artists": [
-        {
-          "name": "Günter Grünwald",
-          "url": "https://www.last.fm/music/+noredirect/G%C3%BCnter+Gr%C3%BCnwald"
-        },
-        {
-          "name": "Rad Gumbo",
-          "url": "https://www.last.fm/music/Rad+Gumbo"
-        }
-      ],
-      "known_artists": [],
-      "id": "0379893f5324"
     },
     {
       "title": "Devon Allman Blues Summit feat. Jimmy Hall, Claudette King, Bernard Allison",
@@ -6134,33 +6062,6 @@
       ],
       "known_artists": [],
       "id": "81ae49bbc3cb"
-    },
-    {
-      "title": "Stephan Zinner – Großstadtblues",
-      "type": "concert",
-      "start": "2027-04-24T19:30",
-      "end": "2027-04-24T22:30",
-      "url": "https://www.in-muenchen.de/events/stephan-zinner-grossstadtblues-circus-krone.html",
-      "venue": "Circus Krone",
-      "address": "Marsstr. 43, 80335 München",
-      "description": "Mit Gitarre und pointierten Texten nimmt Stephan Zinner das Publikum auf eine musikalisch-satirische Reise durch den Wahnsinn des modernen Alltags mit. Zwischen Updates, die keiner braucht, und der Sehnsucht nach einem einfacheren Leben zeigt er die Absurditäten unserer Zeit.",
-      "recurrence": null,
-      "dates": [],
-      "tags": [
-        "Musikalisches Kabarett"
-      ],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
-      "school_name": null,
-      "school_url": null,
-      "artists": [
-        {
-          "name": "Stephan Zinner",
-          "url": "https://www.last.fm/music/Stephan+Zinner"
-        }
-      ],
-      "known_artists": [],
-      "id": "8dd5958aa3f3"
     },
     {
       "title": "Miller Anderson Band (GBR)",
@@ -6560,8 +6461,8 @@
       "url": "https://www.vintage-club.de/",
       "kind": "school",
       "status": "ok",
-      "found": 63,
-      "updated_at": "2026-11-21T11:29:13+00:00",
+      "found": 62,
+      "updated_at": "2026-11-22T11:43:10+00:00",
       "kept": 14
     },
     {
@@ -6570,8 +6471,8 @@
       "url": "https://www.boogie-baeren.de/",
       "kind": "school",
       "status": "ok",
-      "found": 113,
-      "updated_at": "2026-11-21T11:29:18+00:00",
+      "found": 110,
+      "updated_at": "2026-11-22T11:43:15+00:00",
       "kept": 14
     },
     {
@@ -6581,7 +6482,7 @@
       "kind": "school",
       "status": "ok",
       "found": 5,
-      "updated_at": "2026-11-21T11:29:23+00:00",
+      "updated_at": "2026-11-22T11:43:19+00:00",
       "kept": 4
     },
     {
@@ -6591,7 +6492,7 @@
       "kind": "school",
       "status": "ok",
       "found": 248,
-      "updated_at": "2026-11-21T11:29:28+00:00",
+      "updated_at": "2026-11-22T11:43:30+00:00",
       "kept": 3
     },
     {
@@ -6600,9 +6501,9 @@
       "url": "https://www.glockenbachwerkstatt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 10,
-      "updated_at": "2026-11-21T11:29:30+00:00",
-      "kept": 50
+      "found": 30,
+      "updated_at": "2026-11-22T11:43:35+00:00",
+      "kept": 52
     },
     {
       "id": "rheinpfalz-schwabing",
@@ -6610,8 +6511,8 @@
       "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "kind": "venue",
       "status": "ok",
-      "found": 15,
-      "updated_at": "2026-11-21T11:29:34+00:00",
+      "found": 14,
+      "updated_at": "2026-11-22T11:43:39+00:00",
       "kept": 8
     },
     {
@@ -6621,7 +6522,7 @@
       "kind": "band",
       "status": "ok",
       "found": 3,
-      "updated_at": "2026-11-21T11:29:36+00:00",
+      "updated_at": "2026-11-22T11:43:42+00:00",
       "kept": 17
     },
     {
@@ -6630,8 +6531,8 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 73,
-      "updated_at": "2026-11-21T11:29:40+00:00",
+      "found": 72,
+      "updated_at": "2026-11-22T11:43:45+00:00",
       "kept": 2
     },
     {
@@ -6640,8 +6541,8 @@
       "url": "https://www.jazzbar-vogler.com/",
       "kind": "venue",
       "status": "ok",
-      "found": 15,
-      "updated_at": "2026-11-21T11:29:42+00:00",
+      "found": 14,
+      "updated_at": "2026-11-22T11:43:48+00:00",
       "kept": 0
     },
     {
@@ -6651,7 +6552,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 10,
-      "updated_at": "2026-11-21T11:29:43+00:00",
+      "updated_at": "2026-11-22T11:43:50+00:00",
       "kept": 1
     },
     {
@@ -6661,7 +6562,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 8,
-      "updated_at": "2026-11-21T11:29:44+00:00",
+      "updated_at": "2026-11-22T11:43:50+00:00",
       "kept": 0
     },
     {
@@ -6671,7 +6572,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 35,
-      "updated_at": "2026-11-21T11:29:47+00:00",
+      "updated_at": "2026-11-22T11:43:54+00:00",
       "kept": 6
     },
     {
@@ -6680,8 +6581,8 @@
       "url": "https://www.village-habach.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 43,
-      "updated_at": "2026-11-21T11:29:49+00:00",
+      "found": 42,
+      "updated_at": "2026-11-22T11:43:56+00:00",
       "kept": 26
     },
     {
@@ -6691,7 +6592,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 100,
-      "updated_at": "2026-11-21T11:31:49+00:00",
+      "updated_at": "2026-11-22T11:45:59+00:00",
       "kept": 9
     },
     {
@@ -6700,8 +6601,8 @@
       "url": "https://stragula.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 30,
-      "updated_at": "2026-11-21T11:31:50+00:00",
+      "found": 29,
+      "updated_at": "2026-11-22T11:45:59+00:00",
       "kept": 4
     },
     {
@@ -6709,9 +6610,9 @@
       "name": "Ackermannbogen e.V.",
       "url": "https://ackermannbogen-ev.de/programm-alles",
       "kind": "venue",
-      "status": "failed",
-      "error": "HTTPError: 404 Client Error: Not Found for url: https://ackermannbogen-ev.de/wp-json/tribe/events/v1/events?per_page=50&categories=musik%2Cmusik-gesang&page=1",
-      "updated_at": "2026-11-18T12:01:05+00:00",
+      "status": "ok",
+      "found": 12,
+      "updated_at": "2026-11-22T11:46:08+00:00",
       "kept": 0
     },
     {
@@ -6721,7 +6622,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 48,
-      "updated_at": "2026-11-21T11:31:52+00:00",
+      "updated_at": "2026-11-22T11:46:10+00:00",
       "kept": 6
     },
     {
@@ -6731,7 +6632,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 11,
-      "updated_at": "2026-11-21T11:31:53+00:00",
+      "updated_at": "2026-11-22T11:46:11+00:00",
       "kept": 2
     },
     {
@@ -6741,7 +6642,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 8,
-      "updated_at": "2026-11-21T11:31:55+00:00",
+      "updated_at": "2026-11-22T11:46:13+00:00",
       "kept": 0
     },
     {
@@ -6750,8 +6651,8 @@
       "url": "https://www.kunst-in-sendling.com/",
       "kind": "venue",
       "status": "ok",
-      "found": 9,
-      "updated_at": "2026-11-21T11:32:13+00:00",
+      "found": 8,
+      "updated_at": "2026-11-22T11:46:16+00:00",
       "kept": 0
     },
     {
@@ -6760,8 +6661,8 @@
       "url": "https://www.buergersaal-fuerstenried.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 6,
-      "updated_at": "2026-11-21T11:32:14+00:00",
+      "found": 5,
+      "updated_at": "2026-11-22T11:46:18+00:00",
       "kept": 0
     },
     {
@@ -6770,8 +6671,8 @@
       "url": "https://www.einewelthaus.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 27,
-      "updated_at": "2026-11-21T11:32:22+00:00",
+      "found": 26,
+      "updated_at": "2026-11-22T11:46:23+00:00",
       "kept": 1
     },
     {
@@ -6781,7 +6682,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 3,
-      "updated_at": "2026-11-21T11:32:23+00:00",
+      "updated_at": "2026-11-22T11:46:24+00:00",
       "kept": 1
     },
     {
@@ -6800,9 +6701,9 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 159,
-      "updated_at": "2026-11-21T11:32:34+00:00",
-      "kept": 78
+      "found": 125,
+      "updated_at": "2026-11-22T11:46:37+00:00",
+      "kept": 73
     },
     {
       "id": "mvp",
@@ -6811,7 +6712,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 40,
-      "updated_at": "2026-11-21T11:32:42+00:00",
+      "updated_at": "2026-11-22T11:46:45+00:00",
       "kept": 3
     },
     {
@@ -6820,8 +6721,8 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 202,
-      "updated_at": "2026-11-21T11:33:02+00:00",
+      "found": 197,
+      "updated_at": "2026-11-22T11:47:07+00:00",
       "kept": 6
     },
     {
@@ -6831,7 +6732,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 0,
-      "updated_at": "2026-11-21T11:33:03+00:00",
+      "updated_at": "2026-11-22T11:47:07+00:00",
       "kept": 0
     },
     {
@@ -6841,7 +6742,7 @@
       "kind": "manual",
       "status": "ok",
       "found": 0,
-      "updated_at": "2026-11-21T11:33:03+00:00",
+      "updated_at": "2026-11-22T11:47:07+00:00",
       "kept": 0
     }
   ]

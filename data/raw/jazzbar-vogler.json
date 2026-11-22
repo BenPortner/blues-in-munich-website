@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-11-21T11:29:42+00:00",
+ "scraped_at": "2026-11-22T11:43:48+00:00",
  "status": {
   "id": "jazzbar-vogler",
   "name": "Jazzbar Vogler",
   "url": "https://www.jazzbar-vogler.com/",
   "kind": "venue",
   "status": "ok",
-  "found": 15
+  "found": 14
  },
  "events": [
-  {
-   "title": "Karen Edwards Quartet",
-   "type": "concert",
-   "start": "2026-11-21T19:30",
-   "end": null,
-   "url": "https://www.muenchen-online.de/veranstaltung/karen-edwards-quartet-486622",
-   "venue": "Jazzbar Vogler",
-   "address": "Rumfordstr. 17, 80469 München",
-   "description": "",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Julian Schmidt & Giorgos Antoniou",
    "type": "concert",

@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-21T11:32:34+00:00",
+ "scraped_at": "2026-11-22T11:46:37+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 159
+  "found": 125
  },
  "events": [
   {
@@ -318,28 +318,6 @@
    "id": ""
   },
   {
-   "title": "Popcorn Melodies",
-   "type": "concert",
-   "start": "2027-05-07T21:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/popcorn-melodies-muffatcafe-2027.html",
-   "venue": "Muffatwerk / Muffatcafé",
-   "address": "Zellstr. 4, 81667 München",
-   "description": "Ein Clubabend mit belgischen DJs, die Soul, Rhythm & Blues, Ska und Rock’n’Roll im originalen Popcorn-Sound auflegen.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Popcorn, Soul, Rhythm & Blues"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "What about BOB?",
    "type": "concert",
    "start": "2026-12-18T20:00",
@@ -538,28 +516,6 @@
    "id": ""
   },
   {
-   "title": "Martin Schmitt – Schmitt happens",
-   "type": "concert",
-   "start": "2027-02-19T19:30",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/martin-schmitt-schmitt-happens-rathaus-gilching.html",
-   "venue": "Rathaus Gilching",
-   "address": "Rathausplatz 1, 82205 Gilching",
-   "description": "Songs, Dialekte und bluesiges Klavier vom amtierenden Deutschen Kabarettmeister: das fünfte Klavierkabarett-Programm.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Klavierkabarett"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Martin Moro",
    "type": "concert",
    "start": "2027-10-17T18:00",
@@ -572,28 +528,6 @@
    "dates": [],
    "tags": [
     "Folk, Blues, Fingerstyle"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Lichterkinder",
-   "type": "concert",
-   "start": "2027-10-01T16:30",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/lichterkinder-muffathalle-2027.html",
-   "venue": "Muffatwerk / Muffathalle",
-   "address": "Zellstr. 4, 81667 München",
-   "description": "Die bekannte Kindermusik-Marke geht mit Hits zum Mitsingen und Tanzen auf Tour. Ein Familienkonzert für Groß und Klein.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Kindermusik"
    ],
    "source_id": "",
    "source_name": "",
@@ -660,50 +594,6 @@
    "dates": [],
    "tags": [
     "Instrumental"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Andrea Limmer – Flintenweib",
-   "type": "concert",
-   "start": "2026-12-11T20:00",
-   "end": "2026-12-11T22:00",
-   "url": "https://www.in-muenchen.de/events/andrea-limmer-flintenweib-fraunhofer.html",
-   "venue": "Fraunhofer Theater",
-   "address": "Fraunhoferstr. 9, 80469 München",
-   "description": "„Angst und Geld hatt‘ ich noch nie“: Das niederbayerische Heavy Mädl lädt in seinem neuen Programm die Satire-Flinte durch und lädt zur musikalischen Reise in den wilden Süden ein. Mit Ukulele, Witz und einer Mischung aus Country, Rock ’n‘ Roll, Blues und Folk.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Musikkabarett"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Yves & The Big Blue",
-   "type": "concert",
-   "start": "2026-11-21T20:00",
-   "end": "2026-11-21T22:30",
-   "url": "https://www.in-muenchen.de/events/yves-the-big-blue.html",
-   "venue": "Drehleier – Szenerie",
-   "address": "Rosenheimer Str. 123, 81667 München",
-   "description": "Balladen, Bluessongs und eigene Kompositionen von einer Band mit Gitarren, Mundharmonika, Keyboards, Akkordeon und Bass.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Blues"
    ],
    "source_id": "",
    "source_name": "",
@@ -846,50 +736,6 @@
    "id": ""
   },
   {
-   "title": "Werner Meier – Echt?!",
-   "type": "concert",
-   "start": "2027-02-19T20:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/werner-meier-echt-holzkirchen.html",
-   "venue": "Kultur im Oberbräu Holzkirchen",
-   "address": "Marktplatz 18A, 83607 Holzkirchen",
-   "description": "Der Liedermacher und Kabarettist fragt mit Gitarre und viel Humor, was im digitalen Alltag noch echt ist.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Musikkabarett"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Zither-Manä – 46 Jahre – Der ganz normale Wahnsinn",
-   "type": "concert",
-   "start": "2026-12-03T19:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/zither-mana-46-jahre-der-ganz-normale-wahnsinn.html",
-   "venue": "Kultur im Oberbräu Holzkirchen",
-   "address": "Marktplatz 18A, 83607 Holzkirchen",
-   "description": "Der Erfinder des Zither-Rock spielt Volksmusik, Blues und Pink Floyd auf der Zither und kommentiert dazu kabarettistisch die Lage der Welt.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Musikkabarett"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Everlast",
    "type": "concert",
    "start": "2027-02-04T20:00",
@@ -902,28 +748,6 @@
    "dates": [],
    "tags": [
     "Rock"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Shake Some Action",
-   "type": "concert",
-   "start": "2026-12-12T21:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/shake-some-action-schwarzer-hahn-dezember-2026.html",
-   "venue": "SCHWARZER HAHN",
-   "address": "Ohlmüllerstr. 8, 81541 München",
-   "description": "Zwei DJs legen Vintage-Sounds von Soul über Ska bis Punk Rock’n’Roll auf.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Vintage Dance Party"
    ],
    "source_id": "",
    "source_name": "",
@@ -978,28 +802,6 @@
    "id": ""
   },
   {
-   "title": "Yvonne Isegrei & Band",
-   "type": "concert",
-   "start": "2026-11-21T19:30",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/yvonne-isegrei-band.html",
-   "venue": "Brennerei Pentenried",
-   "address": "Gutsstraße 4, 82349 Krailling",
-   "description": "Die Formation präsentiert eine Mischung aus Chicago Blues, Boogie Woogie und Funk & Soul. Yvonne Isegrei, erfahrene Gitarristin und Sängerin, führt mit ihrer Band durch ein Repertoire von Bluesklassikern und Eigenkompositionen. Die Musiker, aus der süddeutschen Bluesszene, bieten einen dynamischen und facettenreichen Sound.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Rhythm'n'Blues"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Ludwig Seuss Trio & Abi Wallenstein",
    "type": "concert",
    "start": "2027-03-12T20:00",
@@ -1012,28 +814,6 @@
    "dates": [],
    "tags": [
     "Blues"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Songs am Kaminfeuer in Concert",
-   "type": "concert",
-   "start": "2026-11-21T20:00",
-   "end": "2026-11-21T23:00",
-   "url": "https://www.in-muenchen.de/events/songs-am-kaminfeuer-in-concert-kulturkeller-westend.html",
-   "venue": "Kulturkeller Westend d'Schwanthalerhöh'",
-   "address": "Westendstraße 76, 80339 München",
-   "description": "Zwei Bands spielen an einem Abend: eine Formation mit singender Säge und Tuba sowie eine Münchner Pop-Fusion-Band.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Swing, Pop und Fusion"
    ],
    "source_id": "",
    "source_name": "",
@@ -1076,28 +856,6 @@
    "dates": [],
    "tags": [
     "Rock"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Faces of the Blues – Robert Richter & Gaby von Sulkowski",
-   "type": "concert",
-   "start": "2026-11-21T20:00",
-   "end": "2026-11-21T22:00",
-   "url": "https://www.in-muenchen.de/events/faces-of-the-blues-robert-richter-gaby-von-sulkowski.html",
-   "venue": "La Cantina",
-   "address": "Elisabethstr. 53, 80796 München",
-   "description": "Ein Duo verbindet Bluesklassiker mit Lesungen aus dem Buch zur Ausstellung.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Blues"
    ],
    "source_id": "",
    "source_name": "",
@@ -1270,50 +1028,6 @@
    "dates": [],
    "tags": [
     "Fingerstyle"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Das „frühe“ Frauenfest",
-   "type": "concert",
-   "start": "2026-12-04T18:00",
-   "end": "2026-12-04T23:00",
-   "url": "https://www.in-muenchen.de/events/das-fruhe-frauenfest-mint-club.html",
-   "venue": "Mint Club",
-   "address": "Leopoldstraße 25, 80802 München",
-   "description": "In entspannter Atmosphäre direkt am U-Bahn-Halt Giselastraße laden DJane Eléni und DJ Blues zum „frühen“ Frauenfest ein. Von 18 bis 23 Uhr stehen Abschalten, Tanzen und Genießen im Vordergrund. Das Motto „come together – talk & dance“ fördert den persönlichen Austausch in einer Zeit, die oft von virtuellen Begegnungen bestimmt wird.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Elektronische Musik"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Rad Gumbo & Günter Grünwald",
-   "type": "concert",
-   "start": "2027-03-05T20:00",
-   "end": "2027-03-05T22:30",
-   "url": "https://www.in-muenchen.de/events/rad-gumbo-gunter-grunwald.html",
-   "venue": "Spektakel im Postsaal Schäftlarn",
-   "address": "Wolfratshauser Straße 45, 82067 Schäftlarn",
-   "description": "Bayerisches Kabarett und Southern Blues verschmelzen zu einem unterhaltsamen Abend. Mit bayerischem Humor und groovigem Blues-Rock erzeugen Günter Grünwald und RAD GUMBO einen musikalisch-komödiantischen Cocktail. Grünwald an der Sologitarre, gefolgt von Kabaretteinlagen, schafft eine überraschende und kurzweilige Atmosphäre.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Kabarett"
    ],
    "source_id": "",
    "source_name": "",
@@ -1720,28 +1434,6 @@
    "id": ""
   },
   {
-   "title": "Balduin und der Jazz",
-   "type": "concert",
-   "start": "2026-11-22T11:00",
-   "end": "2026-11-22T12:00",
-   "url": "https://www.in-muenchen.de/events/balduin-und-der-jazz-bergson-barbastelle.html",
-   "venue": "Bergson Kunstkraftwerk / Bergson Barbastelle",
-   "address": "Am Bergson Kunstkraftwerk 2, 81245 München",
-   "description": "Eine verzweifelte Theaterdirektorin und eine amerikanische Millionärin begeben sich mit Kindern und Musiker*innen auf eine turbulente Reise durch die Welt des Jazz. Von traurigen Bluesklängen bis zu wilden Boogie-Woogie-Rhythmen erleben die Zuschauer ein Erlebnis mit Interaktion, Staunen, Tanzen, Klatschen und Lachen.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Jazz"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Spanish Love Songs",
    "type": "concert",
    "start": "2027-02-04T20:30",
@@ -2050,28 +1742,6 @@
    "id": ""
   },
   {
-   "title": "Die letzten Nächte der Bohème",
-   "type": "concert",
-   "start": "2026-12-09T20:00",
-   "end": "2026-12-09T22:00",
-   "url": "https://www.in-muenchen.de/events/die-letzten-nachte-der-boheme-heppel-ettlich.html",
-   "venue": "Heppel & Ettlich",
-   "address": "Feilitzschstraße 12, 80802 München",
-   "description": "Frank Klötgen und Stefan Erz präsentieren erneut ihre Mixed Show in Schwabing. Die Veranstaltung vereint Kleinkunst, Kabarett, Poetry Slam und Literatur. Zudem ist ein musikalischer Gast aus den Bereichen Blues, Country und Jazz dabei.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Kabarettshow"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Michelle David & The True-Tones",
    "type": "concert",
    "start": "2027-03-07T20:00",
@@ -2358,28 +2028,6 @@
    "id": ""
   },
   {
-   "title": "Stephan Zinner – Großstadtblues",
-   "type": "concert",
-   "start": "2027-04-24T19:30",
-   "end": "2027-04-24T22:30",
-   "url": "https://www.in-muenchen.de/events/stephan-zinner-grossstadtblues-circus-krone.html",
-   "venue": "Circus Krone",
-   "address": "Marsstr. 43, 80335 München",
-   "description": "Mit Gitarre und pointierten Texten nimmt Stephan Zinner das Publikum auf eine musikalisch-satirische Reise durch den Wahnsinn des modernen Alltags mit. Zwischen Updates, die keiner braucht, und der Sehnsucht nach einem einfacheren Leben zeigt er die Absurditäten unserer Zeit.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Musikalisches Kabarett"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Wine & Roses Jazzsociety und Titilayo Adedokun",
    "type": "concert",
    "start": "2026-12-13T19:00",
@@ -2392,116 +2040,6 @@
    "dates": [],
    "tags": [
     "Weihnachtsjazz"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Heiner Lauterbach – Like a Hobo",
-   "type": "concert",
-   "start": "2027-02-05T20:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/heiner-lauterbach-like-a-hobo.html",
-   "venue": "CAVALLUNA Park / Showpalast",
-   "address": "Hans-Jensen-Weg 3, 80939 München",
-   "description": "Heiner Lauterbach präsentiert eine Show, die die Großen der US-Literatur mit den großen Musikern des Landes zusammenbringt. Eine faszinierende Mischung aus Spoken Word und Musik entsteht, die die literarischen und musikalischen Wurzeln Amerikas beleuchtet.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Spoken Word"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "JCOM: George Gershwin",
-   "type": "concert",
-   "start": "2027-01-30T20:00",
-   "end": "2027-01-30T21:30",
-   "url": "https://www.in-muenchen.de/events/jcom-george-gershwin.html",
-   "venue": "Münchner Kammerspiele – Schauspielhaus",
-   "address": null,
-   "description": "Zwischen Jazzclub und Konzertsaal erklingt Gershwins Musik in neuen Arrangements. Die Sängerinnen Jelena Kuljic und Wiebke Puls und das Jewish Chamber Orchestra Munich entführen in eine Epoche voller Sehnsucht, Energie und Lebensfreude.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Klassik"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Martin Schmitt – Schmitt happens",
-   "type": "concert",
-   "start": "2027-01-28T20:00",
-   "end": "2027-01-28T22:00",
-   "url": "https://www.in-muenchen.de/events/martin-schmitt-schmitt-happens.html",
-   "venue": "Bürgerhaus Unterföhring",
-   "address": "Münchner Straße 65, 85774 Unterföhring",
-   "description": "Martin Schmitt präsentiert sein neues Programm mit kraftvoller bayerischer Unterhaltung und bluesgetränktem Klavierspiel. Der Deutsche Kabarettmeister 2018/19 verbindet zeitgemäße und detaillierte Blicke auf Beziehungen, Psychotricks und Dialekte zu einer faszinierenden Show.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Kabarett"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Stephan Zinner – Großstadtblues",
-   "type": "concert",
-   "start": "2027-01-26T20:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/stephan-zinner-grossstadtblues.html",
-   "venue": "Lustspielhaus",
-   "address": "Occamstr. 8, 80802 München",
-   "description": "Stephan Zinner nimmt sein Publikum auf eine musikalisch-satirische Reise durch den modernen Großstadtalltag mit. Mit Gitarre und pointierten Texten erzählt er vom ewigen Kampf mit Updates, optimierter Freizeit und der Sehnsucht nach einem einfacheren Leben.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Musikalisches Kabarett"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "19. Festival für Kammermusik, Literatur & Weltmusik",
-   "type": "concert",
-   "start": "2026-11-21T16:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/19-festival-fur-kammermusik-literatur-weltmusik.html",
-   "venue": "Bürgersaal beim Forstner",
-   "address": "Kybergstraße 2, 82041 Oberhaching",
-   "description": "Zu Gast beim 19. Kammermusikfestival sind u.a. Benno Fürmann und das Modern String Quartet. Die neue musikalische Lesung über die Welt der Impressionisten feiert Premiere in Oberchaching. Das Modern String Quartet feiert Miles Davis‘ 100. Geburtstag mit dessen revolutionären Klängen – ganz ohne Trompete.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Musikalische Lesung, Kammermusik"
    ],
    "source_id": "",
    "source_name": "",
@@ -2546,50 +2084,6 @@
    "dates": [],
    "tags": [
     "Rock"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Justina Lee Brown + Biber Herrmann",
-   "type": "concert",
-   "start": "2026-11-21T19:30",
-   "end": "2026-11-21T22:30",
-   "url": "https://www.in-muenchen.de/events/blues-night.html",
-   "venue": "Bürgerhaus Garching",
-   "address": "Bürgerplatz 9, 85748 Garching bei München",
-   "description": "Zwei Ansätze prägen den Abend im Zeichen des Blues. Biber Herrmann präsentiert präzises Fingerstyle-Gitarrenspiel und erzählerische Texte. Justina Lee Brown verbindet Tradition mit Soul und Gospel, getragen von ihrer markanten Stimme. Gemeinsam fächern sie die Facetten des Blues auf, von der reduzierten Ballade bis zum expressiven Ausdruck.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Blues"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Mathias Kellner – Can you BOARISCH, please?",
-   "type": "concert",
-   "start": "2026-12-07T20:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/mathias-kellner.html",
-   "venue": "Lustspielhaus",
-   "address": "Occamstr. 8, 80802 München",
-   "description": "Mathias Kellner, bekannter bayerischer Liedermacher, präsentiert sein neues Programm ‚Can you BOARISCH, please?!‘. Eine Reise durch den Alltag mit Songs und bayrischen Übersetzungen von Musikklassikern.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Kabarett-Liederabend"
    ],
    "source_id": "",
    "source_name": "",
@@ -2701,26 +2195,6 @@
    "tags": [
     "Alpengrooveblues"
    ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Elvis – Das Musical",
-   "type": "concert",
-   "start": "2027-06-30T19:30",
-   "end": "2027-06-30T22:15",
-   "url": "https://www.in-muenchen.de/events/elvis-das-musical.html",
-   "venue": "Deutsches Theater Theatersaal",
-   "address": "Schwanthalerstraße 13, 80336 München",
-   "description": "Das Spektakel mit Elvis-Darsteller Graham Patrick bringt die Magie rund um die Rock’n’Roll-Ikone zurück auf die Bühne und präsentiert dabei Presleys gesamtes musikalisches Repertoire live – von Gospel über Blues bis hin zu hemmungslosem Rock’n’Roll – und lässt sein Leben eindrucksvoll Revue passieren.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -2972,28 +2446,6 @@
    "id": ""
   },
   {
-   "title": "Andrea Limmer – Flintenweib",
-   "type": "concert",
-   "start": "2026-11-29T19:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/andrea-limmer-flintenweib.html",
-   "venue": "Lindenkeller Freising",
-   "address": "Veitsmüllerweg 2, 85354 Freising",
-   "description": "Andrea Limmer, das niederbayrische Heavy Mädl, lädt mit ihrem neuen Programm „Flintenweib“ zur musikalischen Reise in den wilden Süden ein. Mit Ukulele, Witz und einer Mischung aus Country, Rock ’n‘ Roll, Blues und Folk entführt sie das Publikum aus dem Alltag. Limmer begeistert mit Spielfreude und musikalischer Feuerkraft.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Musik-Kabarett"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Hans Theessink",
    "type": "concert",
    "start": "2027-05-20T20:00",
@@ -3060,50 +2512,6 @@
    "id": ""
   },
   {
-   "title": "Poetenstammtisch „Bühne Frei!“",
-   "type": "concert",
-   "start": "2026-11-30T20:00",
-   "end": "2026-11-30T22:30",
-   "url": "https://www.in-muenchen.de/events/poetenstammtisch-buhne-frei.html",
-   "venue": "Fraunhofer Theater",
-   "address": "Fraunhoferstr. 9, 80469 München",
-   "description": "In der Kulisse präsentieren die MundArtFreunde Bayerns einen bunten Abend mit Musik, Poesie, Kabarett und Comedy. Wechselnde Moderator*innen und Gäste bieten jeden letzten Montag im Monat ein vielfältiges Programm.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Kleinkunst"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Günter Grünwald & Rad Gumbo",
-   "type": "concert",
-   "start": "2027-03-21T19:30",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/gunter-grunwald-rad-gumbo.html",
-   "venue": "Lustspielhaus",
-   "address": "Occamstr. 8, 80802 München",
-   "description": "Bayerisches Kabarett und Southern Blues verschmelzen in einem Programm, das Humor und Musik vereint. Gezeigt werden Comedy und Songs, die Traditionen und Kulturen vereinen.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Kabarett"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Razz",
    "type": "concert",
    "start": "2027-03-20T20:00",
@@ -3116,28 +2524,6 @@
    "dates": [],
    "tags": [
     "Indie Rock"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Wachse oder weiche",
-   "type": "concert",
-   "start": "2026-12-29T19:30",
-   "end": "2026-12-29T22:00",
-   "url": "https://www.in-muenchen.de/events/maxi-schafroth-wachse-oder-weiche.html",
-   "venue": "Münchner Kammerspiele – Schauspielhaus",
-   "address": null,
-   "description": "Eine Theater-, Kabarett-, Musik-Fusion mit Maximilian Schafroth. Ein Abend mit Raiffeisenbank, Riesenkürbis und Allgäublues. Das Kammerspiele-Ensemble fusioniert mit dem Team von Maximilian Schafroth.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Musiktheater"
    ],
    "source_id": "",
    "source_name": "",
@@ -3236,50 +2622,6 @@
    "id": ""
   },
   {
-   "title": "Bin I Kini?! – Der Prinzregenten-Blues",
-   "type": "concert",
-   "start": "2026-11-21T20:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/prinzregenten-blues-iberl-buhne.html",
-   "venue": "Iberl Bühne",
-   "address": "Herzogspitalstr. 6, 80331 München",
-   "description": "In einer Komödie voller Verwechslungen und Intrigen verschlägt es den Prinzregenten Johann der III. versehentlich in die bayerische Provinz. Dort gerät er in ein spaßiges Katz-und-Maus-Spiel, als er seine Identität verliert und als Knecht arbeiten muss. Eine turbulente Jagd nach der Wahrheit beginnt.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Verwechslungskomödie"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Martin Schmitt – Schmitt happens",
-   "type": "concert",
-   "start": "2026-11-26T20:00",
-   "end": "2026-11-26T23:00",
-   "url": "https://www.in-muenchen.de/events/martin-schmitt-schmitt-happens-eching.html",
-   "venue": "Bürgerhaus Eching",
-   "address": "Roßbergerstraße 6, 85386 Eching",
-   "description": "Martin Schmitt präsentiert sein neues Programm ‚Schmitt happens‘ mit bayrischer Unterhaltung, bluesgetränktem Klavierspiel und wortgewaltigem Kabarett.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Klavierkabarett"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Stephan Zinner",
    "type": "concert",
    "start": "2026-11-22T19:00",
@@ -3292,50 +2634,6 @@
    "dates": [],
    "tags": [
     "Blues"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Da Huawa und I – Schokoladenseit’n",
-   "type": "concert",
-   "start": "2027-10-12T20:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/da-huawa-und-i-schokoladenseitn.html",
-   "venue": "Schlachthof – Ox",
-   "address": "Zenettistraße 9, 80337 München",
-   "description": "Bekannt als „da Huawa“ des Kulttrios „Da Huawa, da Meier und I“, zeigt der Musikkabarettist Christian Maier in seinem 10. Bühnenprogramm bayrische Gelassenheit und interpretiert mitreißende Lieder.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Musikkabarett"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "The Official Blues Brothers Revue",
-   "type": "concert",
-   "start": "2026-11-25T20:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/the-official-blues-brothers-revue.html",
-   "venue": "Prinzregententheater",
-   "address": "Prinzregentenplatz 12, 81675 München",
-   "description": "Ein multimediales interaktives Erlebnis mit Kieron Lafferty (Elwood) & Wayne Catania (Jake), unterstützt von der All-Star-Intercontinental Rhythm & Blues Band. Klassiker wie „Soul Man“ und „Gimme Some Lovin“ feiern den Kult, den John Belushi & Dan Aykroyd erstmals 1978 entfachten.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Tribute Show"
    ],
    "source_id": "",
    "source_name": "",
@@ -3402,50 +2700,6 @@
    "dates": [],
    "tags": [
     "Jam-Session"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Weiberwirtschaft",
-   "type": "concert",
-   "start": "2026-12-11T20:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/weiberwirtschaft-iberl-buhne.html",
-   "venue": "Iberl Bühne",
-   "address": "Herzogspitalstr. 6, 80331 München",
-   "description": "drei san zwoa z vui… Die Komödie von Florian Günther spielt im Jahr 1899, wo die Schwestern Burga und Traudl mit Nichte Finni eine alteingesessene Wirtschaft führen, die schon etwas marode ist. Da kündigt sich ein Kontrolleur an, der die Schanklizenz prüfen will.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Komödie"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Jodeln beim Wirt",
-   "type": "concert",
-   "start": "2026-12-01T19:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/jodeln-beim-wirt.html",
-   "venue": "Fraunhofer Theater",
-   "address": "Fraunhoferstr. 9, 80469 München",
-   "description": "Jodeln beim Wirt lädt zum geselligen Beisammensein ein. Erfahrene Leiter bringen mehrstimmige Jodler mit. Offenes Singen und Wunschjodler sind möglich. Jeden 1. Dienstag im Monat.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Volksmusik-Veranstaltung"
    ],
    "source_id": "",
    "source_name": "",

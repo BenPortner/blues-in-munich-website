@@ -1,80 +1,14 @@
 {
- "scraped_at": "2026-11-21T11:29:18+00:00",
+ "scraped_at": "2026-11-22T11:43:15+00:00",
  "status": {
   "id": "boogie-baeren",
   "name": "Boogie-Bären München",
   "url": "https://www.boogie-baeren.de/",
   "kind": "school",
   "status": "ok",
-  "found": 113
+  "found": 110
  },
  "events": [
-  {
-   "title": "HUI Tag 11.26",
-   "type": "social",
-   "start": "2026-11-21",
-   "end": null,
-   "url": "https://www.boogie-baeren.de/eventleser/hui-tag-november-2026",
-   "venue": "Boogie-Bären Vereinsheim",
-   "address": "Gneisenaustraße 16, 80992 München",
-   "description": "Haus- und Inventar Tag",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Vereinsheim"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Turnier: Deutsche Meisterschaft Boogie Woogie",
-   "type": "social",
-   "start": "2026-11-21",
-   "end": null,
-   "url": "https://www.boogie-baeren.de/eventleser/turnier-deutsche-meisterschaft-boogie-woogie-geplant",
-   "venue": "Boogie-Bären Vereinsheim",
-   "address": "Gneisenaustraße 16, 80992 München",
-   "description": "",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Turnier"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Swing & Boogie Übungsabend 11.26",
-   "type": "social",
-   "start": "2026-11-21",
-   "end": null,
-   "url": "https://www.boogie-baeren.de/eventleser/swing-boogie-uebungsabend-november-2026",
-   "venue": "Boogie-Bären Vereinsheim",
-   "address": "Gneisenaustraße 16, 80992 München",
-   "description": "Übungsabend für Boogie Woogie, Lindy Hop, Collegiate Shag und Balboa.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Übungsabend"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Spielenachmittag #16",
    "type": "social",

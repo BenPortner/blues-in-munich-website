@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-21T11:32:42+00:00",
+ "scraped_at": "2026-11-22T11:46:45+00:00",
  "status": {
   "id": "mvp",
   "name": "mvp.de (Jazz & Blues)",
@@ -10,11 +10,11 @@
  },
  "events": [
   {
-   "title": "MMi Free Impro Festival - 1 Tagespass",
+   "title": "MMi Free Impro Festival - 2 Tages Pass",
    "type": "concert",
    "start": "2026-11-21",
    "end": null,
-   "url": "https://www.mvp.de/muenchen/veranstaltungen/mmi-free-impro-festival-1-tagespass/",
+   "url": "https://www.mvp.de/muenchen/veranstaltungen/mmi-free-impro-festival-2-tages-pass/",
    "venue": "Einstein Kultur",
    "address": null,
    "description": "",
@@ -30,11 +30,11 @@
    "id": ""
   },
   {
-   "title": "MMi Free Impro Festival - 2 Tages Pass",
+   "title": "MMi Free Impro Festival - 1 Tagespass",
    "type": "concert",
    "start": "2026-11-21",
    "end": null,
-   "url": "https://www.mvp.de/muenchen/veranstaltungen/mmi-free-impro-festival-2-tages-pass/",
+   "url": "https://www.mvp.de/muenchen/veranstaltungen/mmi-free-impro-festival-1-tagespass/",
    "venue": "Einstein Kultur",
    "address": null,
    "description": "",

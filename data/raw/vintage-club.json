@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-21T11:29:13+00:00",
+ "scraped_at": "2026-11-22T11:43:10+00:00",
  "status": {
   "id": "vintage-club",
   "name": "Vintage Club",
   "url": "https://www.vintage-club.de/",
   "kind": "school",
   "status": "ok",
-  "found": 63
+  "found": 62
  },
  "events": [
   {
@@ -1297,26 +1297,6 @@
    "tags": [
     "course block"
    ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Sweety Swing Night",
-   "type": "social",
-   "start": "2026-11-21T20:00",
-   "end": "2026-11-21T24:00",
-   "url": "https://www.vintage-club.de/parties.aspx",
-   "venue": "Vintage Club",
-   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
-   "description": "Lindy Hop, Balboa, Shag & Blues – Erlebe einen Abend voller Swing, Energie & guter Vibes! Lindy Hop, Shag, Balboa & Blues auf einer Tanzfläche – für Anfänger & Profis gleichermaßen 💃🕺 🕗 20:00 – 24:00 Uhr 🎵 DJ Dr. No 🎟 Eintritt: 10 Euro Let the music move you! 🎶✨ --------------------",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,

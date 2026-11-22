@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-11-21T11:29:40+00:00",
+ "scraped_at": "2026-11-22T11:43:45+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 73
+  "found": 72
  },
  "events": [
-  {
-   "title": "HAROLD LÓPEZ NUSSA",
-   "type": "concert",
-   "start": "2026-11-21T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11702",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Sold out. Harold López Nussa hat eine Autobiografie geschrieben – eine, die ohne Worte auskommt, dafür aber mit pulsierenden Rhythmen, hinreißenden Melodien und viel Corazón weite Kapitel seiner Lebensgeschichte erzählt. Sein Album Nueva Timba kündet von schmerzhaften Erfahrungen, vom Heimweh, beschreibt die sich immer weiter verschlechternden Lebensumstände auf Kuba, die Isolation der Corona-Zeit und lässt auch den Wechsel in eine neue Welt anklingen: López Nussa lebt jetzt in Frankreich.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "LARS DANIELSSON & PAOLO FRESU",
    "type": "concert",

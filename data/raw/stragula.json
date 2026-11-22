@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-11-21T11:31:50+00:00",
+ "scraped_at": "2026-11-22T11:45:59+00:00",
  "status": {
   "id": "stragula",
   "name": "Stragula",
   "url": "https://stragula.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 30
+  "found": 29
  },
  "events": [
-  {
-   "title": "GEH5 – Improvisationstheater",
-   "type": "concert",
-   "start": "2026-11-21T20:00",
-   "end": null,
-   "url": "https://stragula.de/events.html#:~:text=GEH5%20%E2%80%93%20Improvisationstheater",
-   "venue": "Stragula",
-   "address": "Bergmannstr. 66, 80339 München",
-   "description": "GEH5 – Improvisationstheater · Eintritt: 10 Kinder bis 14 Jahre frei",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Austria Project Pur",
    "type": "concert",

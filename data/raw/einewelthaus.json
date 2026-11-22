@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-21T11:32:22+00:00",
+ "scraped_at": "2026-11-22T11:46:23+00:00",
  "status": {
   "id": "einewelthaus",
   "name": "EineWeltHaus",
   "url": "https://www.einewelthaus.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 27
+  "found": 26
  },
  "events": [
   {
@@ -22,28 +22,6 @@
    "dates": [],
    "tags": [
     "Ausstellung"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "BILDUNG SCHAFFT ZUKUNFT: SCHULEN WELTWEIT ERMÖGLICHEN - Jahresfeier Happy Bambini e.V.",
-   "type": "concert",
-   "start": "2026-11-21T18:30",
-   "end": "2026-11-21T22:30",
-   "url": "https://www.einewelthaus.de/events/bildung-schafft-zukunft-schulen-weltweit-ermoeglichen-jahresfeier-happy-bambini-e-v/",
-   "venue": "EineWeltHaus",
-   "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "Unser Motto: BILDUNG SCHAFFT ZUKUNFT: SCHULEN WELTWEIT ERMÖGLICHEN Unsere Jahresfeier ist eine Benefizveranstaltung, welche den Schulkindern zu Gute kommt, in denen unser Verein tätig ist: Mongolei, Sri Lanka, Honduras und Argentinien. Happy Bambini e.V. unterstützt den Wiederaufbau und die Renovierung von Bildungseinrichtungen in Entwicklungsländern, damit viele junge Menschen wieder zur Schule und in den Kindergarten gehen können. Um Anmeldung wird gebeten unter info@happybambini.eu Weiter Infos unter: https://happybambini.eu/",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Benefizveranstaltung"
    ],
    "source_id": "",
    "source_name": "",

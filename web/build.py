@@ -45,6 +45,8 @@ FILTERS = [("dance", "Dance", ("class", "workshop", "social")), ("concert", "Con
            ("other", "Other", ("other",))]
 TYPE_GROUP = {t: group for group, _, types in FILTERS for t in types}
 COURSE_HORIZON_MONTHS = 2  # course blocks starting later than this aren't listed yet
+SPOTLIGHT_MONTHS = 2  # the "Upcoming highlights" box looks this far ahead …
+SPOTLIGHT_MIN = 3  # … or further, until it has this many highlights
 # The city's own postcodes; anything else is the region (the place menu: "Munich" / "Munich and region")
 MUNICH_POSTCODES = range(80331, 81930)
 POSTCODE = re.compile(r"\b(\d{5})\b")
@@ -105,12 +107,6 @@ def card(e: Event, today: date, highlights: Highlights) -> dict:
     }
 
 
-def spotlight_months(today: date) -> tuple[date, date]:
-    """First days of this month and the next: the "Upcoming highlights" box covers both."""
-    this = today.replace(day=1)
-    return this, (this + timedelta(days=32)).replace(day=1)
-
-
 def group_months(cards: list[dict], today: date) -> list[dict]:
     months = []
     for (year, month), month_cards in groupby(cards, key=lambda c: (c["day"].year, c["day"].month)):
@@ -126,6 +122,16 @@ def months_later(day: date, months: int) -> date:
     year, month = day.year + month // 12, month % 12 + 1
     last = (date(year + month // 12, month % 12 + 1, 1) - timedelta(days=1)).day
     return date(year, month, min(day.day, last))
+
+
+def spotlight_months(days: list[date], today: date) -> int:
+    """How many months from today the "Upcoming highlights" box covers, given the highlights' days:
+    SPOTLIGHT_MONTHS, or as many more as it takes to list SPOTLIGHT_MIN of them (all, if there are fewer)."""
+    wanted = sorted(days)[:SPOTLIGHT_MIN]
+    months = SPOTLIGHT_MONTHS
+    while wanted and months_later(today, months) < wanted[-1]:
+        months += 1
+    return months
 
 
 def shown_events(data: dict, today: date) -> list[Event]:
@@ -150,10 +156,11 @@ def view_model(data: dict, today: date, highlights: Highlights) -> dict:
     generated = datetime.fromisoformat(data["generated_at"]).astimezone(MUNICH)
     calendar_json = json.dumps(calendar_events(past[::-1] + upcoming, highlights),
                                ensure_ascii=False).replace("</", "<\\/")
-    this_month, next_month = spotlight_months(today)
-    after = (next_month + timedelta(days=32)).replace(day=1)
-    spotlight = [{**c, "day_label": fmt_day(c["day"])} for c in cards if c["highlight"] and c["day"] < after]
     in_town = [c for c in cards if not c["regional"]]
+    # Wide enough for both place menu settings: the page hides the box's out-of-town highlights for "Munich"
+    months = max(spotlight_months([c["day"] for c in shown if c["highlight"]], today) for shown in (in_town, cards))
+    until = months_later(today, months)
+    spotlight = [{**c, "day_label": fmt_day(c["day"])} for c in cards if c["highlight"] and c["day"] <= until]
 
     def chip_counts(match) -> tuple[int, int]:
         """Upcoming events a chip lists without and with the events outside Munich."""
@@ -161,7 +168,7 @@ def view_model(data: dict, today: date, highlights: Highlights) -> dict:
 
     return {
         "spotlight": spotlight,
-        "spotlight_label": f"{this_month:%B} & {next_month:%B}",
+        "spotlight_label": f"next {months} months",
         "months": group_months(cards, today),
         "past_months": group_months(past_cards, today),
         "past_total": len(past_cards),

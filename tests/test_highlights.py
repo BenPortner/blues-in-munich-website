@@ -1,10 +1,11 @@
 import json
+from datetime import date
 
 from bs4 import BeautifulSoup
 
 from scraper.__main__ import ROOT
 from scraper.models import Event
-from web.build import build, calendar_events
+from web.build import build, calendar_events, spotlight_months
 from web.highlights import Highlights
 
 from .conftest import TODAY
@@ -134,43 +135,80 @@ def test_past_highlight_keeps_chip(tmp_path):
     assert page.select_one("#past .card")["data-highlight"] == ""
 
 
-def test_spotlight_months():
-    from datetime import date
-    from web.build import spotlight_months
-    assert spotlight_months(date(2026, 10, 17)) == (date(2026, 10, 1), date(2026, 11, 1))
-    assert spotlight_months(date(2026, 12, 31)) == (date(2026, 12, 1), date(2027, 1, 1))
-    assert spotlight_months(date(2027, 1, 31)) == (date(2027, 1, 1), date(2027, 2, 1))
-
-
-def test_spotlight_lists_this_and_next_months_highlights(tmp_path):
-    data = {"generated_at": "2026-10-16T04:00:00+00:00", "sources": [], "events": [
-        ev("Big Show", start="2026-10-21T20:00", venue="Muffathalle", id="oct").to_dict(),
-        ev("Blues Intensive", type="workshop", start="2026-11-28", source_id="bb", source_name="Boogie-Bären",
-           id="nov").to_dict(),
-        ev("Later Show", start="2026-12-01T20:00", venue="Muffathalle", id="dec").to_dict(),
-        ev("Bar Gig", start="2026-10-23T20:00", venue="Some Bar", id="bar").to_dict(),
-    ]}
+def spotlight(tmp_path, *events):
+    data = {"generated_at": "2026-10-16T04:00:00+00:00", "sources": [],
+            "events": [e.to_dict() for e in events]}
     data_path = tmp_path / "events.json"
     data_path.write_text(json.dumps(data))
     build(data_path, tmp_path / "dist", TODAY, highlights(tmp_path))
     page = BeautifulSoup((tmp_path / "dist" / "index.html").read_text(encoding="utf-8"), "lxml")
-    box = page.select_one("#spotlight")
-    assert "October & November" in box.h2.text
+    return page, page.select_one("#spotlight")
+
+
+def show(title, start, **kw):
+    return ev(title, start=start, id=title, **{"venue": "Muffathalle", **kw})
+
+
+def titles(box):
+    return [li.a.text for li in box.select("li")]
+
+
+def test_spotlight_months():
+    today = date(2026, 12, 31)
+    # enough highlights within two months, the last day (28 Feb, there is no 31 Feb) included
+    assert spotlight_months([date(2027, 1, 5), date(2027, 2, 28), date(2027, 2, 28), date(2027, 9, 1)], today) == 2
+    # two or fewer: widened to the month with the third, in whatever order they come
+    assert spotlight_months([date(2027, 5, 1), date(2027, 1, 5), date(2027, 3, 1), date(2027, 9, 1)], today) == 5
+    # fewer than three altogether: just wide enough for all of them
+    assert spotlight_months([date(2027, 1, 5), date(2028, 1, 1)], today) == 13
+    assert spotlight_months([date(2027, 1, 5)], today) == 2
+    assert spotlight_months([], today) == 2
+
+
+def test_spotlight_lists_the_next_two_months(tmp_path):
+    page, box = spotlight(
+        tmp_path,
+        show("Big Show", "2026-10-21T20:00"),
+        ev("Blues Intensive", type="workshop", start="2026-11-28", source_id="bb", source_name="Boogie-Bären",
+           id="ws"),
+        show("Last Day", "2026-12-16T20:00"),
+        show("Day After", "2026-12-17T20:00"),
+        show("Bar Gig", "2026-10-23T20:00", venue="Some Bar"))
+    assert box.h2.span.text == "next 2 months"
+    assert titles(box) == ["Big Show", "Blues Intensive", "Last Day"]
     items = box.select("li")
-    assert [li.a.text for li in items] == ["Big Show", "Blues Intensive"]
     assert items[0].time.text.strip() == "Wed 21 Oct · 20:00"
     assert items[1].select_one(".where") is None and "Boogie" not in box.text  # no reason shown
-    assert len(page.select("#upcoming .card")) == 4  # the full list is unchanged
+    assert len(page.select("#upcoming .card")) == 5  # the full list is unchanged
+
+
+def test_spotlight_widens_with_few_highlights(tmp_path):
+    _, box = spotlight(
+        tmp_path,
+        show("One", "2026-10-21T20:00"), show("Two", "2026-12-01T20:00"),
+        show("Three", "2027-02-20T20:00"), show("Same Month", "2027-03-16T20:00"),
+        show("Too Late", "2027-03-17T20:00"))
+    assert box.h2.span.text == "next 5 months"
+    assert titles(box) == ["One", "Two", "Three", "Same Month"]
+
+
+def test_spotlight_counts_highlights_in_town(tmp_path):
+    # Out-of-town highlights are hidden for "Munich", so they don't fill the box there
+    far = {"address": "Obermühle 1, 82392 Habach"}
+    _, box = spotlight(
+        tmp_path,
+        show("Far One", "2026-10-21T20:00", **far), show("Far Two", "2026-10-22T20:00", **far),
+        show("Far Three", "2026-10-23T20:00", **far),
+        show("City One", "2026-10-24T20:00"), show("City Two", "2026-11-24T20:00"),
+        show("City Three", "2027-01-10T20:00"))
+    assert box.h2.span.text == "next 3 months"
+    assert titles(box)[-1] == "City Three" and len(titles(box)) == 6
 
 
 def test_no_spotlight_without_upcoming_highlights(tmp_path):
-    data = {"generated_at": "2026-10-16T04:00:00+00:00", "sources": [], "events": [
-        ev("Later Show", start="2026-12-01T20:00", venue="Muffathalle", id="dec").to_dict()]}
-    data_path = tmp_path / "events.json"
-    data_path.write_text(json.dumps(data))
-    build(data_path, tmp_path / "dist", TODAY, highlights(tmp_path))
-    page = BeautifulSoup((tmp_path / "dist" / "index.html").read_text(encoding="utf-8"), "lxml")
-    assert page.select_one("#spotlight") is None
+    _, box = spotlight(tmp_path, show("Bar Gig", "2026-10-23T20:00", venue="Some Bar"),
+                       show("Past Show", "2026-10-10T20:00"))
+    assert box is None
 
 
 def test_reason_known_artist(tmp_path):

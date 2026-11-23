@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T11:47:07+00:00",
+  "generated_at": "2026-11-23T13:22:57+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -3733,7 +3733,7 @@
       "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "venue": "Rheinpfalz Schwabing",
       "address": "Kurfürstenstraße 35, 80801 München",
-      "description": "Chicago Blues: ein musikalischer Leckerbissen! Bitte frühzeitig kommen, es könnte eng werden… Mit höchster Spielfreude zelebriert die Jakarta Blues Band aus dem Münchner Umland alle Facetten des Chicago Blues und widerlegt immer wieder aufs Neue, dass Blues nur für Melancholiker geeignet ist. Die sechs Musiker bieten perfekte handgemachte Musik, bei der man einfach nicht stillhalten kann. Sie leben jede Note, so dass die Kraft und Emotionalität dieser Musik regelmäßig auf die Zuhörer überspringen und jede(r) mitwippt oder tanzt. Dabei ist kaum eine Formation ist so nah dran am Sound der Origin",
+      "description": "Chicago Blues: ein musikalischer Leckerbissen! Bitte frühzeitig kommen, es wird ziemlich voll. Mit höchster Spielfreude zelebriert die Jakarta Blues Band aus dem Münchner Umland alle Facetten des Chicago Blues und widerlegt immer wieder aufs Neue, dass Blues nur für Melancholiker geeignet ist. Die sechs Musiker bieten perfekte handgemachte Musik, bei der man einfach nicht stillhalten kann. Sie leben jede Note, so dass die Kraft und Emotionalität dieser Musik regelmäßig auf die Zuhörer überspringen und jede(r) mitwippt oder tanzt. Dabei ist kaum eine Formation ist so nah dran am Sound der Origi",
       "recurrence": null,
       "dates": [],
       "tags": [],
@@ -5838,6 +5838,31 @@
       "id": "8b0fe5e4c983"
     },
     {
+      "title": "Devon Allman Blues Summit - Jimmy Hall, Claudette King & Bernard Allison",
+      "type": "concert",
+      "start": "2027-03-27T20:00",
+      "end": null,
+      "url": "https://www.mvp.de/muenchen/veranstaltungen/devon-allman-blues-summit-jimmy-hall-claudette-king-bernard/",
+      "venue": "Ampere / Muffatwerk",
+      "address": "Zellstr. 4, 81667 München",
+      "description": "",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "source_id": "mvp",
+      "source_name": "mvp.de (Jazz & Blues)",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Devon Allman",
+          "url": "https://www.last.fm/music/Devon+Allman"
+        }
+      ],
+      "known_artists": [],
+      "id": "a653a79f8f59"
+    },
+    {
       "title": "Devon Allman Blues Summit feat. Jimmy Hall, Claudette King, Bernard Allison",
       "type": "concert",
       "start": "2027-03-27T20:00",
@@ -6461,8 +6486,8 @@
       "url": "https://www.vintage-club.de/",
       "kind": "school",
       "status": "ok",
-      "found": 62,
-      "updated_at": "2026-11-22T11:43:10+00:00",
+      "found": 61,
+      "updated_at": "2026-11-23T13:18:27+00:00",
       "kept": 14
     },
     {
@@ -6471,8 +6496,8 @@
       "url": "https://www.boogie-baeren.de/",
       "kind": "school",
       "status": "ok",
-      "found": 110,
-      "updated_at": "2026-11-22T11:43:15+00:00",
+      "found": 109,
+      "updated_at": "2026-11-23T13:18:31+00:00",
       "kept": 14
     },
     {
@@ -6482,7 +6507,7 @@
       "kind": "school",
       "status": "ok",
       "found": 5,
-      "updated_at": "2026-11-22T11:43:19+00:00",
+      "updated_at": "2026-11-23T13:18:35+00:00",
       "kept": 4
     },
     {
@@ -6492,7 +6517,7 @@
       "kind": "school",
       "status": "ok",
       "found": 248,
-      "updated_at": "2026-11-22T11:43:30+00:00",
+      "updated_at": "2026-11-23T13:18:40+00:00",
       "kept": 3
     },
     {
@@ -6502,7 +6527,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 30,
-      "updated_at": "2026-11-22T11:43:35+00:00",
+      "updated_at": "2026-11-23T13:18:47+00:00",
       "kept": 52
     },
     {
@@ -6512,7 +6537,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 14,
-      "updated_at": "2026-11-22T11:43:39+00:00",
+      "updated_at": "2026-11-23T13:18:56+00:00",
       "kept": 8
     },
     {
@@ -6522,7 +6547,7 @@
       "kind": "band",
       "status": "ok",
       "found": 3,
-      "updated_at": "2026-11-22T11:43:42+00:00",
+      "updated_at": "2026-11-23T13:18:59+00:00",
       "kept": 17
     },
     {
@@ -6532,7 +6557,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 72,
-      "updated_at": "2026-11-22T11:43:45+00:00",
+      "updated_at": "2026-11-23T13:19:02+00:00",
       "kept": 2
     },
     {
@@ -6542,7 +6567,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 14,
-      "updated_at": "2026-11-22T11:43:48+00:00",
+      "updated_at": "2026-11-23T13:19:05+00:00",
       "kept": 0
     },
     {
@@ -6552,7 +6577,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 10,
-      "updated_at": "2026-11-22T11:43:50+00:00",
+      "updated_at": "2026-11-23T13:19:06+00:00",
       "kept": 1
     },
     {
@@ -6562,7 +6587,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 8,
-      "updated_at": "2026-11-22T11:43:50+00:00",
+      "updated_at": "2026-11-23T13:19:07+00:00",
       "kept": 0
     },
     {
@@ -6572,7 +6597,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 35,
-      "updated_at": "2026-11-22T11:43:54+00:00",
+      "updated_at": "2026-11-23T13:19:45+00:00",
       "kept": 6
     },
     {
@@ -6581,8 +6606,8 @@
       "url": "https://www.village-habach.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 42,
-      "updated_at": "2026-11-22T11:43:56+00:00",
+      "found": 41,
+      "updated_at": "2026-11-23T13:19:48+00:00",
       "kept": 26
     },
     {
@@ -6592,7 +6617,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 100,
-      "updated_at": "2026-11-22T11:45:59+00:00",
+      "updated_at": "2026-11-23T13:21:46+00:00",
       "kept": 9
     },
     {
@@ -6602,7 +6627,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 29,
-      "updated_at": "2026-11-22T11:45:59+00:00",
+      "updated_at": "2026-11-23T13:21:46+00:00",
       "kept": 4
     },
     {
@@ -6612,7 +6637,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 12,
-      "updated_at": "2026-11-22T11:46:08+00:00",
+      "updated_at": "2026-11-23T13:21:54+00:00",
       "kept": 0
     },
     {
@@ -6622,7 +6647,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 48,
-      "updated_at": "2026-11-22T11:46:10+00:00",
+      "updated_at": "2026-11-23T13:21:55+00:00",
       "kept": 6
     },
     {
@@ -6632,7 +6657,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 11,
-      "updated_at": "2026-11-22T11:46:11+00:00",
+      "updated_at": "2026-11-23T13:21:56+00:00",
       "kept": 2
     },
     {
@@ -6642,7 +6667,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 8,
-      "updated_at": "2026-11-22T11:46:13+00:00",
+      "updated_at": "2026-11-23T13:21:58+00:00",
       "kept": 0
     },
     {
@@ -6651,8 +6676,8 @@
       "url": "https://www.kunst-in-sendling.com/",
       "kind": "venue",
       "status": "ok",
-      "found": 8,
-      "updated_at": "2026-11-22T11:46:16+00:00",
+      "found": 7,
+      "updated_at": "2026-11-23T13:22:00+00:00",
       "kept": 0
     },
     {
@@ -6661,8 +6686,8 @@
       "url": "https://www.buergersaal-fuerstenried.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 5,
-      "updated_at": "2026-11-22T11:46:18+00:00",
+      "found": 3,
+      "updated_at": "2026-11-23T13:22:01+00:00",
       "kept": 0
     },
     {
@@ -6671,8 +6696,8 @@
       "url": "https://www.einewelthaus.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 26,
-      "updated_at": "2026-11-22T11:46:23+00:00",
+      "found": 27,
+      "updated_at": "2026-11-23T13:22:10+00:00",
       "kept": 1
     },
     {
@@ -6682,7 +6707,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 3,
-      "updated_at": "2026-11-22T11:46:24+00:00",
+      "updated_at": "2026-11-23T13:22:11+00:00",
       "kept": 1
     },
     {
@@ -6701,8 +6726,8 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 125,
-      "updated_at": "2026-11-22T11:46:37+00:00",
+      "found": 124,
+      "updated_at": "2026-11-23T13:22:24+00:00",
       "kept": 73
     },
     {
@@ -6712,8 +6737,8 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 40,
-      "updated_at": "2026-11-22T11:46:45+00:00",
-      "kept": 3
+      "updated_at": "2026-11-23T13:22:32+00:00",
+      "kept": 4
     },
     {
       "id": "muenchen-online-jazz",
@@ -6721,8 +6746,8 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 197,
-      "updated_at": "2026-11-22T11:47:07+00:00",
+      "found": 221,
+      "updated_at": "2026-11-23T13:22:56+00:00",
       "kept": 6
     },
     {
@@ -6732,7 +6757,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 0,
-      "updated_at": "2026-11-22T11:47:07+00:00",
+      "updated_at": "2026-11-23T13:22:57+00:00",
       "kept": 0
     },
     {
@@ -6742,7 +6767,7 @@
       "kind": "manual",
       "status": "ok",
       "found": 0,
-      "updated_at": "2026-11-22T11:47:07+00:00",
+      "updated_at": "2026-11-23T13:22:57+00:00",
       "kept": 0
     }
   ]

@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-22T11:46:23+00:00",
+ "scraped_at": "2026-11-23T13:22:10+00:00",
  "status": {
   "id": "einewelthaus",
   "name": "EineWeltHaus",
   "url": "https://www.einewelthaus.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 26
+  "found": 27
  },
  "events": [
   {
@@ -333,6 +333,28 @@
    "dates": [],
    "tags": [
     "Diskussionsveranstaltung"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Simona Canepa, Menschenrechte leben - wie wollen wir Gesellschaft gestalten?",
+   "type": "concert",
+   "start": "2026-12-10T06:00",
+   "end": "2026-12-10T08:30",
+   "url": "https://www.einewelthaus.de/events/simona-canepa-menschenrechte-leben-wie-wollen-wir-gesellschaft-gestalten/",
+   "venue": "EineWeltHaus München",
+   "address": "Schwanthalerstr. 80, München, 80336",
+   "description": "Menschenrechte haben einen universellen Anspruch, doch ihre Verwirklichung bleibt vielerorts weit hinter diesem zurück. Kriege, soziale Ungleichheit und die ökologische Krise werfen die Frage auf, welche gesellschaftlichen Strukturen einem menschenwürdigen Leben für alle entgegenstehen. Wie können wir unsere Gesellschaft so gestalten, dass Menschenrechte nicht nur auf dem Papier bestehen, sondern zur Grundlage unseres gesellschaftlichen Denkens, Handelns und Entscheidens werden. Wo entstehen bereits heute Freiräume für ein anderes Zusammenleben und wie können wir sie gemeinsam stärken? An Thementischen möchten wir darüber diskutieren, konkrete Ideen entwickeln, uns gegenseitig inspirieren und vernetzen. Simona Canepa studierte Soziologie und Erziehungswissenschaften (B.A.) an der Friedrich-Schiller-Universität Jena sowie Bildungsmanagement (M.A.) an der LMU. Inhaltich beschäftigt sie sich speziell mit Kapitalismus- und Wachstumskritik und der Frage nach einem guten Leben für alle.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Vortrag und Diskussion"
    ],
    "source_id": "",
    "source_name": "",

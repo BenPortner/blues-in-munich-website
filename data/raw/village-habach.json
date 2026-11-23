@@ -1,34 +1,14 @@
 {
- "scraped_at": "2026-11-22T11:43:56+00:00",
+ "scraped_at": "2026-11-23T13:19:48+00:00",
  "status": {
   "id": "village-habach",
   "name": "Village Habach",
   "url": "https://www.village-habach.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 42
+  "found": 41
  },
  "events": [
-  {
-   "title": "Greg Black & The Bad Notion (SLO)",
-   "type": "concert",
-   "start": "2026-11-22T20:15",
-   "end": null,
-   "url": "https://village-habach.de/programm/?single=9867bbbcc2f8d385e843cb84f6a2423d",
-   "venue": "Village Habach",
-   "address": "Obermühle 1, 82392 Habach",
-   "description": "Blues, Rock,Soul Greg Black & The Bad Notions ist eine energiegeladene Band, die Blues, Rock und Soul zu einem kraftvollen, zeitgemäßen Sound verbindet. Im Mittelpunkt steht Sänger und Gitarrist Greg Black, dessen markante Stimme und dynamisches Gitarrenspiel den musikalischen Kern der Gruppe b...",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Hattori Hanzi",
    "type": "concert",

@@ -1,36 +1,14 @@
 {
- "scraped_at": "2026-11-22T11:43:15+00:00",
+ "scraped_at": "2026-11-23T13:18:31+00:00",
  "status": {
   "id": "boogie-baeren",
   "name": "Boogie-Bären München",
   "url": "https://www.boogie-baeren.de/",
   "kind": "school",
   "status": "ok",
-  "found": 110
+  "found": 109
  },
  "events": [
-  {
-   "title": "Spielenachmittag #16",
-   "type": "social",
-   "start": "2026-11-22",
-   "end": null,
-   "url": "https://www.boogie-baeren.de/eventleser/spielenachmittag-16",
-   "venue": "Boogie-Bären Vereinsheim",
-   "address": "Gneisenaustraße 16, 80992 München",
-   "description": "GAME ON Ab 14 Uhr Bringt eure Lieblingsspiele und Snacks mit!",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Vereinsheim"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "4. HAS-Sitzung 2026",
    "type": "social",

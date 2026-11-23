@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-22T11:43:10+00:00",
+ "scraped_at": "2026-11-23T13:18:27+00:00",
  "status": {
   "id": "vintage-club",
   "name": "Vintage Club",
   "url": "https://www.vintage-club.de/",
   "kind": "school",
   "status": "ok",
-  "found": 62
+  "found": 61
  },
  "events": [
   {
@@ -1297,26 +1297,6 @@
    "tags": [
     "course block"
    ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Fifties Record Hop – Gegen Tanzverbot und Stille Tage",
-   "type": "social",
-   "start": "2026-11-22",
-   "end": null,
-   "url": "https://www.vintage-club.de/parties.aspx",
-   "venue": "Vintage Club",
-   "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
-   "description": "Die 50er Jahre Traditionsveranstaltung – an diesem Stillen Tag mit weltanschaulichem Hintergrund! Rock'n'Roll, Boogie Woogie, Rockabilly, Jive, Bop, Rhythm'n'Blues, Western Swing, Neoswing, Soul-Cha-Cha etc. – alles ist dabei! Diese Veranstaltung wird ermöglicht durch den Bund für Geistesfreiheit München , der sich seit vielen Jahren für die Abschaffung des Tanzverbots an sogenannten „Stillen Tagen“ einsetzt. Dank eines Urteils des Bundesverfassungsgerichts von 2016 sind an diesen Tagen auch Tanzveranstaltungen mit weltanschaulichem Hintergrund möglich. Musik und Tanz verbinden Menschen unterschiedlichster Herkunft, Religion und Weltanschauung. Sie schaffen Freude, Begegnung und Gemeinschaft. Wir finden, dass jeder Mensch selbst entscheiden dürfen sollte, wie er seine Feiertage verbringt – ob in Ruhe und Besinnung oder mit Musik und Tanz. Gegenseitige Rücksichtnahme ist selbstverständlich, doch sie sollte kein generelles Verbot rechtfertigen. Deshalb laden wir alle Menschen herzlich ein, mit uns zu tanzen und zu feiern! 🕗 19:15 – 23:15 Uhr 🎵 DJ Rainer Zellner 🎟 Eintritt: 10 Euro --------------------",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,

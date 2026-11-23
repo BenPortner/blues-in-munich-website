@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-22T11:46:37+00:00",
+ "scraped_at": "2026-11-23T13:22:24+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 125
+  "found": 124
  },
  "events": [
   {
@@ -2612,28 +2612,6 @@
    "dates": [],
    "tags": [
     "Singer-Songwriter-Abend"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Stephan Zinner",
-   "type": "concert",
-   "start": "2026-11-22T19:00",
-   "end": "2026-11-22T22:00",
-   "url": "https://www.in-muenchen.de/events/stephan-zinner-der-teufel-das-madchen-der-blues-und-ich.html",
-   "venue": "Theater Leo17",
-   "address": "Leopoldstraße 17, 80802 München",
-   "description": "Stephan Zinner begibt sich auf eine musikalische Reise zu den Wurzeln des Blues, unterstützt von Peter Pichler, mit einer Mischung aus Blues, Gospel und Tanz.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Blues"
    ],
    "source_id": "",
    "source_name": "",

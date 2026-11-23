@@ -18,7 +18,7 @@ from pathlib import Path
 import yaml
 
 from .artists import act_keys, enrich
-from .filters import keep
+from .filters import file_type, keep
 from .models import EVENT_TYPES, Event, slug
 
 log = logging.getLogger("scraper")
@@ -163,8 +163,9 @@ def source_events(source: dict, raw_dir: Path, previous: dict,
         status = next((s for s in previous.get("sources", []) if s["id"] == source["id"]), None)
         return events, status and dict(status), []
     events = [Event.from_dict(e).finalize(source) for e in raw["events"]]
-    kept = [e for e in events if keep(e, source.get("filter", "blues"), source.get("exclude"), include,
-                                      source.get("only_categories"))]
+    for e in events:
+        e.type = file_type(e, source.get("concert_categories"))
+    kept = [e for e in events if keep(e, source.get("filter", "blues"), source.get("exclude"), include)]
     # Name and link may have changed in sources.yaml since the scrape. A failed scrape keeps the
     # raw file's scraped_at, so updated_at is the last successful update.
     status = {**raw["status"], "id": source["id"], "name": source["name"], "url": source["url"],
@@ -173,10 +174,11 @@ def source_events(source: dict, raw_dir: Path, previous: dict,
 
 
 def same_artist_gigs(kept: list[Event], dropped: list[Event]) -> list[Event]:
-    """Dropped concerts by an act that has a kept concert: one artist, one verdict, whichever venue's
-    listing happens to say blues."""
+    """Dropped gigs by an act that has a kept concert: one artist, one verdict, whichever venue's
+    listing happens to say blues. Cabaret and shows filed as "other" count too, but can't vouch."""
     blues_acts = set().union(*(act_keys(e.title) for e in kept if e.type == "concert"))
-    return [e for e in dropped if e.type == "concert" and blues_acts & act_keys(e.title)]
+    return [e for e in dropped if (e.type == "concert" or e.type == "other" and e.categories)
+            and blues_acts & act_keys(e.title)]
 
 
 def assemble(sources: list[dict], raw_dir: Path, previous: dict, today: date,

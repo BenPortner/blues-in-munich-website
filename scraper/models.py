@@ -7,7 +7,8 @@ import unicodedata
 from dataclasses import asdict, dataclass, field
 from datetime import date
 
-# "other": exhibitions, instrument and singing courses — blues-related, but neither dancing nor a gig
+# "other": exhibitions, instrument and singing courses, musical cabaret and shows — blues-related, but
+# neither dancing nor a gig
 EVENT_TYPES = ("class", "workshop", "social", "concert", "other")
 
 
@@ -26,7 +27,7 @@ class Event:
     recurrence: str | None = None
     dates: list[str] = field(default_factory=list)
     tags: list[str] = field(default_factory=list)
-    # The listing's own event categories ("Konzerte", "Theater"), for a source's `only_categories`
+    # The listing's own event categories ("Konzerte", "Theater"), for a source's `concert_categories`
     categories: list[str] = field(default_factory=list)
     # Filled in by the runner from the source definition
     source_id: str = ""

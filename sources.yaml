@@ -19,13 +19,13 @@
 #                 generic WordPress: tribe_events (The Events Calendar REST API)
 #   enabled       false to keep an entry without scraping it
 #   default_type  class | workshop | social | concert | other (when not inferable;
-#                 other = exhibitions, instrument/singing courses)
+#                 other = exhibitions, instrument/singing courses, musical cabaret and shows)
 #   filter        blues        keep events mentioning blues (title/description/tags)
 #                 blues_title  only title/tags count (venues that mention blues in passing)
 #                 none         keep everything (all-blues sources)
 #   exclude       optional list of regexes; matching events are dropped
-#   only_categories  optional list of the site's own event categories to keep (inmuenchen); uncategorised
-#                 events pass, and so does an artist who has a kept gig
+#   concert_categories  optional list of the site's own event categories that count as concerts (inmuenchen);
+#                 concerts filed only under others are listed as "other", uncategorised ones as concerts
 #   params        adapter-specific options (see the adapter's docstring)
 
 # Past events stay listed (under "Past events") if they ended on or after `since`;
@@ -306,7 +306,9 @@ sources:
     enabled: true
     default_type: concert
     filter: blues_title    # API search matches any mention; keep blues in title or genre
-    only_categories: [Konzerte]  # drops plays, cabaret and shows titled "…-Blues", unless by an artist we list
+    concert_categories: [Konzerte]  # blues cabaret, shows and plays are listed as "other"
+    exclude:
+      - Prinzregenten-Blues  # "Bin I Kini?!", a comedy play
     params:
       max_pages: 3         # 100 listings each; ~170 match "blues"
 

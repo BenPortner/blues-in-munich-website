@@ -8,10 +8,13 @@ Filter modes (set per source in sources.yaml):
 
 `include` regexes (sources.yaml's global list, matched against the title) keep blues acts that
 listings don't bill as blues, whatever the mode; a source's `exclude` regexes drop events the mode
-would keep, and its `only_categories` those filed elsewhere (uncategorised ones pass).
+would keep.
 
-A kept artist's other gigs are kept too, even if the mode or `only_categories` drops them (see
-same_artist_gigs in scraper/assemble.py).
+A source's `concert_categories` drop nothing: concerts its site files only elsewhere (cabaret, shows,
+theatre) are listed as "other" (see file_type).
+
+A kept artist's other gigs are kept too, even if the mode drops them (see same_artist_gigs in
+scraper/assemble.py).
 """
 from __future__ import annotations
 
@@ -35,12 +38,9 @@ def is_blues(text: str, exclude: list[str] | None = None) -> bool:
     return bool(_BLUES.search(text))
 
 
-def keep(event: Event, mode: str, exclude: list[str] | None = None, include: list[str] | None = None,
-         only_categories: list[str] | None = None) -> bool:
+def keep(event: Event, mode: str, exclude: list[str] | None = None, include: list[str] | None = None) -> bool:
     if any(re.search(pattern, event.title, re.I) for pattern in include or []):
         return True
-    if only_categories and event.categories and not set(only_categories) & set(event.categories):
-        return False
     if mode == "none":
         return True
     fields = [event.title, *event.tags]
@@ -49,3 +49,12 @@ def keep(event: Event, mode: str, exclude: list[str] | None = None, include: lis
     elif mode != "blues_title":
         raise ValueError(f"unknown filter mode '{mode}'; use one of {MODES}")
     return is_blues(" ".join(fields), exclude)
+
+
+def file_type(event: Event, concert_categories: list[str] | None) -> str:
+    """The event's type; "other" for a concert that its site files only under other categories
+    (uncategorised ones stay concerts)."""
+    if event.type == "concert" and concert_categories and event.categories \
+            and not set(concert_categories) & set(event.categories):
+        return "other"
+    return event.type

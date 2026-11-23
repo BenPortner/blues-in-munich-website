@@ -16,8 +16,8 @@ Listings saying "Aktuell keine Termine" (no dates) are skipped.
   _embedded.wp:term  also event_category names, e.g. "Konzerte", "Theater", "Kabarett / Comedy";
                      sub-categories ("Festivals") come with their parent ("Konzerte")
 
-Categories are only recorded here; the source's `only_categories` filters on them when events.json
-is built, so a kept artist's cabaret dates can still be kept.
+Categories are only recorded here; when events.json is built, the source's `concert_categories`
+decide which listings are concerts (the others, e.g. musical cabaret, become "other").
 
 params.max_pages: pages of 100 listings to read (default 3).
 """

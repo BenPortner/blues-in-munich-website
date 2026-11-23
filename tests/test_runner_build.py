@@ -160,21 +160,25 @@ def test_past_blues_gig_still_vouches_for_the_artist(make_ctx):
     assert [e["title"] for e in result["events"]] == ["Günter Grünwald & Rad Gumbo", "Rad Gumbo & Günter Grünwald"]
 
 
-def test_included_artist_is_kept_in_every_category(make_ctx):
+def test_blues_events_outside_the_concert_categories_are_other(make_ctx):
     def past(title):
         return Event(title=title, type="concert", start="2026-10-01T20:00", source_id="a", source_name="A",
                      id=title).to_dict()
-    previous = {"events": [past("Stephan Zinner")]}
+    previous = {"events": [past("Zither-Manä")]}
     events = [
         ev("Rad Gumbo", "2026-11-04T20:00", tags=["Blues"], categories=["Konzerte"]),
         ev("Rad Gumbo & Günter Grünwald", "2026-11-05T20:00", categories=["Kabarett / Comedy"]),  # kept gig vouches
-        ev("Stephan Zinner – Großstadtblues", "2026-11-06T20:00", categories=["Kabarett / Comedy"]),  # past one does
-        ev("Bin I Kini?! – Der Prinzregenten-Blues", "2026-11-07T20:00", categories=["Theater"]),
+        ev("Zither-Manä – 46 Jahre", "2026-11-06T20:00", categories=["Kabarett / Comedy"]),  # past one does
+        ev("Blues Brothers Revue", "2026-11-07T20:00", categories=["Shows"]),
+        ev("Günter Grünwald", "2026-11-09T20:00", categories=["Kabarett / Comedy"]),  # nobody vouches for it
+        ev("Bin I Kini?! – Der Prinzregenten-Blues", "2026-11-10T20:00", categories=["Theater"]),  # excluded
     ]
-    source = src("a", "_test_static", filter="blues_title", only_categories=["Konzerte"], params={"events": events})
+    source = src("a", "_test_static", filter="blues_title", concert_categories=["Konzerte"],
+                 exclude=["Prinzregenten-Blues"], params={"events": events})
     result = collect([source], make_ctx(), previous, {"since": "2026-01-01", "types": ["concert"]})
-    assert [e["title"] for e in result["events"] if e["start"] > "2026-11-03"] == [
-        "Rad Gumbo", "Rad Gumbo & Günter Grünwald", "Stephan Zinner – Großstadtblues"]
+    assert [(e["title"], e["type"]) for e in result["events"] if e["start"] > "2026-11-03"] == [
+        ("Rad Gumbo", "concert"), ("Rad Gumbo & Günter Grünwald", "other"), ("Zither-Manä – 46 Jahre", "other"),
+        ("Blues Brothers Revue", "other")]
 
 
 def test_assemble_reapplies_filters_without_scraping(make_ctx):

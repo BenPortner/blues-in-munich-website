@@ -2,7 +2,7 @@ from datetime import date
 
 from scraper.assemble import ROOT, load_include
 from scraper.dates import find_dates, find_time_range
-from scraper.filters import is_blues, keep
+from scraper.filters import file_type, is_blues, keep
 from scraper.models import Event, guess_type
 
 T = date(2026, 10, 16)
@@ -75,16 +75,15 @@ def test_include_list_in_sources():
     assert not keep(Event(title="Santana", type="concert", start="2026-12-12"), "blues_title", include=include)
 
 
-def test_only_categories():
-    def e(title, *categories):
-        return Event(title=title, type="concert", start="2026-12-01", categories=list(categories))
+def test_concert_categories():
+    def e(title, *categories, type="concert"):
+        return Event(title=title, type=type, start="2026-12-01", categories=list(categories))
     only = ["Konzerte"]
-    assert keep(e("Blues Night", "Festivals", "Konzerte"), "blues_title", only_categories=only)
-    assert keep(e("Blues Night"), "blues_title", only_categories=only)  # nothing says it isn't a concert
-    assert not keep(e("Der Prinzregenten-Blues", "Theater"), "blues_title", only_categories=only)
-    assert not keep(e("Jazz Trio", "Konzerte"), "blues_title", only_categories=only)
-    # the global include list wins
-    assert keep(e("Willy Michl", "Kabarett / Comedy"), "blues_title", include=["Willy Michl"], only_categories=only)
+    assert file_type(e("Blues Night", "Festivals", "Konzerte"), only) == "concert"
+    assert file_type(e("Blues Night"), only) == "concert"  # nothing says it isn't a concert
+    assert file_type(e("Blues Brothers Revue", "Shows"), only) == "other"
+    assert file_type(e("Blues Brothers Revue", "Shows"), None) == "concert"  # source doesn't sort by category
+    assert file_type(e("Blues Party", "Party", type="social"), only) == "social"
 
 
 def test_exclude_patterns():

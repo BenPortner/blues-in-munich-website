@@ -248,15 +248,10 @@ def test_inmuenchen_keeps_blues_genre_or_title_only():
     assert kept == ["Inninger Bluestage 2026: Peter Karp Band + Ana Popovic", "Montack & The Ultimate Silverbeet"]
 
 
-def test_inmuenchen_keeps_only_listed_categories():
-    items = json.loads(fixture("inm_events.json"))
-    karp, montack = items[0], items[3]
-    play = {**karp, "title": {"rendered": "Bin I Kini?! – Der Prinzregenten-Blues"},
-            "_embedded": {"wp:term": [[{"taxonomy": "event_category", "name": "Theater"}]]}}
-    loose = {**montack, "title": {"rendered": "Willy Michl"}, "_embedded": {"wp:term": []}}
-    titles = [e.title for e in inmuenchen.parse([karp, play, loose], categories=["Konzerte"])]
-    assert titles == ["Inninger Bluestage 2026: Peter Karp Band + Ana Popovic", "Willy Michl"]
-    assert len(inmuenchen.parse([karp, play, loose])) == 3
+def test_inmuenchen_records_categories():
+    events = {e.title: e for e in inmuenchen.parse(json.loads(fixture("inm_events.json")))}
+    assert events["Inninger Bluestage 2026: Peter Karp Band + Ana Popovic"].categories == ["Konzerte"]
+    assert events["Neuhauser Musiknacht"].categories == ["Festivals", "Konzerte"]
 
 
 def test_inmuenchen_stops_after_short_page(make_ctx):

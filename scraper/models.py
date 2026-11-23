@@ -26,6 +26,8 @@ class Event:
     recurrence: str | None = None
     dates: list[str] = field(default_factory=list)
     tags: list[str] = field(default_factory=list)
+    # The listing's own event categories ("Konzerte", "Theater"), for a source's `only_categories`
+    categories: list[str] = field(default_factory=list)
     # Filled in by the runner from the source definition
     source_id: str = ""
     source_name: str = ""

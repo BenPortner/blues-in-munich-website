@@ -8,7 +8,10 @@ Filter modes (set per source in sources.yaml):
 
 `include` regexes (sources.yaml's global list, matched against the title) keep blues acts that
 listings don't bill as blues, whatever the mode; a source's `exclude` regexes drop events the mode
-would keep.
+would keep, and its `only_categories` those filed elsewhere (uncategorised ones pass).
+
+A kept artist's other gigs are kept too, even if the mode or `only_categories` drops them (see
+same_artist_gigs in scraper/assemble.py).
 """
 from __future__ import annotations
 
@@ -32,9 +35,12 @@ def is_blues(text: str, exclude: list[str] | None = None) -> bool:
     return bool(_BLUES.search(text))
 
 
-def keep(event: Event, mode: str, exclude: list[str] | None = None, include: list[str] | None = None) -> bool:
+def keep(event: Event, mode: str, exclude: list[str] | None = None, include: list[str] | None = None,
+         only_categories: list[str] | None = None) -> bool:
     if any(re.search(pattern, event.title, re.I) for pattern in include or []):
         return True
+    if only_categories and event.categories and not set(only_categories) & set(event.categories):
+        return False
     if mode == "none":
         return True
     fields = [event.title, *event.tags]

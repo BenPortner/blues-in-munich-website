@@ -75,6 +75,18 @@ def test_include_list_in_sources():
     assert not keep(Event(title="Santana", type="concert", start="2026-12-12"), "blues_title", include=include)
 
 
+def test_only_categories():
+    def e(title, *categories):
+        return Event(title=title, type="concert", start="2026-12-01", categories=list(categories))
+    only = ["Konzerte"]
+    assert keep(e("Blues Night", "Festivals", "Konzerte"), "blues_title", only_categories=only)
+    assert keep(e("Blues Night"), "blues_title", only_categories=only)  # nothing says it isn't a concert
+    assert not keep(e("Der Prinzregenten-Blues", "Theater"), "blues_title", only_categories=only)
+    assert not keep(e("Jazz Trio", "Konzerte"), "blues_title", only_categories=only)
+    # the global include list wins
+    assert keep(e("Willy Michl", "Kabarett / Comedy"), "blues_title", include=["Willy Michl"], only_categories=only)
+
+
 def test_exclude_patterns():
     assert not is_blues("Blues Brothers Tribute", exclude=["tribute"])
 

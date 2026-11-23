@@ -160,6 +160,23 @@ def test_past_blues_gig_still_vouches_for_the_artist(make_ctx):
     assert [e["title"] for e in result["events"]] == ["Günter Grünwald & Rad Gumbo", "Rad Gumbo & Günter Grünwald"]
 
 
+def test_included_artist_is_kept_in_every_category(make_ctx):
+    def past(title):
+        return Event(title=title, type="concert", start="2026-10-01T20:00", source_id="a", source_name="A",
+                     id=title).to_dict()
+    previous = {"events": [past("Stephan Zinner")]}
+    events = [
+        ev("Rad Gumbo", "2026-11-04T20:00", tags=["Blues"], categories=["Konzerte"]),
+        ev("Rad Gumbo & Günter Grünwald", "2026-11-05T20:00", categories=["Kabarett / Comedy"]),  # kept gig vouches
+        ev("Stephan Zinner – Großstadtblues", "2026-11-06T20:00", categories=["Kabarett / Comedy"]),  # past one does
+        ev("Bin I Kini?! – Der Prinzregenten-Blues", "2026-11-07T20:00", categories=["Theater"]),
+    ]
+    source = src("a", "_test_static", filter="blues_title", only_categories=["Konzerte"], params={"events": events})
+    result = collect([source], make_ctx(), previous, {"since": "2026-01-01", "types": ["concert"]})
+    assert [e["title"] for e in result["events"] if e["start"] > "2026-11-03"] == [
+        "Rad Gumbo", "Rad Gumbo & Günter Grünwald", "Stephan Zinner – Großstadtblues"]
+
+
 def test_assemble_reapplies_filters_without_scraping(make_ctx):
     ctx = make_ctx()
     source = src("s", "_test_static", params={"events": [ev("Blues Jam", "2026-10-20T20:00"),

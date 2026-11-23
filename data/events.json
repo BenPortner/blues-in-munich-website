@@ -2966,28 +2966,6 @@
       "id": "f0117847035b"
     },
     {
-      "title": "Bin I Kini?! – Der Prinzregenten-Blues",
-      "type": "concert",
-      "start": "2026-11-17T20:00",
-      "end": null,
-      "url": "https://www.in-muenchen.de/events/prinzregenten-blues-iberl-buhne.html",
-      "venue": "Iberl Bühne",
-      "address": "Herzogspitalstr. 6, 80331 München",
-      "description": "In einer Komödie voller Verwechslungen und Intrigen verschlägt es den Prinzregenten Johann der III. versehentlich in die bayerische Provinz. Dort gerät er in ein spaßiges Katz-und-Maus-Spiel, als er seine Identität verliert und als Knecht arbeiten muss. Eine turbulente Jagd nach der Wahrheit beginnt.",
-      "recurrence": null,
-      "dates": [],
-      "tags": [
-        "Verwechslungskomödie"
-      ],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
-      "school_name": null,
-      "school_url": null,
-      "artists": [],
-      "known_artists": [],
-      "id": "20bf1470443b"
-    },
-    {
       "title": "Bernd Bauer Blues Band: Stormy Wednesday",
       "type": "concert",
       "start": "2026-11-18T20:00",
@@ -3113,28 +3091,6 @@
       "id": "db7a3849a2d1"
     },
     {
-      "title": "Bin I Kini?! – Der Prinzregenten-Blues",
-      "type": "concert",
-      "start": "2026-11-20T20:00",
-      "end": null,
-      "url": "https://www.in-muenchen.de/events/prinzregenten-blues-iberl-buhne.html",
-      "venue": "Iberl Bühne",
-      "address": "Herzogspitalstr. 6, 80331 München",
-      "description": "In einer Komödie voller Verwechslungen und Intrigen verschlägt es den Prinzregenten Johann der III. versehentlich in die bayerische Provinz. Dort gerät er in ein spaßiges Katz-und-Maus-Spiel, als er seine Identität verliert und als Knecht arbeiten muss. Eine turbulente Jagd nach der Wahrheit beginnt.",
-      "recurrence": null,
-      "dates": [],
-      "tags": [
-        "Verwechslungskomödie"
-      ],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
-      "school_name": null,
-      "school_url": null,
-      "artists": [],
-      "known_artists": [],
-      "id": "72e317f24e4e"
-    },
-    {
       "title": "Bootleg Twins feat. Schorsch Hampel & Hubert Hofherr",
       "type": "concert",
       "start": "2026-11-20T20:00",
@@ -3191,28 +3147,6 @@
       ],
       "known_artists": [],
       "id": "35981d2a1203"
-    },
-    {
-      "title": "Bin I Kini?! – Der Prinzregenten-Blues",
-      "type": "concert",
-      "start": "2026-11-21T20:00",
-      "end": null,
-      "url": "https://www.in-muenchen.de/events/prinzregenten-blues-iberl-buhne.html",
-      "venue": "Iberl Bühne",
-      "address": "Herzogspitalstr. 6, 80331 München",
-      "description": "In einer Komödie voller Verwechslungen und Intrigen verschlägt es den Prinzregenten Johann der III. versehentlich in die bayerische Provinz. Dort gerät er in ein spaßiges Katz-und-Maus-Spiel, als er seine Identität verliert und als Knecht arbeiten muss. Eine turbulente Jagd nach der Wahrheit beginnt.",
-      "recurrence": null,
-      "dates": [],
-      "tags": [
-        "Verwechslungskomödie"
-      ],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
-      "school_name": null,
-      "school_url": null,
-      "artists": [],
-      "known_artists": [],
-      "id": "4ab323b45258"
     },
     {
       "title": "Faces of the Blues – Robert Richter & Gaby von Sulkowski",
@@ -6728,7 +6662,7 @@
       "status": "ok",
       "found": 124,
       "updated_at": "2026-11-23T13:22:24+00:00",
-      "kept": 73
+      "kept": 70
     },
     {
       "id": "mvp",

@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-23T13:21:54+00:00",
+ "scraped_at": "2026-11-24T14:03:23+00:00",
  "status": {
   "id": "ackermannbogen",
   "name": "Ackermannbogen e.V.",
@@ -9,67 +9,6 @@
   "found": 12
  },
  "events": [
-  {
-   "title": "SingStunde mit Veronika Lindner",
-   "type": "concert",
-   "start": "2026-01-12T09:30",
-   "end": "2026-01-12T10:30",
-   "url": "https://ackermannbogen-ev.de/programm/singstunde-mit-veronika-lindner/",
-   "venue": "EKS 15",
-   "address": "Elisabeth-Kohn-Str. 15, 80797 München",
-   "description": "Singen mit Herz und Schwung Veronika Lindner bringt als erfahrene Singleiterin Menschen mit ihrer offenen und lebendigen Art zum Mitsingen und Mitfühlen. Ihre Singstunden sind geprägt von Leichtigkeit, Freude und einem starken Gemeinschaftsgefühl. Gesungen wird querbeet: von Volksliedern über Kanons bis hin zu Popsongs und internationalen Melodien – ganz ohne musikalische Vorkenntnisse. Gemeinsames Singen macht Spaß, verbindet und setzt Glückshormone frei – eine wohltuende Pause vom Alltag. Bei gutem Wetter im StadtAcker.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "gemeinsam singen",
-    "Musik",
-    "Senioren",
-    "Singen",
-    "Singen ohne Noten",
-    "Singkreis",
-    "Singstunde",
-    "Volkslieder singen"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "KulturCafé für Senior:innen",
-   "type": "concert",
-   "start": "2026-11-23T15:00",
-   "end": "2026-11-23T17:00",
-   "url": "https://ackermannbogen-ev.de/programm/kulturcafe-fuer-seniorinnen-21/",
-   "venue": "Domicil Seniorencentrum - Festsaal (ehem. Cafeteria)",
-   "address": null,
-   "description": "Kaffee & Kuchen und dazu ein kulturelles Schmankerl. Genießen Sie musikalische Darbietungen, Lesungen, gemeinsames Singen, Vorträge etc. in einem gemütlichen Rahmen. Ein musikalischer Blumenstrauß Einfühlsame Melodien entführen in die Zeit der Romantik voller Sehnsucht und Naturverbundenheit: Annette Mühlhans Gesang, Cornelia Lechner Gesang, Beate Gartner Gesang und Stanislava Stoytcheva Klavier.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Ackermannbogen",
-    "Gesang",
-    "klassische Musik",
-    "Klavier",
-    "Konzert",
-    "KulturCafé",
-    "München",
-    "Naturverbundenheit",
-    "Romantik",
-    "romantische Lieder",
-    "Seniorenveranstaltung"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "tanzbar – DIE Party im Ackermannbogen",
    "type": "social",
@@ -90,6 +29,7 @@
     "Tanzbar",
     "Tanzen"
    ],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -116,6 +56,37 @@
     "WeihnachtsMarkt",
     "Weihnachtssingen"
    ],
+   "categories": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "SingStunde mit Veronika Lindner",
+   "type": "concert",
+   "start": "2026-12-07T09:30",
+   "end": "2026-12-07T10:30",
+   "url": "https://ackermannbogen-ev.de/programm/singstunde-mit-veronika-lindner/2026-12-07/",
+   "venue": "EKS 15",
+   "address": "Elisabeth-Kohn-Str. 15, 80797 München",
+   "description": "Singen mit Herz und Schwung Veronika Lindner bringt als erfahrene Singleiterin Menschen mit ihrer offenen und lebendigen Art zum Mitsingen und Mitfühlen. Ihre Singstunden sind geprägt von Leichtigkeit, Freude und einem starken Gemeinschaftsgefühl. Gesungen wird querbeet: von Volksliedern über Kanons bis hin zu Popsongs und internationalen Melodien – ganz ohne musikalische Vorkenntnisse. Gemeinsames Singen macht Spaß, verbindet und setzt Glückshormone frei – eine wohltuende Pause vom Alltag. Bei gutem Wetter im StadtAcker.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "gemeinsam singen",
+    "Musik",
+    "Senioren",
+    "Singen",
+    "Singen ohne Noten",
+    "Singkreis",
+    "Singstunde",
+    "Volkslieder singen"
+   ],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -147,6 +118,37 @@
     "Valentina Oefele",
     "ZeitgenössischerJazz"
    ],
+   "categories": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "SingStunde mit Veronika Lindner",
+   "type": "concert",
+   "start": "2026-12-21T09:30",
+   "end": "2026-12-21T10:30",
+   "url": "https://ackermannbogen-ev.de/programm/singstunde-mit-veronika-lindner/2026-12-21/",
+   "venue": "EKS 15",
+   "address": "Elisabeth-Kohn-Str. 15, 80797 München",
+   "description": "Singen mit Herz und Schwung Veronika Lindner bringt als erfahrene Singleiterin Menschen mit ihrer offenen und lebendigen Art zum Mitsingen und Mitfühlen. Ihre Singstunden sind geprägt von Leichtigkeit, Freude und einem starken Gemeinschaftsgefühl. Gesungen wird querbeet: von Volksliedern über Kanons bis hin zu Popsongs und internationalen Melodien – ganz ohne musikalische Vorkenntnisse. Gemeinsames Singen macht Spaß, verbindet und setzt Glückshormone frei – eine wohltuende Pause vom Alltag. Bei gutem Wetter im StadtAcker.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "gemeinsam singen",
+    "Musik",
+    "Senioren",
+    "Singen",
+    "Singen ohne Noten",
+    "Singkreis",
+    "Singstunde",
+    "Volkslieder singen"
+   ],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -179,6 +181,7 @@
     "Weihnachtslieder",
     "Weihnachtszeit"
    ],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -210,6 +213,7 @@
     "Tenorsaxophon",
     "WayOutWestRevisited"
    ],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -242,6 +246,7 @@
     "München",
     "Seniorenveranstaltung"
    ],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -273,6 +278,7 @@
     "SwingJazz",
     "TheSingingSaxophone"
    ],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -304,6 +310,7 @@
     "QuadroNuevo",
     "TheMelodySax"
    ],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -335,6 +342,7 @@
     "Tenorsaxophon",
     "ZukunftDesJazz"
    ],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -366,6 +374,7 @@
     "StefanNoelle",
     "StudioAckermann"
    ],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,

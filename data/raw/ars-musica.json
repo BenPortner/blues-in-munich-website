@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-23T13:21:56+00:00",
+ "scraped_at": "2026-11-24T14:03:27+00:00",
  "status": {
   "id": "ars-musica",
   "name": "ars musica e.V.",
@@ -23,6 +23,7 @@
    "tags": [
     "Rock, Pop, Latin & Funk"
    ],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -45,6 +46,7 @@
    "tags": [
     "Gitarrenkonzert"
    ],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -67,6 +69,7 @@
    "tags": [
     "Balkan & Jazz"
    ],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -89,6 +92,7 @@
    "tags": [
     "Konzert"
    ],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -111,6 +115,7 @@
    "tags": [
     "Improvisierte Musik"
    ],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -133,6 +138,7 @@
    "tags": [
     "Flamenco"
    ],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -155,6 +161,7 @@
    "tags": [
     "Loop Kunst"
    ],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -177,6 +184,7 @@
    "tags": [
     "Konzertreihe Migration - München - Musik"
    ],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -199,6 +207,7 @@
    "tags": [
     "Kleinkunst-Pop aus der tiefsten Provinz"
    ],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -221,6 +230,7 @@
    "tags": [
     "Liebeslieder der Welt"
    ],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -243,6 +253,7 @@
    "tags": [
     "Konzert-Reihe Migration - München - Musik"
    ],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,

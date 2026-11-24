@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-23T13:22:01+00:00",
+ "scraped_at": "2026-11-24T14:05:45+00:00",
  "status": {
   "id": "buergersaal-fuerstenried",
   "name": "Bürgersaal Fürstenried",
@@ -26,6 +26,7 @@
     "Rolf Ludwig Schön",
     "Singen"
    ],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -50,6 +51,7 @@
     "Evergreen Serenaders",
     "Tanzen"
    ],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -75,6 +77,7 @@
     "Rolf Ludwig Schön",
     "Singen"
    ],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,

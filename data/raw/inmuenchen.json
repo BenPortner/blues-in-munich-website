@@ -1,14 +1,114 @@
 {
- "scraped_at": "2026-11-23T13:22:24+00:00",
+ "scraped_at": "2026-11-24T14:06:03+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 124
+  "found": 156
  },
  "events": [
+  {
+   "title": "The Robert Cray Band",
+   "type": "concert",
+   "start": "2027-06-15T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/the-robert-cray-band-technikum-2027.html",
+   "venue": "Werksviertel / Technikum",
+   "address": "Speicherstraße 26, 81671 München",
+   "description": "Der fünffache Grammy-Gewinner stellt sein erstes Studioalbum seit sieben Jahren vor, aufgenommen in den FAME Studios in Muscle Shoals.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Blues"
+   ],
+   "categories": [
+    "Konzerte"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "San2 & His Soul Patrol",
+   "type": "concert",
+   "start": "2027-02-27T19:00",
+   "end": "2027-02-27T20:30",
+   "url": "https://www.in-muenchen.de/events/san2-his-soul-patrol-bergson-kunstkraftwerk-2027.html",
+   "venue": "Bergson Kunstkraftwerk",
+   "address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+   "description": "Der Sänger und Mundharmonika-Spieler verbindet Rhythm & Blues mit Pop und kommt mit seiner Band.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Soul"
+   ],
+   "categories": [
+    "Konzerte"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Stephan Zinner – Großstadtblues",
+   "type": "concert",
+   "start": "2027-10-06T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/stephan-zinner-grossstadtblues-schlachthof-2027.html",
+   "venue": "Schlachthof",
+   "address": "Zenettistraße 9, 80337 München",
+   "description": "Mit Gitarre und pointierten Texten erzählt der Kabarettist vom Leben in der Großstadt, von überflüssigen Updates und der Sehnsucht nach dem Funkloch.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Musikkabarett"
+   ],
+   "categories": [
+    "Kabarett / Comedy"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Mr. Harry Kulzer – Senioren-Renitenz",
+   "type": "concert",
+   "start": "2027-01-22T19:30",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/mr-harry-kulzer-senioren-renitenz.html",
+   "venue": "TamS Theater",
+   "address": "Haimhauserstraße 13A, 80802 München",
+   "description": "In einer humorvollen Inszenierung präsentiert Mr. Harry Kulzer eine bunte Mischung aus Boogie, Blues und anderen Klavierklängen. Die Show verspricht eine unterhaltsame Reise durch verschiedene Musikstile.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Musik"
+   ],
+   "categories": [
+    "Shows"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
   {
    "title": "The Toughest Tenors",
    "type": "concert",
@@ -22,6 +122,9 @@
    "dates": [],
    "tags": [
     "Jazz"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -45,6 +148,9 @@
    "tags": [
     "Blues"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -66,6 +172,9 @@
    "dates": [],
    "tags": [
     "Jazz"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -89,6 +198,9 @@
    "tags": [
     "Blues"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -110,6 +222,9 @@
    "dates": [],
    "tags": [
     "Blues & Jazz"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -133,6 +248,9 @@
    "tags": [
     "Blues"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -154,6 +272,9 @@
    "dates": [],
    "tags": [
     "Blues"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -177,6 +298,9 @@
    "tags": [
     "Jazz"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -198,6 +322,9 @@
    "dates": [],
    "tags": [
     "Pop"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -221,6 +348,9 @@
    "tags": [
     "Singer-Songwriter"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -242,6 +372,9 @@
    "dates": [],
    "tags": [
     "Rock"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -265,6 +398,9 @@
    "tags": [
     "Jazz"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -286,6 +422,10 @@
    "dates": [],
    "tags": [
     "Blues"
+   ],
+   "categories": [
+    "Festivals",
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -309,6 +449,35 @@
    "tags": [
     "Singer-Songwriter"
    ],
+   "categories": [
+    "Festivals",
+    "Konzerte"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Popcorn Melodies",
+   "type": "concert",
+   "start": "2027-05-07T21:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/popcorn-melodies-muffatcafe-2027.html",
+   "venue": "Muffatwerk / Muffatcafé",
+   "address": "Zellstr. 4, 81667 München",
+   "description": "Ein Clubabend mit belgischen DJs, die Soul, Rhythm & Blues, Ska und Rock’n’Roll im originalen Popcorn-Sound auflegen.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Popcorn, Soul, Rhythm & Blues"
+   ],
+   "categories": [
+    "Party"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -330,6 +499,9 @@
    "dates": [],
    "tags": [
     "Cover-Rock"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -353,6 +525,9 @@
    "tags": [
     "Soul-Jazz"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -374,6 +549,9 @@
    "dates": [],
    "tags": [
     "Jazz, Funk, Soul"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -397,6 +575,9 @@
    "tags": [
     "Blues, Jazz, Bossa Nova"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -418,6 +599,9 @@
    "dates": [],
    "tags": [
     "Blues und Boogie Woogie"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -441,6 +625,9 @@
    "tags": [
     "Bluesrock"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -462,6 +649,9 @@
    "dates": [],
    "tags": [
     "Blues"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -485,6 +675,9 @@
    "tags": [
     "Pop, Chanson und Jazz"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -506,6 +699,34 @@
    "dates": [],
    "tags": [
     "Rhythm & Blues"
+   ],
+   "categories": [
+    "Konzerte"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Martin Schmitt – Schmitt happens",
+   "type": "concert",
+   "start": "2027-02-19T19:30",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/martin-schmitt-schmitt-happens-rathaus-gilching.html",
+   "venue": "Rathaus Gilching",
+   "address": "Rathausplatz 1, 82205 Gilching",
+   "description": "Songs, Dialekte und bluesiges Klavier vom amtierenden Deutschen Kabarettmeister: das fünfte Klavierkabarett-Programm.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Klavierkabarett"
+   ],
+   "categories": [
+    "Kabarett / Comedy"
    ],
    "source_id": "",
    "source_name": "",
@@ -529,6 +750,34 @@
    "tags": [
     "Folk, Blues, Fingerstyle"
    ],
+   "categories": [
+    "Konzerte"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Lichterkinder",
+   "type": "concert",
+   "start": "2027-10-01T16:30",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/lichterkinder-muffathalle-2027.html",
+   "venue": "Muffatwerk / Muffathalle",
+   "address": "Zellstr. 4, 81667 München",
+   "description": "Die bekannte Kindermusik-Marke geht mit Hits zum Mitsingen und Tanzen auf Tour. Ein Familienkonzert für Groß und Klein.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Kindermusik"
+   ],
+   "categories": [
+    "Tipps für Kids"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -550,6 +799,9 @@
    "dates": [],
    "tags": [
     "Blues, Soul"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -573,6 +825,9 @@
    "tags": [
     "Jazz"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -594,6 +849,34 @@
    "dates": [],
    "tags": [
     "Instrumental"
+   ],
+   "categories": [
+    "Konzerte"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Andrea Limmer – Flintenweib",
+   "type": "concert",
+   "start": "2026-12-11T20:00",
+   "end": "2026-12-11T22:00",
+   "url": "https://www.in-muenchen.de/events/andrea-limmer-flintenweib-fraunhofer.html",
+   "venue": "Fraunhofer Theater",
+   "address": "Fraunhoferstr. 9, 80469 München",
+   "description": "„Angst und Geld hatt‘ ich noch nie“: Das niederbayerische Heavy Mädl lädt in seinem neuen Programm die Satire-Flinte durch und lädt zur musikalischen Reise in den wilden Süden ein. Mit Ukulele, Witz und einer Mischung aus Country, Rock ’n‘ Roll, Blues und Folk.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Musikkabarett"
+   ],
+   "categories": [
+    "Kabarett / Comedy"
    ],
    "source_id": "",
    "source_name": "",
@@ -617,6 +900,9 @@
    "tags": [
     "Pop"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -638,6 +924,9 @@
    "dates": [],
    "tags": [
     "Rock"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -661,6 +950,9 @@
    "tags": [
     "Folk"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -681,7 +973,10 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Jazz / Funk"
+    "Jazz-Funk"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -705,6 +1000,9 @@
    "tags": [
     "Blues"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -726,6 +1024,59 @@
    "dates": [],
    "tags": [
     "Jazz / Swing"
+   ],
+   "categories": [
+    "Konzerte"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Werner Meier – Echt?!",
+   "type": "concert",
+   "start": "2027-02-19T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/werner-meier-echt-holzkirchen.html",
+   "venue": "Kultur im Oberbräu Holzkirchen",
+   "address": "Marktplatz 18A, 83607 Holzkirchen",
+   "description": "Der Liedermacher und Kabarettist fragt mit Gitarre und viel Humor, was im digitalen Alltag noch echt ist.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Musikkabarett"
+   ],
+   "categories": [
+    "Kabarett / Comedy"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Zither-Manä – 46 Jahre – Der ganz normale Wahnsinn",
+   "type": "concert",
+   "start": "2026-12-03T19:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/zither-mana-46-jahre-der-ganz-normale-wahnsinn.html",
+   "venue": "Kultur im Oberbräu Holzkirchen",
+   "address": "Marktplatz 18A, 83607 Holzkirchen",
+   "description": "Der Erfinder des Zither-Rock spielt Volksmusik, Blues und Pink Floyd auf der Zither und kommentiert dazu kabarettistisch die Lage der Welt.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Musikkabarett"
+   ],
+   "categories": [
+    "Kabarett / Comedy"
    ],
    "source_id": "",
    "source_name": "",
@@ -749,6 +1100,34 @@
    "tags": [
     "Rock"
    ],
+   "categories": [
+    "Konzerte"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Shake Some Action",
+   "type": "concert",
+   "start": "2026-12-12T21:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/shake-some-action-schwarzer-hahn-dezember-2026.html",
+   "venue": "SCHWARZER HAHN",
+   "address": "Ohlmüllerstr. 8, 81541 München",
+   "description": "Zwei DJs legen Vintage-Sounds von Soul über Ska bis Punk Rock’n’Roll auf.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Vintage Dance Party"
+   ],
+   "categories": [
+    "Party"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -770,6 +1149,9 @@
    "dates": [],
    "tags": [
     "Led-Zeppelin-Tribute"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -793,6 +1175,9 @@
    "tags": [
     "Southern Rock"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -815,6 +1200,9 @@
    "tags": [
     "Blues"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -835,6 +1223,9 @@
    "recurrence": null,
    "dates": [],
    "tags": [],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -856,6 +1247,9 @@
    "dates": [],
    "tags": [
     "Rock"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -879,6 +1273,9 @@
    "tags": [
     "Folk / Balkan Beats"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -900,6 +1297,9 @@
    "dates": [],
    "tags": [
     "Hardrock"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -923,6 +1323,9 @@
    "tags": [
     "Heavyrock"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -944,6 +1347,9 @@
    "dates": [],
    "tags": [
     "Bluesrock"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -967,6 +1373,9 @@
    "tags": [
     "Blues"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -987,6 +1396,9 @@
    "recurrence": null,
    "dates": [],
    "tags": [],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -1007,6 +1419,9 @@
    "recurrence": null,
    "dates": [],
    "tags": [],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -1028,6 +1443,59 @@
    "dates": [],
    "tags": [
     "Fingerstyle"
+   ],
+   "categories": [
+    "Konzerte"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Das „frühe“ Frauenfest",
+   "type": "concert",
+   "start": "2026-12-04T18:00",
+   "end": "2026-12-04T23:00",
+   "url": "https://www.in-muenchen.de/events/das-fruhe-frauenfest-mint-club.html",
+   "venue": "Mint Club",
+   "address": "Leopoldstraße 25, 80802 München",
+   "description": "In entspannter Atmosphäre direkt am U-Bahn-Halt Giselastraße laden DJane Eléni und DJ Blues zum „frühen“ Frauenfest ein. Von 18 bis 23 Uhr stehen Abschalten, Tanzen und Genießen im Vordergrund. Das Motto „come together – talk & dance“ fördert den persönlichen Austausch in einer Zeit, die oft von virtuellen Begegnungen bestimmt wird.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Elektronische Musik"
+   ],
+   "categories": [
+    "Party"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Rad Gumbo & Günter Grünwald",
+   "type": "concert",
+   "start": "2027-03-05T20:00",
+   "end": "2027-03-05T22:30",
+   "url": "https://www.in-muenchen.de/events/rad-gumbo-gunter-grunwald.html",
+   "venue": "Spektakel im Postsaal Schäftlarn",
+   "address": "Wolfratshauser Straße 45, 82067 Schäftlarn",
+   "description": "Bayerisches Kabarett und Southern Blues verschmelzen zu einem unterhaltsamen Abend. Mit bayerischem Humor und groovigem Blues-Rock erzeugen Günter Grünwald und RAD GUMBO einen musikalisch-komödiantischen Cocktail. Grünwald an der Sologitarre, gefolgt von Kabaretteinlagen, schafft eine überraschende und kurzweilige Atmosphäre.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Kabarett"
+   ],
+   "categories": [
+    "Kabarett / Comedy"
    ],
    "source_id": "",
    "source_name": "",
@@ -1051,6 +1519,9 @@
    "tags": [
     "Folk-Pop"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -1072,6 +1543,9 @@
    "dates": [],
    "tags": [
     "Gothic Americana"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -1095,6 +1569,9 @@
    "tags": [
     "Blues"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -1116,6 +1593,9 @@
    "dates": [],
    "tags": [
     "Jazz"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -1139,6 +1619,9 @@
    "tags": [
     "Americana"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -1160,6 +1643,9 @@
    "dates": [],
    "tags": [
     "Jazz"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -1183,6 +1669,9 @@
    "tags": [
     "Blues"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -1204,6 +1693,9 @@
    "dates": [],
    "tags": [
     "Blues-Rock"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -1227,6 +1719,9 @@
    "tags": [
     "Southern Rock"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -1247,7 +1742,10 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Indie Rock"
+    "Indie-Rock"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -1271,6 +1769,9 @@
    "tags": [
     "Blues-Pop"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -1292,6 +1793,9 @@
    "dates": [],
    "tags": [
     "Hardrock"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -1315,6 +1819,9 @@
    "tags": [
     "Rock-Tribute-Band"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -1336,6 +1843,9 @@
    "dates": [],
    "tags": [
     "Soul"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -1359,6 +1869,9 @@
    "tags": [
     "Jazz"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -1380,6 +1893,9 @@
    "dates": [],
    "tags": [
     "Blues-Americana"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -1403,6 +1919,9 @@
    "tags": [
     "Rock"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -1424,6 +1943,34 @@
    "dates": [],
    "tags": [
     "Stoner Rock"
+   ],
+   "categories": [
+    "Konzerte"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Balduin und der Jazz",
+   "type": "concert",
+   "start": "2027-03-14T11:00",
+   "end": "2027-03-14T12:00",
+   "url": "https://www.in-muenchen.de/events/balduin-und-der-jazz-bergson-barbastelle.html",
+   "venue": "Bergson Kunstkraftwerk / Bergson Barbastelle",
+   "address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+   "description": "Eine verzweifelte Theaterdirektorin und eine amerikanische Millionärin begeben sich mit Kindern und Musiker*innen auf eine turbulente Reise durch die Welt des Jazz. Von traurigen Bluesklängen bis zu wilden Boogie-Woogie-Rhythmen erleben die Zuschauer ein Erlebnis mit Interaktion, Staunen, Tanzen, Klatschen und Lachen.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Jazz"
+   ],
+   "categories": [
+    "Tipps für Kids"
    ],
    "source_id": "",
    "source_name": "",
@@ -1447,6 +1994,9 @@
    "tags": [
     "Punkrock"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -1468,6 +2018,9 @@
    "dates": [],
    "tags": [
     "Jazz"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -1491,6 +2044,9 @@
    "tags": [
     "Blues-Rock"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -1512,6 +2068,9 @@
    "dates": [],
    "tags": [
     "Soul"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -1535,6 +2094,9 @@
    "tags": [
     "Rock"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -1557,6 +2119,9 @@
    "tags": [
     "Country, Tribute"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -1577,7 +2142,10 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Indie Rock"
+    "Indie-Rock"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -1599,7 +2167,10 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Folk Rock"
+    "Folk-Rock"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -1623,6 +2194,9 @@
    "tags": [
     "Indie-Folk, Rock"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -1644,6 +2218,9 @@
    "dates": [],
    "tags": [
     "Blues"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -1667,6 +2244,9 @@
    "tags": [
     "Jazz"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -1688,6 +2268,9 @@
    "dates": [],
    "tags": [
     "Bairischer Rock"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -1711,6 +2294,9 @@
    "tags": [
     "Liedermacher"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -1732,6 +2318,34 @@
    "dates": [],
    "tags": [
     "Jazz und Blues"
+   ],
+   "categories": [
+    "Konzerte"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Die letzten Nächte der Bohème",
+   "type": "concert",
+   "start": "2026-12-09T20:00",
+   "end": "2026-12-09T22:00",
+   "url": "https://www.in-muenchen.de/events/die-letzten-nachte-der-boheme-heppel-ettlich.html",
+   "venue": "Heppel & Ettlich",
+   "address": "Feilitzschstraße 12, 80802 München",
+   "description": "Frank Klötgen und Stefan Erz präsentieren erneut ihre Mixed Show in Schwabing. Die Veranstaltung vereint Kleinkunst, Kabarett, Poetry Slam und Literatur. Zudem ist ein musikalischer Gast aus den Bereichen Blues, Country und Jazz dabei.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Kabarettshow"
+   ],
+   "categories": [
+    "Shows"
    ],
    "source_id": "",
    "source_name": "",
@@ -1755,6 +2369,9 @@
    "tags": [
     "Gospel, Soul"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -1776,6 +2393,10 @@
    "dates": [],
    "tags": [
     "Volksmusik"
+   ],
+   "categories": [
+    "Festivals",
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -1799,6 +2420,9 @@
    "tags": [
     "Jazz"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -1820,6 +2444,9 @@
    "dates": [],
    "tags": [
     "Bluesrock"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -1843,6 +2470,9 @@
    "tags": [
     "Klassik-Jazz-Fusion"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -1864,6 +2494,9 @@
    "dates": [],
    "tags": [
     "Bluegrass, Folk, Blues"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -1887,6 +2520,9 @@
    "tags": [
     "Blues"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -1908,6 +2544,9 @@
    "dates": [],
    "tags": [
     "Jazz"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -1931,6 +2570,9 @@
    "tags": [
     "Pop"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -1952,6 +2594,9 @@
    "dates": [],
    "tags": [
     "Jazz"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -1975,6 +2620,9 @@
    "tags": [
     "Smooth Jazz"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -1996,6 +2644,9 @@
    "dates": [],
    "tags": [
     "Hawaiian Swing"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -2019,6 +2670,34 @@
    "tags": [
     "Kabarett"
    ],
+   "categories": [
+    "Konzerte"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Stephan Zinner – Großstadtblues",
+   "type": "concert",
+   "start": "2027-04-24T19:30",
+   "end": "2027-04-24T22:30",
+   "url": "https://www.in-muenchen.de/events/stephan-zinner-grossstadtblues-circus-krone.html",
+   "venue": "Circus Krone",
+   "address": "Marsstr. 43, 80335 München",
+   "description": "Mit Gitarre und pointierten Texten nimmt Stephan Zinner das Publikum auf eine musikalisch-satirische Reise durch den Wahnsinn des modernen Alltags mit. Zwischen Updates, die keiner braucht, und der Sehnsucht nach einem einfacheren Leben zeigt er die Absurditäten unserer Zeit.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Musikalisches Kabarett"
+   ],
+   "categories": [
+    "Kabarett / Comedy"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -2040,6 +2719,109 @@
    "dates": [],
    "tags": [
     "Weihnachtsjazz"
+   ],
+   "categories": [
+    "Konzerte"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Heiner Lauterbach – Like a Hobo",
+   "type": "concert",
+   "start": "2027-02-05T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/heiner-lauterbach-like-a-hobo.html",
+   "venue": "CAVALLUNA Park / Showpalast",
+   "address": "Hans-Jensen-Weg 3, 80939 München",
+   "description": "Heiner Lauterbach präsentiert eine Show, die die Großen der US-Literatur mit den großen Musikern des Landes zusammenbringt. Eine faszinierende Mischung aus Spoken Word und Musik entsteht, die die literarischen und musikalischen Wurzeln Amerikas beleuchtet.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Spoken Word"
+   ],
+   "categories": [
+    "Shows"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "JCOM: George Gershwin",
+   "type": "concert",
+   "start": "2027-01-30T20:00",
+   "end": "2027-01-30T21:30",
+   "url": "https://www.in-muenchen.de/events/jcom-george-gershwin.html",
+   "venue": "Münchner Kammerspiele – Schauspielhaus",
+   "address": null,
+   "description": "Zwischen Jazzclub und Konzertsaal erklingt Gershwins Musik in neuen Arrangements. Die Sängerinnen Jelena Kuljic und Wiebke Puls und das Jewish Chamber Orchestra Munich entführen in eine Epoche voller Sehnsucht, Energie und Lebensfreude.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Klassik"
+   ],
+   "categories": [
+    "Klassik"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Martin Schmitt – Schmitt happens",
+   "type": "concert",
+   "start": "2027-01-28T20:00",
+   "end": "2027-01-28T22:00",
+   "url": "https://www.in-muenchen.de/events/martin-schmitt-schmitt-happens.html",
+   "venue": "Bürgerhaus Unterföhring",
+   "address": "Münchner Straße 65, 85774 Unterföhring",
+   "description": "Martin Schmitt präsentiert sein neues Programm mit kraftvoller bayerischer Unterhaltung und bluesgetränktem Klavierspiel. Der Deutsche Kabarettmeister 2018/19 verbindet zeitgemäße und detaillierte Blicke auf Beziehungen, Psychotricks und Dialekte zu einer faszinierenden Show.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Kabarett"
+   ],
+   "categories": [
+    "Kabarett / Comedy"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Stephan Zinner – Großstadtblues",
+   "type": "concert",
+   "start": "2027-01-26T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/stephan-zinner-grossstadtblues.html",
+   "venue": "Lustspielhaus",
+   "address": "Occamstr. 8, 80802 München",
+   "description": "Stephan Zinner nimmt sein Publikum auf eine musikalisch-satirische Reise durch den modernen Großstadtalltag mit. Mit Gitarre und pointierten Texten erzählt er vom ewigen Kampf mit Updates, optimierter Freizeit und der Sehnsucht nach einem einfacheren Leben.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Musikalisches Kabarett"
+   ],
+   "categories": [
+    "Kabarett / Comedy"
    ],
    "source_id": "",
    "source_name": "",
@@ -2063,6 +2845,9 @@
    "tags": [
     "Gospel"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -2084,6 +2869,34 @@
    "dates": [],
    "tags": [
     "Rock"
+   ],
+   "categories": [
+    "Konzerte"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Mathias Kellner – Can you BOARISCH, please?",
+   "type": "concert",
+   "start": "2026-12-07T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/mathias-kellner.html",
+   "venue": "Lustspielhaus",
+   "address": "Occamstr. 8, 80802 München",
+   "description": "Mathias Kellner, bekannter bayerischer Liedermacher, präsentiert sein neues Programm ‚Can you BOARISCH, please?!‘. Eine Reise durch den Alltag mit Songs und bayrischen Übersetzungen von Musikklassikern.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Kabarett-Liederabend"
+   ],
+   "categories": [
+    "Kabarett / Comedy"
    ],
    "source_id": "",
    "source_name": "",
@@ -2107,6 +2920,9 @@
    "tags": [
     "Funk"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -2128,6 +2944,9 @@
    "dates": [],
    "tags": [
     "Swing"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -2151,6 +2970,9 @@
    "tags": [
     "Rock"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -2172,6 +2994,9 @@
    "dates": [],
    "tags": [
     "Jazz"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -2195,6 +3020,32 @@
    "tags": [
     "Alpengrooveblues"
    ],
+   "categories": [
+    "Konzerte"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Elvis – Das Musical",
+   "type": "concert",
+   "start": "2027-06-30T19:30",
+   "end": "2027-06-30T22:15",
+   "url": "https://www.in-muenchen.de/events/elvis-das-musical.html",
+   "venue": "Deutsches Theater Theatersaal",
+   "address": "Schwanthalerstraße 13, 80336 München",
+   "description": "Das Spektakel mit Elvis-Darsteller Graham Patrick bringt die Magie rund um die Rock’n’Roll-Ikone zurück auf die Bühne und präsentiert dabei Presleys gesamtes musikalisches Repertoire live – von Gospel über Blues bis hin zu hemmungslosem Rock’n’Roll – und lässt sein Leben eindrucksvoll Revue passieren.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "categories": [
+    "Musicals"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -2216,6 +3067,9 @@
    "dates": [],
    "tags": [
     "Jazz"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -2239,6 +3093,9 @@
    "tags": [
     "Blues"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -2260,6 +3117,9 @@
    "dates": [],
    "tags": [
     "Blues"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -2283,6 +3143,9 @@
    "tags": [
     "Blues-Rock"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -2304,6 +3167,9 @@
    "dates": [],
    "tags": [
     "Classic Rock"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -2327,6 +3193,9 @@
    "tags": [
     "Blues-Rock"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -2348,6 +3217,9 @@
    "dates": [],
    "tags": [
     "Blues"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -2371,6 +3243,9 @@
    "tags": [
     "Blues"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -2392,6 +3267,9 @@
    "dates": [],
    "tags": [
     "Blues"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -2415,6 +3293,9 @@
    "tags": [
     "Boogie-Woogie"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -2436,6 +3317,34 @@
    "dates": [],
    "tags": [
     "Musiktheater"
+   ],
+   "categories": [
+    "Konzerte"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Andrea Limmer – Flintenweib",
+   "type": "concert",
+   "start": "2026-11-29T19:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/andrea-limmer-flintenweib.html",
+   "venue": "Lindenkeller Freising",
+   "address": "Veitsmüllerweg 2, 85354 Freising",
+   "description": "Andrea Limmer, das niederbayrische Heavy Mädl, lädt mit ihrem neuen Programm „Flintenweib“ zur musikalischen Reise in den wilden Süden ein. Mit Ukulele, Witz und einer Mischung aus Country, Rock ’n‘ Roll, Blues und Folk entführt sie das Publikum aus dem Alltag. Limmer begeistert mit Spielfreude und musikalischer Feuerkraft.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Musik-Kabarett"
+   ],
+   "categories": [
+    "Kabarett / Comedy"
    ],
    "source_id": "",
    "source_name": "",
@@ -2459,6 +3368,9 @@
    "tags": [
     "Blues"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -2480,6 +3392,9 @@
    "dates": [],
    "tags": [
     "Blues"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -2503,6 +3418,59 @@
    "tags": [
     "R&B"
    ],
+   "categories": [
+    "Konzerte"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Poetenstammtisch „Bühne Frei!“",
+   "type": "concert",
+   "start": "2026-11-30T20:00",
+   "end": "2026-11-30T22:30",
+   "url": "https://www.in-muenchen.de/events/poetenstammtisch-buhne-frei.html",
+   "venue": "Fraunhofer Theater",
+   "address": "Fraunhoferstr. 9, 80469 München",
+   "description": "In der Kulisse präsentieren die MundArtFreunde Bayerns einen bunten Abend mit Musik, Poesie, Kabarett und Comedy. Wechselnde Moderator*innen und Gäste bieten jeden letzten Montag im Monat ein vielfältiges Programm.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Kleinkunst"
+   ],
+   "categories": [
+    "Kabarett / Comedy"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Günter Grünwald & Rad Gumbo",
+   "type": "concert",
+   "start": "2027-03-21T19:30",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/gunter-grunwald-rad-gumbo.html",
+   "venue": "Lustspielhaus",
+   "address": "Occamstr. 8, 80802 München",
+   "description": "Bayerisches Kabarett und Southern Blues verschmelzen in einem Programm, das Humor und Musik vereint. Gezeigt werden Comedy und Songs, die Traditionen und Kulturen vereinen.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Kabarett"
+   ],
+   "categories": [
+    "Kabarett / Comedy"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -2523,7 +3491,35 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Indie Rock"
+    "Indie-Rock"
+   ],
+   "categories": [
+    "Konzerte"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Wachse oder weiche",
+   "type": "concert",
+   "start": "2026-12-29T19:30",
+   "end": "2026-12-29T22:00",
+   "url": "https://www.in-muenchen.de/events/maxi-schafroth-wachse-oder-weiche.html",
+   "venue": "Münchner Kammerspiele – Schauspielhaus",
+   "address": null,
+   "description": "Eine Theater-, Kabarett-, Musik-Fusion mit Maximilian Schafroth. Ein Abend mit Raiffeisenbank, Riesenkürbis und Allgäublues. Das Kammerspiele-Ensemble fusioniert mit dem Team von Maximilian Schafroth.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Musiktheater"
+   ],
+   "categories": [
+    "Theater"
    ],
    "source_id": "",
    "source_name": "",
@@ -2547,6 +3543,9 @@
    "tags": [
     "Blues"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -2568,6 +3567,9 @@
    "dates": [],
    "tags": [
     "Blues"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",
@@ -2591,6 +3593,9 @@
    "tags": [
     "Blues-Rock"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -2612,6 +3617,109 @@
    "dates": [],
    "tags": [
     "Singer-Songwriter-Abend"
+   ],
+   "categories": [
+    "Konzerte"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Bin I Kini?! – Der Prinzregenten-Blues",
+   "type": "concert",
+   "start": "2026-11-25T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/prinzregenten-blues-iberl-buhne.html",
+   "venue": "Iberl Bühne",
+   "address": "Herzogspitalstr. 6, 80331 München",
+   "description": "In einer Komödie voller Verwechslungen und Intrigen verschlägt es den Prinzregenten Johann der III. versehentlich in die bayerische Provinz. Dort gerät er in ein spaßiges Katz-und-Maus-Spiel, als er seine Identität verliert und als Knecht arbeiten muss. Eine turbulente Jagd nach der Wahrheit beginnt.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Verwechslungskomödie"
+   ],
+   "categories": [
+    "Theater"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Martin Schmitt – Schmitt happens",
+   "type": "concert",
+   "start": "2026-11-26T20:00",
+   "end": "2026-11-26T23:00",
+   "url": "https://www.in-muenchen.de/events/martin-schmitt-schmitt-happens-eching.html",
+   "venue": "Bürgerhaus Eching",
+   "address": "Roßbergerstraße 6, 85386 Eching",
+   "description": "Martin Schmitt präsentiert sein neues Programm ‚Schmitt happens‘ mit bayrischer Unterhaltung, bluesgetränktem Klavierspiel und wortgewaltigem Kabarett.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Klavierkabarett"
+   ],
+   "categories": [
+    "Kabarett / Comedy"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Da Huawa und I – Schokoladenseit’n",
+   "type": "concert",
+   "start": "2027-10-12T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/da-huawa-und-i-schokoladenseitn.html",
+   "venue": "Schlachthof – Ox",
+   "address": "Zenettistraße 9, 80337 München",
+   "description": "Bekannt als „da Huawa“ des Kulttrios „Da Huawa, da Meier und I“, zeigt der Musikkabarettist Christian Maier in seinem 10. Bühnenprogramm bayrische Gelassenheit und interpretiert mitreißende Lieder.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Musikkabarett"
+   ],
+   "categories": [
+    "Kabarett / Comedy"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "The Official Blues Brothers Revue",
+   "type": "concert",
+   "start": "2026-11-25T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/the-official-blues-brothers-revue.html",
+   "venue": "Prinzregententheater",
+   "address": "Prinzregentenplatz 12, 81675 München",
+   "description": "Ein multimediales interaktives Erlebnis mit Kieron Lafferty (Elwood) & Wayne Catania (Jake), unterstützt von der All-Star-Intercontinental Rhythm & Blues Band. Klassiker wie „Soul Man“ und „Gimme Some Lovin“ feiern den Kult, den John Belushi & Dan Aykroyd erstmals 1978 entfachten.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Tribute Show"
+   ],
+   "categories": [
+    "Shows"
    ],
    "source_id": "",
    "source_name": "",
@@ -2635,6 +3743,9 @@
    "tags": [
     "Jazz"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -2657,6 +3768,9 @@
    "tags": [
     "Blues"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -2668,8 +3782,8 @@
   {
    "title": "Jazzz Session Titus Waldenfels",
    "type": "concert",
-   "start": "2026-11-23T19:00",
-   "end": "2026-11-23T22:30",
+   "start": "2026-12-21T19:00",
+   "end": "2026-12-21T22:30",
    "url": "https://www.in-muenchen.de/events/jazzz-session-titus-waldenfels.html",
    "venue": "Kulturzentrum Giesinger Bahnhof",
    "address": "Giesinger Bahnhofplatz 1, 81539 München",
@@ -2678,6 +3792,59 @@
    "dates": [],
    "tags": [
     "Jam-Session"
+   ],
+   "categories": [
+    "Konzerte"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Weiberwirtschaft",
+   "type": "concert",
+   "start": "2026-12-11T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/weiberwirtschaft-iberl-buhne.html",
+   "venue": "Iberl Bühne",
+   "address": "Herzogspitalstr. 6, 80331 München",
+   "description": "drei san zwoa z vui… Die Komödie von Florian Günther spielt im Jahr 1899, wo die Schwestern Burga und Traudl mit Nichte Finni eine alteingesessene Wirtschaft führen, die schon etwas marode ist. Da kündigt sich ein Kontrolleur an, der die Schanklizenz prüfen will.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Komödie"
+   ],
+   "categories": [
+    "Theater"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Jodeln beim Wirt",
+   "type": "concert",
+   "start": "2026-12-01T19:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/jodeln-beim-wirt.html",
+   "venue": "Fraunhofer Theater",
+   "address": "Fraunhoferstr. 9, 80469 München",
+   "description": "Jodeln beim Wirt lädt zum geselligen Beisammensein ein. Erfahrene Leiter bringen mehrstimmige Jodler mit. Offenes Singen und Wunschjodler sind möglich. Jeden 1. Dienstag im Monat.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Volksmusik-Veranstaltung"
+   ],
+   "categories": [
+    "Bildung & Vorträge"
    ],
    "source_id": "",
    "source_name": "",
@@ -2701,6 +3868,9 @@
    "tags": [
     "Hard Rock"
    ],
+   "categories": [
+    "Konzerte"
+   ],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -2722,6 +3892,9 @@
    "dates": [],
    "tags": [
     "Jazz"
+   ],
+   "categories": [
+    "Konzerte"
    ],
    "source_id": "",
    "source_name": "",

@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-23T13:18:59+00:00",
+ "scraped_at": "2026-11-24T14:00:39+00:00",
  "status": {
   "id": "bernd-bauer-blues-band",
   "name": "Bernd Bauer Blues Band",
@@ -21,6 +21,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -41,6 +42,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,
@@ -61,6 +63,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [],
+   "categories": [],
    "source_id": "",
    "source_name": "",
    "school_name": null,

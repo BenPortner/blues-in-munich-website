@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T14:06:37+00:00",
+  "generated_at": "2026-11-25T13:18:33+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -3426,66 +3426,6 @@
       "id": "3330568fcd36"
     },
     {
-      "title": "Blues 2 mit Clara",
-      "type": "class",
-      "start": "2026-11-03T19:35",
-      "end": "2026-11-03T20:35",
-      "url": "https://hepcatclub.com/",
-      "venue": "Hep Cat Club",
-      "address": "Viktoriastraße 3b, 86150 Augsburg",
-      "description": "",
-      "recurrence": "Tuesdays 19:35–20:35",
-      "dates": [
-        "2026-11-03",
-        "2026-11-10",
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15"
-      ],
-      "tags": [],
-      "categories": [],
-      "source_id": "hepcat-club",
-      "source_name": "Hep Cat Club",
-      "school_name": "Hep Cat Club",
-      "school_url": "https://hepcatclub.com/",
-      "artists": [],
-      "known_artists": [],
-      "id": "d1bb00bef152"
-    },
-    {
-      "title": "Blues Open Level",
-      "type": "class",
-      "start": "2026-11-03T20:45",
-      "end": "2026-11-03T22:15",
-      "url": "https://www.boogie-baeren.de/training",
-      "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
-      "address": "Gneisenaustraße 16, 80992 München",
-      "description": "Teachers: verschiedene. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
-      "recurrence": "Tuesdays 20:45–22:15",
-      "dates": [
-        "2026-11-03",
-        "2026-11-10",
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15"
-      ],
-      "tags": [
-        "course block"
-      ],
-      "categories": [],
-      "source_id": "boogie-baeren",
-      "source_name": "Boogie-Bären München",
-      "school_name": "Boogie-Bären München",
-      "school_url": "https://www.boogie-baeren.de/",
-      "artists": [],
-      "known_artists": [],
-      "id": "736bb6181162"
-    },
-    {
       "title": "Edwin Kimmler",
       "type": "concert",
       "start": "2026-11-24T16:30",
@@ -3816,7 +3756,7 @@
       "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "venue": "Rheinpfalz Schwabing",
       "address": "Kurfürstenstraße 35, 80801 München",
-      "description": "Chicago Blues: ein musikalischer Leckerbissen! Bitte frühzeitig kommen, es wird ziemlich voll. Mit höchster Spielfreude zelebriert die Jakarta Blues Band aus dem Münchner Umland alle Facetten des Chicago Blues und widerlegt immer wieder aufs Neue, dass Blues nur für Melancholiker geeignet ist. Die sechs Musiker bieten perfekte handgemachte Musik, bei der man einfach nicht stillhalten kann. Sie leben jede Note, so dass die Kraft und Emotionalität dieser Musik regelmäßig auf die Zuhörer überspringen und jede(r) mitwippt oder tanzt. Dabei ist kaum eine Formation ist so nah dran am Sound der Origi",
+      "description": "Chicago Blues: ein musikalischer Leckerbissen! Es ist leider alles voll, besonders für weiter Gereiste wichtig, bis zum nächsten Mal… Mit höchster Spielfreude zelebriert die Jakarta Blues Band aus dem Münchner Umland alle Facetten des Chicago Blues und widerlegt immer wieder aufs Neue, dass Blues nur für Melancholiker geeignet ist. Die sechs Musiker bieten perfekte handgemachte Musik, bei der man einfach nicht stillhalten kann. Sie leben jede Note, so dass die Kraft und Emotionalität dieser Musik regelmäßig auf die Zuhörer überspringen und jede(r) mitwippt oder tanzt. Dabei ist kaum eine Forma",
       "recurrence": null,
       "dates": [],
       "tags": [],
@@ -3856,6 +3796,66 @@
       "artists": [],
       "known_artists": [],
       "id": "f8f97b7af139"
+    },
+    {
+      "title": "Blues 2 mit Clara",
+      "type": "class",
+      "start": "2026-11-03T19:35",
+      "end": "2026-11-03T20:35",
+      "url": "https://hepcatclub.com/",
+      "venue": "Hep Cat Club",
+      "address": "Viktoriastraße 3b, 86150 Augsburg",
+      "description": "",
+      "recurrence": "Tuesdays 19:35–20:35",
+      "dates": [
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15"
+      ],
+      "tags": [],
+      "categories": [],
+      "source_id": "hepcat-club",
+      "source_name": "Hep Cat Club",
+      "school_name": "Hep Cat Club",
+      "school_url": "https://hepcatclub.com/",
+      "artists": [],
+      "known_artists": [],
+      "id": "d1bb00bef152"
+    },
+    {
+      "title": "Blues Open Level",
+      "type": "class",
+      "start": "2026-11-03T20:45",
+      "end": "2026-11-03T22:15",
+      "url": "https://www.boogie-baeren.de/training",
+      "venue": "Boogie-Bären Vereinsheim (Obergeschoss)",
+      "address": "Gneisenaustraße 16, 80992 München",
+      "description": "Teachers: verschiedene. Club training for members: register for the cycle (02.11.–20.12.2026). Newcomers can try classes during the first 3 weeks of a cycle.",
+      "recurrence": "Tuesdays 20:45–22:15",
+      "dates": [
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "categories": [],
+      "source_id": "boogie-baeren",
+      "source_name": "Boogie-Bären München",
+      "school_name": "Boogie-Bären München",
+      "school_url": "https://www.boogie-baeren.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "736bb6181162"
     },
     {
       "title": "Mojo Blues Band",
@@ -6969,7 +6969,7 @@
       "kind": "school",
       "status": "ok",
       "found": 61,
-      "updated_at": "2026-11-24T13:59:51+00:00",
+      "updated_at": "2026-11-25T13:14:42+00:00",
       "kept": 14
     },
     {
@@ -6979,7 +6979,7 @@
       "kind": "school",
       "status": "ok",
       "found": 110,
-      "updated_at": "2026-11-24T13:59:56+00:00",
+      "updated_at": "2026-11-25T13:14:46+00:00",
       "kept": 14
     },
     {
@@ -6989,7 +6989,7 @@
       "kind": "school",
       "status": "ok",
       "found": 5,
-      "updated_at": "2026-11-24T14:00:01+00:00",
+      "updated_at": "2026-11-25T13:14:51+00:00",
       "kept": 4
     },
     {
@@ -6999,7 +6999,7 @@
       "kind": "school",
       "status": "ok",
       "found": 248,
-      "updated_at": "2026-11-24T14:00:14+00:00",
+      "updated_at": "2026-11-25T13:15:03+00:00",
       "kept": 3
     },
     {
@@ -7009,7 +7009,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 30,
-      "updated_at": "2026-11-24T14:00:21+00:00",
+      "updated_at": "2026-11-25T13:15:08+00:00",
       "kept": 52
     },
     {
@@ -7018,8 +7018,8 @@
       "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "kind": "venue",
       "status": "ok",
-      "found": 14,
-      "updated_at": "2026-11-24T14:00:35+00:00",
+      "found": 17,
+      "updated_at": "2026-11-25T13:15:13+00:00",
       "kept": 8
     },
     {
@@ -7029,7 +7029,7 @@
       "kind": "band",
       "status": "ok",
       "found": 3,
-      "updated_at": "2026-11-24T14:00:39+00:00",
+      "updated_at": "2026-11-25T13:15:17+00:00",
       "kept": 17
     },
     {
@@ -7038,8 +7038,8 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 71,
-      "updated_at": "2026-11-24T14:00:43+00:00",
+      "found": 70,
+      "updated_at": "2026-11-25T13:15:20+00:00",
       "kept": 2
     },
     {
@@ -7048,8 +7048,8 @@
       "url": "https://www.jazzbar-vogler.com/",
       "kind": "venue",
       "status": "ok",
-      "found": 14,
-      "updated_at": "2026-11-24T14:00:46+00:00",
+      "found": 13,
+      "updated_at": "2026-11-25T13:15:22+00:00",
       "kept": 0
     },
     {
@@ -7059,7 +7059,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 11,
-      "updated_at": "2026-11-24T14:00:47+00:00",
+      "updated_at": "2026-11-25T13:15:23+00:00",
       "kept": 1
     },
     {
@@ -7069,7 +7069,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 8,
-      "updated_at": "2026-11-24T14:00:49+00:00",
+      "updated_at": "2026-11-25T13:15:24+00:00",
       "kept": 0
     },
     {
@@ -7079,7 +7079,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 35,
-      "updated_at": "2026-11-24T14:00:54+00:00",
+      "updated_at": "2026-11-25T13:15:27+00:00",
       "kept": 6
     },
     {
@@ -7089,7 +7089,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 41,
-      "updated_at": "2026-11-24T14:00:57+00:00",
+      "updated_at": "2026-11-25T13:15:30+00:00",
       "kept": 26
     },
     {
@@ -7099,7 +7099,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 100,
-      "updated_at": "2026-11-24T14:03:01+00:00",
+      "updated_at": "2026-11-25T13:17:30+00:00",
       "kept": 9
     },
     {
@@ -7109,7 +7109,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 29,
-      "updated_at": "2026-11-24T14:03:02+00:00",
+      "updated_at": "2026-11-25T13:17:30+00:00",
       "kept": 4
     },
     {
@@ -7119,7 +7119,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 12,
-      "updated_at": "2026-11-24T14:03:23+00:00",
+      "updated_at": "2026-11-25T13:17:36+00:00",
       "kept": 0
     },
     {
@@ -7129,7 +7129,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 48,
-      "updated_at": "2026-11-24T14:03:26+00:00",
+      "updated_at": "2026-11-25T13:17:37+00:00",
       "kept": 6
     },
     {
@@ -7139,7 +7139,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 11,
-      "updated_at": "2026-11-24T14:03:27+00:00",
+      "updated_at": "2026-11-25T13:17:38+00:00",
       "kept": 2
     },
     {
@@ -7149,7 +7149,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 8,
-      "updated_at": "2026-11-24T14:03:30+00:00",
+      "updated_at": "2026-11-25T13:17:40+00:00",
       "kept": 0
     },
     {
@@ -7157,9 +7157,9 @@
       "name": "Kunst in Sendling e.V.",
       "url": "https://www.kunst-in-sendling.com/",
       "kind": "venue",
-      "status": "failed",
-      "error": "ConnectionError: HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Max retries exceeded with url: /wp-json/tribe/events/v1/events?per_page=50&page=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.kunst-in-sendling.com', port=443): Read timed out. (read timeout=30.0)\"))",
-      "updated_at": "2026-11-23T13:22:00+00:00",
+      "status": "ok",
+      "found": 9,
+      "updated_at": "2026-11-25T13:17:43+00:00",
       "kept": 0
     },
     {
@@ -7169,7 +7169,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 3,
-      "updated_at": "2026-11-24T14:05:45+00:00",
+      "updated_at": "2026-11-25T13:17:44+00:00",
       "kept": 0
     },
     {
@@ -7179,7 +7179,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 26,
-      "updated_at": "2026-11-24T14:05:50+00:00",
+      "updated_at": "2026-11-25T13:17:48+00:00",
       "kept": 1
     },
     {
@@ -7189,7 +7189,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 3,
-      "updated_at": "2026-11-24T14:05:50+00:00",
+      "updated_at": "2026-11-25T13:17:49+00:00",
       "kept": 1
     },
     {
@@ -7209,7 +7209,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 156,
-      "updated_at": "2026-11-24T14:06:03+00:00",
+      "updated_at": "2026-11-25T13:18:02+00:00",
       "kept": 78
     },
     {
@@ -7219,7 +7219,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 40,
-      "updated_at": "2026-11-24T14:06:12+00:00",
+      "updated_at": "2026-11-25T13:18:10+00:00",
       "kept": 4
     },
     {
@@ -7228,8 +7228,8 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 219,
-      "updated_at": "2026-11-24T14:06:36+00:00",
+      "found": 216,
+      "updated_at": "2026-11-25T13:18:33+00:00",
       "kept": 6
     },
     {
@@ -7239,7 +7239,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 0,
-      "updated_at": "2026-11-24T14:06:37+00:00",
+      "updated_at": "2026-11-25T13:18:33+00:00",
       "kept": 0
     },
     {
@@ -7249,7 +7249,7 @@
       "kind": "manual",
       "status": "ok",
       "found": 0,
-      "updated_at": "2026-11-24T14:06:37+00:00",
+      "updated_at": "2026-11-25T13:18:33+00:00",
       "kept": 0
     }
   ]

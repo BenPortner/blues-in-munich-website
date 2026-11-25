@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-24T14:05:50+00:00",
+ "scraped_at": "2026-11-25T13:17:48+00:00",
  "status": {
   "id": "einewelthaus",
   "name": "EineWeltHaus",
@@ -22,29 +22,6 @@
    "dates": [],
    "tags": [
     "Ausstellung"
-   ],
-   "categories": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Unsterblich? - Von Longevity und himmlischen Sphären -",
-   "type": "concert",
-   "start": "2026-11-24T20:15",
-   "end": "2026-11-24T22:15",
-   "url": "https://www.einewelthaus.de/events/unsterblich-von-longevity-und-himmlischen-sphaeren/",
-   "venue": "EineWeltHaus München",
-   "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "Die Veranstaltung steht allen Interessierten offen. Der Eintritt ist kostenlos. Spenden sind willkommen, aber nicht erforderlich. 1. Einführung: Dr. Siegfried Kreibe, Chemiker, Vorsitzender der Interdisziplinären Studiengesellschaft e.V. 2. Für immer jung. Die Longevity-Industrie und die Verleugnung der Vergänglichkeit: Florian Lampersberger, Psychologischer Psychotherapeut, Psychoanalytiker (DGPT), Dozent an der Akademie für Psychoanalyse und Psychotherapie München. 3. Ewiges Leben: Dr. phil. Edgar Büttner; Edgar Büttner, Dipl.theol, Dipl. Soz.-Päd. (FH), Trainer, Business-Coach 4. Diskussionsrunde Für unsere Planung bitten wir um formlose Anmeldung per E-Mail an: isg.kontakt@t-online.de Bitte geben Sie zusätzlich an, ob wir für Sie um 17:30 Uhr einen Platz im Restaurant Gastro Lima (peruanisch-spanische Küche) im EineWeltHaus reservieren sollen. Die Interdisziplinäre Studiengesellschaft e.V. (ISG) wurde 1947 gegründet, um mitzuhelfen, dass in Deutschland nie wieder ein totalitäres Regime wie das „Dritte Reich“ entsteht. Nach zahlreichen Buchveröffentlichungen und Tagungen in ganz Deutschland führen wir nun auch Abendveranstaltungen in München durch. Mehr Infos hier.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Vortrag und Diskussion"
    ],
    "categories": [],
    "source_id": "",
@@ -346,6 +323,29 @@
    "dates": [],
    "tags": [
     "Vortrag und Diskussion"
+   ],
+   "categories": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "IMPROssible to Predict!",
+   "type": "concert",
+   "start": "2026-12-11T21:00",
+   "end": "2026-12-11T22:45",
+   "url": "https://www.einewelthaus.de/events/improssible-to-predict/",
+   "venue": "EineWeltHaus München",
+   "address": "Schwanthalerstr. 80, München, 80336",
+   "description": "No Script. No Plan. No Idea What's Coming Next. What happens when you put a group of improvisers on stage with absolutely no idea what's going to happen? Come and find out! Just before Christmas, Monday Flow Improv is back on stage, ready to turn an ordinary Friday evening into an extraordinary adventure of laughter, creativity, and delightful chaos! Get ready for a night - 1 hour and 45 minutes - of improvised comedy, hilarious games, unexpected characters, and stories created right before your eyes. No scripts. No rehearsed dialogues. No second takes. Just a group of performers, their imagination, and YOU! Whether you're an improv fan or discovering it for the very first time, this is your invitation to experience the magic of creating theatre in the moment.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Comedy"
    ],
    "categories": [],
    "source_id": "",

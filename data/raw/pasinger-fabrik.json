@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-24T14:03:26+00:00",
+ "scraped_at": "2026-11-25T13:17:37+00:00",
  "status": {
   "id": "pasinger-fabrik",
   "name": "Pasinger Fabrik",
@@ -9,27 +9,6 @@
   "found": 48
  },
  "events": [
-  {
-   "title": "JAM SESSION",
-   "type": "concert",
-   "start": "2026-11-24T19:30",
-   "end": "2026-11-24T22:00",
-   "url": "https://pasinger-fabrik.de/veranstaltung/jam-session-35/2026-11-24/",
-   "venue": "Pasinger Fabrik – BAR",
-   "address": "August-Exter-Str. 1, 81245 München",
-   "description": "Jam Session der Neuen Jazzschool München e.V. und ihrer Berufsfachschule für Musik München Fachrichtung Rock – Pop – Jazz Spielfreude pur steht im Mittelpunkt der Jazz-Jam-Session-Reihe in Kooperation mit der Neuen Jazzschool München e.V. und ihrer Berufsfachschule für Musik München Fachrichtung Rock-Pop-Jazz. Ein Bandworkshop der Berufsfachschule für Musik eröffnet den Jam-Abend. Im Anschluss sind wieder alle herzlich zum Einsteigen eingeladen – besonders diejenigen, die sich bei anderen Sessions der Stadt noch nicht auf die Bühne getraut haben. · Eintritt: Kostenlos",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "categories": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Mycrotom – Vorführung Ausstellung „Fake noise – true image“ & Konzert",
    "type": "other",
@@ -438,6 +417,27 @@
    "venue": "Pasinger Fabrik – Kleine Bühne",
    "address": "August-Exter-Str. 1, 81245 München",
    "description": "Zum 230. Geburtstag von Franz Schubert am 31. Januar spielt das Michael Armann Trio noch einmal Auszüge aus Schuberts Winterreise für Jazztrio. … 31. Januar, coronabedingter Kurzurlaub in einem Bauernhaus in Niederbayern … abends – draußen Schneetreiben, klirrende Kälte, drinnen Holzofen … das Brad Mehldau-Trio dreht sich im CD-Spieler – „blues & ballads“… So viel Blues mit wenigen Tönen. Man könnte neidisch werden auf das amerikanische Songbook, auf das amerikanische Erbe des Blues. Gibt es denn keine deutschsprachige – abendländische Bluessammlung? Doch. Schuberts „Winterreise“, komponiert im Herbst 1827, nach einer Sammlung von Gedichten von Wilhelm Müller. Komponiert ein Jahr vor seinem Tod – mehr Blues geht nicht. Doch funktioniert das auch im Jazztrio? Nach der Sichtung des Materials war klar: Man muss Schubert ernst nehmen. Keine Melodie-Zitierung mit modernen Rhythmen und Jazzakkorden unterlegt. Nein: Auslotung. Wie kann man Schuberts “Winterblues” neu beleuchten, neu destillieren, neu interpretieren. Wo hat Schubert – schon heimlich – Jazzgrooves versteckt, Akkordfolgen für Improvisationen angelegt? Es sind „nur“ 12 Stücke geworden. Dabei wird das Material unterschiedlich behandelt – immer mit Respekt – Originalklaviersatz und Melodie beibehalten. Aus den Harmoniefolgen werden Improvisationsgedanken destilliert. Die Grooves entstehen aus der Komposition. Michael Armann, 2021 Michael Armann Trio: „Der Leiermann“ auf Soundcloud anhören · Eintritt: €18 – €22",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "categories": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Ilona Cudek Jazz Quartett: Ohne Mimi geht der Krimi nie ins Bett",
+   "type": "concert",
+   "start": "2027-02-02T20:30",
+   "end": "2027-02-02T22:30",
+   "url": "https://pasinger-fabrik.de/veranstaltung/ilona-cudek-jazz-quartett-ohne-mimi-geht-der-krimi-nie-ins-bett/",
+   "venue": "Pasinger Fabrik – Kleine Bühne",
+   "address": "August-Exter-Str. 1, 81245 München",
+   "description": "FASCHINGSKONZERT – Beginn: 20:22 Uhr Special Guest: Roxana Mihai Wenn Ilona Cudek, stellvertretende Stimmführerin der Münchner Philharmoniker, und erste Konzertmeisterin der Kammerphilharmonie da capo, die Grenzen der klassischen Musik verlässt, wird die Bühne zur magischen Welt voller Überraschungen. In ihren eigens geschriebenen Musik – Cabarets und einzigartigen Performances schlüpft sie – vor allem bei ihren Faschingskonzerten – mit Leichtigkeit in die Rollen von Ikonen wie Marilyn Monroe, Michael Jackson, Tina Turner, der Königin der Nacht, Elvis Presley, Luciano Pavarotti und sogar Miss Marple. Mit ihrem natürlichen und irrwitzigen Charme verbindet sie Virtuosität auf der Geige mit Schauspiel und Unterhaltung. Ihre Darbietungen sind eine fesselnde Mischung aus musikalischem Können, Humor und einer Prise Theatralik – ein Erlebnis, das das Publikum begeistert und zum Staunen bringt. Ob als Solistin in Konzerten mit verschiedenen Orchestern im In- und Ausland, im Streichquartett („Münchner Philharmoniker auf Abwegen“), im Verdandi-Klaviertrio oder im Jazz-Quartett – sie versteht es, Klassik, Jazz, Musik der Roma-Tradition, Tango, Filmmusik und Elemente der Popkultur auf unvergleichliche Weise zu vereinen und die Herzen des Publikums zu berühren. · Eintritt: 20€ – 25€",
    "recurrence": null,
    "dates": [],
    "tags": [],

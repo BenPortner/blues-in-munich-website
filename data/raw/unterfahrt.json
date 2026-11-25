@@ -1,37 +1,14 @@
 {
- "scraped_at": "2026-11-24T14:00:43+00:00",
+ "scraped_at": "2026-11-25T13:15:20+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 71
+  "found": 70
  },
  "events": [
-  {
-   "title": "SCOTT KINSEY",
-   "type": "concert",
-   "start": "2026-11-24T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11705",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Thought Distortions heißt das aktuelle Album des Keyboarders Scott Kinsey, übersetzt: Gedanken-Störungen oder -Verzerrungen. Die mögen bei dem Amerikaner durchaus vorhanden sein, vor allem, weil ihm so viele Ideen gleichzeitig durch den Kopf schießen. Wer sein jüngstes Werk hört, merkt aber schnell, dass der Virtuose am Ende alles so zu ordnen weiß, dass einfach nur großartige, vielschichtige, überraschende Musik im Fusion-Gewand dabei herauskommt.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Highlight"
-   ],
-   "categories": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "WIDE ANGLES",
    "type": "concert",
@@ -653,7 +630,7 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "German Jazz"
+    "Album Präsentation"
    ],
    "categories": [],
    "source_id": "",

@@ -1,14 +1,39 @@
 {
- "scraped_at": "2026-11-25T13:18:02+00:00",
+ "scraped_at": "2026-11-26T12:58:55+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 156
+  "found": 154
  },
  "events": [
+  {
+   "title": "Monaco F",
+   "type": "concert",
+   "start": "2027-11-27T20:00",
+   "end": null,
+   "url": "https://www.in-muenchen.de/events/monaco-f.html",
+   "venue": "Backstage Halle",
+   "address": "Reitknechtstraße 6, 80639 München",
+   "description": "Monaco F präsentiert mit ‚Midlife Rises‘ einen facettenreichen Songzyklus, der musikalische Einflüsse aus über 35 Jahren vereint. Zwischen Alpen-Beats, 90ies-HipHop und Blues entstehen einzigartige Klänge, die seine persönliche Lebensreise widerspiegeln.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "HipHop"
+   ],
+   "categories": [
+    "Konzerte"
+   ],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
   {
    "title": "The Robert Cray Band",
    "type": "concert",
@@ -1656,31 +1681,6 @@
    "id": ""
   },
   {
-   "title": "Pete Gavin",
-   "type": "concert",
-   "start": "2026-11-25T20:30",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/pete-gavin.html",
-   "venue": "Glockenbachwerkstatt",
-   "address": "Blumenstraße 7, 80331 München",
-   "description": "Slide-Gitarre, Mundharmonika und eine Dobro aus den 30ern: Der Londoner Bluesmusiker Pete Gavin spielt seit über 50 Jahren.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Blues"
-   ],
-   "categories": [
-    "Konzerte"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Jared James Nichols",
    "type": "concert",
    "start": "2027-02-05T20:00",
@@ -1868,31 +1868,6 @@
    "dates": [],
    "tags": [
     "Jazz"
-   ],
-   "categories": [
-    "Konzerte"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Körber Krohn Fliegauf",
-   "type": "concert",
-   "start": "2026-11-25T19:00",
-   "end": "2026-11-25T22:00",
-   "url": "https://www.in-muenchen.de/events/koerber-krohn-fliegauf.html",
-   "venue": "Barschwein",
-   "address": "Franzstraße 3, 80802 München",
-   "description": "Eine groovende Reise durch Blues und Americana erwartet die Zuhörer. Zwei akustische Gitarren, Blues-Harp und Gesang entführen in unbekannte Ecken des Songbooks. Von den Allmann Brothers bis John Mayall reichen die musikalischen Inspirationen.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Blues-Americana"
    ],
    "categories": [
     "Konzerte"
@@ -3632,7 +3607,7 @@
   {
    "title": "Bin I Kini?! – Der Prinzregenten-Blues",
    "type": "concert",
-   "start": "2026-11-25T20:00",
+   "start": "2026-11-26T20:00",
    "end": null,
    "url": "https://www.in-muenchen.de/events/prinzregenten-blues-iberl-buhne.html",
    "venue": "Iberl Bühne",
@@ -3695,31 +3670,6 @@
    ],
    "categories": [
     "Kabarett / Comedy"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "The Official Blues Brothers Revue",
-   "type": "concert",
-   "start": "2026-11-25T20:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/the-official-blues-brothers-revue.html",
-   "venue": "Prinzregententheater",
-   "address": "Prinzregentenplatz 12, 81675 München",
-   "description": "Ein multimediales interaktives Erlebnis mit Kieron Lafferty (Elwood) & Wayne Catania (Jake), unterstützt von der All-Star-Intercontinental Rhythm & Blues Band. Klassiker wie „Soul Man“ und „Gimme Some Lovin“ feiern den Kult, den John Belushi & Dan Aykroyd erstmals 1978 entfachten.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Tribute Show"
-   ],
-   "categories": [
-    "Shows"
    ],
    "source_id": "",
    "source_name": "",

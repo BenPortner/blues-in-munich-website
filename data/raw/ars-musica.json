@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-25T13:17:38+00:00",
+ "scraped_at": "2026-11-26T12:58:31+00:00",
  "status": {
   "id": "ars-musica",
   "name": "ars musica e.V.",
   "url": "https://www.ars-musica-muenchen.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 11
+  "found": 13
  },
  "events": [
   {
@@ -252,6 +252,52 @@
    "dates": [],
    "tags": [
     "Konzert-Reihe Migration - München - Musik"
+   ],
+   "categories": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Musiques du Monde",
+   "type": "concert",
+   "start": "2027-05-08T19:00",
+   "end": null,
+   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2597&title=Musiques%20du%20Monde",
+   "venue": "Alte Sendlinger Kirche",
+   "address": "Plinganserstraße 1, 81373 München",
+   "description": "\"Musiques du Monde\" beinhaltet klassische, moderne, Pop- und Filmmusik.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Konzertreihe Migration - München - Musik"
+   ],
+   "categories": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Noche Flamenca",
+   "type": "concert",
+   "start": "2027-06-17T19:30",
+   "end": null,
+   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2596&title=Noche%20Flamenca",
+   "venue": "LUISE Kultur",
+   "address": "Ruppertstraße 5, 80337 München",
+   "description": "Der Flamenco Gitarrist, Sänger und Komponist Gonzalo Franco ist ein in der Flamencoszene hoch geschätzter Musiker kommt im Juni 2027 wieder nach München.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Flamenco"
    ],
    "categories": [],
    "source_id": "",

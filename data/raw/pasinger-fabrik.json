@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-25T13:17:37+00:00",
+ "scraped_at": "2026-11-26T12:58:30+00:00",
  "status": {
   "id": "pasinger-fabrik",
   "name": "Pasinger Fabrik",
   "url": "https://www.pasinger-fabrik.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 48
+  "found": 49
  },
  "events": [
   {
@@ -879,6 +879,27 @@
    "venue": "Pasinger Fabrik – BAR",
    "address": "August-Exter-Str. 1, 81245 München",
    "description": "Jam Session der Neuen Jazzschool München e.V. und ihrer Berufsfachschule für Musik München Fachrichtung Rock – Pop – Jazz Ein Bandworkshop der Berufsfachschule für Musik eröffnet den Jam-Abend. Im Anschluss sind wieder alle herzlich zum Einsteigen eingeladen – besonders diejenigen, die sich bei anderen Sessions der Stadt noch nicht auf die Bühne getraut haben. · Eintritt: Kostenlos",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "categories": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Günter Grünwald & Rad Gumbo – Bayerisches Kabarett trifft Southern Blues",
+   "type": "concert",
+   "start": "2027-09-16T20:00",
+   "end": "2027-09-16T22:30",
+   "url": "https://pasinger-fabrik.de/veranstaltung/guenter-gruenwald-rad-gumbo-bayerisches-kabarett-trifft-southern-blues-2/",
+   "venue": "Pasinger Fabrik – Wagenhalle",
+   "address": "August-Exter-Str. 1, 81245 München",
+   "description": "Günter Grünwald & RAD GUMBO Bayerisches Kabarett trifft Southern Blues Günter Grünwald ist einer der ganz großen bayerischen Kabarettisten und das seit über drei Jahrzehnten. Unzählige ausverkaufte Shows, seit vielen Jahren eine eigene TV-Sendung und ein einzigartiger Humor. Was viele allerdings nicht wissen: Günter Grünwald ist seit seiner Jugend ein leidenschaftlicher Gitarrist und Musikfan. Und wenn es die Zeit erlaubt dann steht er mit seinen befreundeten Vollblutmusikern von RAD GUMBO auf der Bühne und lässt es richtig krachen. Das Motto ist „Bayerisches Kabarett trifft Southern Blues“. Was sie dabei erwartet ist eine geniale Mischung aus höchst unterhaltsamen bayerisch-deftigem Humor mit groovigem Blues-Rock aus den Sümpfen der amerikanischen Südstaaten mit Günter Grünwald an der Sologitarre. Auf jeden Song folgt eine Kabaretteinlage. So entsteht ein in dieser Form selten da gewesener musikalisch -komödiantischer Cocktail. Eine kurzweilige Show mit cooler Musik & Ablachen ohne Ende. Was will man mehr! So wie das gleichnamige Eintopfgericht aus New Orleans ist die Musik von RAD GUMBO würzig und scharf. Die Zuhörer erwartet ein brodelnder Mix aus Zydeco-Blues und New Orleans-Soul. Neben eigenwillig arrangierten Coverversionen bietet die Band um „Dackel“ Hirmer ausgereifte Eigenkompositionen, die ebenso aus dem musikalischen Schmelztiegel New Orleans stammen könnten. Durch die hohe Authentizität der einzelnen Musiker fühlt man sich entführt nach„Big Easy“. „Dackel“ Hirmers Stimme ist einzigartig und erreicht sofort die Aufmerksamkeit der Zuhörer. Der ausdrucksstarke Shouter aus den „Sümpfen“ der Donaustadt Vohburg könnte jederzeit mit seinem Akkordeon in einem Musikclub in New Orleans auf der Bühne sitzen und niemand würde vermuten, dass er aus Bayern stammt. Spätestens seit den Tourneen mit John Lee Sanders und der Tochter von John Lee Hooker, Zakiya Hooker, sowie der Soul Legende Chris James, ist die Band ins internationale Rampenlicht getreten. Die gemeinsame Europatournee mit John Lee Sanders erfolgte 2013. Festivalauftritte z.B. in der Schweiz (Magic Blues Festival) sowie in Slowenien (Lent Festival), Kroatien, Österreich und Deutschland begeisterten sowohl Publikum als auch Medienvertreter. Die daraus entstandene CD „Rad Gumbo meets John Lee Sanders“ wurde mit dem Preis der deutschen Schallplattenkritik ausgezeichnet. Das zweite Album der Band, „hot&spicy“, erschien 2022 und erhielt erneut den „Preis der deutschen Schallplattenkritik“. Günter Grünwald ist hier als Gastmusiker auf dem Bluesklassiker „Crossroads“ zu hören. Obwohl sich Günter Grünwald aus dem Solo Kabarett und dem TV zurückgezogen hat wird er weiterhin live mit RAD GUMBO auf der Bühne zu erleben sein. · Eintritt: 32€ – 36€",
    "recurrence": null,
    "dates": [],
    "tags": [],

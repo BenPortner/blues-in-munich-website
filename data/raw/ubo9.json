@@ -1,35 +1,14 @@
 {
- "scraped_at": "2026-11-25T13:17:40+00:00",
+ "scraped_at": "2026-11-26T12:58:33+00:00",
  "status": {
   "id": "ubo9",
   "name": "UBO 9",
   "url": "https://www.ubo9.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 8
+  "found": 7
  },
  "events": [
-  {
-   "title": "Tango-Argentino-Jam-Session",
-   "type": "concert",
-   "start": "2026-11-25T20:00",
-   "end": null,
-   "url": "https://www.ubo9.de/veranstaltung/tango-argentino-jam-session-12/",
-   "venue": "UBO 9",
-   "address": "Ubostraße 9, 81245 München",
-   "description": "Bei diesem Live-Musik-Abend sind Musiker: innen und Tänzer:innen zum Tango improvisieren eingeladen. Dieses Format ist von Clementina Culzoni initiiert und wird von ihr moderiert. Die Jam-Session wird durch wechselnde Tango-Ensembles eröffnet und von DJ Gatti begleitet. Eine Bühne mit Klavier, Bassverstärker und Mikrofon für Sänger:innen sind vorhanden. Südamerikanische Latin- sowie Neo-Tango-Klänge sind ausdrücklich erwünscht. Von 19.00-20.00 Uhr gibt es eine Tango-Einführung für Anfänger:innen und Practica für erfahrene Tänzer:innen. Wenn Du musizieren oder an der Einführung teilnehmen willst, bitten wir um Voranmeldung an: purotango@posteo.de Anmeldeschluss: bis 23 Uhr am Vortag Tickets: 15 Euro; 10 Euro Eintritt für angemeldete Musiker:innen frei Reservierungen: ubo9@quarterm.de Im Kulturzentrum ubo9 ist nur Barzahlung möglich.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "categories": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Kulturrunde",
    "type": "concert",
@@ -59,7 +38,7 @@
    "url": "https://www.ubo9.de/veranstaltung/das-seh-ich-anders/",
    "venue": "UBO 9",
    "address": "Ubostraße 9, 81245 München",
-   "description": "Wie sieht ein Gedicht aus? Darauf gibt es mehr als eine Antwort. Für „das seh ich anders“ nehmen sich die sieben Mitglieder von Follow the Mango dieselben zehn Gedichte vor und entwickeln daraus individuelle Arbeiten. Zwischen Philosophie, Feierkultur und absurdem Humor entstehen Bilder, Objekte und Experimente, die zeigen, dass jede Perspektive ihre eigene Geschichte erzählt. der.DREIMANN ————– Er sitzt immer im Niemandsland. Bewegt sich galant zwischen den Fronten. Er hat schlimm-schön-bunte Kleider an und immer den Horizont im Blick. Er setzt sich neben Extreme, macht es sich im Unbekannten bequem. Er möchte das Leben erleben, doch Vollidioten nehm ihm die Sicht. Er gehört keiner Seite, entweder er mag dich, oder nicht. Manchmal laut und voll Ego, manchmal nachdenklich leise, „das ganze Universum dreht sich um sich…“ Follow the Mango ist ein Münchner Künstler:innenkollektiv Öffnungszeiten: Di. 10-13 Uhr, Do. 16-19 Uhr Vom 10. Dezember bis 09. Januar nur nach Vereinbarung, bitte E-Mail an m.f.kunst@proton.me Eintritt frei",
+   "description": "﻿ ﻿ ﻿ Wie unterschiedlich kann derselbe Gedanke aussehen? Mit der Ausstellung „das seh ich anders“ lädt das Münchner Kunstkollektiv Follow the Mango zu einem Experiment über Wahrnehmung, Interpretation und künstlerische Freiheit ein. Ausgangspunkt sind zehn Gedichte des Künstlers Jorin Tiedemann, die von allen sieben Mitgliedern des Kollektivs unabhängig voneinander bearbeitet werden. Aus denselben Texten entstehen vollkommen unterschiedliche Werke – mal malerisch, mal plastisch, mal experimentell. Die Bandbreite der Texte reicht von Feierkultur über philosophische Reflexionen bis hin zu absurder Komik. Entsprechend vielfältig fallen auch die künstlerischen Umsetzungen aus. Neben Malerei kommen unter anderem Collage, Modelliermasse, Drucktechniken, Colapen und weitere experimentelle Verfahren zum Einsatz. Die Gedichte werden gemeinsam mit den entstandenen Arbeiten präsentiert und laden dazu ein, die unterschiedlichen Interpretationen miteinander zu vergleichen. Mitwirkende sind Jorin Tiedemann, Miriam Fassbender, Lorenz Klaus, Ulrich Koprek, Lena Rappert, Laurin Bacher und Constantin Spinner. „das seh ich anders“ ist eine Einladung, die eigene Perspektive zu hinterfragen – und zu entdecken, wie viele Wahrheiten in einem einzigen Text liegen können. Vernissage: Freitag, 27. November 2026, 19–22 Uhr Öffnungszeiten bis 10.Dezember: Di. 10-13 Uhr, Do. 16-19 Uhr Vom 11. Dezember bis 09. Januar nur nach Vereinbarung, bitte E-Mail an m.f.kunst@proton.me Eintritt frei der.DREIMANN ————– Er sitzt immer im Niemandsland. Bewegt sich galant zwischen den Fronten. Er hat schlimm-schön-bunte Kleider an und immer den Horizont im Blick. Er setzt sich neben Extreme, macht es sich im Unbekannten bequem. Er möchte das Leben erleben, doch Vollidioten nehm ihm die Sicht. Er gehört keiner Seite, entweder er mag dich, oder nicht. Manchmal laut und voll Ego, manchmal nachdenklich leise, „das ganze Universum dreht sich um sich…“",
    "recurrence": null,
    "dates": [],
    "tags": [],

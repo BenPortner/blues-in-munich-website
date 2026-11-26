@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T13:18:33+00:00",
+  "generated_at": "2026-11-26T12:59:25+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -3454,62 +3454,6 @@
       "id": "9199cb9d9603"
     },
     {
-      "title": "Solo Blues · alle Level",
-      "type": "class",
-      "start": "2026-11-18T17:30",
-      "end": "2026-11-18T18:30",
-      "url": "https://www.vintage-club.de/classes.aspx",
-      "venue": "Vintage Club (VC Studio 2)",
-      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
-      "description": "Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen, wesentliche Schritte und Figuren, um dich auf der Tanzfläche sicher und wohl zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkundet, die zu verschiedenen Musikstilen getanzt werden können. Advance registration by email required.",
-      "recurrence": "Wednesdays 17:30–18:30",
-      "dates": [
-        "2026-11-18",
-        "2026-11-25",
-        "2026-12-02",
-        "2026-12-09"
-      ],
-      "tags": [
-        "course block"
-      ],
-      "categories": [],
-      "source_id": "vintage-club",
-      "source_name": "Vintage Club",
-      "school_name": "Vintage Club",
-      "school_url": "https://www.vintage-club.de/",
-      "artists": [],
-      "known_artists": [],
-      "id": "9297c866acc6"
-    },
-    {
-      "title": "Blues · alle Level",
-      "type": "class",
-      "start": "2026-11-18T18:45",
-      "end": "2026-11-18T19:45",
-      "url": "https://www.vintage-club.de/classes.aspx",
-      "venue": "Vintage Club (VC Studio 2)",
-      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
-      "description": "Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen, wesentliche Schritte und Figuren, um dich auf der Tanzfläche sicher und wohl zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkundet, die zu verschiedenen Musikstilen getanzt werden können.",
-      "recurrence": "Wednesdays 18:45–19:45",
-      "dates": [
-        "2026-11-18",
-        "2026-11-25",
-        "2026-12-02",
-        "2026-12-09"
-      ],
-      "tags": [
-        "course block"
-      ],
-      "categories": [],
-      "source_id": "vintage-club",
-      "source_name": "Vintage Club",
-      "school_name": "Vintage Club",
-      "school_url": "https://www.vintage-club.de/",
-      "artists": [],
-      "known_artists": [],
-      "id": "0bbea59d456a"
-    },
-    {
       "title": "Black Patti",
       "type": "concert",
       "start": "2026-11-25T16:30",
@@ -3916,6 +3860,62 @@
       ],
       "known_artists": [],
       "id": "a88fdd380af0"
+    },
+    {
+      "title": "Solo Blues · alle Level",
+      "type": "class",
+      "start": "2026-11-18T17:30",
+      "end": "2026-11-18T18:30",
+      "url": "https://www.vintage-club.de/classes.aspx",
+      "venue": "Vintage Club (VC Studio 2)",
+      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+      "description": "Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen, wesentliche Schritte und Figuren, um dich auf der Tanzfläche sicher und wohl zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkundet, die zu verschiedenen Musikstilen getanzt werden können. Advance registration by email required.",
+      "recurrence": "Wednesdays 17:30–18:30",
+      "dates": [
+        "2026-11-18",
+        "2026-11-25",
+        "2026-12-02",
+        "2026-12-09"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "categories": [],
+      "source_id": "vintage-club",
+      "source_name": "Vintage Club",
+      "school_name": "Vintage Club",
+      "school_url": "https://www.vintage-club.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "9297c866acc6"
+    },
+    {
+      "title": "Blues · alle Level",
+      "type": "class",
+      "start": "2026-11-18T18:45",
+      "end": "2026-11-18T19:45",
+      "url": "https://www.vintage-club.de/classes.aspx",
+      "venue": "Vintage Club (VC Studio 2)",
+      "address": "Sonnenstraße 12b (Rückgebäude, 3. OG), 80331 München",
+      "description": "Keine Vorkenntnisse erforderlich. Erlerne die Grundlagen, wesentliche Schritte und Figuren, um dich auf der Tanzfläche sicher und wohl zu fühlen. In diesem Level werden die verschiedenen Blues-Tänze erkundet, die zu verschiedenen Musikstilen getanzt werden können.",
+      "recurrence": "Wednesdays 18:45–19:45",
+      "dates": [
+        "2026-11-18",
+        "2026-11-25",
+        "2026-12-02",
+        "2026-12-09"
+      ],
+      "tags": [
+        "course block"
+      ],
+      "categories": [],
+      "source_id": "vintage-club",
+      "source_name": "Vintage Club",
+      "school_name": "Vintage Club",
+      "school_url": "https://www.vintage-club.de/",
+      "artists": [],
+      "known_artists": [],
+      "id": "0bbea59d456a"
     },
     {
       "title": "Kai Strauss & The Electric Blues All Stars",
@@ -6880,6 +6880,36 @@
       "id": "66710960974a"
     },
     {
+      "title": "Günter Grünwald & Rad Gumbo – Bayerisches Kabarett trifft Southern Blues",
+      "type": "concert",
+      "start": "2027-09-16T20:00",
+      "end": "2027-09-16T22:30",
+      "url": "https://pasinger-fabrik.de/veranstaltung/guenter-gruenwald-rad-gumbo-bayerisches-kabarett-trifft-southern-blues-2/",
+      "venue": "Pasinger Fabrik – Wagenhalle",
+      "address": "August-Exter-Str. 1, 81245 München",
+      "description": "Günter Grünwald & RAD GUMBO Bayerisches Kabarett trifft Southern Blues Günter Grünwald ist einer der ganz großen bayerischen Kabarettisten und das seit über drei Jahrzehnten. Unzählige ausverkaufte Shows, seit vielen Jahren eine eigene TV-Sendung und ein einzigartiger Humor. Was viele allerdings nicht wissen: Günter Grünwald ist seit seiner Jugend ein leidenschaftlicher Gitarrist und Musikfan. Und wenn es die Zeit erlaubt dann steht er mit seinen befreundeten Vollblutmusikern von RAD GUMBO auf der Bühne und lässt es richtig krachen. Das Motto ist „Bayerisches Kabarett trifft Southern Blues“. W",
+      "recurrence": null,
+      "dates": [],
+      "tags": [],
+      "categories": [],
+      "source_id": "pasinger-fabrik",
+      "source_name": "Pasinger Fabrik",
+      "school_name": null,
+      "school_url": null,
+      "artists": [
+        {
+          "name": "Günter Grünwald",
+          "url": "https://www.last.fm/music/+noredirect/G%C3%BCnter+Gr%C3%BCnwald"
+        },
+        {
+          "name": "Rad Gumbo",
+          "url": "https://www.last.fm/music/Rad+Gumbo"
+        }
+      ],
+      "known_artists": [],
+      "id": "96e9253fbe47"
+    },
+    {
       "title": "Stephan Zinner – Großstadtblues",
       "type": "other",
       "start": "2027-10-06T20:00",
@@ -6969,7 +6999,7 @@
       "kind": "school",
       "status": "ok",
       "found": 61,
-      "updated_at": "2026-11-25T13:14:42+00:00",
+      "updated_at": "2026-11-26T12:55:21+00:00",
       "kept": 14
     },
     {
@@ -6978,8 +7008,8 @@
       "url": "https://www.boogie-baeren.de/",
       "kind": "school",
       "status": "ok",
-      "found": 110,
-      "updated_at": "2026-11-25T13:14:46+00:00",
+      "found": 112,
+      "updated_at": "2026-11-26T12:55:26+00:00",
       "kept": 14
     },
     {
@@ -6989,7 +7019,7 @@
       "kind": "school",
       "status": "ok",
       "found": 5,
-      "updated_at": "2026-11-25T13:14:51+00:00",
+      "updated_at": "2026-11-26T12:55:33+00:00",
       "kept": 4
     },
     {
@@ -6999,7 +7029,7 @@
       "kind": "school",
       "status": "ok",
       "found": 248,
-      "updated_at": "2026-11-25T13:15:03+00:00",
+      "updated_at": "2026-11-26T12:55:45+00:00",
       "kept": 3
     },
     {
@@ -7008,8 +7038,8 @@
       "url": "https://www.glockenbachwerkstatt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 30,
-      "updated_at": "2026-11-25T13:15:08+00:00",
+      "found": 29,
+      "updated_at": "2026-11-26T12:55:52+00:00",
       "kept": 52
     },
     {
@@ -7019,7 +7049,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 17,
-      "updated_at": "2026-11-25T13:15:13+00:00",
+      "updated_at": "2026-11-26T12:56:03+00:00",
       "kept": 8
     },
     {
@@ -7029,7 +7059,7 @@
       "kind": "band",
       "status": "ok",
       "found": 3,
-      "updated_at": "2026-11-25T13:15:17+00:00",
+      "updated_at": "2026-11-26T12:56:06+00:00",
       "kept": 17
     },
     {
@@ -7038,8 +7068,8 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 70,
-      "updated_at": "2026-11-25T13:15:20+00:00",
+      "found": 69,
+      "updated_at": "2026-11-26T12:56:10+00:00",
       "kept": 2
     },
     {
@@ -7048,8 +7078,8 @@
       "url": "https://www.jazzbar-vogler.com/",
       "kind": "venue",
       "status": "ok",
-      "found": 13,
-      "updated_at": "2026-11-25T13:15:22+00:00",
+      "found": 12,
+      "updated_at": "2026-11-26T12:56:11+00:00",
       "kept": 0
     },
     {
@@ -7059,7 +7089,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 11,
-      "updated_at": "2026-11-25T13:15:23+00:00",
+      "updated_at": "2026-11-26T12:56:12+00:00",
       "kept": 1
     },
     {
@@ -7069,7 +7099,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 8,
-      "updated_at": "2026-11-25T13:15:24+00:00",
+      "updated_at": "2026-11-26T12:56:13+00:00",
       "kept": 0
     },
     {
@@ -7079,7 +7109,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 35,
-      "updated_at": "2026-11-25T13:15:27+00:00",
+      "updated_at": "2026-11-26T12:56:16+00:00",
       "kept": 6
     },
     {
@@ -7089,7 +7119,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 41,
-      "updated_at": "2026-11-25T13:15:30+00:00",
+      "updated_at": "2026-11-26T12:56:19+00:00",
       "kept": 26
     },
     {
@@ -7099,7 +7129,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 100,
-      "updated_at": "2026-11-25T13:17:30+00:00",
+      "updated_at": "2026-11-26T12:58:21+00:00",
       "kept": 9
     },
     {
@@ -7108,8 +7138,8 @@
       "url": "https://stragula.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 29,
-      "updated_at": "2026-11-25T13:17:30+00:00",
+      "found": 30,
+      "updated_at": "2026-11-26T12:58:21+00:00",
       "kept": 4
     },
     {
@@ -7119,7 +7149,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 12,
-      "updated_at": "2026-11-25T13:17:36+00:00",
+      "updated_at": "2026-11-26T12:58:27+00:00",
       "kept": 0
     },
     {
@@ -7128,9 +7158,9 @@
       "url": "https://www.pasinger-fabrik.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 48,
-      "updated_at": "2026-11-25T13:17:37+00:00",
-      "kept": 6
+      "found": 49,
+      "updated_at": "2026-11-26T12:58:30+00:00",
+      "kept": 7
     },
     {
       "id": "ars-musica",
@@ -7138,8 +7168,8 @@
       "url": "https://www.ars-musica-muenchen.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 11,
-      "updated_at": "2026-11-25T13:17:38+00:00",
+      "found": 13,
+      "updated_at": "2026-11-26T12:58:31+00:00",
       "kept": 2
     },
     {
@@ -7148,8 +7178,8 @@
       "url": "https://www.ubo9.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 8,
-      "updated_at": "2026-11-25T13:17:40+00:00",
+      "found": 7,
+      "updated_at": "2026-11-26T12:58:33+00:00",
       "kept": 0
     },
     {
@@ -7159,7 +7189,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 9,
-      "updated_at": "2026-11-25T13:17:43+00:00",
+      "updated_at": "2026-11-26T12:58:34+00:00",
       "kept": 0
     },
     {
@@ -7169,7 +7199,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 3,
-      "updated_at": "2026-11-25T13:17:44+00:00",
+      "updated_at": "2026-11-26T12:58:36+00:00",
       "kept": 0
     },
     {
@@ -7179,7 +7209,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 26,
-      "updated_at": "2026-11-25T13:17:48+00:00",
+      "updated_at": "2026-11-26T12:58:41+00:00",
       "kept": 1
     },
     {
@@ -7189,7 +7219,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 3,
-      "updated_at": "2026-11-25T13:17:49+00:00",
+      "updated_at": "2026-11-26T12:58:41+00:00",
       "kept": 1
     },
     {
@@ -7208,8 +7238,8 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 156,
-      "updated_at": "2026-11-25T13:18:02+00:00",
+      "found": 154,
+      "updated_at": "2026-11-26T12:58:55+00:00",
       "kept": 78
     },
     {
@@ -7219,7 +7249,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 40,
-      "updated_at": "2026-11-25T13:18:10+00:00",
+      "updated_at": "2026-11-26T12:59:02+00:00",
       "kept": 4
     },
     {
@@ -7228,8 +7258,8 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 216,
-      "updated_at": "2026-11-25T13:18:33+00:00",
+      "found": 210,
+      "updated_at": "2026-11-26T12:59:24+00:00",
       "kept": 6
     },
     {
@@ -7239,7 +7269,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 0,
-      "updated_at": "2026-11-25T13:18:33+00:00",
+      "updated_at": "2026-11-26T12:59:24+00:00",
       "kept": 0
     },
     {
@@ -7249,7 +7279,7 @@
       "kind": "manual",
       "status": "ok",
       "found": 0,
-      "updated_at": "2026-11-25T13:18:33+00:00",
+      "updated_at": "2026-11-26T12:59:24+00:00",
       "kept": 0
     }
   ]

@@ -1,38 +1,14 @@
 {
- "scraped_at": "2026-11-25T13:15:08+00:00",
+ "scraped_at": "2026-11-26T12:55:52+00:00",
  "status": {
   "id": "glockenbachwerkstatt",
   "name": "Glockenbachwerkstatt – Fish'n Blues",
   "url": "https://www.glockenbachwerkstatt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 30
+  "found": 29
  },
  "events": [
-  {
-   "title": "Pete Gavin",
-   "type": "concert",
-   "start": "2026-11-25T20:30",
-   "end": null,
-   "url": "https://www.glockenbachwerkstatt.de/events/pete-gavin2026/",
-   "venue": "Glockenbachwerkstatt",
-   "address": "Blumenstraße 7, 80331 München",
-   "description": "Fisch: 19:00 Uhr · kostenfrei",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Fish'n Blues",
-    "Konzert"
-   ],
-   "categories": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Dr. Will & Saschmo Bibergeil",
    "type": "concert",

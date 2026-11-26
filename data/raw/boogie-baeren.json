@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-25T13:14:46+00:00",
+ "scraped_at": "2026-11-26T12:55:26+00:00",
  "status": {
   "id": "boogie-baeren",
   "name": "Boogie-Bären München",
   "url": "https://www.boogie-baeren.de/",
   "kind": "school",
   "status": "ok",
-  "found": 110
+  "found": 112
  },
  "events": [
   {
@@ -125,7 +125,7 @@
    "id": ""
   },
   {
-   "title": "Discofox & Boogie Übungsabend",
+   "title": "BoFox Übungsabend",
    "type": "social",
    "start": "2026-12-12",
    "end": null,
@@ -217,7 +217,7 @@
    "id": ""
   },
   {
-   "title": "Discofox & Boogie Matinee",
+   "title": "BoFox Matinee",
    "type": "social",
    "start": "2026-12-20",
    "end": null,
@@ -225,6 +225,29 @@
    "venue": "Boogie-Bären Vereinsheim",
    "address": "Gneisenaustraße 16, 80992 München",
    "description": "Matinee für Boogie und Discofox",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Übungsabend"
+   ],
+   "categories": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "X-Mas Übungsabend 2026",
+   "type": "social",
+   "start": "2026-12-24",
+   "end": null,
+   "url": "https://www.boogie-baeren.de/eventleser/x-mas-uebungsabend-2026",
+   "venue": "Boogie-Bären Vereinsheim",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -275,6 +298,29 @@
    "dates": [],
    "tags": [
     "Extern"
+   ],
+   "categories": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Tanz ins neue Jahr - Silvester 26/27 bei den Boogie-Bären",
+   "type": "social",
+   "start": "2026-12-31",
+   "end": null,
+   "url": "https://www.boogie-baeren.de/eventleser/silvester-2026",
+   "venue": "Boogie-Bären Vereinsheim",
+   "address": "Gneisenaustraße 16, 80992 München",
+   "description": "",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Übungsabend"
    ],
    "categories": [],
    "source_id": "",

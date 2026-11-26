@@ -1,35 +1,14 @@
 {
- "scraped_at": "2026-11-25T13:15:20+00:00",
+ "scraped_at": "2026-11-26T12:56:10+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 70
+  "found": 69
  },
  "events": [
-  {
-   "title": "WIDE ANGLES",
-   "type": "concert",
-   "start": "2026-11-25T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11706",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Auf Weitwinkel-Bildern ist alles drauf, perspektivisch manchmal leicht verzerrt. Auf die Musik der Münchner Band Wide Angles übertragen heißt das – da ist alles drin, aber oft wird auch ganz nah ran gezoomt. Etwa auf den modalen, aber auch den coolen Jazz der späten 50er Jahre, auf Musik der klassischen Miles Davis Besetzungen also, auf Coltrane, auf die Beiden also, die heuer im Himmel ihren 100. Geburtstag feierten. Doch spielen die drei Bläser und die Rhythmusgruppe nicht nur verklärt nostalgisch, sondern sind unzweifelhaft auch im Hier und Jetzt verankert.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "categories": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "/INSHI/ KATERYNA KRAVCHENKO & BÉLA BLUCHE",
    "type": "concert",

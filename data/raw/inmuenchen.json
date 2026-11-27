@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-26T12:58:55+00:00",
+ "scraped_at": "2026-11-27T12:53:02+00:00",
  "status": {
   "id": "inmuenchen",
   "name": "IN München",
   "url": "https://www.in-muenchen.de/",
   "kind": "aggregator",
   "status": "ok",
-  "found": 154
+  "found": 152
  },
  "events": [
   {
@@ -17,7 +17,7 @@
    "url": "https://www.in-muenchen.de/events/monaco-f.html",
    "venue": "Backstage Halle",
    "address": "Reitknechtstraße 6, 80639 München",
-   "description": "Monaco F präsentiert mit ‚Midlife Rises‘ einen facettenreichen Songzyklus, der musikalische Einflüsse aus über 35 Jahren vereint. Zwischen Alpen-Beats, 90ies-HipHop und Blues entstehen einzigartige Klänge, die seine persönliche Lebensreise widerspiegeln.",
+   "description": "Der Songzyklus „Midlife Rises“ blickt wie ein Fotoalbum auf über 35 Jahre Liebe zum Rap zurück. Das Spektrum reicht von Alpen-Beats über Blues bis Trap, live mit Band.",
    "recurrence": null,
    "dates": [],
    "tags": [
@@ -737,7 +737,7 @@
    "id": ""
   },
   {
-   "title": "Martin Schmitt – Schmitt happens",
+   "title": "Martin Schmitt - Schmitt happens",
    "type": "concert",
    "start": "2027-02-19T19:30",
    "end": null,
@@ -887,7 +887,7 @@
    "id": ""
   },
   {
-   "title": "Andrea Limmer – Flintenweib",
+   "title": "Andrea Limmer - Flintenweib",
    "type": "concert",
    "start": "2026-12-11T20:00",
    "end": "2026-12-11T22:00",
@@ -1062,7 +1062,7 @@
    "id": ""
   },
   {
-   "title": "Werner Meier – Echt?!",
+   "title": "Werner Meier - Echt?!",
    "type": "concert",
    "start": "2027-02-19T20:00",
    "end": null,
@@ -1087,7 +1087,7 @@
    "id": ""
   },
   {
-   "title": "Zither-Manä – 46 Jahre – Der ganz normale Wahnsinn",
+   "title": "Zither-Manä - 46 Jahre - Der ganz normale Wahnsinn",
    "type": "concert",
    "start": "2026-12-03T19:00",
    "end": null,
@@ -1237,7 +1237,7 @@
    "id": ""
   },
   {
-   "title": "Apollon’s Smile & Friends",
+   "title": "Apollon's Smile & Friends",
    "type": "concert",
    "start": "2027-04-17T20:00",
    "end": null,
@@ -1456,7 +1456,7 @@
    "id": ""
   },
   {
-   "title": "Live im Lihotzky – mit Berhard Klier",
+   "title": "Live im Lihotzky - mit Berhard Klier",
    "type": "concert",
    "start": "2026-11-27T20:00",
    "end": "2026-11-27T22:00",
@@ -1481,7 +1481,7 @@
    "id": ""
   },
   {
-   "title": "Das „frühe“ Frauenfest",
+   "title": "Das \"frühe\" Frauenfest",
    "type": "concert",
    "start": "2026-12-04T18:00",
    "end": "2026-12-04T23:00",
@@ -3355,31 +3355,6 @@
    "id": ""
   },
   {
-   "title": "Meena Cryle & Chris Fillmore",
-   "type": "concert",
-   "start": "2026-11-26T20:00",
-   "end": null,
-   "url": "https://www.in-muenchen.de/events/meena-cryle-chris-fillmore.html",
-   "venue": "Veranstaltungsforum Fürstenfeld",
-   "address": "Fürstenfeld 12, 82256 Fürstenfeldbruck",
-   "description": "Meena Cryle und Chris Fillmore feiern auf ihrer 30. Jubiläumstour ihr seltenes und intimes Zusammenspiel. Die beiden österreichischen Blues- und Rootskünstler, bekannt für ihre leidenschaftlichen Auftritte, begeistern mit ihrer einzigartigen Stimme und Gitarrenkunst. Ihr Talent wurde auch vom renommierten Produzenten Jim Gaines gewürdigt.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Blues"
-   ],
-   "categories": [
-    "Konzerte"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
    "title": "Ledisi",
    "type": "concert",
    "start": "2026-12-06T18:00",
@@ -3607,7 +3582,7 @@
   {
    "title": "Bin I Kini?! – Der Prinzregenten-Blues",
    "type": "concert",
-   "start": "2026-11-26T20:00",
+   "start": "2026-11-27T20:00",
    "end": null,
    "url": "https://www.in-muenchen.de/events/prinzregenten-blues-iberl-buhne.html",
    "venue": "Iberl Bühne",
@@ -3620,31 +3595,6 @@
    ],
    "categories": [
     "Theater"
-   ],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Martin Schmitt – Schmitt happens",
-   "type": "concert",
-   "start": "2026-11-26T20:00",
-   "end": "2026-11-26T23:00",
-   "url": "https://www.in-muenchen.de/events/martin-schmitt-schmitt-happens-eching.html",
-   "venue": "Bürgerhaus Eching",
-   "address": "Roßbergerstraße 6, 85386 Eching",
-   "description": "Martin Schmitt präsentiert sein neues Programm ‚Schmitt happens‘ mit bayrischer Unterhaltung, bluesgetränktem Klavierspiel und wortgewaltigem Kabarett.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Klavierkabarett"
-   ],
-   "categories": [
-    "Kabarett / Comedy"
    ],
    "source_id": "",
    "source_name": "",

@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-26T12:56:13+00:00",
+ "scraped_at": "2026-11-27T12:50:26+00:00",
  "status": {
   "id": "kilians",
   "name": "Kilians Irish Pub",
@@ -9,27 +9,6 @@
   "found": 8
  },
  "events": [
-  {
-   "title": "Naggerd",
-   "type": "concert",
-   "start": "2026-11-26T21:00",
-   "end": "2026-11-27T00:30",
-   "url": "https://reservierung.heyrosi.de/event/kilians-irish-pub/naggerd",
-   "venue": "Kilians Irish Pub",
-   "address": "Frauenplatz 11, 80331 München",
-   "description": "steht für gefühlvollen romantic Poppunk aus München - immer voll auf die Fresse! Das Improtheater der Musik!",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "categories": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "The Movement",
    "type": "concert",
@@ -165,6 +144,27 @@
    "venue": "Kilians Irish Pub",
    "address": "Frauenplatz 11, 80331 München",
    "description": "Bieten ein Tanzfreudiges Setup mit Klassikern über moderne Songs bis zum Acid Jazz",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "categories": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "David Gaffney",
+   "type": "concert",
+   "start": "2026-12-07T21:00",
+   "end": "2026-12-08T00:30",
+   "url": "https://reservierung.heyrosi.de/event/kilians-irish-pub/david-gaffney",
+   "venue": "Kilians Irish Pub",
+   "address": "Frauenplatz 11, 80331 München",
+   "description": "Singer-Songwriter with an Impressive Repertoire of Formidable Songs",
    "recurrence": null,
    "dates": [],
    "tags": [],

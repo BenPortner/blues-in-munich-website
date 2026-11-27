@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T12:59:25+00:00",
+  "generated_at": "2026-11-27T12:53:33+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -3998,7 +3998,7 @@
       "id": "3ae4357e1471"
     },
     {
-      "title": "Zither-Manä – 46 Jahre – Der ganz normale Wahnsinn",
+      "title": "Zither-Manä - 46 Jahre - Der ganz normale Wahnsinn",
       "type": "other",
       "start": "2026-12-03T19:00",
       "end": null,
@@ -6999,7 +6999,7 @@
       "kind": "school",
       "status": "ok",
       "found": 61,
-      "updated_at": "2026-11-26T12:55:21+00:00",
+      "updated_at": "2026-11-27T12:49:43+00:00",
       "kept": 14
     },
     {
@@ -7009,7 +7009,7 @@
       "kind": "school",
       "status": "ok",
       "found": 112,
-      "updated_at": "2026-11-26T12:55:26+00:00",
+      "updated_at": "2026-11-27T12:49:48+00:00",
       "kept": 14
     },
     {
@@ -7019,7 +7019,7 @@
       "kind": "school",
       "status": "ok",
       "found": 5,
-      "updated_at": "2026-11-26T12:55:33+00:00",
+      "updated_at": "2026-11-27T12:49:53+00:00",
       "kept": 4
     },
     {
@@ -7029,7 +7029,7 @@
       "kind": "school",
       "status": "ok",
       "found": 248,
-      "updated_at": "2026-11-26T12:55:45+00:00",
+      "updated_at": "2026-11-27T12:50:06+00:00",
       "kept": 3
     },
     {
@@ -7039,7 +7039,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 29,
-      "updated_at": "2026-11-26T12:55:52+00:00",
+      "updated_at": "2026-11-27T12:50:11+00:00",
       "kept": 52
     },
     {
@@ -7049,7 +7049,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 17,
-      "updated_at": "2026-11-26T12:56:03+00:00",
+      "updated_at": "2026-11-27T12:50:16+00:00",
       "kept": 8
     },
     {
@@ -7059,7 +7059,7 @@
       "kind": "band",
       "status": "ok",
       "found": 3,
-      "updated_at": "2026-11-26T12:56:06+00:00",
+      "updated_at": "2026-11-27T12:50:18+00:00",
       "kept": 17
     },
     {
@@ -7068,8 +7068,8 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 69,
-      "updated_at": "2026-11-26T12:56:10+00:00",
+      "found": 68,
+      "updated_at": "2026-11-27T12:50:22+00:00",
       "kept": 2
     },
     {
@@ -7078,8 +7078,8 @@
       "url": "https://www.jazzbar-vogler.com/",
       "kind": "venue",
       "status": "ok",
-      "found": 12,
-      "updated_at": "2026-11-26T12:56:11+00:00",
+      "found": 11,
+      "updated_at": "2026-11-27T12:50:24+00:00",
       "kept": 0
     },
     {
@@ -7089,7 +7089,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 11,
-      "updated_at": "2026-11-26T12:56:12+00:00",
+      "updated_at": "2026-11-27T12:50:25+00:00",
       "kept": 1
     },
     {
@@ -7099,7 +7099,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 8,
-      "updated_at": "2026-11-26T12:56:13+00:00",
+      "updated_at": "2026-11-27T12:50:26+00:00",
       "kept": 0
     },
     {
@@ -7109,7 +7109,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 35,
-      "updated_at": "2026-11-26T12:56:16+00:00",
+      "updated_at": "2026-11-27T12:50:29+00:00",
       "kept": 6
     },
     {
@@ -7119,7 +7119,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 41,
-      "updated_at": "2026-11-26T12:56:19+00:00",
+      "updated_at": "2026-11-27T12:50:31+00:00",
       "kept": 26
     },
     {
@@ -7128,8 +7128,8 @@
       "url": "https://www.tollwood.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 100,
-      "updated_at": "2026-11-26T12:58:21+00:00",
+      "found": 94,
+      "updated_at": "2026-11-27T12:52:26+00:00",
       "kept": 9
     },
     {
@@ -7139,7 +7139,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 30,
-      "updated_at": "2026-11-26T12:58:21+00:00",
+      "updated_at": "2026-11-27T12:52:26+00:00",
       "kept": 4
     },
     {
@@ -7149,7 +7149,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 12,
-      "updated_at": "2026-11-26T12:58:27+00:00",
+      "updated_at": "2026-11-27T12:52:31+00:00",
       "kept": 0
     },
     {
@@ -7159,7 +7159,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 49,
-      "updated_at": "2026-11-26T12:58:30+00:00",
+      "updated_at": "2026-11-27T12:52:33+00:00",
       "kept": 7
     },
     {
@@ -7168,8 +7168,8 @@
       "url": "https://www.ars-musica-muenchen.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 13,
-      "updated_at": "2026-11-26T12:58:31+00:00",
+      "found": 12,
+      "updated_at": "2026-11-27T12:52:34+00:00",
       "kept": 2
     },
     {
@@ -7178,8 +7178,8 @@
       "url": "https://www.ubo9.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 7,
-      "updated_at": "2026-11-26T12:58:33+00:00",
+      "found": 6,
+      "updated_at": "2026-11-27T12:52:36+00:00",
       "kept": 0
     },
     {
@@ -7189,7 +7189,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 9,
-      "updated_at": "2026-11-26T12:58:34+00:00",
+      "updated_at": "2026-11-27T12:52:40+00:00",
       "kept": 0
     },
     {
@@ -7199,7 +7199,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 3,
-      "updated_at": "2026-11-26T12:58:36+00:00",
+      "updated_at": "2026-11-27T12:52:42+00:00",
       "kept": 0
     },
     {
@@ -7208,8 +7208,8 @@
       "url": "https://www.einewelthaus.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 26,
-      "updated_at": "2026-11-26T12:58:41+00:00",
+      "found": 25,
+      "updated_at": "2026-11-27T12:52:46+00:00",
       "kept": 1
     },
     {
@@ -7219,7 +7219,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 3,
-      "updated_at": "2026-11-26T12:58:41+00:00",
+      "updated_at": "2026-11-27T12:52:47+00:00",
       "kept": 1
     },
     {
@@ -7238,8 +7238,8 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 154,
-      "updated_at": "2026-11-26T12:58:55+00:00",
+      "found": 152,
+      "updated_at": "2026-11-27T12:53:02+00:00",
       "kept": 78
     },
     {
@@ -7249,7 +7249,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 40,
-      "updated_at": "2026-11-26T12:59:02+00:00",
+      "updated_at": "2026-11-27T12:53:09+00:00",
       "kept": 4
     },
     {
@@ -7258,8 +7258,8 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 210,
-      "updated_at": "2026-11-26T12:59:24+00:00",
+      "found": 206,
+      "updated_at": "2026-11-27T12:53:32+00:00",
       "kept": 6
     },
     {
@@ -7269,7 +7269,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 0,
-      "updated_at": "2026-11-26T12:59:24+00:00",
+      "updated_at": "2026-11-27T12:53:33+00:00",
       "kept": 0
     },
     {
@@ -7279,7 +7279,7 @@
       "kind": "manual",
       "status": "ok",
       "found": 0,
-      "updated_at": "2026-11-26T12:59:24+00:00",
+      "updated_at": "2026-11-27T12:53:33+00:00",
       "kept": 0
     }
   ]

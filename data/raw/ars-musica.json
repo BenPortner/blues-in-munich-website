@@ -1,37 +1,14 @@
 {
- "scraped_at": "2026-11-26T12:58:31+00:00",
+ "scraped_at": "2026-11-27T12:52:34+00:00",
  "status": {
   "id": "ars-musica",
   "name": "ars musica e.V.",
   "url": "https://www.ars-musica-muenchen.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 13
+  "found": 12
  },
  "events": [
-  {
-   "title": "Living Tones",
-   "type": "concert",
-   "start": "2026-11-26T19:30",
-   "end": null,
-   "url": "https://www.ars-musica-muenchen.de/event_details.php?id=2593&title=Living%20Tones",
-   "venue": "LUISE Kulturzentrum",
-   "address": "Ruppertstraße 5, 80337 München",
-   "description": "Energiegeladen, verspielt und mit einer ordentlichen Portion Freude.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Rock, Pop, Latin & Funk"
-   ],
-   "categories": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Delta X - \"Lux Fabula\"",
    "type": "concert",

@@ -1,84 +1,14 @@
 {
- "scraped_at": "2026-11-26T12:58:41+00:00",
+ "scraped_at": "2026-11-27T12:52:46+00:00",
  "status": {
   "id": "einewelthaus",
   "name": "EineWeltHaus",
   "url": "https://www.einewelthaus.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 26
+  "found": 25
  },
  "events": [
-  {
-   "title": "Ausstellung: Arabische Kalligraphie",
-   "type": "other",
-   "start": "2026-11-01T01:00",
-   "end": "2026-11-27T01:00",
-   "url": "https://www.einewelthaus.de/events/ausstellung-arabische-kalligraphie/",
-   "venue": "EineWeltHaus München",
-   "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "Liebe ist vielseitig – sie lässt sich auf unterschiedlichste Weise ausdrücken und empfinden. Diese Ausstellung zeigt Werksarbeiten der arabischen Kalligraphie, die sich genau diesem Thema widmen und verschiedene Zitate sowie Gedanken visuell erfahrbar machen. Erleben Sie, wie Schriftkunst und die unterschiedlichen Facetten der Liebe zusammenfinden, und entdecken Sie die Werke aus einer neuen Perspektive. Wir laden Sie herzlich ein, die Ausstellung vom 1. bis zum 27. November zu besuchen und freuen uns auf Ihr Kommen!",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Ausstellung"
-   ],
-   "categories": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Die Zeiten werden härter, wir stärker! Panel mit Britta Schellenberg, Paulina Seelmann und Hannes Kreschel",
-   "type": "concert",
-   "start": "2026-11-26T19:30",
-   "end": "2026-11-26T22:00",
-   "url": "https://www.einewelthaus.de/events/die-zeiten-werden-haerter-wir-staerker-panel-mit-britta-schellenberg-und-hannes-kreschel/",
-   "venue": "EineWeltHaus München",
-   "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "Der Ton wird rauer, rechte Positionen gewinnen an Einfluss und demokratische Strukturen geraten unter Druck. Was bedeutet das für Menschen, die sich für Vielfalt, Menschenrechte und eine offene Gesellschaft einsetzen? Und wie stärken wir uns gegenseitig, statt in der Opferrolle zu bleiben? Darüber sprechen wir am 26. November mit Hannes Kreschel, Dr. Britta Schellenberg und und Paulina Seelmann im Münchner EineWeltHaus. Es ist eine Folgeveranstaltung des Workshops „Starke Zivilgesellschaft – Räume für Vielfalt“, der im Rahmen des 25jährigen Jubiläums des EineWeltHauses veranstaltet wurde. Wann? 26. November 2026, 18:30 – 21:00 Uhr Wo? EineWeltHaus, Schwanthalerstraße 80, München Anmeldung hier. Die Plätze sind auf 100 Personen begrenzt. Melde dich rechtzeitig an und diskutiere mit uns, wie wir unsere Demokratie gemeinsam stärken können. Wir fragen, welche Auswirkungen der Rechtsruck auf die Zivilgesellschaft hat, welche Erfahrungen unterschiedliche Akteurinnen machen und welche Strategien helfen, demokratische Räume zu verteidigen und solidarische Bündnisse zu stärken. Dabei werfen wir auch einen Blick nach Sachsen-Anhalt und Mecklenburg-Vorpommern, wo rechtsradikale Akteurinnen schon viel Einfluss haben. Dazu schauen wir natürlich auch nach vorne: Wie schaffen wir Solidarität und schützende Strukturen für unsere Demokratie? Wer ist dabei? Hannes Kreschel – politischer Influencer aus Sachsen-Anhalt: Hannes Kreschel ist 23 Jahre alt, Jurist und in Sachsen-Anhalt aufgewachsen. Auf Social Media dokumentiert er Gespräche mit den Wütenden dieses Landes und Menschen aus dem rechtsextremen Spektrum. Dafür besucht er unter anderem Wahlkampfveranstaltungen und Demonstrationen. Mit seinen Videos macht er rechtsextreme Parolen und Widersprüche sichtbar und engagiert er sich für Demokratie. Dabei setzt er auf hartnäckige Fragen und direkte Gespräche auch wenn ihm Gegenwind entgegenschlägt. Paulina Seelmann – Politikwissenschaftlerin an der LMU München: Paulina Seelmanns Forschungsschwerpunkte am Geschwister- Scholl-Institut für Politikwissenschaft der LMU liegen im Bereich Rechtsextremismus und Rassismus sowie bei Strategien zu deren Bekämpfung. Darüber hinaus beschäftigt sie sich mit Demokratie- und Menschenrechtsbildung. Seit 2017 ist sie Teil des Teams „Den Menschen im Blick“ und engagiert sich in der Antidiskriminierungsarbeit sowie in der Demokratieförderung. Dr. Britta Schellenberg – Politikwissenschaftlerin an der LMU München: Dr. Britta Schellenberg beschäftigt sich am Geschwister-Scholl-Institut für Politikwissenschaft der LMU München mit Rechtsextremismus, Rassismus und Strategien für eine demokratische Gesellschaft. Sie untersucht, wie rechte Ideologien entstehen, wie sie öffentliche Debatten prägen und wie Politik und Zivilgesellschaft darauf reagieren können. Dabei verbindet sie wissenschaftliche Erkenntnisse mit praktischer Erfahrung: Sie berät staatliche und zivilgesellschaftliche Organisationen und entwickelt Bildungsprojekte. So läuft der Abend Gespräch und Interview: Hannes Kreschel, Dr. Britta Schellenberg und Paulina Seelmann bringen ihre Erfahrungen und Perspektiven ein. Dialog und Interaktion: Du bist gefragt! Mit Abstimmungen, Fragen und einem gemeinsamen Stimmungsbild beziehen wir das Publikum ein. Die Zielgruppe sind interessierte Einzelpersonen, die den Radikalisierungsprozess mitten in unserer Gesellschaft verstehen wollen und nach Lösungen für einen Dialog suchen. Die Veranstaltung richtet sich an Menschen, die sich vernetzen und Antworten finden wollen, wie wir unsere Demokratie in diesen schweren Zeiten stärken können. Fotos: Hannes Kreschel &amp; ForGeRex",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Austausch",
-    "Diskussionsveranstaltung"
-   ],
-   "categories": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "„Gen Z regelt“: Protest demokratisch weggeräumt",
-   "type": "concert",
-   "start": "2026-11-26T20:30",
-   "end": "2026-11-26T23:00",
-   "url": "https://www.einewelthaus.de/events/gen-z-regelt-protest-demokratisch-weggeraeumt/",
-   "venue": "EineWeltHaus München",
-   "address": "Schwanthalerstr. 80, München, 80336",
-   "description": "Die „junge Generation“ kündigt an, dass sie in die Hand nehmen will, was in diesem Land schief läuft. Noch vor jedem Protest wird denen, die ihn machen wollen, abverlangt, dass der in jedem Falle „friedlich“ und „gewaltfrei“ stattzufinden hat, sie also anzuerkennen haben, wer hierzulande für das Regeln zuständig ist, und wer nur als Bittsteller aufzutreten hat. Ganz zufrieden mit dem Protest ist dann auch der Bundeskanzler. Er freut sich über das politische Engagement und lauscht der Jugend ab, dass er mit seinen Reformen auf dem richtigen Weg ist. Der Oberregler der Nation erteilt so eine demokratische Lehrstunde über die Versammlungsfreiheit, als Verfahren der Unterordnung sich im Volk regender Unzufriedenheiten.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Diskussionsveranstaltung"
-   ],
-   "categories": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Griechisches Extra Virgin Olivenöl kommt wieder nach München - Abholtermin",
    "type": "concert",
@@ -211,6 +141,29 @@
    "dates": [],
    "tags": [
     "Vortrag und Diskussion"
+   ],
+   "categories": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Guitars come together: Weihnachts-Special",
+   "type": "concert",
+   "start": "2026-12-04T21:00",
+   "end": "2026-12-04T23:00",
+   "url": "https://www.einewelthaus.de/events/guitars-come-together-weihnachts-special-2/",
+   "venue": "EineWeltHaus München",
+   "address": "Schwanthalerstr. 80, München, 80336",
+   "description": "Pack Deine Gitarre ein und mach mit! Gemeinsam musizieren macht Freude und verbindet Menschen. Komm mit Deiner Gitarre und wir spielen als große Gruppe Weihnachtslieder und wer mag, singt mit. Texte und Akkorde werden auf Leinwand projiziert. Die Veranstaltung wird moderiert und angeleitet. Jede*r kann mitmachen, jedes Level, kein vorheriges Üben notwendig! Auch Ukulelen und Sänger*innen ohne Gitarre sind herzlich willkommen! Wir freuen uns auf Dich. Weitere Informationen findest Du auf unserer Homepage: www.guitars-come-together.de",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Konzert"
    ],
    "categories": [],
    "source_id": "",
@@ -393,6 +346,31 @@
    "tags": [
     "Konzert",
     "Lesung & Klang"
+   ],
+   "categories": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "KLANGSCHATTEN - Rap, RnB, Trance &amp; Fotografie",
+   "type": "other",
+   "start": "2026-12-16T19:00",
+   "end": "2026-12-16T23:00",
+   "url": "https://www.einewelthaus.de/events/klangschatten-rap-rnb-trance-fotografie/",
+   "venue": "EineWeltHaus München",
+   "address": "Schwanthalerstr. 80, München, 80336",
+   "description": "Bei KLANGSCHATTEN könnt ihr Live-Musik und Fotoausstellung an einem Abend genießen! Das Musik-Programm umfasst alles von Rap und Hip-Hop bis RnB und Trance. Die Fotoausstellung zeigt Porträts und urbane Architektur in schwarz-weiß und spiegelt den Zeitgeist sowie das Lebensgefühl und die Subkultur der Jugend in der Stadt.",
+   "recurrence": null,
+   "dates": [],
+   "tags": [
+    "Ausstellung",
+    "Konzert",
+    "Musik"
    ],
    "categories": [],
    "source_id": "",

@@ -1,38 +1,14 @@
 {
- "scraped_at": "2026-11-26T12:56:10+00:00",
+ "scraped_at": "2026-11-27T12:50:22+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 69
+  "found": 68
  },
  "events": [
-  {
-   "title": "/INSHI/ KATERYNA KRAVCHENKO & BÉLA BLUCHE",
-   "type": "concert",
-   "start": "2026-11-26T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11707",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Gerade jetzt ist es so wichtig, dass Menschen aus der Ukraine ihre Traditionen und Erinnerungen leben. Im bewegenden Duo-Projekt /inshi/ (übersetzt: andere) zitiert Kateryna Kravchenko aus Volkliedern, flüstert, wispert, raunt heimische Gedichtzeilen, improvisiert mit Sprachfetzen und Lauten, bringt Strophen zum geheimnisvollen Flimmern. Béla Buche spielt ihr am Kontrabass zu, grundiert das Gesungene, unterstreicht Betonungen, rhythmisiert die Sprache neu.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Vocal Jazz",
-    "Next Generation"
-   ],
-   "categories": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "CAROLINA BUBBICO",
    "type": "concert",
@@ -381,7 +357,10 @@
    "description": "Es ist, als habe der große Cole Porter die Sängerin Jane Monheit im Sinn gehabt, als er Evergreens wie Night and Day oder Easy To Love schrieb. Die Amerikanerin trägt solche Klassiker aus der Feder des Komponisten und Liedtexters mit zeitloser Eleganz, Würde, Charme, Pfiff und diesem gewissen Etwas vor, das ihr niemand nachmacht. Was sie singt, kann man nicht lernen – das muss man schon in sich tragen. Ihr neues Programm ist eine Würdigung für Cole Porter, der einen nicht unerheblichen Anteil am Umfang des Great American Songbook hat.",
    "recurrence": null,
    "dates": [],
-   "tags": [],
+   "tags": [
+    "Vocal Jazz",
+    "Highlight"
+   ],
    "categories": [],
    "source_id": "",
    "source_name": "",

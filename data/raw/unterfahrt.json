@@ -1,38 +1,14 @@
 {
- "scraped_at": "2026-11-27T12:50:22+00:00",
+ "scraped_at": "2026-11-28T12:02:36+00:00",
  "status": {
   "id": "unterfahrt",
   "name": "Jazzclub Unterfahrt",
   "url": "https://www.unterfahrt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 68
+  "found": 67
  },
  "events": [
-  {
-   "title": "CAROLINA BUBBICO",
-   "type": "concert",
-   "start": "2026-11-27T20:30",
-   "end": null,
-   "url": "https://www.unterfahrt.de/programm-detail.php?dateID=11708",
-   "venue": "Jazzclub Unterfahrt",
-   "address": "Einsteinstraße 42, 81675 München",
-   "description": "Unser Dasein ist kein Ponyhof. Es steckt voller Widrigkeiten und Probleme. Wohl denen, die trotzdem Das Beste daraus machen, Menschen wie Carolina Bubbico. Vocàlia, das neue (und vierte) Album der Sängerin und Percussionistin ist ein in vielen Sprachen verfasster Liebesbrief an das Leben und möchte zukünftigen Generationen Hoffnungen mitgeben. Und vielleicht gehen Besucher nach ihrem Konzert ja mit leichterem Herzen und reichlich Glücksgefühlen nach Hause.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Vocal Jazz",
-    "Highlight"
-   ],
-   "categories": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "WOLFGANG SCHMID & FRIENDS",
    "type": "concert",
@@ -610,7 +586,10 @@
    "description": "Es hat sich bewährt, dass uns die Sängerin Lisa Wahlandt auf das bevorstehende Fest der Liebe einstimmt. Vier Tage vor Heilig Abend versüßt uns Lisa das Warten aufs Christkind mit Weihnachtsliedern, Christmas Songs und solchen, die es werden sollen. In ihrem herzerwärmenden, aber auch von manchem Zwinkern durchsetzten, Programm finden sich Cindy Laupers magisch-verträumtes Lied December Child und eine himmlische Zimtstern-Variante von AC/DCs Highway to Hell.",
    "recurrence": null,
    "dates": [],
-   "tags": [],
+   "tags": [
+    "Vocal Jazz",
+    "German Jazz"
+   ],
    "categories": [],
    "source_id": "",
    "source_name": "",
@@ -653,7 +632,8 @@
    "recurrence": null,
    "dates": [],
    "tags": [
-    "Bigband Night"
+    "Bigband Night",
+    "German Jazz"
    ],
    "categories": [],
    "source_id": "",

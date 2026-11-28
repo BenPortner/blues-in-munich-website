@@ -1,60 +1,14 @@
 {
- "scraped_at": "2026-11-27T12:52:26+00:00",
+ "scraped_at": "2026-11-28T12:04:42+00:00",
  "status": {
   "id": "tollwood",
   "name": "Tollwood",
   "url": "https://www.tollwood.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 94
+  "found": 92
  },
  "events": [
-  {
-   "title": "Johnny & The Yooahoos",
-   "type": "concert",
-   "start": "2026-11-27T16:00",
-   "end": "2026-11-27T18:00",
-   "url": "https://www.tollwood.de/veranstaltungen/2026/johnny-the-yooahoos/",
-   "venue": "Tollwood – Hexenkessel",
-   "address": "Theresienwiese, 80336 München",
-   "description": "Folk & Bluegrass Von kleinen Bühnen in Süddeutschland bis zur Grand Ole Opry in Nashville: Johnny & The Yooahoos haben seit 2018 einen weiten Weg zurückgelegt. 2025 tourte das Quartett als Gewinner des IBMA International Band Grant fünf Wochen lang durch die USA. Musikalisch bleiben die vier ihren akustischen Wurzeln treu. Banjo, Mandoline, Gitarre und Kontrabass treffen auf dreistimmigen Gesang und verbinden traditionellen Bluegrass mit zeitgenössischem Folk.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Folk & Bluegrass"
-   ],
-   "categories": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Heels & Bones",
-   "type": "concert",
-   "start": "2026-11-27T19:30",
-   "end": "2026-11-27T22:00",
-   "url": "https://www.tollwood.de/veranstaltungen/2026/heels-bones-2/",
-   "venue": "Tollwood – Hexenkessel",
-   "address": "Theresienwiese, 80336 München",
-   "description": "Rock, Indie & Blues Eine musikalische Zeitreise durch die vergangenen 50 Jahre Rock ’n’ `Roll bietet die Band Heels & Bones. Sie ist jedoch keine gewöhnliche Cover-Band, denn sie interpretiert viele Songs mit ihren eigenen Noten und ihrer tollen Liveperformance.",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Rock, Indie & Blues"
-   ],
-   "categories": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Bud’n’Cellar",
    "type": "concert",

@@ -1,12 +1,12 @@
 {
- "scraped_at": "2026-11-27T12:50:11+00:00",
+ "scraped_at": "2026-11-28T12:02:25+00:00",
  "status": {
   "id": "glockenbachwerkstatt",
   "name": "Glockenbachwerkstatt – Fish'n Blues",
   "url": "https://www.glockenbachwerkstatt.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 29
+  "found": 28
  },
  "events": [
   {
@@ -215,30 +215,6 @@
    "tags": [
     "Fish'n Blues",
     "Konzert"
-   ],
-   "categories": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
-  {
-   "title": "Floating Paradise Session",
-   "type": "concert",
-   "start": "2026-11-27T21:00",
-   "end": null,
-   "url": "https://www.glockenbachwerkstatt.de/events/floating-paradise-session/",
-   "venue": "Glockenbachwerkstatt",
-   "address": "Blumenstraße 7, 80331 München",
-   "description": "Kneipe ab 19 Uhr · kostenlos",
-   "recurrence": null,
-   "dates": [],
-   "tags": [
-    "Konzert",
-    "Session"
    ],
    "categories": [],
    "source_id": "",

@@ -1,35 +1,14 @@
 {
- "scraped_at": "2026-11-27T12:52:36+00:00",
+ "scraped_at": "2026-11-28T12:04:54+00:00",
  "status": {
   "id": "ubo9",
   "name": "UBO 9",
   "url": "https://www.ubo9.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 6
+  "found": 5
  },
  "events": [
-  {
-   "title": "AUSSTELLUNG: das seh ich anders",
-   "type": "other",
-   "start": "2026-11-27T19:00",
-   "end": "2027-01-09T00:00",
-   "url": "https://www.ubo9.de/veranstaltung/das-seh-ich-anders/",
-   "venue": "UBO 9",
-   "address": "Ubostraße 9, 81245 München",
-   "description": "﻿ ﻿ ﻿ Wie unterschiedlich kann derselbe Gedanke aussehen? Mit der Ausstellung „das seh ich anders“ lädt das Münchner Kunstkollektiv Follow the Mango zu einem Experiment über Wahrnehmung, Interpretation und künstlerische Freiheit ein. Ausgangspunkt sind zehn Gedichte des Künstlers Jorin Tiedemann, die von allen sieben Mitgliedern des Kollektivs unabhängig voneinander bearbeitet werden. Aus denselben Texten entstehen vollkommen unterschiedliche Werke – mal malerisch, mal plastisch, mal experimentell. Die Bandbreite der Texte reicht von Feierkultur über philosophische Reflexionen bis hin zu absurder Komik. Entsprechend vielfältig fallen auch die künstlerischen Umsetzungen aus. Neben Malerei kommen unter anderem Collage, Modelliermasse, Drucktechniken, Colapen und weitere experimentelle Verfahren zum Einsatz. Die Gedichte werden gemeinsam mit den entstandenen Arbeiten präsentiert und laden dazu ein, die unterschiedlichen Interpretationen miteinander zu vergleichen. Mitwirkende sind Jorin Tiedemann, Miriam Fassbender, Lorenz Klaus, Ulrich Koprek, Lena Rappert, Laurin Bacher und Constantin Spinner. „das seh ich anders“ ist eine Einladung, die eigene Perspektive zu hinterfragen – und zu entdecken, wie viele Wahrheiten in einem einzigen Text liegen können. Vernissage: Freitag, 27. November 2026, 19–22 Uhr Öffnungszeiten bis 10.Dezember: Di. 10-13 Uhr, Do. 16-19 Uhr Vom 11. Dezember bis 09. Januar nur nach Vereinbarung, bitte E-Mail an m.f.kunst@proton.me Eintritt frei der.DREIMANN ————– Er sitzt immer im Niemandsland. Bewegt sich galant zwischen den Fronten. Er hat schlimm-schön-bunte Kleider an und immer den Horizont im Blick. Er setzt sich neben Extreme, macht es sich im Unbekannten bequem. Er möchte das Leben erleben, doch Vollidioten nehm ihm die Sicht. Er gehört keiner Seite, entweder er mag dich, oder nicht. Manchmal laut und voll Ego, manchmal nachdenklich leise, „das ganze Universum dreht sich um sich…“",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "categories": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Maltreff",
    "type": "concert",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T12:53:33+00:00",
+  "generated_at": "2026-11-28T12:06:17+00:00",
   "events": [
     {
       "title": "Mateo Navarro & Friends",
@@ -3832,7 +3832,7 @@
       "id": "4e657f549678"
     },
     {
-      "title": "Stephan Zinner – Der Teufel, das Mädchen, der Blues und ich",
+      "title": "Stephan Zinner - Der Teufel, das Mädchen, der Blues und ich",
       "type": "concert",
       "start": "2026-12-01T20:00",
       "end": null,
@@ -3979,12 +3979,12 @@
     {
       "title": "Pre-Bluesverschwörungskurs am 03.12.2026",
       "type": "workshop",
-      "start": "2026-12-03T19:00",
-      "end": "2026-12-03T20:30",
+      "start": "2026-12-03T18:30",
+      "end": "2026-12-03T20:00",
       "url": "https://oksana-pavlova.com/aktuelles/pre-bluesverschwoerungskurs-am-03-12-2026/",
       "venue": null,
       "address": null,
-      "description": "💜 Du möchtest Blues tanzen, weißt aber noch nicht, wie? 🎶 Einmal im Monat findet in der Münchner Kongress Bar die legendäre Bluesverschwörung statt – ein Abend voller Musik, Tanz und besonderer Atmosphäre! Du würdest gerne dabei sein, hast aber noch nie Blues getanzt? Dann sind unsere Pre-Bluesverschwörungskurse genau das Richtige für dich! 💃🕺 Vor der nächsten Bluesverschwörung bieten wir einen Crashkurs speziell für Anfänger an. Du lernst die wichtigsten Grundschritte und ein paar schöne Moves, die du direkt danach auf der Tanzfläche ausprobieren kannst! 📍 Der Kurs findet im Vintage-Studio, M",
+      "description": "💜 Du möchtest Blues tanzen, weißt aber noch nicht, wie? 🎶 Einmal im Monat findet in der Münchner Kongress Bar die legendäre Bluesverschwörung statt – ein Abend voller Musik, Tanz und besonderer Atmosphäre! Du würdest gerne dabei sein, hast aber noch nie Blues getanzt? Dann sind unsere Pre-Bluesverschwörungskurse genau das Richtige für dich! 💃🕺 Vor der nächsten Bluesverschwörung bieten wir einen Crashkurs speziell für Anfänger an. Du lernst die wichtigsten Grundschritte und ein paar schöne Moves, die du direkt danach auf der Tanzfläche ausprobieren kannst! 📍 Der Kurs findet im Oksana Swing Danc",
       "recurrence": null,
       "dates": [],
       "tags": [],
@@ -3998,7 +3998,7 @@
       "id": "3ae4357e1471"
     },
     {
-      "title": "Zither-Manä - 46 Jahre - Der ganz normale Wahnsinn",
+      "title": "Zither-Manä – 46 Jahre – Der ganz normale Wahnsinn",
       "type": "other",
       "start": "2026-12-03T19:00",
       "end": null,
@@ -4696,7 +4696,7 @@
       "id": "378d8ae70be3"
     },
     {
-      "title": "13. American Bar Night – „Midlife or Crisis?“ & Friends",
+      "title": "13. American Bar Night - „Midlife or Crisis?“ & Friends",
       "type": "concert",
       "start": "2026-12-19T18:00",
       "end": null,
@@ -4823,7 +4823,7 @@
       "id": "5e5edfb8d418"
     },
     {
-      "title": "Willy Michl – Isarindianer-Weihnacht",
+      "title": "Willy Michl - Isarindianer-Weihnacht",
       "type": "concert",
       "start": "2026-12-25T20:00",
       "end": null,
@@ -5836,7 +5836,7 @@
       "start": "2027-02-27T19:00",
       "end": "2027-02-27T20:30",
       "url": "https://www.in-muenchen.de/events/san2-his-soul-patrol-bergson-kunstkraftwerk-2027.html",
-      "venue": "Bergson Kunstkraftwerk",
+      "venue": "Bergson Kunstkraftwerk / Bergson Elektra Tonquartier",
       "address": "Am Bergson Kunstkraftwerk 2, 81245 München",
       "description": "Der Sänger und Mundharmonika-Spieler verbindet Rhythm & Blues mit Pop und kommt mit seiner Band.",
       "recurrence": null,
@@ -6649,29 +6649,25 @@
       "id": "1ccbf127a0ff"
     },
     {
-      "title": "Franz Offergeld",
+      "title": "Franz Offergeld - Blues, Rags & Swing",
       "type": "concert",
       "start": "2027-05-29T20:00",
       "end": null,
-      "url": "https://www.in-muenchen.de/events/franz-offergeld-schlachthof-2027.html",
-      "venue": "Schlachthof",
-      "address": "Zenettistraße 9, 80337 München",
+      "url": "https://www.mvp.de/muenchen/veranstaltungen/franz-offergeld-blues-rags-swing/",
+      "venue": "Schlachthof - Ku(h)bar",
+      "address": "Zenettistr. 9, 80337 München",
       "description": "Der Münchner Fingerstyle-Gitarrist spielt Ragtime Blues, Swing, Delta Blues und Country, dazu eigene Nummern.",
       "recurrence": null,
       "dates": [],
-      "tags": [
-        "Blues"
-      ],
-      "categories": [
-        "Konzerte"
-      ],
-      "source_id": "inmuenchen",
-      "source_name": "IN München",
+      "tags": [],
+      "categories": [],
+      "source_id": "mvp",
+      "source_name": "mvp.de (Jazz & Blues)",
       "school_name": null,
       "school_url": null,
       "artists": [],
       "known_artists": [],
-      "id": "5171a0231043"
+      "id": "bfa33410ee77"
     },
     {
       "title": "Canned Heat & Ten Years After",
@@ -6999,7 +6995,7 @@
       "kind": "school",
       "status": "ok",
       "found": 61,
-      "updated_at": "2026-11-27T12:49:43+00:00",
+      "updated_at": "2026-11-28T12:01:56+00:00",
       "kept": 14
     },
     {
@@ -7009,7 +7005,7 @@
       "kind": "school",
       "status": "ok",
       "found": 112,
-      "updated_at": "2026-11-27T12:49:48+00:00",
+      "updated_at": "2026-11-28T12:02:01+00:00",
       "kept": 14
     },
     {
@@ -7019,7 +7015,7 @@
       "kind": "school",
       "status": "ok",
       "found": 5,
-      "updated_at": "2026-11-27T12:49:53+00:00",
+      "updated_at": "2026-11-28T12:02:06+00:00",
       "kept": 4
     },
     {
@@ -7028,8 +7024,8 @@
       "url": "https://hepcatclub.com/",
       "kind": "school",
       "status": "ok",
-      "found": 248,
-      "updated_at": "2026-11-27T12:50:06+00:00",
+      "found": 254,
+      "updated_at": "2026-11-28T12:02:18+00:00",
       "kept": 3
     },
     {
@@ -7038,8 +7034,8 @@
       "url": "https://www.glockenbachwerkstatt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 29,
-      "updated_at": "2026-11-27T12:50:11+00:00",
+      "found": 28,
+      "updated_at": "2026-11-28T12:02:25+00:00",
       "kept": 52
     },
     {
@@ -7048,8 +7044,8 @@
       "url": "https://rheinpfalz-schwabing.de/veranstaltungen/",
       "kind": "venue",
       "status": "ok",
-      "found": 17,
-      "updated_at": "2026-11-27T12:50:16+00:00",
+      "found": 16,
+      "updated_at": "2026-11-28T12:02:30+00:00",
       "kept": 8
     },
     {
@@ -7059,7 +7055,7 @@
       "kind": "band",
       "status": "ok",
       "found": 3,
-      "updated_at": "2026-11-27T12:50:18+00:00",
+      "updated_at": "2026-11-28T12:02:32+00:00",
       "kept": 17
     },
     {
@@ -7068,8 +7064,8 @@
       "url": "https://www.unterfahrt.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 68,
-      "updated_at": "2026-11-27T12:50:22+00:00",
+      "found": 67,
+      "updated_at": "2026-11-28T12:02:36+00:00",
       "kept": 2
     },
     {
@@ -7078,8 +7074,8 @@
       "url": "https://www.jazzbar-vogler.com/",
       "kind": "venue",
       "status": "ok",
-      "found": 11,
-      "updated_at": "2026-11-27T12:50:24+00:00",
+      "found": 10,
+      "updated_at": "2026-11-28T12:02:38+00:00",
       "kept": 0
     },
     {
@@ -7089,7 +7085,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 11,
-      "updated_at": "2026-11-27T12:50:25+00:00",
+      "updated_at": "2026-11-28T12:02:39+00:00",
       "kept": 1
     },
     {
@@ -7099,7 +7095,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 8,
-      "updated_at": "2026-11-27T12:50:26+00:00",
+      "updated_at": "2026-11-28T12:02:40+00:00",
       "kept": 0
     },
     {
@@ -7109,7 +7105,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 35,
-      "updated_at": "2026-11-27T12:50:29+00:00",
+      "updated_at": "2026-11-28T12:02:43+00:00",
       "kept": 6
     },
     {
@@ -7118,8 +7114,8 @@
       "url": "https://www.village-habach.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 41,
-      "updated_at": "2026-11-27T12:50:31+00:00",
+      "found": 40,
+      "updated_at": "2026-11-28T12:02:45+00:00",
       "kept": 26
     },
     {
@@ -7128,8 +7124,8 @@
       "url": "https://www.tollwood.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 94,
-      "updated_at": "2026-11-27T12:52:26+00:00",
+      "found": 92,
+      "updated_at": "2026-11-28T12:04:42+00:00",
       "kept": 9
     },
     {
@@ -7139,7 +7135,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 30,
-      "updated_at": "2026-11-27T12:52:26+00:00",
+      "updated_at": "2026-11-28T12:04:42+00:00",
       "kept": 4
     },
     {
@@ -7149,7 +7145,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 12,
-      "updated_at": "2026-11-27T12:52:31+00:00",
+      "updated_at": "2026-11-28T12:04:48+00:00",
       "kept": 0
     },
     {
@@ -7158,8 +7154,8 @@
       "url": "https://www.pasinger-fabrik.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 49,
-      "updated_at": "2026-11-27T12:52:33+00:00",
+      "found": 48,
+      "updated_at": "2026-11-28T12:04:50+00:00",
       "kept": 7
     },
     {
@@ -7169,7 +7165,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 12,
-      "updated_at": "2026-11-27T12:52:34+00:00",
+      "updated_at": "2026-11-28T12:04:51+00:00",
       "kept": 2
     },
     {
@@ -7178,8 +7174,8 @@
       "url": "https://www.ubo9.de/",
       "kind": "venue",
       "status": "ok",
-      "found": 6,
-      "updated_at": "2026-11-27T12:52:36+00:00",
+      "found": 5,
+      "updated_at": "2026-11-28T12:04:54+00:00",
       "kept": 0
     },
     {
@@ -7189,7 +7185,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 9,
-      "updated_at": "2026-11-27T12:52:40+00:00",
+      "updated_at": "2026-11-28T12:04:58+00:00",
       "kept": 0
     },
     {
@@ -7199,7 +7195,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 3,
-      "updated_at": "2026-11-27T12:52:42+00:00",
+      "updated_at": "2026-11-28T12:05:00+00:00",
       "kept": 0
     },
     {
@@ -7209,7 +7205,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 25,
-      "updated_at": "2026-11-27T12:52:46+00:00",
+      "updated_at": "2026-11-28T12:05:05+00:00",
       "kept": 1
     },
     {
@@ -7219,7 +7215,7 @@
       "kind": "venue",
       "status": "ok",
       "found": 3,
-      "updated_at": "2026-11-27T12:52:47+00:00",
+      "updated_at": "2026-11-28T12:05:05+00:00",
       "kept": 1
     },
     {
@@ -7238,9 +7234,9 @@
       "url": "https://www.in-muenchen.de/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 152,
-      "updated_at": "2026-11-27T12:53:02+00:00",
-      "kept": 78
+      "found": 150,
+      "updated_at": "2026-11-28T12:05:46+00:00",
+      "kept": 77
     },
     {
       "id": "mvp",
@@ -7249,8 +7245,8 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 40,
-      "updated_at": "2026-11-27T12:53:09+00:00",
-      "kept": 4
+      "updated_at": "2026-11-28T12:05:55+00:00",
+      "kept": 5
     },
     {
       "id": "muenchen-online-jazz",
@@ -7258,8 +7254,8 @@
       "url": "https://www.muenchen-online.de/jazz/",
       "kind": "aggregator",
       "status": "ok",
-      "found": 206,
-      "updated_at": "2026-11-27T12:53:32+00:00",
+      "found": 199,
+      "updated_at": "2026-11-28T12:06:16+00:00",
       "kept": 6
     },
     {
@@ -7269,7 +7265,7 @@
       "kind": "aggregator",
       "status": "ok",
       "found": 0,
-      "updated_at": "2026-11-27T12:53:33+00:00",
+      "updated_at": "2026-11-28T12:06:16+00:00",
       "kept": 0
     },
     {
@@ -7279,7 +7275,7 @@
       "kind": "manual",
       "status": "ok",
       "found": 0,
-      "updated_at": "2026-11-27T12:53:33+00:00",
+      "updated_at": "2026-11-28T12:06:16+00:00",
       "kept": 0
     }
   ]

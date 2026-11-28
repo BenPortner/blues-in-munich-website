@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-27T12:53:09+00:00",
+ "scraped_at": "2026-11-28T12:05:55+00:00",
  "status": {
   "id": "mvp",
   "name": "mvp.de (Jazz & Blues)",
@@ -9,27 +9,6 @@
   "found": 40
  },
  "events": [
-  {
-   "title": "Nils Landgren 70 - Love of my life - Nils Landgren & Münchner Symphoniker",
-   "type": "concert",
-   "start": "2026-11-27",
-   "end": null,
-   "url": "https://www.mvp.de/muenchen/veranstaltungen/nils-70-love-of-my-life-nils-landgren-muenchner-symphoniker/",
-   "venue": "Isarphilharmonie im Gasteig HP8",
-   "address": null,
-   "description": "",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "categories": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Münchner Jazzsalon: John Coltrane",
    "type": "concert",
@@ -836,6 +815,27 @@
    "url": "https://www.mvp.de/muenchen/veranstaltungen/muenchner-jazzsalon-stan-getz-muenchen/",
    "venue": "Deutsches Theater München / Silbersaal",
    "address": null,
+   "description": "",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "categories": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Franz Offergeld - Blues, Rags & Swing",
+   "type": "concert",
+   "start": "2027-05-29T20:00",
+   "end": null,
+   "url": "https://www.mvp.de/muenchen/veranstaltungen/franz-offergeld-blues-rags-swing/",
+   "venue": "Schlachthof - Ku(h)bar",
+   "address": "Zenettistr. 9, 80337 München",
    "description": "",
    "recurrence": null,
    "dates": [],

@@ -1,35 +1,14 @@
 {
- "scraped_at": "2026-11-27T12:50:31+00:00",
+ "scraped_at": "2026-11-28T12:02:45+00:00",
  "status": {
   "id": "village-habach",
   "name": "Village Habach",
   "url": "https://www.village-habach.de/",
   "kind": "venue",
   "status": "ok",
-  "found": 41
+  "found": 40
  },
  "events": [
-  {
-   "title": "Hattori Hanzi",
-   "type": "concert",
-   "start": "2026-11-27T20:15",
-   "end": null,
-   "url": "https://village-habach.de/programm/?single=b0d1f9449ef067d7c9d8fcffb44440f5",
-   "venue": "Village Habach",
-   "address": "Obermühle 1, 82392 Habach",
-   "description": "Electronic-Punk-Funk Im Zentrum steht der Organist und musikalische Impulsgeber Hansi Enzensperger. Mit Hattori Hanzi präsentiert er die Neuauflage der legendären Organ Explosion,die von München aus auch international für Furore sorgte. Das aktuelle Programm des Ensembles bewegt sich souverän ...",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "categories": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "Village Session und gemütliches Treffen für Alle",
    "type": "concert",

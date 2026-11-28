@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-27T12:50:26+00:00",
+ "scraped_at": "2026-11-28T12:02:40+00:00",
  "status": {
   "id": "kilians",
   "name": "Kilians Irish Pub",
@@ -9,27 +9,6 @@
   "found": 8
  },
  "events": [
-  {
-   "title": "The Movement",
-   "type": "concert",
-   "start": "2026-11-27T21:00",
-   "end": "2026-11-28T00:30",
-   "url": "https://reservierung.heyrosi.de/event/kilians-irish-pub/the-movement",
-   "venue": "Kilians Irish Pub",
-   "address": "Frauenplatz 11, 80331 München",
-   "description": "bekannte Rock & Pop Songs der letzten 3 Jahrzehnte",
-   "recurrence": null,
-   "dates": [],
-   "tags": [],
-   "categories": [],
-   "source_id": "",
-   "source_name": "",
-   "school_name": null,
-   "school_url": null,
-   "artists": [],
-   "known_artists": [],
-   "id": ""
-  },
   {
    "title": "The Billy Cat Rumblers",
    "type": "concert",
@@ -165,6 +144,27 @@
    "venue": "Kilians Irish Pub",
    "address": "Frauenplatz 11, 80331 München",
    "description": "Singer-Songwriter with an Impressive Repertoire of Formidable Songs",
+   "recurrence": null,
+   "dates": [],
+   "tags": [],
+   "categories": [],
+   "source_id": "",
+   "source_name": "",
+   "school_name": null,
+   "school_url": null,
+   "artists": [],
+   "known_artists": [],
+   "id": ""
+  },
+  {
+   "title": "Declan Rynne",
+   "type": "concert",
+   "start": "2026-12-09T21:00",
+   "end": "2026-12-10T00:30",
+   "url": "https://reservierung.heyrosi.de/event/kilians-irish-pub/declan-rynne-2",
+   "venue": "Kilians Irish Pub",
+   "address": "Frauenplatz 11, 80331 München",
+   "description": "präsentiert sowohl Irish Folk als auch klassische Rocksongs. Mitsingstimmung garantiert!",
    "recurrence": null,
    "dates": [],
    "tags": [],
